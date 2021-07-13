@@ -13,6 +13,10 @@ sdg_colors <- data.frame(
             '#3F7E44', '#0A97D9', '#56C02B', '#00689D', '#19486A')
 )
 
+# Load SDSN keywords
+sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv")
+
 # Use datasets
 usethis::use_data(elsevier_keywords, overwrite = TRUE)
+usethis::use_data(sdsn_keywords, overwrite = TRUE)
 usethis::use_data(sdg_colors, overwrite = TRUE)
