@@ -3,7 +3,8 @@
 library(tidyverse)
 
 # Load Elsevier keywords
-elsevier_keywords <- read_csv("datasets/elsevier_keywords.csv")
+elsevier_keywords <- read_csv("datasets/elsevier_keywords.csv") %>%
+  select(goal, keyword, weight, color)
 
 # Load UN SDG color scheme
 sdg_colors <- data.frame(
@@ -14,9 +15,11 @@ sdg_colors <- data.frame(
 )
 
 # Load SDSN keywords
-sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv")
+sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv") %>%
+  select(goal, keyword, weight, color)
+# write.csv(sdsn_keywords, "datasets/sdsn_keywords.csv", row.names = FALSE)
 
 # Use datasets
 usethis::use_data(elsevier_keywords, overwrite = TRUE)
-usethis::use_data(sdsn_keywords, overwrite = TRUE)
 usethis::use_data(sdg_colors, overwrite = TRUE)
+usethis::use_data(sdsn_keywords, overwrite = TRUE)
