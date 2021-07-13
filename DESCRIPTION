@@ -11,3 +11,5 @@ Description: R functions to aid in the initative in mapping to the United Nation
 License: MIT License
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    R (>= 2.10)
