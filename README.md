@@ -8,7 +8,10 @@
 
 The goal of `SDGmapR` is to provide an open-source foundation for the
 systematic mapping to the United Nations Sustainable Development Goals
-(SDGs).
+(SDGs). In this R package are popular publicly available SDG keyword
+datasets in the `tidy` data format for use in data anaylsis, the United
+Nations Official SDG color scheme, and several functions related to the
+mapping of text to particular sets of keywords.
 
 ## Installation
 
@@ -25,18 +28,18 @@ devtools::install_github("pwu97/SDGmapR")
 The table below lists publicly available SDG keywords that have been
 published online. Some of the lists have weights associated with every
 keyword, while some do not. For the purposes of the `SDGmapR` package,
-we will assign an equal to every word if not weights are given.
+we will assign an equal weight of 1.0 to every word if weights are not
+given.
 
-| Source                    | Link                                                                                           |
-|:--------------------------|:-----------------------------------------------------------------------------------------------|
-| Elsevier Queries          | <https://data.mendeley.com/datasets/87txkw7khs/1>                                              |
-| Improved Elsevier Queries | <https://data.mendeley.com/datasets/9sxdykm8s4/2>                                              |
-| SDSN                      | <https://ap-unsdsn.org/regional-initiatives/universities-sdgs/>                                |
-| University of Auckland    | <https://www.sdgmapping.auckland.ac.nz/>                                                       |
-| University of Leicester   | <https://leicester.figshare.com/articles/dataset/SDG_Research_Publication_Keywords/12839519/1> |
-| University of Toronto     | <https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/>       |
+| Source                                                                                                          | Dataset              |
+|:----------------------------------------------------------------------------------------------------------------|:---------------------|
+| [Elsevier](https://data.mendeley.com/datasets/87txkw7khs/1)                                                     |                      |
+| [Improved Elsevier](https://data.mendeley.com/datasets/9sxdykm8s4/2)                                            | `elsevier2_keywords` |
+| [SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)                                           | `sdsn_keywords`      |
+| [University of Auckland](https://www.sdgmapping.auckland.ac.nz/)                                                | `auckland_keywords`  |
+| [University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/) | `toronto_keywords`   |
 
-## Functions
+## Example SDGMapR Usage
 
 <!-- What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so: -->
 <!-- ```{r cars} -->
