@@ -47,7 +47,7 @@ sdg_table <- data.frame(
                "[SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)", 
                "[University of Auckland](https://www.sdgmapping.auckland.ac.nz/)", "[University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/)"),
   "Dataset" = c("",
-             "`elsevier2_keywords`",
+             "`elsevier100_keywords`",
              "`sdsn_keywords`",
              "`auckland_keywords`",
              "`toronto_keywords`")
