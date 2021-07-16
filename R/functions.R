@@ -1,6 +1,19 @@
 library(tidyverse)
 
-count_goal <- Vectorize(function(text, goal_num, keywords="elsevier2",
+#' @title Count SDG keywords in a given text
+#'
+#' @description Determine the total weights of all SDG keywords that exist in a given text
+#' for a given goal.
+#'
+#' @param text The target text to check SDG keywords
+#' @param goal_num The SDG goal we intend to check keywords for
+#' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
+#' @param count_repeats Whether or not to count repeats for the keywords
+#'
+#' @examples
+#' count_goal("Poverty entails more than the lack of income and productive resources
+#' to ensure sustainable livelihoods.", 1)
+count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2",
                        count_repeats=FALSE) {
     # Initalize total weight
     tot_weight <- 0
@@ -20,9 +33,9 @@ count_goal <- Vectorize(function(text, goal_num, keywords="elsevier2",
 
     # Add up the keyword weights
     for (idx in 1:nrow(goal_df)) {
-      if (str_detect(text, paste0("\\b", goal_keywords[idx], "\\b"))) {
+      if (str_detect(text, goal_keywords[idx])) {
         if (count_repeats) {
-          keyword_cnt <- str_count(text, paste0("\\b", goal_keywords[idx], "\\b"))
+          keyword_cnt <- str_count(text, goal_keywords[idx])
           tot_weight <- tot_weight + keyword_cnt * goal_weights[idx]
         } else {
           tot_weight <- tot_weight + goal_weights[idx]
@@ -33,8 +46,12 @@ count_goal <- Vectorize(function(text, goal_num, keywords="elsevier2",
     return (as.numeric(tot_weight))
 })
 
-count_goals <- function(text, keywords="elsevier2",
+count_sdgs_keywords <- function(text, keywords="elsevier2",
                        count_repeats=FALSE) {
   tot_weight <- 0
+  for (goal in 1:16) {
+    tot_weight <- tot_weight + count_sdg_keywords(text, goal, keywords,
+                                                  count_repeats)
+  }
   return (as.numeric(tot_weight))
 }

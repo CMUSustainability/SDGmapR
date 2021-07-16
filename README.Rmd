@@ -19,9 +19,8 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 The goal of `SDGmapR` is to provide an open-source foundation for the systematic mapping
-to the United Nations Sustainable Development Goals (SDGs). In this R package are popular
-publicly available SDG keyword datasets in the `tidy` data format for use in data anaylsis,
-the United Nations Official SDG color scheme, and several functions related to the
+to the United Nations Sustainable Development Goals (SDGs). In this R package one can find publicly available SDG keyword datasets in the `tidy` data format,
+the [2019 UN Official SDG color scheme](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf), and several functions related to the
 mapping of text to particular sets of keywords.
 
 ## Installation
@@ -37,7 +36,7 @@ devtools::install_github("pwu97/SDGmapR")
 
 The table below lists publicly available SDG keywords that have been published online. Some
 of the lists have weights associated with every keyword, while some do not. For the purposes
-of the `SDGmapR` package, we will assign an equal weight of 1.0 to every word if weights are not given.
+of the `SDGmapR` package, we will assign an equal weight of 1.0 to every word if weights are not given. Note that some datasets cover SDG 17, while some do not.
 
 ```{r, echo=FALSE, example}
 library(knitr)
@@ -47,15 +46,36 @@ sdg_table <- data.frame(
                "[SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)", 
                "[University of Auckland](https://www.sdgmapping.auckland.ac.nz/)", "[University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/)"),
   "Dataset" = c("",
-             "`elsevier100_keywords`",
+             "`elsevier2_keywords`",
              "`sdsn_keywords`",
              "`auckland_keywords`",
-             "`toronto_keywords`")
+             "`toronto_keywords`"),
+  "CSV" = c("", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords.csv)", "", ""),
+  "SDG_17" = c("NO", "NO", "YES", "YES", "YES")
 )
 kable(sdg_table)
 ```
 
 ## Example SDGMapR Usage
+
+```{r}
+library(tidyverse)
+library(SDGmapR)
+
+# Load first 100 #tidytuesday tweets
+tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
+  head(100)
+
+# Map to SDG 1
+tweets %>%
+  mutate(sdg_1_weight = count_sdg_keywords(text, 1)) %>%
+  select(text, sdg_1_weight)
+
+# Map to all SDGs
+tweets %>%
+  mutate(`sdg_total_weight` = count_sdgs_keywords(text)) %>%
+  select(text, sdg_total_weight)
+```
 
 
 <!-- What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so: -->

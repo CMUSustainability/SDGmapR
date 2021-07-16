@@ -19,6 +19,10 @@ sdg_colors <- data.frame(
 sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv") %>%
   select(goal, keyword, weight, color)
 
+# Load Core Elsevier keywords
+elsevier_keywords <- data.frame() %>%
+  left_join(sdg_colors, by = "goal")
+
 # Use datasets
 usethis::use_data(elsevier2_keywords, overwrite = TRUE)
 usethis::use_data(sdg_colors, overwrite = TRUE)
