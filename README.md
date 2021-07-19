@@ -32,69 +32,68 @@ keyword, while some do not. For the purposes of the `SDGmapR` package,
 we will assign an equal weight of 1.0 to every word if weights are not
 given. Note that some datasets cover SDG 17, while some do not.
 
-| Source                                                                                                          | Dataset              | CSV                                                                               | SDG\_17 |
-|:----------------------------------------------------------------------------------------------------------------|:---------------------|:----------------------------------------------------------------------------------|:--------|
-| [Elsevier](https://data.mendeley.com/datasets/87txkw7khs/1)                                                     |                      |                                                                                   | NO      |
-| [Improved Elsevier](https://data.mendeley.com/datasets/9sxdykm8s4/2)                                            | `elsevier2_keywords` | [Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords.csv) | NO      |
-| [SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)                                           | `sdsn_keywords`      | [Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords.csv)     | YES     |
-| [University of Auckland](https://www.sdgmapping.auckland.ac.nz/)                                                | `auckland_keywords`  |                                                                                   | YES     |
-| [University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/) | `toronto_keywords`   |                                                                                   | YES     |
+| Source                                                                                                          | Dataset              | CSV                                                                               | SDG17 |
+|:----------------------------------------------------------------------------------------------------------------|:---------------------|:----------------------------------------------------------------------------------|:------|
+| [Core Elsevier](https://data.mendeley.com/datasets/87txkw7khs/1)                                                | `elsevier_keywords`  |                                                                                   | No    |
+| [Improved Elsevier Top 100](https://data.mendeley.com/datasets/9sxdykm8s4/2)                                    | `elsevier2_keywords` | [Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords.csv) | No    |
+| [SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)                                           | `sdsn_keywords`      | [Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords.csv)     | Yes   |
+| [University of Auckland](https://www.sdgmapping.auckland.ac.nz/)                                                | `auckland_keywords`  |                                                                                   | Yes   |
+| [University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/) | `toronto_keywords`   |                                                                                   | Yes   |
 
 ## Example SDGMapR Usage
 
 ``` r
 library(tidyverse)
-#> ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──
-#> ✓ ggplot2 3.3.3     ✓ purrr   0.3.4
-#> ✓ tibble  3.1.0     ✓ dplyr   1.0.5
-#> ✓ tidyr   1.1.3     ✓ stringr 1.4.0
-#> ✓ readr   1.4.0     ✓ forcats 0.5.1
-#> ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-#> x dplyr::filter() masks stats::filter()
-#> x dplyr::lag()    masks stats::lag()
 library(SDGmapR)
 
 # Load first 100 #tidytuesday tweets
 tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
-  head(100)
+  head(1000)
 
-# Map to SDG 1
+# Map to SDG 1 using Improved Elsevier Top 100 keywords
 tweets %>%
   mutate(sdg_1_weight = count_sdg_keywords(text, 1)) %>%
-  select(text, sdg_1_weight)
-#> # A tibble: 100 x 2
+  select(text, sdg_1_weight) %>%
+  arrange(desc(sdg_1_weight))
+#> # A tibble: 1,000 x 2
 #>    text                                                             sdg_1_weight
 #>    <chr>                                                                   <dbl>
-#>  1 "#tidytuesday getting back into the keywords game this week wit…         5.45
-#>  2 "#tidytuesday despite what they say NY hotdog stands have some …         0   
-#>  3 "I realize it's a Sunday night but I wasn't too happy with my l…         0   
-#>  4 "@thomas_mock Maybe a shorter one line subtitle, like \"Weekly …         3.53
-#>  5 "#BeckyG #TidyTuesday https://t.co/2gMf6QLVz1"                           0   
-#>  6 "#ArianaGrande #thankunext #TidyTuesday https://t.co/2g3ZrEbZIL"         0   
-#>  7 "The @R4DScommunity welcomes you to week 38 of #TidyTuesday!  W…         0   
-#>  8 "#r4ds community, please vote on a #TidyTuesday hex-sticker! \n…         0   
-#>  9 "The @R4DScommunity welcomes you to week 37 of #TidyTuesday!  W…         0   
-#> 10 "@jschwabish @jsonbaik @awunderground Hey @jschwabish this is a…         3.53
-#> # … with 90 more rows
+#>  1 "#TidyTuesday #rstats my latest tidy tuesday submission first m…         33.2
+#>  2 "#TidyTuesday - average income by state &amp; percent of people…         29.5
+#>  3 "#TidyTuesday changed state selection method! avg county income…         26.6
+#>  4 "For this week's #TidyTuesday I decided to go to the point and …         24.3
+#>  5 "My first #TidyTuesday submission! Investigating college major …         20.8
+#>  6 "1/2 For  #tidytuesday week 29, I was interested in unemploymen…         17.5
+#>  7 "#TidyTuesday I see many similar approaches. I first looked at …         15.6
+#>  8 "#tidytuesday week 29\nBusiness major gives highest employment …         15.2
+#>  9 "Do graduates from niche fields suffer from less unemployment? …         15.2
+#> 10 "It's #TidyTuesday ! After only five days of learning R, PODS f…         11.3
+#> # … with 990 more rows
 
-# Map to all SDGs
+# Map to SDG 1 using Elsevier Core keywords
 tweets %>%
-  mutate(`sdg_total_weight` = count_sdgs_keywords(text)) %>%
-  select(text, sdg_total_weight)
-#> # A tibble: 100 x 2
-#>    text                                                         sdg_total_weight
+  mutate(sdg_1_weight = count_sdg_keywords(text, 1, "elsevier")) %>%
+  select(text, sdg_1_weight) %>%
+  arrange(desc(sdg_1_weight))
+#> # A tibble: 1,000 x 2
+#>    text                                                             sdg_1_weight
 #>    <chr>                                                                   <dbl>
-#>  1 "#tidytuesday getting back into the keywords game this week…            73.2 
-#>  2 "#tidytuesday despite what they say NY hotdog stands have s…             8.1 
-#>  3 "I realize it's a Sunday night but I wasn't too happy with …            11.8 
-#>  4 "@thomas_mock Maybe a shorter one line subtitle, like \"Wee…            11.2 
-#>  5 "#BeckyG #TidyTuesday https://t.co/2gMf6QLVz1"                           0   
-#>  6 "#ArianaGrande #thankunext #TidyTuesday https://t.co/2g3ZrE…             0   
-#>  7 "The @R4DScommunity welcomes you to week 38 of #TidyTuesday…             5.63
-#>  8 "#r4ds community, please vote on a #TidyTuesday hex-sticker…             0   
-#>  9 "The @R4DScommunity welcomes you to week 37 of #TidyTuesday…             0   
-#> 10 "@jschwabish @jsonbaik @awunderground Hey @jschwabish this …             7.24
-#> # … with 90 more rows
+#>  1 "#TidyTuesday changed state selection method! avg county income…            2
+#>  2 "#TidyTuesday - average income by state &amp; percent of people…            2
+#>  3 "#TidyTuesday #rstats my latest tidy tuesday submission first m…            2
+#>  4 "For my #tidytuesday take 2, I tried to do a little bit of mode…            1
+#>  5 "#TidyTuesday submission for last week (oops) showing the Gende…            1
+#>  6 "#TidyTuesday I see many similar approaches. I first looked at …            1
+#>  7 "#TidyTuesday Week 29 - College Majors &amp; Income\n\nVisualiz…            1
+#>  8 "Income for recent college grads #TidyTuesday \n\ncode: https:/…            1
+#>  9 "#TidyTuesday #r4ds @thomas_mock \nHow do genders compare as wo…            1
+#> 10 "#TidyTuesday #r4ds #rstats #take2 @thomas_mock Examination of …            1
+#> # … with 990 more rows
+
+# Map to all SDGs using Elsevier Top 100
+# tweets %>%
+#   mutate(sdg_total_weight = count_sdgs_keywords(text)) %>%
+#   select(text, sdg_total_weight)
 ```
 
 <!-- What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so: -->

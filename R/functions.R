@@ -25,6 +25,9 @@ count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2",
     } else if (keywords == "sdsn") {
       goal_df <- sdsn_keywords %>%
         filter(goal == goal_num)
+    } else if (keywords == "elsevier") {
+      goal_df <- elsevier_keywords %>%
+        filter(goal == goal_num)
     }
 
     # Get the keywords and weights
@@ -33,9 +36,9 @@ count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2",
 
     # Add up the keyword weights
     for (idx in 1:nrow(goal_df)) {
-      if (str_detect(text, goal_keywords[idx])) {
+      if (str_detect(str_to_lower(text), goal_keywords[idx])) {
         if (count_repeats) {
-          keyword_cnt <- str_count(text, goal_keywords[idx])
+          keyword_cnt <- str_count(str_to_lower(text), goal_keywords[idx])
           tot_weight <- tot_weight + keyword_cnt * goal_weights[idx]
         } else {
           tot_weight <- tot_weight + goal_weights[idx]
@@ -50,7 +53,7 @@ count_sdgs_keywords <- function(text, keywords="elsevier2",
                        count_repeats=FALSE) {
   tot_weight <- 0
   for (goal in 1:16) {
-    tot_weight <- tot_weight + count_sdg_keywords(text, goal, keywords,
+    tot_weight <- tot_weight + count_sdg_keywords(str_to_lower(text), goal, keywords,
                                                   count_repeats)
   }
   return (as.numeric(tot_weight))
