@@ -66,11 +66,20 @@ library(SDGmapR)
 tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
   head(1000)
 
-# Map to SDG 1 using Improved Elsevier Top 100 keywords
-tweets %>%
+# Map to SDG 1 using Improved Elsevier Top 100 Keywords
+tweets_sdg1 <- tweets %>%
   mutate(sdg_1_weight = count_sdg_keywords(text, 1)) %>%
-  select(text, sdg_1_weight) %>%
   arrange(desc(sdg_1_weight))
+
+# View SDG 1 mapping
+tweets_sdg1 %>%
+  select(text, sdg_1_weight)
+
+# View Top SDG 1 Tweet
+tweets_sdg1 %>%
+  head(1) %>%
+  select(text) %>%
+  pull()
 
 # Map to SDG 1 using Elsevier Core keywords
 tweets %>%

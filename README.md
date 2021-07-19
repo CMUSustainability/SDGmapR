@@ -50,11 +50,14 @@ library(SDGmapR)
 tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
   head(1000)
 
-# Map to SDG 1 using Improved Elsevier Top 100 keywords
-tweets %>%
+# Map to SDG 1 using Improved Elsevier Top 100 Keywords
+tweets_sdg1 <- tweets %>%
   mutate(sdg_1_weight = count_sdg_keywords(text, 1)) %>%
-  select(text, sdg_1_weight) %>%
   arrange(desc(sdg_1_weight))
+
+# View SDG 1 mapping
+tweets_sdg1 %>%
+  select(text, sdg_1_weight)
 #> # A tibble: 1,000 x 2
 #>    text                                                             sdg_1_weight
 #>    <chr>                                                                   <dbl>
@@ -69,6 +72,13 @@ tweets %>%
 #>  9 "Do graduates from niche fields suffer from less unemployment? …         15.2
 #> 10 "It's #TidyTuesday ! After only five days of learning R, PODS f…         11.3
 #> # … with 990 more rows
+
+# View Top SDG 1 Tweet
+tweets_sdg1 %>%
+  head(1) %>%
+  select(text) %>%
+  pull()
+#> [1] "#TidyTuesday #rstats my latest tidy tuesday submission first my first violin plot looking at self employed % in a number of states. Second child poverty rate against income per cap. Stay tuned for blog post trying to understand why Puerto Rico is so Poor https://t.co/PIe7HNKcxP"
 
 # Map to SDG 1 using Elsevier Core keywords
 tweets %>%
