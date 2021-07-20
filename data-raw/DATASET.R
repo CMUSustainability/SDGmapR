@@ -27,12 +27,10 @@ elsevier_keywords <- rbind(elsevier_keywords_goal1) %>%
 
 # Load Elsevier Top 100 keywords
 elsevier100_keywords <- read_csv("datasets/elsevier100_keywords.csv") %>%
-  mutate(keyword = paste0("\\b", keyword, "\\b")) %>%
   select(goal, keyword, weight, color)
 
 # Load SDSN keywords
 sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv") %>%
-  mutate(keyword = paste0("\\b", keyword, "\\b")) %>%
   select(goal, keyword, weight, color)
 
 # Load Core Elsevier keywords

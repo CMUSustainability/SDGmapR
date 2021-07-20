@@ -63,35 +63,35 @@ tweets_sdg1 %>%
 #> # A tibble: 1,000 x 3
 #>    text                                                 sdg_1_weight sdg_1_words
 #>    <chr>                                                       <dbl> <named lis>
-#>  1 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 <chr [3]>  
-#>  2 "#TidyTuesday - average income by state &amp; perce…         29.5 <chr [3]>  
-#>  3 "#TidyTuesday changed state selection method! avg c…         26.6 <chr [2]>  
-#>  4 "For this week's #TidyTuesday I decided to go to th…         24.3 <chr [4]>  
-#>  5 "My first #TidyTuesday submission! Investigating co…         20.8 <chr [3]>  
-#>  6 "1/2 For  #tidytuesday week 29, I was interested in…         17.5 <chr [3]>  
-#>  7 "#TidyTuesday I see many similar approaches. I firs…         15.6 <chr [3]>  
-#>  8 "#tidytuesday week 29\nBusiness major gives highest…         15.2 <chr [2]>  
-#>  9 "Do graduates from niche fields suffer from less un…         15.2 <chr [2]>  
-#> 10 "It's #TidyTuesday ! After only five days of learni…         11.3 <chr [3]>  
+#>  1 "#TidyTuesday #rstats my latest tidy tuesday submis…        33.2  <chr [3]>  
+#>  2 "#TidyTuesday - average income by state &amp; perce…        29.5  <chr [3]>  
+#>  3 "#TidyTuesday changed state selection method! avg c…        26.6  <chr [2]>  
+#>  4 "#tidytuesday week 29\nBusiness major gives highest…        15.2  <chr [2]>  
+#>  5 "For this week's #TidyTuesday I decided to go to th…        14.2  <chr [2]>  
+#>  6 "My first #TidyTuesday submission! Investigating co…        14.2  <chr [2]>  
+#>  7 "#TidyTuesday Submission for this week showing dist…         9.34 <chr [2]>  
+#>  8 "In honor of spurious correlations (also to practic…         8.73 <chr [2]>  
+#>  9 "Do graduates from niche fields suffer from less un…         8.65 <chr [1]>  
+#> 10 "1/2 For  #tidytuesday week 29, I was interested in…         8.65 <chr [1]>  
 #> # … with 990 more rows
 
-# View SDG 1 Keywords
+# View SDG 1 matched keywords
 tweets_sdg1 %>%
   unnest(sdg_1_words)
-#> # A tibble: 340 x 3
-#>    text                                                 sdg_1_weight sdg_1_words
-#>    <chr>                                                       <dbl> <chr>      
-#>  1 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 poverty    
-#>  2 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 poor       
-#>  3 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 income     
-#>  4 "#TidyTuesday - average income by state &amp; perce…         29.5 poverty    
-#>  5 "#TidyTuesday - average income by state &amp; perce…         29.5 income     
-#>  6 "#TidyTuesday - average income by state &amp; perce…         29.5 people     
-#>  7 "#TidyTuesday changed state selection method! avg c…         26.6 poverty    
-#>  8 "#TidyTuesday changed state selection method! avg c…         26.6 income     
-#>  9 "For this week's #TidyTuesday I decided to go to th…         24.3 unemployme…
-#> 10 "For this week's #TidyTuesday I decided to go to th…         24.3 employment 
-#> # … with 330 more rows
+#> # A tibble: 100 x 3
+#>    text                                            sdg_1_weight sdg_1_words     
+#>    <chr>                                                  <dbl> <chr>           
+#>  1 "#TidyTuesday #rstats my latest tidy tuesday s…         33.2 "\\bpoverty\\b" 
+#>  2 "#TidyTuesday #rstats my latest tidy tuesday s…         33.2 "\\bpoor\\b"    
+#>  3 "#TidyTuesday #rstats my latest tidy tuesday s…         33.2 "\\bincome\\b"  
+#>  4 "#TidyTuesday - average income by state &amp; …         29.5 "\\bpoverty\\b" 
+#>  5 "#TidyTuesday - average income by state &amp; …         29.5 "\\bincome\\b"  
+#>  6 "#TidyTuesday - average income by state &amp; …         29.5 "\\bpeople\\b"  
+#>  7 "#TidyTuesday changed state selection method! …         26.6 "\\bpoverty\\b" 
+#>  8 "#TidyTuesday changed state selection method! …         26.6 "\\bincome\\b"  
+#>  9 "#tidytuesday week 29\nBusiness major gives hi…         15.2 "\\bunemploymen…
+#> 10 "#tidytuesday week 29\nBusiness major gives hi…         15.2 "\\bemployment\…
+#> # … with 90 more rows
 
 # View Top SDG 1 Tweet
 tweets_sdg1 %>%

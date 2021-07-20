@@ -77,7 +77,7 @@ tweets_sdg1 <- tweets %>%
 tweets_sdg1 %>%
   select(text, sdg_1_weight, sdg_1_words)
 
-# View SDG 1 Keywords
+# View SDG 1 matched keywords
 tweets_sdg1 %>%
   unnest(sdg_1_words)
 

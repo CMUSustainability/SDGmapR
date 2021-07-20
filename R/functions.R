@@ -21,8 +21,8 @@ count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2",
     tot_weight <- 0
 
     # Select the right keyword set
-    if (keywords == "elsevier2") {
-      goal_df <- elsevier2_keywords %>%
+    if (keywords == "elsevier100") {
+      goal_df <- elsevier100_keywords %>%
         filter(goal == goal_num)
     } else if (keywords == "sdsn") {
       goal_df <- sdsn_keywords %>%
@@ -96,8 +96,8 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2"
                                          count_repeats=FALSE) {
 
   # Select the right keyword set
-  if (keywords == "elsevier2") {
-    goal_df <- elsevier2_keywords %>%
+  if (keywords == "elsevier100") {
+    goal_df <- elsevier100_keywords %>%
       filter(goal == goal_num)
   } else if (keywords == "sdsn") {
     goal_df <- sdsn_keywords %>%
