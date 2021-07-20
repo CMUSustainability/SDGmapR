@@ -68,12 +68,18 @@ tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/mast
 
 # Map to SDG 1 using Improved Elsevier Top 100 Keywords
 tweets_sdg1 <- tweets %>%
-  mutate(sdg_1_weight = count_sdg_keywords(text, 1)) %>%
-  arrange(desc(sdg_1_weight))
+  mutate(sdg_1_weight = count_sdg_keywords(text, 1),
+         sdg_1_words = tabulate_sdg_keywords(text, 1)) %>%
+  arrange(desc(sdg_1_weight)) %>%
+  select(text, sdg_1_weight, sdg_1_words)
 
 # View SDG 1 mapping
 tweets_sdg1 %>%
-  select(text, sdg_1_weight)
+  select(text, sdg_1_weight, sdg_1_words)
+
+# View SDG 1 Keywords
+tweets_sdg1 %>%
+  unnest(sdg_1_words)
 
 # View Top SDG 1 Tweet
 tweets_sdg1 %>%
