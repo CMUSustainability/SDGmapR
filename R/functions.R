@@ -15,7 +15,7 @@ library(tidyverse)
 #' @examples
 #' count_goal("Poverty entails more than the lack of income and productive resources
 #' to ensure sustainable livelihoods.", 1)
-count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2",
+count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier100",
                        count_repeats=FALSE) {
     # Initalize total weight
     tot_weight <- 0
@@ -92,7 +92,7 @@ count_sdgs_keywords <- function(text, keywords="elsevier2",
 #' @examples
 #' tabulate_sdg_keywords("Poverty entails more than the lack of income and productive resources
 #' to ensure sustainable livelihoods.", 1)
-tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier2",
+tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier100",
                                          count_repeats=FALSE) {
 
   # Select the right keyword set

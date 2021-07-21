@@ -46,7 +46,7 @@ sdg_table <- data.frame(
                "[SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)", 
                "[University of Auckland](https://www.sdgmapping.auckland.ac.nz/)", "[University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/)"),
   "Dataset" = c("`elsevier_keywords`",
-             "`elsevier2_keywords`",
+             "`elsevier100_keywords`",
              "`sdsn_keywords`",
              "`auckland_keywords`",
              "`toronto_keywords`"),
@@ -81,7 +81,7 @@ tweets_sdg1 %>%
 tweets_sdg1 %>%
   unnest(sdg_1_words)
 
-# View Top SDG 1 Tweet
+# View Top SDG 1 tweet
 tweets_sdg1 %>%
   head(1) %>%
   select(text) %>%

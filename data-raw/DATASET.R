@@ -31,6 +31,7 @@ elsevier100_keywords <- read_csv("datasets/elsevier100_keywords.csv") %>%
 
 # Load SDSN keywords
 sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv") %>%
+  mutate(keyword = str_replace(keyword, "/", "|")) %>%
   select(goal, keyword, weight, color)
 
 # Load Core Elsevier keywords
