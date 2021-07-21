@@ -1,0 +1,2427 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+8,employment,33,True,5.43,179.19
+8,unemployment,26,True,4.15,107.9
+8,economic,25,True,9.2,229.99999999999997
+8,global warming,24,True,4.67,112.08
+8,economy,20,,4.1,82.0
+8,employers,20,,4.1,82.0
+8,renewable energy,19,,4.1,77.89999999999999
+8,job,18,True,5.39,97.02
+8,inflation,18,,4.1,73.8
+8,productivity,17,True,14.08,239.36
+8,climate change,17,True,11.59,197.03
+8,wages,17,,4.1,69.69999999999999
+8,mortgage,17,,4.1,69.69999999999999
+8,environmental,15,True,5.61,84.15
+8,loans,15,True,4.74,71.10000000000001
+8,jobless,15,,4.1,61.49999999999999
+8,jobs,15,,4.1,61.49999999999999
+8,pollution,15,,4.1,61.49999999999999
+8,lending,15,,4.1,61.49999999999999
+8,economies,14,,4.1,57.39999999999999
+8,incomes,14,,4.1,57.39999999999999
+8,payroll,14,,4.1,57.39999999999999
+8,payrolls,14,,4.1,57.39999999999999
+8,loan,14,,4.1,57.39999999999999
+8,labor,13,True,9.89,128.57
+8,credit,13,True,5.34,69.42
+8,climate,13,,4.1,53.3
+8,wage,13,,4.1,53.3
+8,economists,12,,4.1,49.199999999999996
+8,poverty,12,,4.1,49.199999999999996
+8,workforce,12,,4.1,49.199999999999996
+8,employer,12,,4.1,49.199999999999996
+8,workplace,12,,4.1,49.199999999999996
+8,lenders,12,,4.1,49.199999999999996
+8,refinancing,12,,4.1,49.199999999999996
+8,financial,11,True,4.87,53.57
+8,recession,11,,4.1,45.099999999999994
+8,job seekers,11,,4.1,45.099999999999994
+8,unemployed,11,,4.1,45.099999999999994
+8,emissions,11,,4.1,45.099999999999994
+8,borrowers,11,,4.1,45.099999999999994
+8,mortgages,11,,4.1,45.099999999999994
+8,economic growth,10,True,22.63,226.29999999999998
+8,manufacturing,10,True,4.4,44.0
+8,business,10,,4.1,41.0
+8,investment,10,,4.1,41.0
+8,globalization,10,,4.1,41.0
+8,jobless rate,10,,4.1,41.0
+8,unemployment rate,10,,4.1,41.0
+8,ecological,10,,4.1,41.0
+8,jobless claims,10,,4.1,41.0
+8,liquidity,10,,4.1,41.0
+8,debt,10,,4.1,41.0
+8,receivables,10,,4.1,41.0
+8,lender,10,,4.1,41.0
+8,growth,9,True,6.36,57.24
+8,gdp,9,,4.1,36.9
+8,finance,9,,4.1,36.9
+8,salary,9,,4.1,36.9
+8,ecology,9,,4.1,36.9
+8,deflation,9,,4.1,36.9
+8,currency,9,,4.1,36.9
+8,foreclosures,9,,4.1,36.9
+8,issuers,9,,4.1,36.9
+8,financing,9,,4.1,36.9
+8,banking,9,,4.1,36.9
+8,underwriting,9,,4.1,36.9
+8,economic development,8,True,28.09,224.72
+8,economically,8,True,4.23,33.84
+8,monetary policy,8,,4.1,32.8
+8,biofuel,8,,4.1,32.8
+8,staffing,8,,4.1,32.8
+8,careers,8,,4.1,32.8
+8,biodiversity,8,,4.1,32.8
+8,finances,8,,4.1,32.8
+8,infrastructure,8,,4.1,32.8
+8,salaries,8,,4.1,32.8
+8,worker,8,,4.1,32.8
+8,employee,8,,4.1,32.8
+8,foreclosure,8,,4.1,32.8
+8,sustainability,8,,4.1,32.8
+8,conservation,8,,4.1,32.8
+8,refinance,8,,4.1,32.8
+8,sustainable development,7,True,13.38,93.66000000000001
+8,economics,7,True,7.24,50.68
+8,development,7,True,4.21,29.47
+8,monetary,7,,4.1,28.699999999999996
+8,globalisation,7,,4.1,28.699999999999996
+8,housing,7,,4.1,28.699999999999996
+8,gross domestic product,7,,4.1,28.699999999999996
+8,innovation,7,,4.1,28.699999999999996
+8,exports,7,,4.1,28.699999999999996
+8,industrial relations,7,,4.1,28.699999999999996
+8,personnel,7,,4.1,28.699999999999996
+8,jobseekers,7,,4.1,28.699999999999996
+8,hiring,7,,4.1,28.699999999999996
+8,workers compensation,7,,4.1,28.699999999999996
+8,pension,7,,4.1,28.699999999999996
+8,hourly wages,7,,4.1,28.699999999999996
+8,affordable housing,7,,4.1,28.699999999999996
+8,carbon dioxide,7,,4.1,28.699999999999996
+8,deforestation,7,,4.1,28.699999999999996
+8,air pollution,7,,4.1,28.699999999999996
+8,environmentalists,7,,4.1,28.699999999999996
+8,fossil fuel,7,,4.1,28.699999999999996
+8,layoffs,7,,4.1,28.699999999999996
+8,cash flow,7,,4.1,28.699999999999996
+8,investments,7,,4.1,28.699999999999996
+8,microfinance,7,,4.1,28.699999999999996
+8,asset,7,,4.1,28.699999999999996
+8,credit card,7,,4.1,28.699999999999996
+8,mortgage lenders,7,,4.1,28.699999999999996
+8,subprime,7,,4.1,28.699999999999996
+8,emerging markets,7,,4.1,28.699999999999996
+8,industrial,6,True,4.64,27.839999999999996
+8,entrepreneurship,6,,4.1,24.599999999999998
+8,entrepreneurs,6,,4.1,24.599999999999998
+8,real estate,6,,4.1,24.599999999999998
+8,workforce development,6,,4.1,24.599999999999998
+8,disability,6,,4.1,24.599999999999998
+8,recruitment,6,,4.1,24.599999999999998
+8,job seeker,6,,4.1,24.599999999999998
+8,labor statistics,6,,4.1,24.599999999999998
+8,warming,6,,4.1,24.599999999999998
+8,greenhouse gases,6,,4.1,24.599999999999998
+8,fossil fuels,6,,4.1,24.599999999999998
+8,greenhouse emissions,6,,4.1,24.599999999999998
+8,greenhouse gas,6,,4.1,24.599999999999998
+8,acid rain,6,,4.1,24.599999999999998
+8,greenhouse gas emissions,6,,4.1,24.599999999999998
+8,carbon emissions,6,,4.1,24.599999999999998
+8,carbon dioxide emissions,6,,4.1,24.599999999999998
+8,industrial production,6,,4.1,24.599999999999998
+8,euro zone,6,,4.1,24.599999999999998
+8,valuations,6,,4.1,24.599999999999998
+8,joblessness,6,,4.1,24.599999999999998
+8,businesses,6,,4.1,24.599999999999998
+8,retail,6,,4.1,24.599999999999998
+8,climate action,6,,4.1,24.599999999999998
+8,carbon,6,,4.1,24.599999999999998
+8,eco,6,,4.1,24.599999999999998
+8,biofuels,6,,4.1,24.599999999999998
+8,securitization,6,,4.1,24.599999999999998
+8,repayment,6,,4.1,24.599999999999998
+8,financial institutions,6,,4.1,24.599999999999998
+8,bankers,6,,4.1,24.599999999999998
+8,equities,6,,4.1,24.599999999999998
+8,hedge funds,6,,4.1,24.599999999999998
+8,student loan,6,,4.1,24.599999999999998
+8,banks,6,,4.1,24.599999999999998
+8,kyoto protocol,6,,4.1,24.599999999999998
+8,balance sheet,6,,4.1,24.599999999999998
+8,profitability,6,,4.1,24.599999999999998
+8,diversification,6,,4.1,24.599999999999998
+8,tourism,5,True,9.64,48.2
+8,occupational,5,True,8.37,41.849999999999994
+8,technological,5,True,4.28,21.400000000000002
+8,financial services,5,True,4.15,20.75
+8,economic policy,5,,4.1,20.5
+8,competitiveness,5,,4.1,20.5
+8,export,5,,4.1,20.5
+8,chief economist,5,,4.1,20.5
+8,corporate governance,5,,4.1,20.5
+8,manpower,5,,4.1,20.5
+8,human resource,5,,4.1,20.5
+8,human resources,5,,4.1,20.5
+8,childcare,5,,4.1,20.5
+8,small business,5,,4.1,20.5
+8,seasonally adjusted,5,,4.1,20.5
+8,skills,5,,4.1,20.5
+8,career,5,,4.1,20.5
+8,underemployed,5,,4.1,20.5
+8,compensation,5,,4.1,20.5
+8,average hourly,5,,4.1,20.5
+8,job fair,5,,4.1,20.5
+8,environmental degradation,5,,4.1,20.5
+8,climate change ipcc,5,,4.1,20.5
+8,desertification,5,,4.1,20.5
+8,environmentalism,5,,4.1,20.5
+8,ecosystems,5,,4.1,20.5
+8,reducing carbon emissions,5,,4.1,20.5
+8,co2,5,,4.1,20.5
+8,co2 emissions,5,,4.1,20.5
+8,slowdown,5,,4.1,20.5
+8,environment,5,,4.1,20.5
+8,retail sales,5,,4.1,20.5
+8,taxes,5,,4.1,20.5
+8,small businesses,5,,4.1,20.5
+8,hourly,5,,4.1,20.5
+8,incentives,5,,4.1,20.5
+8,profits,5,,4.1,20.5
+8,factories,5,,4.1,20.5
+8,immigrants,5,,4.1,20.5
+8,jobless benefits,5,,4.1,20.5
+8,outsourcing,5,,4.1,20.5
+8,wealth,5,,4.1,20.5
+8,carbon emission,5,,4.1,20.5
+8,ghg,5,,4.1,20.5
+8,sustainable,5,,4.1,20.5
+8,ghg emissions,5,,4.1,20.5
+8,methane,5,,4.1,20.5
+8,forests,5,,4.1,20.5
+8,polluters,5,,4.1,20.5
+8,commodity,5,,4.1,20.5
+8,credit facility,5,,4.1,20.5
+8,leasing,5,,4.1,20.5
+8,borrowings,5,,4.1,20.5
+8,borrowing,5,,4.1,20.5
+8,bank,5,,4.1,20.5
+8,employee benefits,5,,4.1,20.5
+8,home loans,5,,4.1,20.5
+8,startups,5,,4.1,20.5
+8,epa,5,,4.1,20.5
+8,occupational safety,4,True,21.14,84.56
+8,population,4,,4.1,16.4
+8,economic outlook,4,,4.1,16.4
+8,fiscal,4,,4.1,16.4
+8,economist,4,,4.1,16.4
+8,entrepreneurial,4,,4.1,16.4
+8,higher education,4,,4.1,16.4
+8,budget,4,,4.1,16.4
+8,macroeconomic,4,,4.1,16.4
+8,economic recovery,4,,4.1,16.4
+8,macro economic,4,,4.1,16.4
+8,governance,4,,4.1,16.4
+8,privatization,4,,4.1,16.4
+8,socio economic,4,,4.1,16.4
+8,agricultural,4,,4.1,16.4
+8,commerce,4,,4.1,16.4
+8,workforce investment,4,,4.1,16.4
+8,pensions,4,,4.1,16.4
+8,child care,4,,4.1,16.4
+8,mental health,4,,4.1,16.4
+8,minimum wage,4,,4.1,16.4
+8,welfare recipients,4,,4.1,16.4
+8,dol,4,,4.1,16.4
+8,burning fossil fuels,4,,4.1,16.4
+8,drought,4,,4.1,16.4
+8,arctic,4,,4.1,16.4
+8,heat trapping gases,4,,4.1,16.4
+8,pollutant,4,,4.1,16.4
+8,policies,4,,4.1,16.4
+8,rents,4,,4.1,16.4
+8,prices,4,,4.1,16.4
+8,spending,4,,4.1,16.4
+8,subsidies,4,,4.1,16.4
+8,remittances,4,,4.1,16.4
+8,output,4,,4.1,16.4
+8,claims,4,,4.1,16.4
+8,unions,4,,4.1,16.4
+8,workers,4,,4.1,16.4
+8,benefits,4,,4.1,16.4
+8,median,4,,4.1,16.4
+8,households,4,,4.1,16.4
+8,skilled,4,,4.1,16.4
+8,automotive,4,,4.1,16.4
+8,welding,4,,4.1,16.4
+8,bioscience,4,,4.1,16.4
+8,life expectancy,4,,4.1,16.4
+8,stress,4,,4.1,16.4
+8,companies,4,,4.1,16.4
+8,firms,4,,4.1,16.4
+8,employees,4,,4.1,16.4
+8,landlords,4,,4.1,16.4
+8,investors,4,,4.1,16.4
+8,clean energy,4,,4.1,16.4
+8,greenhouse gas emission,4,,4.1,16.4
+8,carbon sequestration,4,,4.1,16.4
+8,global,4,,4.1,16.4
+8,emission reduction,4,,4.1,16.4
+8,greenpeace,4,,4.1,16.4
+8,reduce carbon emissions,4,,4.1,16.4
+8,redd,4,,4.1,16.4
+8,renewables,4,,4.1,16.4
+8,energy efficiency,4,,4.1,16.4
+8,carbon offsets,4,,4.1,16.4
+8,renewable,4,,4.1,16.4
+8,biomass,4,,4.1,16.4
+8,emission reductions,4,,4.1,16.4
+8,funding,4,,4.1,16.4
+8,revolving credit,4,,4.1,16.4
+8,payments,4,,4.1,16.4
+8,payment,4,,4.1,16.4
+8,cash flows,4,,4.1,16.4
+8,investing,4,,4.1,16.4
+8,capital markets,4,,4.1,16.4
+8,repayments,4,,4.1,16.4
+8,commercial real estate,4,,4.1,16.4
+8,mutual fund,4,,4.1,16.4
+8,insurance,4,,4.1,16.4
+8,commercial banking,4,,4.1,16.4
+8,financials,4,,4.1,16.4
+8,loan defaults,4,,4.1,16.4
+8,borrower,4,,4.1,16.4
+8,delinquencies,4,,4.1,16.4
+8,npls,4,,4.1,16.4
+8,unfccc,4,,4.1,16.4
+8,poverty eradication,4,,4.1,16.4
+8,polluter,4,,4.1,16.4
+8,emission,4,,4.1,16.4
+8,leadership,4,,4.1,16.4
+8,sovereign debt,4,,4.1,16.4
+8,rmbs,4,,4.1,16.4
+8,valuation,4,,4.1,16.4
+8,creditors,4,,4.1,16.4
+8,deleveraging,4,,4.1,16.4
+8,portfolio,4,,4.1,16.4
+8,equity,4,,4.1,16.4
+8,forex,4,,4.1,16.4
+8,politically,4,,4.1,16.4
+8,structural reforms,4,,4.1,16.4
+8,markets,4,,4.1,16.4
+8,eurozone,4,,4.1,16.4
+8,emerging economies,4,,4.1,16.4
+8,budgets,4,,4.1,16.4
+8,clean air,4,,4.1,16.4
+8,environmental protection agency,4,,4.1,16.4
+8,ozone,4,,4.1,16.4
+8,wetlands,4,,4.1,16.4
+8,wildlife,4,,4.1,16.4
+8,conservationists,4,,4.1,16.4
+8,groundwater,4,,4.1,16.4
+8,self employed,3,True,6.19,18.57
+8,capital,3,True,4.63,13.89
+8,ilo,3,True,4.46,13.379999999999999
+8,insecurity,3,True,4.18,12.54
+8,tax,3,,4.1,12.299999999999999
+8,oecd,3,,4.1,12.299999999999999
+8,export oriented,3,,4.1,12.299999999999999
+8,education,3,,4.1,12.299999999999999
+8,social,3,,4.1,12.299999999999999
+8,employment relations,3,,4.1,12.299999999999999
+8,vacancies,3,,4.1,12.299999999999999
+8,equal employment opportunity,3,,4.1,12.299999999999999
+8,melting ice,3,,4.1,12.299999999999999
+8,overpopulation,3,,4.1,12.299999999999999
+8,climatic,3,,4.1,12.299999999999999
+8,flooding,3,,4.1,12.299999999999999
+8,urbanization,3,,4.1,12.299999999999999
+8,pachauri,3,,4.1,12.299999999999999
+8,overfishing,3,,4.1,12.299999999999999
+8,ipcc,3,,4.1,12.299999999999999
+8,oil prices,3,,4.1,12.299999999999999
+8,gas prices,3,,4.1,12.299999999999999
+8,stimulus,3,,4.1,12.299999999999999
+8,capitalism,3,,4.1,12.299999999999999
+8,bailout,3,,4.1,12.299999999999999
+8,deficit,3,,4.1,12.299999999999999
+8,consumer confidence,3,,4.1,12.299999999999999
+8,bonuses,3,,4.1,12.299999999999999
+8,overtime,3,,4.1,12.299999999999999
+8,consumer price,3,,4.1,12.299999999999999
+8,remuneration,3,,4.1,12.299999999999999
+8,rates,3,,4.1,12.299999999999999
+8,tuition,3,,4.1,12.299999999999999
+8,inventories,3,,4.1,12.299999999999999
+8,laid,3,,4.1,12.299999999999999
+8,desperate,3,,4.1,12.299999999999999
+8,retirees,3,,4.1,12.299999999999999
+8,farmers,3,,4.1,12.299999999999999
+8,immigrant,3,,4.1,12.299999999999999
+8,college grads,3,,4.1,12.299999999999999
+8,temporary,3,,4.1,12.299999999999999
+8,commuters,3,,4.1,12.299999999999999
+8,renters,3,,4.1,12.299999999999999
+8,machinery,3,,4.1,12.299999999999999
+8,textile,3,,4.1,12.299999999999999
+8,commercial,3,,4.1,12.299999999999999
+8,aerospace,3,,4.1,12.299999999999999
+8,industries,3,,4.1,12.299999999999999
+8,construction,3,,4.1,12.299999999999999
+8,technology,3,,4.1,12.299999999999999
+8,information technology,3,,4.1,12.299999999999999
+8,engineering,3,,4.1,12.299999999999999
+8,foundry,3,,4.1,12.299999999999999
+8,biotechnology,3,,4.1,12.299999999999999
+8,nanotechnology,3,,4.1,12.299999999999999
+8,violent crime,3,,4.1,12.299999999999999
+8,gasoline prices,3,,4.1,12.299999999999999
+8,foreclosure filings,3,,4.1,12.299999999999999
+8,homelessness,3,,4.1,12.299999999999999
+8,great recession,3,,4.1,12.299999999999999
+8,household incomes,3,,4.1,12.299999999999999
+8,disposable income,3,,4.1,12.299999999999999
+8,work,3,,4.1,12.299999999999999
+8,recruit,3,,4.1,12.299999999999999
+8,hire,3,,4.1,12.299999999999999
+8,recruiting,3,,4.1,12.299999999999999
+8,openings,3,,4.1,12.299999999999999
+8,retailers,3,,4.1,12.299999999999999
+8,nurses,3,,4.1,12.299999999999999
+8,insurers,3,,4.1,12.299999999999999
+8,manufacturers,3,,4.1,12.299999999999999
+8,providers,3,,4.1,12.299999999999999
+8,professionals,3,,4.1,12.299999999999999
+8,policymakers,3,,4.1,12.299999999999999
+8,homebuilders,3,,4.1,12.299999999999999
+8,tropical forests,3,,4.1,12.299999999999999
+8,unep,3,,4.1,12.299999999999999
+8,wwf,3,,4.1,12.299999999999999
+8,carbon credits,3,,4.1,12.299999999999999
+8,credit agreement,3,,4.1,12.299999999999999
+8,incentive,3,,4.1,12.299999999999999
+8,projects,3,,4.1,12.299999999999999
+8,ge capital,3,,4.1,12.299999999999999
+8,funds,3,,4.1,12.299999999999999
+8,servicing,3,,4.1,12.299999999999999
+8,guarantee,3,,4.1,12.299999999999999
+8,liability,3,,4.1,12.299999999999999
+8,home loan,3,,4.1,12.299999999999999
+8,wealth management,3,,4.1,12.299999999999999
+8,securities,3,,4.1,12.299999999999999
+8,brokerage,3,,4.1,12.299999999999999
+8,investor,3,,4.1,12.299999999999999
+8,mortgage lender,3,,4.1,12.299999999999999
+8,private equity,3,,4.1,12.299999999999999
+8,derivatives,3,,4.1,12.299999999999999
+8,fdic,3,,4.1,12.299999999999999
+8,hedge fund,3,,4.1,12.299999999999999
+8,subprime lending,3,,4.1,12.299999999999999
+8,customer service,3,,4.1,12.299999999999999
+8,health care,3,,4.1,12.299999999999999
+8,occupational health,3,,4.1,12.299999999999999
+8,long term care,3,,4.1,12.299999999999999
+8,shared services,3,,4.1,12.299999999999999
+8,nursing,3,,4.1,12.299999999999999
+8,mortgage brokers,3,,4.1,12.299999999999999
+8,loan origination,3,,4.1,12.299999999999999
+8,subprime loans,3,,4.1,12.299999999999999
+8,overdrafts,3,,4.1,12.299999999999999
+8,cmbs,3,,4.1,12.299999999999999
+8,fha,3,,4.1,12.299999999999999
+8,loan modification,3,,4.1,12.299999999999999
+8,subprime borrowers,3,,4.1,12.299999999999999
+8,repossessions,3,,4.1,12.299999999999999
+8,overdraft,3,,4.1,12.299999999999999
+8,reducing greenhouse gas,3,,4.1,12.299999999999999
+8,reduce greenhouse gas,3,,4.1,12.299999999999999
+8,copenhagen accord,3,,4.1,12.299999999999999
+8,carbon footprints,3,,4.1,12.299999999999999
+8,environmental sustainability,3,,4.1,12.299999999999999
+8,carbon capture,3,,4.1,12.299999999999999
+8,rainforests,3,,4.1,12.299999999999999
+8,kyoto,3,,4.1,12.299999999999999
+8,mobility,3,,4.1,12.299999999999999
+8,osha,3,,4.1,12.299999999999999
+8,health,3,,4.1,12.299999999999999
+8,unsecured debt,3,,4.1,12.299999999999999
+8,indebtedness,3,,4.1,12.299999999999999
+8,assets,3,,4.1,12.299999999999999
+8,cashflow,3,,4.1,12.299999999999999
+8,credit cards,3,,4.1,12.299999999999999
+8,innovate,3,,4.1,12.299999999999999
+8,venture,3,,4.1,12.299999999999999
+8,startup,3,,4.1,12.299999999999999
+8,sales,3,,4.1,12.299999999999999
+8,expansion,3,,4.1,12.299999999999999
+8,buying,3,,4.1,12.299999999999999
+8,ample liquidity,3,,4.1,12.299999999999999
+8,volatility,3,,4.1,12.299999999999999
+8,liquidity crunch,3,,4.1,12.299999999999999
+8,currencies,3,,4.1,12.299999999999999
+8,risk aversion,3,,4.1,12.299999999999999
+8,capital inflows,3,,4.1,12.299999999999999
+8,commodities,3,,4.1,12.299999999999999
+8,risk appetite,3,,4.1,12.299999999999999
+8,investor sentiment,3,,4.1,12.299999999999999
+8,homeowners,3,,4.1,12.299999999999999
+8,regulators,3,,4.1,12.299999999999999
+8,deposits,3,,4.1,12.299999999999999
+8,underdevelopment,3,,4.1,12.299999999999999
+8,poverty alleviation,3,,4.1,12.299999999999999
+8,environmental impacts,3,,4.1,12.299999999999999
+8,financially,3,,4.1,12.299999999999999
+8,geographically,3,,4.1,12.299999999999999
+8,emotionally,3,,4.1,12.299999999999999
+8,physically,3,,4.1,12.299999999999999
+8,ecologically,3,,4.1,12.299999999999999
+8,historically,3,,4.1,12.299999999999999
+8,environmentally,3,,4.1,12.299999999999999
+8,macroeconomic stability,3,,4.1,12.299999999999999
+8,inflationary pressures,3,,4.1,12.299999999999999
+8,sector,3,,4.1,12.299999999999999
+8,budgetary,3,,4.1,12.299999999999999
+8,decelerating,3,,4.1,12.299999999999999
+8,stimulus packages,3,,4.1,12.299999999999999
+8,liberalization,3,,4.1,12.299999999999999
+8,interest rates,3,,4.1,12.299999999999999
+8,outperformance,3,,4.1,12.299999999999999
+8,consumption,3,,4.1,12.299999999999999
+8,mercury emissions,3,,4.1,12.299999999999999
+8,nox,3,,4.1,12.299999999999999
+8,nitrogen oxide,3,,4.1,12.299999999999999
+8,nitrogen oxides,3,,4.1,12.299999999999999
+8,pollutants,3,,4.1,12.299999999999999
+8,smog,3,,4.1,12.299999999999999
+8,sulfur dioxide,3,,4.1,12.299999999999999
+8,polluting,3,,4.1,12.299999999999999
+8,particulate matter,3,,4.1,12.299999999999999
+8,air quality,3,,4.1,12.299999999999999
+8,soot,3,,4.1,12.299999999999999
+8,carmakers,3,,4.1,12.299999999999999
+8,environmentalist,3,,4.1,12.299999999999999
+8,sierra club,3,,4.1,12.299999999999999
+8,labor relations,2,True,8.84,17.68
+8,labour,2,True,8.82,17.64
+8,convergence,2,True,4.15,8.3
+8,economic cooperation,2,,4.1,8.2
+8,policy,2,,4.1,8.2
+8,public policy,2,,4.1,8.2
+8,governmental,2,,4.1,8.2
+8,private sector,2,,4.1,8.2
+8,progress,2,,4.1,8.2
+8,indicators,2,,4.1,8.2
+8,reform,2,,4.1,8.2
+8,automotive industry,2,,4.1,8.2
+8,gross domestic,2,,4.1,8.2
+8,research,2,,4.1,8.2
+8,agenda,2,,4.1,8.2
+8,child support,2,,4.1,8.2
+8,immigration,2,,4.1,8.2
+8,employability,2,,4.1,8.2
+8,employable,2,,4.1,8.2
+8,juvenile justice,2,,4.1,8.2
+8,civil service,2,,4.1,8.2
+8,gainful employment,2,,4.1,8.2
+8,migrant,2,,4.1,8.2
+8,economic opportunity,2,,4.1,8.2
+8,domestic violence,2,,4.1,8.2
+8,retirement,2,,4.1,8.2
+8,obesity epidemic,2,,4.1,8.2
+8,obesity,2,,4.1,8.2
+8,oceans,2,,4.1,8.2
+8,crop yields,2,,4.1,8.2
+8,warmer,2,,4.1,8.2
+8,identity theft,2,,4.1,8.2
+8,droughts,2,,4.1,8.2
+8,el nino,2,,4.1,8.2
+8,floods,2,,4.1,8.2
+8,humankind,2,,4.1,8.2
+8,climatologist,2,,4.1,8.2
+8,bird flu,2,,4.1,8.2
+8,algae blooms,2,,4.1,8.2
+8,reforms,2,,4.1,8.2
+8,industry,2,,4.1,8.2
+8,entrepreneur,2,,4.1,8.2
+8,smes,2,,4.1,8.2
+8,gov't,2,,4.1,8.2
+8,energy,2,,4.1,8.2
+8,ideas,2,,4.1,8.2
+8,hourly wage,2,,4.1,8.2
+8,pay,2,,4.1,8.2
+8,premiums,2,,4.1,8.2
+8,unpaid wages,2,,4.1,8.2
+8,cola,2,,4.1,8.2
+8,tariffs,2,,4.1,8.2
+8,yields,2,,4.1,8.2
+8,reimbursement,2,,4.1,8.2
+8,displaced,2,,4.1,8.2
+8,depressed,2,,4.1,8.2
+8,jailed,2,,4.1,8.2
+8,sacked,2,,4.1,8.2
+8,obese,2,,4.1,8.2
+8,elderly,2,,4.1,8.2
+8,graduates,2,,4.1,8.2
+8,migrants,2,,4.1,8.2
+8,uninsured,2,,4.1,8.2
+8,homeless,2,,4.1,8.2
+8,teenage,2,,4.1,8.2
+8,food stamps,2,,4.1,8.2
+8,experienced,2,,4.1,8.2
+8,carers,2,,4.1,8.2
+8,busy,2,,4.1,8.2
+8,tenants,2,,4.1,8.2
+8,pensioner,2,,4.1,8.2
+8,pregnant,2,,4.1,8.2
+8,troubled,2,,4.1,8.2
+8,chemical,2,,4.1,8.2
+8,materials,2,,4.1,8.2
+8,packaging,2,,4.1,8.2
+8,plastics,2,,4.1,8.2
+8,cement,2,,4.1,8.2
+8,chemicals,2,,4.1,8.2
+8,automobile,2,,4.1,8.2
+8,polymer,2,,4.1,8.2
+8,aluminum,2,,4.1,8.2
+8,auto,2,,4.1,8.2
+8,petrochemical,2,,4.1,8.2
+8,diversified,2,,4.1,8.2
+8,electrical,2,,4.1,8.2
+8,coatings,2,,4.1,8.2
+8,electronics,2,,4.1,8.2
+8,advanced materials,2,,4.1,8.2
+8,logistics,2,,4.1,8.2
+8,automation,2,,4.1,8.2
+8,equipment,2,,4.1,8.2
+8,aluminium,2,,4.1,8.2
+8,textiles,2,,4.1,8.2
+8,metal,2,,4.1,8.2
+8,components,2,,4.1,8.2
+8,semiconductor,2,,4.1,8.2
+8,residential,2,,4.1,8.2
+8,rubber,2,,4.1,8.2
+8,shipbuilding,2,,4.1,8.2
+8,composites,2,,4.1,8.2
+8,printing,2,,4.1,8.2
+8,pharmaceutical,2,,4.1,8.2
+8,telecommunication,2,,4.1,8.2
+8,composite,2,,4.1,8.2
+8,furniture,2,,4.1,8.2
+8,fabrication,2,,4.1,8.2
+8,educational,2,,4.1,8.2
+8,sme,2,,4.1,8.2
+8,recycling,2,,4.1,8.2
+8,dropout rate,2,,4.1,8.2
+8,birthrate,2,,4.1,8.2
+8,economists predict,2,,4.1,8.2
+8,enrollment,2,,4.1,8.2
+8,bond yields,2,,4.1,8.2
+8,confidence,2,,4.1,8.2
+8,insolvencies,2,,4.1,8.2
+8,gasoline,2,,4.1,8.2
+8,prostitution,2,,4.1,8.2
+8,hiv prevalence,2,,4.1,8.2
+8,infant mortality rate,2,,4.1,8.2
+8,median household,2,,4.1,8.2
+8,cpi,2,,4.1,8.2
+8,mortgage rates,2,,4.1,8.2
+8,infant mortality,2,,4.1,8.2
+8,suicide,2,,4.1,8.2
+8,census,2,,4.1,8.2
+8,unrevised,2,,4.1,8.2
+8,wanted,2,,4.1,8.2
+8,child,2,,4.1,8.2
+8,resume,2,,4.1,8.2
+8,computer,2,,4.1,8.2
+8,talent,2,,4.1,8.2
+8,temp,2,,4.1,8.2
+8,coaching,2,,4.1,8.2
+8,parenting,2,,4.1,8.2
+8,occupations,2,,4.1,8.2
+8,personal,2,,4.1,8.2
+8,seasonal,2,,4.1,8.2
+8,consumers,2,,4.1,8.2
+8,corporations,2,,4.1,8.2
+8,shippers,2,,4.1,8.2
+8,suppliers,2,,4.1,8.2
+8,organisations,2,,4.1,8.2
+8,workplaces,2,,4.1,8.2
+8,reservists,2,,4.1,8.2
+8,agencies,2,,4.1,8.2
+8,customers,2,,4.1,8.2
+8,copenhagen,2,,4.1,8.2
+8,ets,2,,4.1,8.2
+8,natural resources defense,2,,4.1,8.2
+8,antarctic,2,,4.1,8.2
+8,natural resource,2,,4.1,8.2
+8,private placement,2,,4.1,8.2
+8,restructuring,2,,4.1,8.2
+8,issuance,2,,4.1,8.2
+8,lease,2,,4.1,8.2
+8,fundraising,2,,4.1,8.2
+8,repayable,2,,4.1,8.2
+8,sukuk,2,,4.1,8.2
+8,outlook stable,2,,4.1,8.2
+8,contracts,2,,4.1,8.2
+8,investment management,2,,4.1,8.2
+8,personal finance,2,,4.1,8.2
+8,advisers,2,,4.1,8.2
+8,reinsurance,2,,4.1,8.2
+8,private banking,2,,4.1,8.2
+8,asset management,2,,4.1,8.2
+8,institutional,2,,4.1,8.2
+8,insurer,2,,4.1,8.2
+8,banker,2,,4.1,8.2
+8,investment advisors,2,,4.1,8.2
+8,physician,2,,4.1,8.2
+8,claimant,2,,4.1,8.2
+8,supplier,2,,4.1,8.2
+8,managed care,2,,4.1,8.2
+8,caregiver,2,,4.1,8.2
+8,customer,2,,4.1,8.2
+8,hr,2,,4.1,8.2
+8,patient,2,,4.1,8.2
+8,workers comp,2,,4.1,8.2
+8,worksite,2,,4.1,8.2
+8,breastfeeding,2,,4.1,8.2
+8,mortgage origination,2,,4.1,8.2
+8,originations,2,,4.1,8.2
+8,countrywide,2,,4.1,8.2
+8,franchising,2,,4.1,8.2
+8,gmac,2,,4.1,8.2
+8,talf,2,,4.1,8.2
+8,sba,2,,4.1,8.2
+8,homeownership,2,,4.1,8.2
+8,payday loans,2,,4.1,8.2
+8,payday loan,2,,4.1,8.2
+8,renewable energies,2,,4.1,8.2
+8,millennium development goals,2,,4.1,8.2
+8,an inconvenient truth,2,,4.1,8.2
+8,bio fuels,2,,4.1,8.2
+8,mdgs,2,,4.1,8.2
+8,biosphere,2,,4.1,8.2
+8,human services,2,,4.1,8.2
+8,substance abuse,2,,4.1,8.2
+8,telework,2,,4.1,8.2
+8,stem,2,,4.1,8.2
+8,opportunity,2,,4.1,8.2
+8,retention,2,,4.1,8.2
+8,diversity,2,,4.1,8.2
+8,solid waste,2,,4.1,8.2
+8,epidemiology,2,,4.1,8.2
+8,primary care,2,,4.1,8.2
+8,wellness,2,,4.1,8.2
+8,hazardous,2,,4.1,8.2
+8,asthma,2,,4.1,8.2
+8,debts,2,,4.1,8.2
+8,bankruptcy,2,,4.1,8.2
+8,debtors,2,,4.1,8.2
+8,default,2,,4.1,8.2
+8,subordinated debt,2,,4.1,8.2
+8,maturities,2,,4.1,8.2
+8,property tax,2,,4.1,8.2
+8,debt maturities,2,,4.1,8.2
+8,liabilities,2,,4.1,8.2
+8,fraud,2,,4.1,8.2
+8,rate,2,,4.1,8.2
+8,commercialization,2,,4.1,8.2
+8,innovations,2,,4.1,8.2
+8,innovative,2,,4.1,8.2
+8,innovators,2,,4.1,8.2
+8,incubator,2,,4.1,8.2
+8,efficiency,2,,4.1,8.2
+8,supply chain,2,,4.1,8.2
+8,##st century,2,,4.1,8.2
+8,ict,2,,4.1,8.2
+8,ecosystem,2,,4.1,8.2
+8,applied,2,,4.1,8.2
+8,best practices,2,,4.1,8.2
+8,customer experience,2,,4.1,8.2
+8,connectivity,2,,4.1,8.2
+8,modernization,2,,4.1,8.2
+8,factory,2,,4.1,8.2
+8,purchasing,2,,4.1,8.2
+8,manufacturer,2,,4.1,8.2
+8,manufacture,2,,4.1,8.2
+8,capacity utilization,2,,4.1,8.2
+8,by jesse j.,2,,4.1,8.2
+8,hired,2,,4.1,8.2
+8,becoming,2,,4.1,8.2
+8,asbestos,2,,4.1,8.2
+8,fixed income,2,,4.1,8.2
+8,trading,2,,4.1,8.2
+8,yield curve,2,,4.1,8.2
+8,cash,2,,4.1,8.2
+8,securitized,2,,4.1,8.2
+8,highly leveraged,2,,4.1,8.2
+8,balance sheets,2,,4.1,8.2
+8,margins,2,,4.1,8.2
+8,earnings,2,,4.1,8.2
+8,nonperforming assets,2,,4.1,8.2
+8,precious metals,2,,4.1,8.2
+8,inflows,2,,4.1,8.2
+8,homebuyers,2,,4.1,8.2
+8,buyers,2,,4.1,8.2
+8,developers,2,,4.1,8.2
+8,bondholders,2,,4.1,8.2
+8,brokers,2,,4.1,8.2
+8,card issuers,2,,4.1,8.2
+8,automakers,2,,4.1,8.2
+8,loan repayments,2,,4.1,8.2
+8,hamp,2,,4.1,8.2
+8,liberal,2,,4.1,8.2
+8,liberals,2,,4.1,8.2
+8,nonfarm payrolls,2,,4.1,8.2
+8,guaranty,2,,4.1,8.2
+8,charge offs,2,,4.1,8.2
+8,creditworthiness,2,,4.1,8.2
+8,consumer,2,,4.1,8.2
+8,mastercard,2,,4.1,8.2
+8,delinquency,2,,4.1,8.2
+8,wage earners,2,,4.1,8.2
+8,venture capital,2,,4.1,8.2
+8,mutual funds,2,,4.1,8.2
+8,small cap,2,,4.1,8.2
+8,soil erosion,2,,4.1,8.2
+8,industrialization,2,,4.1,8.2
+8,inequality,2,,4.1,8.2
+8,social ills,2,,4.1,8.2
+8,alleviate poverty,2,,4.1,8.2
+8,abject poverty,2,,4.1,8.2
+8,societal,2,,4.1,8.2
+8,suburban sprawl,2,,4.1,8.2
+8,backwardness,2,,4.1,8.2
+8,inequalities,2,,4.1,8.2
+8,eradicate poverty,2,,4.1,8.2
+8,infrastructural,2,,4.1,8.2
+8,deprivation,2,,4.1,8.2
+8,extreme poverty,2,,4.1,8.2
+8,impacts,2,,4.1,8.2
+8,consumerism,2,,4.1,8.2
+8,polluted,2,,4.1,8.2
+8,illiteracy,2,,4.1,8.2
+8,psychologically,2,,4.1,8.2
+8,fiscally,2,,4.1,8.2
+8,strategically,2,,4.1,8.2
+8,legally,2,,4.1,8.2
+8,monetarily,2,,4.1,8.2
+8,fundamentally,2,,4.1,8.2
+8,mentally,2,,4.1,8.2
+8,theoretically,2,,4.1,8.2
+8,educationally,2,,4.1,8.2
+8,logistically,2,,4.1,8.2
+8,frankly,2,,4.1,8.2
+8,realistically,2,,4.1,8.2
+8,saying,2,,4.1,8.2
+8,demographically,2,,4.1,8.2
+8,clearly,2,,4.1,8.2
+8,technologically,2,,4.1,8.2
+8,certainly,2,,4.1,8.2
+8,being,2,,4.1,8.2
+8,operationally,2,,4.1,8.2
+8,really,2,,4.1,8.2
+8,morally,2,,4.1,8.2
+8,not,2,,4.1,8.2
+8,it,2,,4.1,8.2
+8,quite simply,2,,4.1,8.2
+8,spiritually,2,,4.1,8.2
+8,intellectually,2,,4.1,8.2
+8,admittedly,2,,4.1,8.2
+8,potentially,2,,4.1,8.2
+8,statistically,2,,4.1,8.2
+8,getting,2,,4.1,8.2
+8,industrialized,2,,4.1,8.2
+8,granted,2,,4.1,8.2
+8,structurally,2,,4.1,8.2
+8,prosperity,2,,4.1,8.2
+8,depression,2,,4.1,8.2
+8,yes,2,,4.1,8.2
+8,seems,2,,4.1,8.2
+8,technically,2,,4.1,8.2
+8,professionally,2,,4.1,8.2
+8,losing,2,,4.1,8.2
+8,sure,2,,4.1,8.2
+8,macro,2,,4.1,8.2
+8,inflationary,2,,4.1,8.2
+8,commodity prices,2,,4.1,8.2
+8,inflationary pressure,2,,4.1,8.2
+8,expansionary,2,,4.1,8.2
+8,recessionary,2,,4.1,8.2
+8,monetary tightening,2,,4.1,8.2
+8,underlying fundamentals,2,,4.1,8.2
+8,deflationary,2,,4.1,8.2
+8,inflationary expectations,2,,4.1,8.2
+8,fundamentals,2,,4.1,8.2
+8,geopolitical,2,,4.1,8.2
+8,market,2,,4.1,8.2
+8,outlook,2,,4.1,8.2
+8,tame inflation,2,,4.1,8.2
+8,headwinds,2,,4.1,8.2
+8,sectoral,2,,4.1,8.2
+8,fdi,2,,4.1,8.2
+8,tighten monetary,2,,4.1,8.2
+8,socio,2,,4.1,8.2
+8,downside risks,2,,4.1,8.2
+8,monetary easing,2,,4.1,8.2
+8,downward revision,2,,4.1,8.2
+8,geo political,2,,4.1,8.2
+8,forex reserves,2,,4.1,8.2
+8,prudential,2,,4.1,8.2
+8,deceleration,2,,4.1,8.2
+8,sectors,2,,4.1,8.2
+8,trends,2,,4.1,8.2
+8,devaluation,2,,4.1,8.2
+8,upward revision,2,,4.1,8.2
+8,indices,2,,4.1,8.2
+8,recessions,2,,4.1,8.2
+8,stagflation,2,,4.1,8.2
+8,inflation pressures,2,,4.1,8.2
+8,disposable incomes,2,,4.1,8.2
+8,naira,2,,4.1,8.2
+8,iphone,2,,4.1,8.2
+8,mac mini,2,,4.1,8.2
+8,profitable,2,,4.1,8.2
+8,opportunities,2,,4.1,8.2
+8,developing,2,,4.1,8.2
+8,y y,2,,4.1,8.2
+8,economists polled,2,,4.1,8.2
+8,emitters,2,,4.1,8.2
+8,carbon dioxide co2,2,,4.1,8.2
+8,carb,2,,4.1,8.2
+8,zero emission,2,,4.1,8.2
+8,carbon footprint,2,,4.1,8.2
+8,coal fired,2,,4.1,8.2
+8,cleaner burning,2,,4.1,8.2
+8,carbon neutral,2,,4.1,8.2
+8,alternative fuels,2,,4.1,8.2
+8,renewable fuels,2,,4.1,8.2
+8,coal,2,,4.1,8.2
+8,bioethanol,2,,4.1,8.2
+8,musically,2,,4.1,8.2
+8,institutions,2,,4.1,8.2
+8,biological diversity,2,,4.1,8.2
+8,rainforest,2,,4.1,8.2
+8,species,2,,4.1,8.2
+8,wildlife conservation,2,,4.1,8.2
+8,ecologist,2,,4.1,8.2
+8,watershed,2,,4.1,8.2
+8,stewardship,2,,4.1,8.2
+8,fisheries,2,,4.1,8.2
+8,unesco,2,,4.1,8.2
+8,nature conservancy,2,,4.1,8.2
+8,biological,2,,4.1,8.2
+8,forestry,2,,4.1,8.2
+8,animal welfare,2,,4.1,8.2
+8,tuberculosis,2,,4.1,8.2
+8,ecologists,2,,4.1,8.2
+8,public lands,2,,4.1,8.2
+8,watersheds,2,,4.1,8.2
+8,liberalism,2,,4.1,8.2
+8,conservatism,2,,4.1,8.2
+8,progressives,2,,4.1,8.2
+8,activists,2,,4.1,8.2
+8,critics,2,,4.1,8.2
+8,proponents,2,,4.1,8.2
+8,campaigners,2,,4.1,8.2
+8,advocates,2,,4.1,8.2
+8,residents,2,,4.1,8.2
+8,wildlife federation,2,,4.1,8.2
+8,nitrogen,2,,4.1,8.2
+8,vocs,2,,4.1,8.2
+8,particulates,2,,4.1,8.2
+8,pesticides,2,,4.1,8.2
+8,water quality,2,,4.1,8.2
+8,waste,2,,4.1,8.2
+8,clean water,2,,4.1,8.2
+8,governments,2,,4.1,8.2
+8,democracies,2,,4.1,8.2
+8,human capital,1,True,36.03,36.03
+8,labor market,1,True,29.45,29.45
+8,labour market,1,True,28.4,28.4
+8,crop productivity,1,True,28.29,28.29
+8,environmental economic,1,True,13.45,13.45
+8,soil productivity,1,True,12.81,12.81
+8,regional development,1,True,12.73,12.73
+8,regional growth,1,True,12.44,12.44
+8,economies scale,1,True,12.34,12.34
+8,job search,1,True,12.32,12.32
+8,industrial policy,1,True,12.23,12.23
+8,labor markets,1,True,12.01,12.01
+8,technological progress,1,True,11.12,11.12
+8,environmental impact,1,True,11.01,11.01
+8,self employment,1,True,11.01,11.01
+8,technological change,1,True,10.99,10.99
+8,development policy,1,True,10.97,10.97
+8,financial literacy,1,True,10.88,10.88
+8,policy recommendations,1,True,10.39,10.39
+8,job insecurity,1,True,10.1,10.1
+8,young workers,1,True,9.56,9.56
+8,cultural tourism,1,True,9.5,9.5
+8,labor productivity,1,True,8.95,8.95
+8,safety health,1,True,8.61,8.61
+8,productivity growth,1,True,8.61,8.61
+8,financial knowledge,1,True,8.37,8.37
+8,occupational injuries,1,True,8.21,8.21
+8,rapid economic,1,True,8.14,8.14
+8,financial education,1,True,8.06,8.06
+8,eco efficiency,1,True,8.01,8.01
+8,crop,1,True,8.0,8.0
+8,job creation,1,True,8.0,8.0
+8,fintech,1,True,7.98,7.98
+8,informal economy,1,True,7.96,7.96
+8,occupational injury,1,True,7.66,7.66
+8,labour relations,1,True,7.59,7.59
+8,energy policy,1,True,7.55,7.55
+8,capital income,1,True,7.23,7.23
+8,personal protective,1,True,6.81,6.81
+8,crop insurance,1,True,6.63,6.63
+8,carbon economy,1,True,6.58,6.58
+8,labour productivity,1,True,6.48,6.48
+8,credit constraints,1,True,6.28,6.28
+8,safe work,1,True,6.24,6.24
+8,ecological economics,1,True,6.09,6.09
+8,endogenous growth,1,True,5.95,5.95
+8,environmental regulations,1,True,5.91,5.91
+8,employment growth,1,True,5.89,5.89
+8,regional policy,1,True,5.63,5.63
+8,soldiers,1,True,5.63,5.63
+8,working environment,1,True,5.46,5.46
+8,protective equipment,1,True,5.44,5.44
+8,leaving,1,True,5.44,5.44
+8,returns education,1,True,5.35,5.35
+8,institute occupational,1,True,5.24,5.24
+8,capita income,1,True,5.14,5.14
+8,facilitation,1,True,5.05,5.05
+8,total factor,1,True,4.99,4.99
+8,regional,1,True,4.99,4.99
+8,tfp,1,True,4.98,4.98
+8,economical,1,True,4.93,4.93
+8,productivity shocks,1,True,4.73,4.73
+8,niosh,1,True,4.7,4.7
+8,firm productivity,1,True,4.54,4.54
+8,employment protection,1,True,4.31,4.31
+8,economic environmental,1,True,4.27,4.27
+8,solow,1,True,4.1,4.1
+8,joint economic,1,,4.1,4.1
+8,political,1,,4.1,4.1
+8,statistical,1,,4.1,4.1
+8,strategic,1,,4.1,4.1
+8,economic advisers,1,,4.1,4.1
+8,diplomatic,1,,4.1,4.1
+8,thinktank,1,,4.1,4.1
+8,unctad,1,,4.1,4.1
+8,economics professor,1,,4.1,4.1
+8,policy studies,1,,4.1,4.1
+8,cultural,1,,4.1,4.1
+8,economic forum,1,,4.1,4.1
+8,coordination,1,,4.1,4.1
+8,brookings institution,1,,4.1,4.1
+8,demographer,1,,4.1,4.1
+8,planning,1,,4.1,4.1
+8,legal aid,1,,4.1,4.1
+8,administrative,1,,4.1,4.1
+8,social welfare,1,,4.1,4.1
+8,equality,1,,4.1,4.1
+8,ombudsman,1,,4.1,4.1
+8,apprenticeships,1,,4.1,4.1
+8,polar ice,1,,4.1,4.1
+8,warmer temperatures,1,,4.1,4.1
+8,severe weather,1,,4.1,4.1
+8,glaciers,1,,4.1,4.1
+8,ozone layer,1,,4.1,4.1
+8,planet,1,,4.1,4.1
+8,la nina,1,,4.1,4.1
+8,melting,1,,4.1,4.1
+8,el niño,1,,4.1,4.1
+8,antarctica,1,,4.1,4.1
+8,polar bears,1,,4.1,4.1
+8,manmade,1,,4.1,4.1
+8,tropics,1,,4.1,4.1
+8,swine flu,1,,4.1,4.1
+8,antarctic ice,1,,4.1,4.1
+8,strong winds,1,,4.1,4.1
+8,stem cell,1,,4.1,4.1
+8,cell phones,1,,4.1,4.1
+8,wildfires,1,,4.1,4.1
+8,lung cancer,1,,4.1,4.1
+8,antibiotic resistance,1,,4.1,4.1
+8,forest fires,1,,4.1,4.1
+8,permafrost,1,,4.1,4.1
+8,la niña,1,,4.1,4.1
+8,surging,1,,4.1,4.1
+8,hotter,1,,4.1,4.1
+8,northern hemisphere,1,,4.1,4.1
+8,deniers,1,,4.1,4.1
+8,ignoring,1,,4.1,4.1
+8,breast cancer,1,,4.1,4.1
+8,politics,1,,4.1,4.1
+8,finance minister,1,,4.1,4.1
+8,stock market,1,,4.1,4.1
+8,culture,1,,4.1,4.1
+8,baku fineko abc.az,1,,4.1,4.1
+8,diplomacy,1,,4.1,4.1
+8,future,1,,4.1,4.1
+8,privatisation,1,,4.1,4.1
+8,democracy,1,,4.1,4.1
+8,meltdown,1,,4.1,4.1
+8,fuel,1,,4.1,4.1
+8,biz,1,,4.1,4.1
+8,crisis,1,,4.1,4.1
+8,stocks rise,1,,4.1,4.1
+8,slump,1,,4.1,4.1
+8,envoy,1,,4.1,4.1
+8,costs,1,,4.1,4.1
+8,paychecks,1,,4.1,4.1
+8,expenses,1,,4.1,4.1
+8,fees,1,,4.1,4.1
+8,kidnappings,1,,4.1,4.1
+8,insurance premiums,1,,4.1,4.1
+8,unionized,1,,4.1,4.1
+8,airfares,1,,4.1,4.1
+8,underpaid,1,,4.1,4.1
+8,shortages,1,,4.1,4.1
+8,disabled,1,,4.1,4.1
+8,older,1,,4.1,4.1
+8,pensioners,1,,4.1,4.1
+8,disgruntled,1,,4.1,4.1
+8,unskilled,1,,4.1,4.1
+8,retired,1,,4.1,4.1
+8,laborer,1,,4.1,4.1
+8,angry,1,,4.1,4.1
+8,bored,1,,4.1,4.1
+8,younger,1,,4.1,4.1
+8,millions,1,,4.1,4.1
+8,wealthy,1,,4.1,4.1
+8,convicted,1,,4.1,4.1
+8,childless,1,,4.1,4.1
+8,seniors,1,,4.1,4.1
+8,frustrated,1,,4.1,4.1
+8,minorities,1,,4.1,4.1
+8,tired,1,,4.1,4.1
+8,trade unions,1,,4.1,4.1
+8,electrician,1,,4.1,4.1
+8,generation y,1,,4.1,4.1
+8,auto mechanic,1,,4.1,4.1
+8,married,1,,4.1,4.1
+8,youths,1,,4.1,4.1
+8,educated,1,,4.1,4.1
+8,slackers,1,,4.1,4.1
+8,businessmen,1,,4.1,4.1
+8,retraining,1,,4.1,4.1
+8,discontented,1,,4.1,4.1
+8,destitute,1,,4.1,4.1
+8,carpenter,1,,4.1,4.1
+8,apprentices,1,,4.1,4.1
+8,disappointed,1,,4.1,4.1
+8,middle aged,1,,4.1,4.1
+8,penniless,1,,4.1,4.1
+8,struggling,1,,4.1,4.1
+8,teenagers,1,,4.1,4.1
+8,bricklayer,1,,4.1,4.1
+8,retrenched,1,,4.1,4.1
+8,hi tech,1,,4.1,4.1
+8,aviation,1,,4.1,4.1
+8,municipal,1,,4.1,4.1
+8,fertilizer,1,,4.1,4.1
+8,revitalization,1,,4.1,4.1
+8,mineral,1,,4.1,4.1
+8,techno,1,,4.1,4.1
+8,agri,1,,4.1,4.1
+8,technical,1,,4.1,4.1
+8,redevelopment,1,,4.1,4.1
+8,garment,1,,4.1,4.1
+8,aeronautics,1,,4.1,4.1
+8,metallurgical,1,,4.1,4.1
+8,building materials,1,,4.1,4.1
+8,petrochemicals,1,,4.1,4.1
+8,ingersoll rand,1,,4.1,4.1
+8,commercial vehicle,1,,4.1,4.1
+8,cooperative,1,,4.1,4.1
+8,material,1,,4.1,4.1
+8,agribusiness,1,,4.1,4.1
+8,honeywell,1,,4.1,4.1
+8,voter turnout,1,,4.1,4.1
+8,turnout,1,,4.1,4.1
+8,temperatures,1,,4.1,4.1
+8,rainfall,1,,4.1,4.1
+8,unadjusted,1,,4.1,4.1
+8,violence,1,,4.1,4.1
+8,purchasing managers index,1,,4.1,4.1
+8,pmi,1,,4.1,4.1
+8,skill,1,,4.1,4.1
+8,monster.com,1,,4.1,4.1
+8,marriage,1,,4.1,4.1
+8,niche,1,,4.1,4.1
+8,hopeful,1,,4.1,4.1
+8,resumes,1,,4.1,4.1
+8,vacancy,1,,4.1,4.1
+8,tourist,1,,4.1,4.1
+8,search engine,1,,4.1,4.1
+8,wedding,1,,4.1,4.1
+8,sex offender,1,,4.1,4.1
+8,careerbuilder,1,,4.1,4.1
+8,postings,1,,4.1,4.1
+8,worry,1,,4.1,4.1
+8,trades,1,,4.1,4.1
+8,paid,1,,4.1,4.1
+8,script,1,,4.1,4.1
+8,recruiters,1,,4.1,4.1
+8,dentists,1,,4.1,4.1
+8,contractors,1,,4.1,4.1
+8,teachers,1,,4.1,4.1
+8,workforces,1,,4.1,4.1
+8,administrators,1,,4.1,4.1
+8,educators,1,,4.1,4.1
+8,drivers,1,,4.1,4.1
+8,individuals,1,,4.1,4.1
+8,pharmacists,1,,4.1,4.1
+8,principals,1,,4.1,4.1
+8,clinicians,1,,4.1,4.1
+8,marketers,1,,4.1,4.1
+8,applicants,1,,4.1,4.1
+8,motorists,1,,4.1,4.1
+8,smokers,1,,4.1,4.1
+8,respondents,1,,4.1,4.1
+8,parents,1,,4.1,4.1
+8,students,1,,4.1,4.1
+8,nonprofits,1,,4.1,4.1
+8,midwives,1,,4.1,4.1
+8,physicians,1,,4.1,4.1
+8,operators,1,,4.1,4.1
+8,caregivers,1,,4.1,4.1
+8,accountants,1,,4.1,4.1
+8,candidates,1,,4.1,4.1
+8,bosses,1,,4.1,4.1
+8,taxpayers,1,,4.1,4.1
+8,patients,1,,4.1,4.1
+8,illegal immigrants,1,,4.1,4.1
+8,organizations,1,,4.1,4.1
+8,managers,1,,4.1,4.1
+8,shoppers,1,,4.1,4.1
+8,pregnant women,1,,4.1,4.1
+8,journalists,1,,4.1,4.1
+8,colleges,1,,4.1,4.1
+8,carriers,1,,4.1,4.1
+8,advertisers,1,,4.1,4.1
+8,clients,1,,4.1,4.1
+8,rns,1,,4.1,4.1
+8,librarians,1,,4.1,4.1
+8,universities,1,,4.1,4.1
+8,weather,1,,4.1,4.1
+8,cru,1,,4.1,4.1
+8,nuclear,1,,4.1,4.1
+8,atmospheric research,1,,4.1,4.1
+8,change,1,,4.1,4.1
+8,wmo,1,,4.1,4.1
+8,atmospheric,1,,4.1,4.1
+8,financings,1,,4.1,4.1
+8,acquisition,1,,4.1,4.1
+8,acquisitions,1,,4.1,4.1
+8,repurchase,1,,4.1,4.1
+8,debenture,1,,4.1,4.1
+8,announces closing,1,,4.1,4.1
+8,issuances,1,,4.1,4.1
+8,sponsorship,1,,4.1,4.1
+8,purchases,1,,4.1,4.1
+8,transaction,1,,4.1,4.1
+8,financed,1,,4.1,4.1
+8,public offering,1,,4.1,4.1
+8,secured,1,,4.1,4.1
+8,leases,1,,4.1,4.1
+8,subsidiary,1,,4.1,4.1
+8,convertible debentures,1,,4.1,4.1
+8,procurement,1,,4.1,4.1
+8,partnerships,1,,4.1,4.1
+8,agreements,1,,4.1,4.1
+8,grants,1,,4.1,4.1
+8,securitizations,1,,4.1,4.1
+8,prepayments,1,,4.1,4.1
+8,facility,1,,4.1,4.1
+8,long term,1,,4.1,4.1
+8,tax credit,1,,4.1,4.1
+8,gross proceeds,1,,4.1,4.1
+8,transactions,1,,4.1,4.1
+8,debentures,1,,4.1,4.1
+8,fitch affirms,1,,4.1,4.1
+8,facilities,1,,4.1,4.1
+8,stock options,1,,4.1,4.1
+8,bancorp,1,,4.1,4.1
+8,life insurance,1,,4.1,4.1
+8,retail banking,1,,4.1,4.1
+8,risk management,1,,4.1,4.1
+8,bancorp.,1,,4.1,4.1
+8,bancshares inc.,1,,4.1,4.1
+8,keycorp,1,,4.1,4.1
+8,federal deposit insurance,1,,4.1,4.1
+8,axa,1,,4.1,4.1
+8,bancshares,1,,4.1,4.1
+8,consulting,1,,4.1,4.1
+8,savings bank,1,,4.1,4.1
+8,sungard,1,,4.1,4.1
+8,broker dealer,1,,4.1,4.1
+8,accounting,1,,4.1,4.1
+8,media,1,,4.1,4.1
+8,psychological,1,,4.1,4.1
+8,realty,1,,4.1,4.1
+8,life assurance,1,,4.1,4.1
+8,ft,1,,4.1,4.1
+8,fiserv,1,,4.1,4.1
+8,manulife,1,,4.1,4.1
+8,appraisal,1,,4.1,4.1
+8,broker dealers,1,,4.1,4.1
+8,fifth third bancorp,1,,4.1,4.1
+8,group,1,,4.1,4.1
+8,td waterhouse,1,,4.1,4.1
+8,suntrust banks inc.,1,,4.1,4.1
+8,wachovia,1,,4.1,4.1
+8,kbw,1,,4.1,4.1
+8,sandler o'neill,1,,4.1,4.1
+8,erisa,1,,4.1,4.1
+8,contractor,1,,4.1,4.1
+8,applicant,1,,4.1,4.1
+8,provider,1,,4.1,4.1
+8,hmo,1,,4.1,4.1
+8,retiree,1,,4.1,4.1
+8,cigna,1,,4.1,4.1
+8,teacher,1,,4.1,4.1
+8,respondent,1,,4.1,4.1
+8,ppo,1,,4.1,4.1
+8,accounts,1,,4.1,4.1
+8,pharmacist,1,,4.1,4.1
+8,vendor,1,,4.1,4.1
+8,nfib,1,,4.1,4.1
+8,pbm,1,,4.1,4.1
+8,non profit,1,,4.1,4.1
+8,aetna,1,,4.1,4.1
+8,hsa,1,,4.1,4.1
+8,travel,1,,4.1,4.1
+8,nurse,1,,4.1,4.1
+8,franchisors,1,,4.1,4.1
+8,unum,1,,4.1,4.1
+8,lend,1,,4.1,4.1
+8,subprime mortgage,1,,4.1,4.1
+8,payday lending,1,,4.1,4.1
+8,refinancings,1,,4.1,4.1
+8,disbursements,1,,4.1,4.1
+8,sub prime,1,,4.1,4.1
+8,ge money,1,,4.1,4.1
+8,mfi,1,,4.1,4.1
+8,subprime mortgages,1,,4.1,4.1
+8,poorer nations,1,,4.1,4.1
+8,bioenergy,1,,4.1,4.1
+8,pandemics,1,,4.1,4.1
+8,yvo de boer,1,,4.1,4.1
+8,natural disasters,1,,4.1,4.1
+8,developmental disabilities,1,,4.1,4.1
+8,caseworkers,1,,4.1,4.1
+8,behavioral health,1,,4.1,4.1
+8,healthy families,1,,4.1,4.1
+8,head start,1,,4.1,4.1
+8,job corps,1,,4.1,4.1
+8,disabilities,1,,4.1,4.1
+8,aging,1,,4.1,4.1
+8,early childhood,1,,4.1,4.1
+8,readiness,1,,4.1,4.1
+8,disaster recovery,1,,4.1,4.1
+8,transportation,1,,4.1,4.1
+8,early learning,1,,4.1,4.1
+8,caseworker,1,,4.1,4.1
+8,criminal justice,1,,4.1,4.1
+8,sbdc,1,,4.1,4.1
+8,outplacement,1,,4.1,4.1
+8,independent living,1,,4.1,4.1
+8,public safety,1,,4.1,4.1
+8,healthcare,1,,4.1,4.1
+8,child protective services,1,,4.1,4.1
+8,census bureau,1,,4.1,4.1
+8,corrections,1,,4.1,4.1
+8,medicaid,1,,4.1,4.1
+8,adecco,1,,4.1,4.1
+8,goodwill industries,1,,4.1,4.1
+8,homeland security,1,,4.1,4.1
+8,community colleges,1,,4.1,4.1
+8,chip,1,,4.1,4.1
+8,veterans affairs,1,,4.1,4.1
+8,eeoc,1,,4.1,4.1
+8,career fair,1,,4.1,4.1
+8,cyber security,1,,4.1,4.1
+8,respiratory,1,,4.1,4.1
+8,training,1,,4.1,4.1
+8,clinical,1,,4.1,4.1
+8,emergency medicine,1,,4.1,4.1
+8,psychology,1,,4.1,4.1
+8,pharmacology,1,,4.1,4.1
+8,physical education,1,,4.1,4.1
+8,neurology,1,,4.1,4.1
+8,physical therapy,1,,4.1,4.1
+8,massage therapy,1,,4.1,4.1
+8,radiology,1,,4.1,4.1
+8,surgical,1,,4.1,4.1
+8,acupuncture,1,,4.1,4.1
+8,registered nurse,1,,4.1,4.1
+8,anesthesia,1,,4.1,4.1
+8,acute,1,,4.1,4.1
+8,occupation,1,,4.1,4.1
+8,preventive medicine,1,,4.1,4.1
+8,rheumatology,1,,4.1,4.1
+8,teaching,1,,4.1,4.1
+8,safety,1,,4.1,4.1
+8,internal medicine,1,,4.1,4.1
+8,educator,1,,4.1,4.1
+8,social work,1,,4.1,4.1
+8,pediatric,1,,4.1,4.1
+8,simulation,1,,4.1,4.1
+8,chiropractic,1,,4.1,4.1
+8,therapeutic,1,,4.1,4.1
+8,continuing education,1,,4.1,4.1
+8,cardiovascular,1,,4.1,4.1
+8,occupational therapist,1,,4.1,4.1
+8,musculoskeletal,1,,4.1,4.1
+8,supervision,1,,4.1,4.1
+8,evaluation,1,,4.1,4.1
+8,gastroenterology,1,,4.1,4.1
+8,dentistry,1,,4.1,4.1
+8,physical,1,,4.1,4.1
+8,cosmetology,1,,4.1,4.1
+8,dermatology,1,,4.1,4.1
+8,instructor,1,,4.1,4.1
+8,rehabilitation,1,,4.1,4.1
+8,pathology,1,,4.1,4.1
+8,medicine,1,,4.1,4.1
+8,prevention,1,,4.1,4.1
+8,lpn,1,,4.1,4.1
+8,consultation,1,,4.1,4.1
+8,pediatrics,1,,4.1,4.1
+8,dental hygiene,1,,4.1,4.1
+8,studies,1,,4.1,4.1
+8,assessment,1,,4.1,4.1
+8,medical,1,,4.1,4.1
+8,professional,1,,4.1,4.1
+8,standards,1,,4.1,4.1
+8,obstetrics,1,,4.1,4.1
+8,orthopedic,1,,4.1,4.1
+8,outcomes,1,,4.1,4.1
+8,technician,1,,4.1,4.1
+8,accreditation,1,,4.1,4.1
+8,certification,1,,4.1,4.1
+8,occupational therapy,1,,4.1,4.1
+8,examination,1,,4.1,4.1
+8,dental,1,,4.1,4.1
+8,anesthesiology,1,,4.1,4.1
+8,welders,1,,4.1,4.1
+8,rn,1,,4.1,4.1
+8,comprehensive,1,,4.1,4.1
+8,debt repayments,1,,4.1,4.1
+8,obligations,1,,4.1,4.1
+8,expense,1,,4.1,4.1
+8,creditor,1,,4.1,4.1
+8,subordinated notes,1,,4.1,4.1
+8,heavily indebted,1,,4.1,4.1
+8,defaults,1,,4.1,4.1
+8,rating outlook,1,,4.1,4.1
+8,senior notes,1,,4.1,4.1
+8,income,1,,4.1,4.1
+8,iva,1,,4.1,4.1
+8,liquidation,1,,4.1,4.1
+8,bondholder,1,,4.1,4.1
+8,insolvency,1,,4.1,4.1
+8,convertible notes,1,,4.1,4.1
+8,creativity,1,,4.1,4.1
+8,excellence,1,,4.1,4.1
+8,transformation,1,,4.1,4.1
+8,technology transfer,1,,4.1,4.1
+8,collaboration,1,,4.1,4.1
+8,technological innovation,1,,4.1,4.1
+8,accelerator,1,,4.1,4.1
+8,innovation award,1,,4.1,4.1
+8,innovation awards,1,,4.1,4.1
+8,life sciences,1,,4.1,4.1
+8,strategy,1,,4.1,4.1
+8,science,1,,4.1,4.1
+8,informatics,1,,4.1,4.1
+8,design,1,,4.1,4.1
+8,cleantech,1,,4.1,4.1
+8,computing,1,,4.1,4.1
+8,innovator,1,,4.1,4.1
+8,drug discovery,1,,4.1,4.1
+8,excellence awards,1,,4.1,4.1
+8,collaborative,1,,4.1,4.1
+8,fuel cell,1,,4.1,4.1
+8,biosciences,1,,4.1,4.1
+8,integration,1,,4.1,4.1
+8,visionary,1,,4.1,4.1
+8,genomics,1,,4.1,4.1
+8,intellectual property,1,,4.1,4.1
+8,lifelong learning,1,,4.1,4.1
+8,inventors,1,,4.1,4.1
+8,creative,1,,4.1,4.1
+8,enterprise,1,,4.1,4.1
+8,photonics,1,,4.1,4.1
+8,knowledge,1,,4.1,4.1
+8,initiatives,1,,4.1,4.1
+8,transforming,1,,4.1,4.1
+8,ebusiness,1,,4.1,4.1
+8,cloud computing,1,,4.1,4.1
+8,quality,1,,4.1,4.1
+8,learning,1,,4.1,4.1
+8,flagship,1,,4.1,4.1
+8,production,1,,4.1,4.1
+8,metals,1,,4.1,4.1
+8,precision,1,,4.1,4.1
+8,products,1,,4.1,4.1
+8,machining,1,,4.1,4.1
+8,tool,1,,4.1,4.1
+8,insulation,1,,4.1,4.1
+8,manufactured,1,,4.1,4.1
+8,motors,1,,4.1,4.1
+8,machinist,1,,4.1,4.1
+8,sourcing,1,,4.1,4.1
+8,trucking,1,,4.1,4.1
+8,skf,1,,4.1,4.1
+8,autos,1,,4.1,4.1
+8,component,1,,4.1,4.1
+8,concrete,1,,4.1,4.1
+8,semiconductors,1,,4.1,4.1
+8,footwear,1,,4.1,4.1
+8,wind energy,1,,4.1,4.1
+8,aftermarket,1,,4.1,4.1
+8,beverage,1,,4.1,4.1
+8,hardware,1,,4.1,4.1
+8,engineered,1,,4.1,4.1
+8,flooring,1,,4.1,4.1
+8,summary box,1,,4.1,4.1
+8,inmate,1,,4.1,4.1
+8,bogus,1,,4.1,4.1
+8,kidnapping,1,,4.1,4.1
+8,drunk,1,,4.1,4.1
+8,motorist,1,,4.1,4.1
+8,mth,1,,4.1,4.1
+8,drunken,1,,4.1,4.1
+8,divorce,1,,4.1,4.1
+8,slaying,1,,4.1,4.1
+8,fleeing,1,,4.1,4.1
+8,wall st,1,,4.1,4.1
+8,murdered,1,,4.1,4.1
+8,shootings,1,,4.1,4.1
+8,modest,1,,4.1,4.1
+8,grieving,1,,4.1,4.1
+8,murders,1,,4.1,4.1
+8,injured,1,,4.1,4.1
+8,casualties,1,,4.1,4.1
+8,roundup,1,,4.1,4.1
+8,ex,1,,4.1,4.1
+8,hires,1,,4.1,4.1
+8,hirings,1,,4.1,4.1
+8,rehiring,1,,4.1,4.1
+8,firing,1,,4.1,4.1
+8,rehire,1,,4.1,4.1
+8,rehired,1,,4.1,4.1
+8,employ,1,,4.1,4.1
+8,positions,1,,4.1,4.1
+8,employing,1,,4.1,4.1
+8,salaried,1,,4.1,4.1
+8,appointment,1,,4.1,4.1
+8,optimism,1,,4.1,4.1
+8,headcount,1,,4.1,4.1
+8,employed,1,,4.1,4.1
+8,attacks,1,,4.1,4.1
+8,attracting,1,,4.1,4.1
+8,relocation,1,,4.1,4.1
+8,lobbying,1,,4.1,4.1
+8,retaining,1,,4.1,4.1
+8,hiring freeze,1,,4.1,4.1
+8,highly skilled,1,,4.1,4.1
+8,interviews,1,,4.1,4.1
+8,interviewing,1,,4.1,4.1
+8,finding,1,,4.1,4.1
+8,turnaround,1,,4.1,4.1
+8,renovations,1,,4.1,4.1
+8,apply,1,,4.1,4.1
+8,scheduling,1,,4.1,4.1
+8,selecting,1,,4.1,4.1
+8,targeting,1,,4.1,4.1
+8,permits,1,,4.1,4.1
+8,orders,1,,4.1,4.1
+8,fired,1,,4.1,4.1
+8,compliance,1,,4.1,4.1
+8,client,1,,4.1,4.1
+8,toolkit,1,,4.1,4.1
+8,sexuality,1,,4.1,4.1
+8,practical,1,,4.1,4.1
+8,accessibility,1,,4.1,4.1
+8,gender,1,,4.1,4.1
+8,patient care,1,,4.1,4.1
+8,prescription,1,,4.1,4.1
+8,classroom,1,,4.1,4.1
+8,practice,1,,4.1,4.1
+8,sexual,1,,4.1,4.1
+8,healthy living,1,,4.1,4.1
+8,social media,1,,4.1,4.1
+8,microsoft sharepoint,1,,4.1,4.1
+8,unified communications,1,,4.1,4.1
+8,corporate,1,,4.1,4.1
+8,bullying,1,,4.1,4.1
+8,unfair dismissal,1,,4.1,4.1
+8,patient safety,1,,4.1,4.1
+8,ethics,1,,4.1,4.1
+8,multicultural,1,,4.1,4.1
+8,telecommuting,1,,4.1,4.1
+8,environments,1,,4.1,4.1
+8,public sector,1,,4.1,4.1
+8,sharepoint,1,,4.1,4.1
+8,cch,1,,4.1,4.1
+8,relationship,1,,4.1,4.1
+8,ergonomics,1,,4.1,4.1
+8,interpersonal,1,,4.1,4.1
+8,effectiveness,1,,4.1,4.1
+8,policing,1,,4.1,4.1
+8,attitudes,1,,4.1,4.1
+8,relationships,1,,4.1,4.1
+8,behavior,1,,4.1,4.1
+8,childhood,1,,4.1,4.1
+8,ageing,1,,4.1,4.1
+8,capitalization,1,,4.1,4.1
+8,flows,1,,4.1,4.1
+8,interbank,1,,4.1,4.1
+8,treasuries,1,,4.1,4.1
+8,illiquid,1,,4.1,4.1
+8,free cash flow,1,,4.1,4.1
+8,interbank lending,1,,4.1,4.1
+8,cds,1,,4.1,4.1
+8,otc derivatives,1,,4.1,4.1
+8,mbs,1,,4.1,4.1
+8,treasurys,1,,4.1,4.1
+8,jgbs,1,,4.1,4.1
+8,marketable securities,1,,4.1,4.1
+8,undrawn,1,,4.1,4.1
+8,margin,1,,4.1,4.1
+8,counterparty,1,,4.1,4.1
+8,risk,1,,4.1,4.1
+8,solvency,1,,4.1,4.1
+8,basel ii,1,,4.1,4.1
+8,loan losses,1,,4.1,4.1
+8,swaps,1,,4.1,4.1
+8,eur usd,1,,4.1,4.1
+8,counterparties,1,,4.1,4.1
+8,repurchase agreements,1,,4.1,4.1
+8,spreads,1,,4.1,4.1
+8,dividends,1,,4.1,4.1
+8,basis,1,,4.1,4.1
+8,sentiment,1,,4.1,4.1
+8,libor,1,,4.1,4.1
+8,short term,1,,4.1,4.1
+8,servicers,1,,4.1,4.1
+8,mortgage servicers,1,,4.1,4.1
+8,loan modifications,1,,4.1,4.1
+8,subprime lenders,1,,4.1,4.1
+8,owners,1,,4.1,4.1
+8,bidders,1,,4.1,4.1
+8,executives,1,,4.1,4.1
+8,foreclosure proceedings,1,,4.1,4.1
+8,purchasers,1,,4.1,4.1
+8,noteholders,1,,4.1,4.1
+8,dealers,1,,4.1,4.1
+8,prospective buyers,1,,4.1,4.1
+8,mortgage repayments,1,,4.1,4.1
+8,appraisers,1,,4.1,4.1
+8,cdos,1,,4.1,4.1
+8,vendors,1,,4.1,4.1
+8,creditworthy,1,,4.1,4.1
+8,rescap,1,,4.1,4.1
+8,alp,1,,4.1,4.1
+8,mr beazley,1,,4.1,4.1
+8,tony abbott,1,,4.1,4.1
+8,actu,1,,4.1,4.1
+8,julia gillard,1,,4.1,4.1
+8,kim beazley,1,,4.1,4.1
+8,ms gillard,1,,4.1,4.1
+8,mark latham,1,,4.1,4.1
+8,liberal party,1,,4.1,4.1
+8,mr iemma,1,,4.1,4.1
+8,gillard,1,,4.1,4.1
+8,mr rudd,1,,4.1,4.1
+8,kevin rudd,1,,4.1,4.1
+8,mr turnbull,1,,4.1,4.1
+8,malcolm turnbull,1,,4.1,4.1
+8,backbench,1,,4.1,4.1
+8,peter costello,1,,4.1,4.1
+8,wayne swan,1,,4.1,4.1
+8,likud,1,,4.1,4.1
+8,labour party,1,,4.1,4.1
+8,mr o'farrell,1,,4.1,4.1
+8,afl cio,1,,4.1,4.1
+8,latham,1,,4.1,4.1
+8,beazley,1,,4.1,4.1
+8,lnp,1,,4.1,4.1
+8,brendan nelson,1,,4.1,4.1
+8,mr bracks,1,,4.1,4.1
+8,greens,1,,4.1,4.1
+8,prime minister julia gillard,1,,4.1,4.1
+8,kadima,1,,4.1,4.1
+8,backbencher,1,,4.1,4.1
+8,newspoll,1,,4.1,4.1
+8,ms bligh,1,,4.1,4.1
+8,opposition,1,,4.1,4.1
+8,rudd,1,,4.1,4.1
+8,nsw premier,1,,4.1,4.1
+8,mr brumby,1,,4.1,4.1
+8,government,1,,4.1,4.1
+8,weekly jobless,1,,4.1,4.1
+8,backbenchers,1,,4.1,4.1
+8,libs,1,,4.1,4.1
+8,premier anna bligh,1,,4.1,4.1
+8,shas,1,,4.1,4.1
+8,primary industries,1,,4.1,4.1
+8,opposition leader,1,,4.1,4.1
+8,electorates,1,,4.1,4.1
+8,mr ruddock,1,,4.1,4.1
+8,brumby,1,,4.1,4.1
+8,costello,1,,4.1,4.1
+8,democratic party,1,,4.1,4.1
+8,treasurer wayne,1,,4.1,4.1
+8,stephen conroy,1,,4.1,4.1
+8,shadow cabinet,1,,4.1,4.1
+8,prime minister kevin rudd,1,,4.1,4.1
+8,opposition leader tony,1,,4.1,4.1
+8,liberal mp,1,,4.1,4.1
+8,non farm payrolls,1,,4.1,4.1
+8,peter beattie,1,,4.1,4.1
+8,treasury,1,,4.1,4.1
+8,factional,1,,4.1,4.1
+8,nsw,1,,4.1,4.1
+8,maori party,1,,4.1,4.1
+8,peretz,1,,4.1,4.1
+8,unionism,1,,4.1,4.1
+8,crean,1,,4.1,4.1
+8,socialist,1,,4.1,4.1
+8,agriculture,1,,4.1,4.1
+8,electorate,1,,4.1,4.1
+8,canberra,1,,4.1,4.1
+8,unionists,1,,4.1,4.1
+8,queensland,1,,4.1,4.1
+8,savings,1,,4.1,4.1
+8,nonperforming loans,1,,4.1,4.1
+8,refinanced,1,,4.1,4.1
+8,repay,1,,4.1,4.1
+8,escrow,1,,4.1,4.1
+8,repaid,1,,4.1,4.1
+8,account,1,,4.1,4.1
+8,adjustable rate,1,,4.1,4.1
+8,defaulted,1,,4.1,4.1
+8,arms,1,,4.1,4.1
+8,deposit,1,,4.1,4.1
+8,rental,1,,4.1,4.1
+8,federal savings,1,,4.1,4.1
+8,credits,1,,4.1,4.1
+8,fico,1,,4.1,4.1
+8,courtesy,1,,4.1,4.1
+8,card issuer,1,,4.1,4.1
+8,equifax,1,,4.1,4.1
+8,transunion,1,,4.1,4.1
+8,debit card,1,,4.1,4.1
+8,photo,1,,4.1,4.1
+8,credit bureaus,1,,4.1,4.1
+8,fair isaac,1,,4.1,4.1
+8,image,1,,4.1,4.1
+8,visa,1,,4.1,4.1
+8,citibank,1,,4.1,4.1
+8,debit cards,1,,4.1,4.1
+8,experian,1,,4.1,4.1
+8,accounts receivable,1,,4.1,4.1
+8,apr,1,,4.1,4.1
+8,credit worthiness,1,,4.1,4.1
+8,money,1,,4.1,4.1
+8,credit histories,1,,4.1,4.1
+8,prevailing wage,1,,4.1,4.1
+8,income tax,1,,4.1,4.1
+8,tariff,1,,4.1,4.1
+8,consumer protection,1,,4.1,4.1
+8,whistleblower,1,,4.1,4.1
+8,settlement,1,,4.1,4.1
+8,collective bargaining agreements,1,,4.1,4.1
+8,antitrust,1,,4.1,4.1
+8,internal,1,,4.1,4.1
+8,employee free,1,,4.1,4.1
+8,electricity,1,,4.1,4.1
+8,affirmative action,1,,4.1,4.1
+8,motor vehicle,1,,4.1,4.1
+8,fairness,1,,4.1,4.1
+8,eligibility,1,,4.1,4.1
+8,invest,1,,4.1,4.1
+8,advisors,1,,4.1,4.1
+8,investment promotion,1,,4.1,4.1
+8,institutional investors,1,,4.1,4.1
+8,portfolio manager,1,,4.1,4.1
+8,property,1,,4.1,4.1
+8,reits,1,,4.1,4.1
+8,opportunities fund,1,,4.1,4.1
+8,real estate investment,1,,4.1,4.1
+8,investment banking,1,,4.1,4.1
+8,alternative energy,1,,4.1,4.1
+8,capital partners,1,,4.1,4.1
+8,total return,1,,4.1,4.1
+8,reit,1,,4.1,4.1
+8,asset allocation,1,,4.1,4.1
+8,capital advisors,1,,4.1,4.1
+8,management,1,,4.1,4.1
+8,degradation,1,,4.1,4.1
+8,marginalization,1,,4.1,4.1
+8,scarcity,1,,4.1,4.1
+8,urban sprawl,1,,4.1,4.1
+8,depletion,1,,4.1,4.1
+8,exploitation,1,,4.1,4.1
+8,rampant corruption,1,,4.1,4.1
+8,erosion,1,,4.1,4.1
+8,indigenous peoples,1,,4.1,4.1
+8,injustice,1,,4.1,4.1
+8,livelihoods,1,,4.1,4.1
+8,scourge,1,,4.1,4.1
+8,displacement,1,,4.1,4.1
+8,encroachment,1,,4.1,4.1
+8,injustices,1,,4.1,4.1
+8,militarization,1,,4.1,4.1
+8,epidemics,1,,4.1,4.1
+8,malnutrition,1,,4.1,4.1
+8,lawlessness,1,,4.1,4.1
+8,natural calamities,1,,4.1,4.1
+8,sprawl,1,,4.1,4.1
+8,immorality,1,,4.1,4.1
+8,gentrification,1,,4.1,4.1
+8,reforestation,1,,4.1,4.1
+8,endemic,1,,4.1,4.1
+8,adverse impacts,1,,4.1,4.1
+8,evils,1,,4.1,4.1
+8,water borne diseases,1,,4.1,4.1
+8,arable land,1,,4.1,4.1
+8,livelihood,1,,4.1,4.1
+8,oppression,1,,4.1,4.1
+8,destruction,1,,4.1,4.1
+8,proliferation,1,,4.1,4.1
+8,harmful effects,1,,4.1,4.1
+8,depleting,1,,4.1,4.1
+8,indiscriminate,1,,4.1,4.1
+8,politicization,1,,4.1,4.1
+8,criminalization,1,,4.1,4.1
+8,unsustainable,1,,4.1,4.1
+8,root causes,1,,4.1,4.1
+8,inaction,1,,4.1,4.1
+8,greed,1,,4.1,4.1
+8,inhumanity,1,,4.1,4.1
+8,colonialism,1,,4.1,4.1
+8,traffic congestion,1,,4.1,4.1
+8,wastage,1,,4.1,4.1
+8,degeneration,1,,4.1,4.1
+8,sufferings,1,,4.1,4.1
+8,prosperous,1,,4.1,4.1
+8,culturally,1,,4.1,4.1
+8,socially,1,,4.1,4.1
+8,economically viable,1,,4.1,4.1
+8,economically depressed,1,,4.1,4.1
+8,militarily,1,,4.1,4.1
+8,actually,1,,4.1,4.1
+8,arguing,1,,4.1,4.1
+8,taxing,1,,4.1,4.1
+8,undoubtedly,1,,4.1,4.1
+8,administratively,1,,4.1,4.1
+8,paradoxically,1,,4.1,4.1
+8,probably,1,,4.1,4.1
+8,practically,1,,4.1,4.1
+8,even,1,,4.1,4.1
+8,populous,1,,4.1,4.1
+8,declaring,1,,4.1,4.1
+8,argues,1,,4.1,4.1
+8,prospering,1,,4.1,4.1
+8,because,1,,4.1,4.1
+8,enormously,1,,4.1,4.1
+8,surely,1,,4.1,4.1
+8,of course,1,,4.1,4.1
+8,it'sa,1,,4.1,4.1
+8,considering,1,,4.1,4.1
+8,rebuilding,1,,4.1,4.1
+8,obviously,1,,4.1,4.1
+8,what,1,,4.1,4.1
+8,cyclicality,1,,4.1,4.1
+8,capex,1,,4.1,4.1
+8,economic downturn,1,,4.1,4.1
+8,downturn,1,,4.1,4.1
+8,gross margin,1,,4.1,4.1
+8,cyclical,1,,4.1,4.1
+8,capital expenditure,1,,4.1,4.1
+8,retrenchment,1,,4.1,4.1
+8,regulatory framework,1,,4.1,4.1
+8,gross margins,1,,4.1,4.1
+8,budget deficits,1,,4.1,4.1
+8,deepening recession,1,,4.1,4.1
+8,stagnation,1,,4.1,4.1
+8,housing slump,1,,4.1,4.1
+8,dropout rates,1,,4.1,4.1
+8,unsold homes,1,,4.1,4.1
+8,educational attainment,1,,4.1,4.1
+8,hopelessness,1,,4.1,4.1
+8,mortgage defaults,1,,4.1,4.1
+8,deficits,1,,4.1,4.1
+8,deepest recession,1,,4.1,4.1
+8,destitution,1,,4.1,4.1
+8,recidivism,1,,4.1,4.1
+8,bankruptcies,1,,4.1,4.1
+8,housing affordability,1,,4.1,4.1
+8,teenage pregnancy,1,,4.1,4.1
+8,dropouts,1,,4.1,4.1
+8,emigration,1,,4.1,4.1
+8,malaise,1,,4.1,4.1
+8,zandi,1,,4.1,4.1
+8,stubbornly,1,,4.1,4.1
+8,incarceration,1,,4.1,4.1
+8,borrowing costs,1,,4.1,4.1
+8,pessimism,1,,4.1,4.1
+8,midterm election,1,,4.1,4.1
+8,suicides,1,,4.1,4.1
+8,unpopularity,1,,4.1,4.1
+8,budget shortfalls,1,,4.1,4.1
+8,disaffection,1,,4.1,4.1
+8,teen pregnancy,1,,4.1,4.1
+8,absenteeism,1,,4.1,4.1
+8,great depression,1,,4.1,4.1
+8,infrastructures,1,,4.1,4.1
+8,upgradation,1,,4.1,4.1
+8,upliftment,1,,4.1,4.1
+8,electrification,1,,4.1,4.1
+8,decentralization,1,,4.1,4.1
+8,computerization,1,,4.1,4.1
+8,stadia,1,,4.1,4.1
+8,potentials,1,,4.1,4.1
+8,developmental,1,,4.1,4.1
+8,sewerage,1,,4.1,4.1
+8,parastatals,1,,4.1,4.1
+8,nepad,1,,4.1,4.1
+8,tertiary institutions,1,,4.1,4.1
+8,logistic,1,,4.1,4.1
+8,railways,1,,4.1,4.1
+8,equipments,1,,4.1,4.1
+8,n#.# billion,1,,4.1,4.1
+8,tertiary education,1,,4.1,4.1
+8,fashola,1,,4.1,4.1
+8,indigenes,1,,4.1,4.1
+8,ghanaians,1,,4.1,4.1
+8,parastatal,1,,4.1,4.1
+8,sanitation,1,,4.1,4.1
+8,hinterland,1,,4.1,4.1
+8,feasibility studies,1,,4.1,4.1
+8,development programme,1,,4.1,4.1
+8,dfid,1,,4.1,4.1
+8,ghana,1,,4.1,4.1
+8,underdeveloped,1,,4.1,4.1
+8,lagos,1,,4.1,4.1
+8,disbursement,1,,4.1,4.1
+8,expenditure,1,,4.1,4.1
+8,globacom,1,,4.1,4.1
+8,implementation,1,,4.1,4.1
+8,nigerians,1,,4.1,4.1
+8,zambia,1,,4.1,4.1
+8,nitel,1,,4.1,4.1
+8,constructions,1,,4.1,4.1
+8,nigeria,1,,4.1,4.1
+8,president kufuor,1,,4.1,4.1
+8,upgrading,1,,4.1,4.1
+8,dispensation,1,,4.1,4.1
+8,medium enterprises,1,,4.1,4.1
+8,fct,1,,4.1,4.1
+8,inspite,1,,4.1,4.1
+8,envisaged,1,,4.1,4.1
+8,mahama,1,,4.1,4.1
+8,sh#.# billion,1,,4.1,4.1
+8,n##,1,,4.1,4.1
+8,imo state,1,,4.1,4.1
+8,ogun state,1,,4.1,4.1
+8,imo,1,,4.1,4.1
+8,technological advancement,1,,4.1,4.1
+8,linkages,1,,4.1,4.1
+8,internally generated,1,,4.1,4.1
+8,gambia,1,,4.1,4.1
+8,benin,1,,4.1,4.1
+8,abuja,1,,4.1,4.1
+8,ondo state,1,,4.1,4.1
+8,legislations,1,,4.1,4.1
+8,democratization,1,,4.1,4.1
+8,agro,1,,4.1,4.1
+8,masterplan,1,,4.1,4.1
+8,akwa ibom,1,,4.1,4.1
+8,steve jobs,1,,4.1,4.1
+8,ballmer,1,,4.1,4.1
+8,apple,1,,4.1,4.1
+8,otellini,1,,4.1,4.1
+8,eric schmidt,1,,4.1,4.1
+8,steve ballmer,1,,4.1,4.1
+8,apple aapl,1,,4.1,4.1
+8,bezos,1,,4.1,4.1
+8,immelt,1,,4.1,4.1
+8,ipad,1,,4.1,4.1
+8,wwdc,1,,4.1,4.1
+8,macbooks,1,,4.1,4.1
+8,apple ipad,1,,4.1,4.1
+8,macworld,1,,4.1,4.1
+8,wozniak,1,,4.1,4.1
+8,apple nasdaq aapl,1,,4.1,4.1
+8,semel,1,,4.1,4.1
+8,buffett,1,,4.1,4.1
+8,palm pre,1,,4.1,4.1
+8,aapl,1,,4.1,4.1
+8,apple computer,1,,4.1,4.1
+8,mulally,1,,4.1,4.1
+8,fiorina,1,,4.1,4.1
+8,mobileme,1,,4.1,4.1
+8,zuckerberg,1,,4.1,4.1
+8,nexus one,1,,4.1,4.1
+8,ceo steve ballmer,1,,4.1,4.1
+8,enderle,1,,4.1,4.1
+8,mark zuckerberg,1,,4.1,4.1
+8,imac,1,,4.1,4.1
+8,iphones,1,,4.1,4.1
+8,kallasvuo,1,,4.1,4.1
+8,iger,1,,4.1,4.1
+8,techies,1,,4.1,4.1
+8,execs,1,,4.1,4.1
+8,ibooks,1,,4.1,4.1
+8,tech,1,,4.1,4.1
+8,ceos,1,,4.1,4.1
+8,eisner,1,,4.1,4.1
+8,colligan,1,,4.1,4.1
+8,macbook air,1,,4.1,4.1
+8,mcnealy,1,,4.1,4.1
+8,blankfein,1,,4.1,4.1
+8,elop,1,,4.1,4.1
+8,imacs,1,,4.1,4.1
+8,slash,1,,4.1,4.1
+8,ipads,1,,4.1,4.1
+8,apotheker,1,,4.1,4.1
+8,thrive,1,,4.1,4.1
+8,ilife,1,,4.1,4.1
+8,bartz,1,,4.1,4.1
+8,iphone 3gs,1,,4.1,4.1
+8,silicon valley,1,,4.1,4.1
+8,macbook,1,,4.1,4.1
+8,chrome os,1,,4.1,4.1
+8,foxconn,1,,4.1,4.1
+8,techcrunch,1,,4.1,4.1
+8,iphone 3g,1,,4.1,4.1
+8,dell,1,,4.1,4.1
+8,wp7,1,,4.1,4.1
+8,iphone 4g,1,,4.1,4.1
+8,boehner,1,,4.1,4.1
+8,businessweek,1,,4.1,4.1
+8,mark hurd,1,,4.1,4.1
+8,genachowski,1,,4.1,4.1
+8,macbook pro,1,,4.1,4.1
+8,laptops,1,,4.1,4.1
+8,nardelli,1,,4.1,4.1
+8,apps,1,,4.1,4.1
+8,connect,1,,4.1,4.1
+8,net neutrality,1,,4.1,4.1
+8,emerging,1,,4.1,4.1
+8,value,1,,4.1,4.1
+8,values,1,,4.1,4.1
+8,consolidation,1,,4.1,4.1
+8,gains,1,,4.1,4.1
+8,biotech,1,,4.1,4.1
+8,improvement,1,,4.1,4.1
+8,activity,1,,4.1,4.1
+8,stability,1,,4.1,4.1
+8,allocation,1,,4.1,4.1
+8,cagr,1,,4.1,4.1
+8,declines,1,,4.1,4.1
+8,reinvestment,1,,4.1,4.1
+8,robust,1,,4.1,4.1
+8,annualized,1,,4.1,4.1
+8,performance,1,,4.1,4.1
+8,bric,1,,4.1,4.1
+8,first quarter results,1,,4.1,4.1
+8,buyout,1,,4.1,4.1
+8,increases,1,,4.1,4.1
+8,success,1,,4.1,4.1
+8,cautious,1,,4.1,4.1
+8,partnership,1,,4.1,4.1
+8,recovery,1,,4.1,4.1
+8,bandwidth,1,,4.1,4.1
+8,catalyst,1,,4.1,4.1
+8,capacity,1,,4.1,4.1
+8,accelerating,1,,4.1,4.1
+8,revenues,1,,4.1,4.1
+8,revenue,1,,4.1,4.1
+8,improvements,1,,4.1,4.1
+8,decline,1,,4.1,4.1
+8,consensus,1,,4.1,4.1
+8,renewal,1,,4.1,4.1
+8,acceleration,1,,4.1,4.1
+8,upwardly revised,1,,4.1,4.1
+8,m m,1,,4.1,4.1
+8,downwardly revised,1,,4.1,4.1
+8,statistical office,1,,4.1,4.1
+8,% y y,1,,4.1,4.1
+8,stockpiles,1,,4.1,4.1
+8,consumer confidence index,1,,4.1,4.1
+8,slowest pace,1,,4.1,4.1
+8,durable goods,1,,4.1,4.1
+8,manufactured goods,1,,4.1,4.1
+8,statistics,1,,4.1,4.1
+8,#.#pc,1,,4.1,4.1
+8,soybeans,1,,4.1,4.1
+8,excludes volatile,1,,4.1,4.1
+8,median forecast,1,,4.1,4.1
+8,ppi,1,,4.1,4.1
+8,ism manufacturing,1,,4.1,4.1
+8,producer price index,1,,4.1,4.1
+8,heating oil,1,,4.1,4.1
+8,durable goods orders,1,,4.1,4.1
+8,shipments,1,,4.1,4.1
+8,revised upward,1,,4.1,4.1
+8,yoy,1,,4.1,4.1
+8,price index,1,,4.1,4.1
+8,+#.# %,1,,4.1,4.1
+8,cdm,1,,4.1,4.1
+8,import tariffs,1,,4.1,4.1
+8,biodiesel,1,,4.1,4.1
+8,diesel,1,,4.1,4.1
+8,legally binding,1,,4.1,4.1
+8,mpg,1,,4.1,4.1
+8,gigawatts,1,,4.1,4.1
+8,financially viable,1,,4.1,4.1
+8,stay afloat,1,,4.1,4.1
+8,staying,1,,4.1,4.1
+8,owning,1,,4.1,4.1
+8,financially strapped,1,,4.1,4.1
+8,bottom line,1,,4.1,4.1
+8,still,1,,4.1,4.1
+8,athletically,1,,4.1,4.1
+8,artistically,1,,4.1,4.1
+8,financial straits,1,,4.1,4.1
+8,shoestring budget,1,,4.1,4.1
+8,truthfully,1,,4.1,4.1
+8,absolutely,1,,4.1,4.1
+8,having,1,,4.1,4.1
+8,selling,1,,4.1,4.1
+8,budgeting,1,,4.1,4.1
+8,academically,1,,4.1,4.1
+8,knowing,1,,4.1,4.1
+8,paying,1,,4.1,4.1
+8,quite frankly,1,,4.1,4.1
+8,revenue streams,1,,4.1,4.1
+8,honestly,1,,4.1,4.1
+8,fiscally responsible,1,,4.1,4.1
+8,without,1,,4.1,4.1
+8,winning,1,,4.1,4.1
+8,cash strapped,1,,4.1,4.1
+8,overall,1,,4.1,4.1
+8,footing,1,,4.1,4.1
+8,sellers,1,,4.1,4.1
+8,credit unions,1,,4.1,4.1
+8,small,1,,4.1,4.1
+8,thrifts,1,,4.1,4.1
+8,smith,1,,4.1,4.1
+8,branches,1,,4.1,4.1
+8,exporters,1,,4.1,4.1
+8,williams,1,,4.1,4.1
+8,merchant,1,,4.1,4.1
+8,systemically important,1,,4.1,4.1
+8,anderson,1,,4.1,4.1
+8,waters,1,,4.1,4.1
+8,darling,1,,4.1,4.1
+8,taylor,1,,4.1,4.1
+8,nelms,1,,4.1,4.1
+8,riggs,1,,4.1,4.1
+8,depositors,1,,4.1,4.1
+8,bankers association,1,,4.1,4.1
+8,merchants,1,,4.1,4.1
+8,tucker,1,,4.1,4.1
+8,wells,1,,4.1,4.1
+8,bair,1,,4.1,4.1
+8,towns,1,,4.1,4.1
+8,mfis,1,,4.1,4.1
+8,herring,1,,4.1,4.1
+8,tcf,1,,4.1,4.1
+8,flowers,1,,4.1,4.1
+8,jenkins,1,,4.1,4.1
+8,wilson,1,,4.1,4.1
+8,lloyds,1,,4.1,4.1
+8,turner,1,,4.1,4.1
+8,biddle,1,,4.1,4.1
+8,crooks,1,,4.1,4.1
+8,cooper,1,,4.1,4.1
+8,smaller,1,,4.1,4.1
+8,simmons,1,,4.1,4.1
+8,lowman,1,,4.1,4.1
+8,collins,1,,4.1,4.1
+8,holloway,1,,4.1,4.1
+8,peoples,1,,4.1,4.1
+8,robinson,1,,4.1,4.1
+8,freeman,1,,4.1,4.1
+8,hunter,1,,4.1,4.1
+8,hester,1,,4.1,4.1
+8,willis,1,,4.1,4.1
+8,hsbc holdings,1,,4.1,4.1
+8,atkins,1,,4.1,4.1
+8,hines,1,,4.1,4.1
+8,haynes,1,,4.1,4.1
+8,poole,1,,4.1,4.1
+8,bofa,1,,4.1,4.1
+8,harris,1,,4.1,4.1
+8,matthews,1,,4.1,4.1
+8,brown,1,,4.1,4.1
+8,iucn,1,,4.1,4.1
+8,habitats,1,,4.1,4.1
+8,fauna,1,,4.1,4.1
+8,endangered species,1,,4.1,4.1
+8,flora,1,,4.1,4.1
+8,habitat,1,,4.1,4.1
+8,aquaculture,1,,4.1,4.1
+8,natural history,1,,4.1,4.1
+8,wetland,1,,4.1,4.1
+8,ecotourism,1,,4.1,4.1
+8,endangered,1,,4.1,4.1
+8,coral reefs,1,,4.1,4.1
+8,wildlife conservation society,1,,4.1,4.1
+8,nature,1,,4.1,4.1
+8,oceanography,1,,4.1,4.1
+8,amphibians,1,,4.1,4.1
+8,astronomy,1,,4.1,4.1
+8,bird species,1,,4.1,4.1
+8,fao,1,,4.1,4.1
+8,invasive species,1,,4.1,4.1
+8,archaeological,1,,4.1,4.1
+8,horticulture,1,,4.1,4.1
+8,farming,1,,4.1,4.1
+8,biology,1,,4.1,4.1
+8,languages,1,,4.1,4.1
+8,adaptation,1,,4.1,4.1
+8,freshwater,1,,4.1,4.1
+8,conservationist,1,,4.1,4.1
+8,rspb,1,,4.1,4.1
+8,archaeology,1,,4.1,4.1
+8,geology,1,,4.1,4.1
+8,critically endangered,1,,4.1,4.1
+8,mangroves,1,,4.1,4.1
+8,activism,1,,4.1,4.1
+8,feminism,1,,4.1,4.1
+8,vegetarianism,1,,4.1,4.1
+8,environmental stewardship,1,,4.1,4.1
+8,environmentally conscious,1,,4.1,4.1
+8,humanism,1,,4.1,4.1
+8,individualism,1,,4.1,4.1
+8,idealism,1,,4.1,4.1
+8,eco conscious,1,,4.1,4.1
+8,ideology,1,,4.1,4.1
+8,materialism,1,,4.1,4.1
+8,eco friendly,1,,4.1,4.1
+8,spirituality,1,,4.1,4.1
+8,hippie,1,,4.1,4.1
+8,dogma,1,,4.1,4.1
+8,populism,1,,4.1,4.1
+8,greening,1,,4.1,4.1
+8,marxism,1,,4.1,4.1
+8,fundamentalism,1,,4.1,4.1
+8,humanist,1,,4.1,4.1
+8,socially conscious,1,,4.1,4.1
+8,commercialism,1,,4.1,4.1
+8,political correctness,1,,4.1,4.1
+8,feminist,1,,4.1,4.1
+8,mother earth,1,,4.1,4.1
+8,socialism,1,,4.1,4.1
+8,ethic,1,,4.1,4.1
+8,modernism,1,,4.1,4.1
+8,darwinism,1,,4.1,4.1
+8,politically correct,1,,4.1,4.1
+8,atheism,1,,4.1,4.1
+8,utopian,1,,4.1,4.1
+8,organic farming,1,,4.1,4.1
+8,environmentally friendly,1,,4.1,4.1
+8,libertarian,1,,4.1,4.1
+8,altruism,1,,4.1,4.1
+8,militarism,1,,4.1,4.1
+8,fiscal conservatism,1,,4.1,4.1
+8,modernity,1,,4.1,4.1
+8,self righteous,1,,4.1,4.1
+8,zealots,1,,4.1,4.1
+8,multiculturalism,1,,4.1,4.1
+8,feminists,1,,4.1,4.1
+8,ideologues,1,,4.1,4.1
+8,postmodern,1,,4.1,4.1
+8,religious right,1,,4.1,4.1
+8,worldview,1,,4.1,4.1
+8,organic foods,1,,4.1,4.1
+8,ideological,1,,4.1,4.1
+8,leftists,1,,4.1,4.1
+8,evangelicals,1,,4.1,4.1
+8,orthodoxy,1,,4.1,4.1
+8,conservatives,1,,4.1,4.1
+8,christianity,1,,4.1,4.1
+8,ideologies,1,,4.1,4.1
+8,libertarians,1,,4.1,4.1
+8,morality,1,,4.1,4.1
+8,counterculture,1,,4.1,4.1
+8,zeitgeist,1,,4.1,4.1
+8,hippies,1,,4.1,4.1
+8,preachy,1,,4.1,4.1
+8,capitalist,1,,4.1,4.1
+8,nationalism,1,,4.1,4.1
+8,religion,1,,4.1,4.1
+8,radicalism,1,,4.1,4.1
+8,dogmatic,1,,4.1,4.1
+8,elitism,1,,4.1,4.1
+8,opponents,1,,4.1,4.1
+8,backers,1,,4.1,4.1
+8,detractors,1,,4.1,4.1
+8,skeptics,1,,4.1,4.1
+8,supporters,1,,4.1,4.1
+8,biologists,1,,4.1,4.1
+8,lawmakers,1,,4.1,4.1
+8,officials,1,,4.1,4.1
+8,others,1,,4.1,4.1
+8,observers,1,,4.1,4.1
+8,politicians,1,,4.1,4.1
+8,locals,1,,4.1,4.1
+8,scientists,1,,4.1,4.1
+8,landowners,1,,4.1,4.1
+8,experts,1,,4.1,4.1
+8,some,1,,4.1,4.1
+8,foes,1,,4.1,4.1
+8,organizers,1,,4.1,4.1
+8,ranchers,1,,4.1,4.1
+8,legislators,1,,4.1,4.1
+8,analysts,1,,4.1,4.1
+8,commentators,1,,4.1,4.1
+8,many,1,,4.1,4.1
+8,protesters,1,,4.1,4.1
+8,needless,1,,4.1,4.1
+8,villagers,1,,4.1,4.1
+8,preservationists,1,,4.1,4.1
+8,fishermen,1,,4.1,4.1
+8,dozens,1,,4.1,4.1
+8,demonstrators,1,,4.1,4.1
+8,political observers,1,,4.1,4.1
+8,planners,1,,4.1,4.1
+8,historians,1,,4.1,4.1
+8,protestors,1,,4.1,4.1
+8,defense attorneys,1,,4.1,4.1
+8,relatives,1,,4.1,4.1
+8,boaters,1,,4.1,4.1
+8,neighbors,1,,4.1,4.1
+8,archaeologists,1,,4.1,4.1
+8,organisers,1,,4.1,4.1
+8,researchers,1,,4.1,4.1
+8,authorities,1,,4.1,4.1
+8,hundreds,1,,4.1,4.1
+8,stakeholders,1,,4.1,4.1
+8,pundits,1,,4.1,4.1
+8,lawyers,1,,4.1,4.1
+8,groups,1,,4.1,4.1
+8,they,1,,4.1,4.1
+8,geologists,1,,4.1,4.1
+8,environmentally sensitive,1,,4.1,4.1
+8,staffers,1,,4.1,4.1
+8,several,1,,4.1,4.1
+8,veterinarians,1,,4.1,4.1
+8,parishioners,1,,4.1,4.1
+8,onlookers,1,,4.1,4.1
+8,prosecutors,1,,4.1,4.1
+8,doctors,1,,4.1,4.1
+8,neighboring,1,,4.1,4.1
+8,suffice,1,,4.1,4.1
+8,enthusiasts,1,,4.1,4.1
+8,gases,1,,4.1,4.1
+8,ethanol,1,,4.1,4.1
+8,gasses,1,,4.1,4.1
+8,emitter,1,,4.1,4.1
+8,volatile organic compounds,1,,4.1,4.1
+8,water vapor,1,,4.1,4.1
+8,tar sands,1,,4.1,4.1
+8,imf,1,,4.1,4.1
+8,central bank,1,,4.1,4.1
+8,imf managing director,1,,4.1,4.1
+8,bearish,1,,4.1,4.1
+8,rebalancing,1,,4.1,4.1
+8,external,1,,4.1,4.1
+8,swfs,1,,4.1,4.1
+8,central bankers,1,,4.1,4.1
+8,quantitative,1,,4.1,4.1
+8,contamination,1,,4.1,4.1
+8,congestion,1,,4.1,4.1
+8,sewage,1,,4.1,4.1
+8,toxic,1,,4.1,4.1
+8,litter,1,,4.1,4.1
+8,algae,1,,4.1,4.1
+8,noise,1,,4.1,4.1
+8,radiation,1,,4.1,4.1
+8,oil spill,1,,4.1,4.1
+8,corruption,1,,4.1,4.1
+8,piracy,1,,4.1,4.1
+8,pollute,1,,4.1,4.1
+8,cleaner,1,,4.1,4.1
+8,arsenic,1,,4.1,4.1
+8,dumping,1,,4.1,4.1
+8,toxic chemicals,1,,4.1,4.1
+8,exposure,1,,4.1,4.1
+8,garbage,1,,4.1,4.1
+8,accidents,1,,4.1,4.1
+8,drinking,1,,4.1,4.1
+8,spill,1,,4.1,4.1
+8,mitigation,1,,4.1,4.1
+8,drowning,1,,4.1,4.1
+8,clean,1,,4.1,4.1
+8,mercury,1,,4.1,4.1
+8,fatigue,1,,4.1,4.1
+8,smoking,1,,4.1,4.1
+8,toxic waste,1,,4.1,4.1
+8,clean up,1,,4.1,4.1
+8,contaminants,1,,4.1,4.1
+8,contaminant,1,,4.1,4.1
+8,doping,1,,4.1,4.1
+8,traffic,1,,4.1,4.1
+8,toxins,1,,4.1,4.1
+8,speeding,1,,4.1,4.1
+8,countries,1,,4.1,4.1
+8,cities,1,,4.1,4.1
+8,globalized,1,,4.1,4.1
+8,indexes,1,,4.1,4.1
+8,disasters,1,,4.1,4.1
+8,societies,1,,4.1,4.1
+8,enterprises,1,,4.1,4.1
+8,supply chains,1,,4.1,4.1
+8,crops,1,,4.1,4.1
+8,nations,1,,4.1,4.1
+8,benchmarks,1,,4.1,4.1
+8,industrialized countries,1,,4.1,4.1
+8,humans,1,,4.1,4.1
+8,social cohesion,1,,4.1,4.1
+8,risks,1,,4.1,4.1
+8,environmental protection,1,,4.1,4.1
+8,environmental quality,1,,4.1,4.1
+8,nrdc,1,,4.1,4.1
+8,natural resources,1,,4.1,4.1
+8,dep,1,,4.1,4.1
+8,deq,1,,4.1,4.1
+8,land use,1,,4.1,4.1
+8,animal,1,,4.1,4.1
+8,environmental conservation,1,,4.1,4.1
+8,solid waste management,1,,4.1,4.1
+8,waste management,1,,4.1,4.1
+8,water resources,1,,4.1,4.1
+8,soil,1,,4.1,4.1
+8,environmental control,1,,4.1,4.1
+8,resource management,1,,4.1,4.1
+8,idem,1,,4.1,4.1
+8,waterways,1,,4.1,4.1
+8,wastewater,1,,4.1,4.1
+8,aquatic,1,,4.1,4.1
+8,river watershed,1,,4.1,4.1
+8,clean water act,1,,4.1,4.1
+8,hazardous waste,1,,4.1,4.1
+8,preservation,1,,4.1,4.1
+8,water,1,,4.1,4.1
+8,environmental assessment,1,,4.1,4.1
+8,coastal,1,,4.1,4.1
+8,smart growth,1,,4.1,4.1
+8,public works,1,,4.1,4.1
+8,historic preservation,1,,4.1,4.1
+8,dec,1,,4.1,4.1
+8,conservancy,1,,4.1,4.1

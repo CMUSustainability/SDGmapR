@@ -1,0 +1,2198 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+15,biodiversity,45,True,4.61,207.45000000000002
+15,forests,42,True,3.98,167.16
+15,wildlife,41,True,8.29,339.89
+15,wetlands,38,,3.58,136.04
+15,conservation,37,True,18.06,668.2199999999999
+15,ecological,30,,3.58,107.4
+15,habitat,27,True,5.1,137.7
+15,rainforest,26,,3.58,93.08
+15,ecology,25,True,3.67,91.75
+15,endangered species,24,True,10.21,245.04000000000002
+15,forest,24,True,6.81,163.44
+15,forestry,24,True,6.59,158.16
+15,habitats,24,,3.58,85.92
+15,species,23,True,7.51,172.73
+15,ecosystems,20,,3.58,71.6
+15,fauna,19,,3.58,68.02
+15,wildlife conservation,19,,3.58,68.02
+15,fisheries,19,,3.58,68.02
+15,endangered,18,True,15.55,279.90000000000003
+15,invasive species,18,True,7.75,139.5
+15,wetland,18,,3.58,64.44
+15,nature conservancy,18,,3.58,64.44
+15,conservationists,18,,3.58,64.44
+15,conservancy,18,,3.58,64.44
+15,watershed,17,,3.58,60.86
+15,woodlands,17,,3.58,60.86
+15,environmental,16,True,5.58,89.28
+15,ecosystem,15,True,4.51,67.64999999999999
+15,elephant,15,True,3.85,57.75
+15,flora,15,,3.58,53.7
+15,animals,15,,3.58,53.7
+15,wildlife habitat,15,,3.58,53.7
+15,bird species,14,,3.58,50.120000000000005
+15,frogs,14,,3.58,50.120000000000005
+15,grasslands,14,,3.58,50.120000000000005
+15,vegetation,14,,3.58,50.120000000000005
+15,climate change,13,,3.58,46.54
+15,tropical forests,13,,3.58,46.54
+15,amphibians,13,,3.58,46.54
+15,ecologically,13,,3.58,46.54
+15,otters,13,,3.58,46.54
+15,mammals,13,,3.58,46.54
+15,turtles,13,,3.58,46.54
+15,waterways,13,,3.58,46.54
+15,forestland,13,,3.58,46.54
+15,coral reefs,12,,3.58,42.96
+15,watersheds,12,,3.58,42.96
+15,mangroves,12,,3.58,42.96
+15,tigers,12,,3.58,42.96
+15,leopards,12,,3.58,42.96
+15,timber,12,,3.58,42.96
+15,mangrove,12,,3.58,42.96
+15,rhinos,12,,3.58,42.96
+15,gorilla,11,True,4.24,46.64
+15,crocodile,11,True,3.88,42.68
+15,rainforests,11,,3.58,39.38
+15,birds,11,,3.58,39.38
+15,logging,11,,3.58,39.38
+15,woodland,11,,3.58,39.38
+15,grassland,11,,3.58,39.38
+15,rhino,11,,3.58,39.38
+15,orangutans,11,,3.58,39.38
+15,reforestation,10,True,13.08,130.8
+15,preservation,10,True,8.31,83.10000000000001
+15,deforestation,10,True,7.44,74.4
+15,freshwater,10,True,4.33,43.3
+15,fishery,10,,3.58,35.8
+15,mammal,10,,3.58,35.8
+15,amphibian,10,,3.58,35.8
+15,pollinators,10,,3.58,35.8
+15,forested,10,,3.58,35.8
+15,gorillas,10,,3.58,35.8
+15,plantation,9,True,4.96,44.64
+15,plantations,9,True,3.59,32.31
+15,biosphere,9,,3.58,32.22
+15,natural resource,9,,3.58,32.22
+15,otter,9,,3.58,32.22
+15,zoo,9,,3.58,32.22
+15,bald eagles,9,,3.58,32.22
+15,raptors,9,,3.58,32.22
+15,tiger,9,,3.58,32.22
+15,whales,9,,3.58,32.22
+15,creatures,9,,3.58,32.22
+15,insects,9,,3.58,32.22
+15,reptiles,9,,3.58,32.22
+15,lizards,9,,3.58,32.22
+15,monkeys,9,,3.58,32.22
+15,estuaries,9,,3.58,32.22
+15,turtle,9,,3.58,32.22
+15,koalas,9,,3.58,32.22
+15,chimpanzees,8,True,7.03,56.24
+15,environment,8,,3.58,28.64
+15,ecologist,8,,3.58,28.64
+15,aquaculture,8,,3.58,28.64
+15,wwf,8,,3.58,28.64
+15,ecotourism,8,,3.58,28.64
+15,groundwater,8,,3.58,28.64
+15,public lands,8,,3.58,28.64
+15,animal,8,,3.58,28.64
+15,waterfowl,8,,3.58,28.64
+15,wilderness,8,,3.58,28.64
+15,corals,8,,3.58,28.64
+15,invertebrates,8,,3.58,28.64
+15,creature,8,,3.58,28.64
+15,reefs,8,,3.58,28.64
+15,preserve,8,,3.58,28.64
+15,aquatic,8,,3.58,28.64
+15,trees,8,,3.58,28.64
+15,estuary,8,,3.58,28.64
+15,coral reef,8,,3.58,28.64
+15,lakes,8,,3.58,28.64
+15,owl,8,,3.58,28.64
+15,toad,8,,3.58,28.64
+15,soil erosion,8,,3.58,28.64
+15,lizard,8,,3.58,28.64
+15,cheetah,8,,3.58,28.64
+15,monkey,8,,3.58,28.64
+15,snake,8,,3.58,28.64
+15,squirrel,8,,3.58,28.64
+15,desertification,7,True,10.89,76.23
+15,iucn,7,True,4.53,31.71
+15,panda,7,True,4.31,30.169999999999998
+15,biological diversity,7,True,3.78,26.459999999999997
+15,primates,7,True,3.64,25.48
+15,climate,7,,3.58,25.060000000000002
+15,agricultural,7,,3.58,25.060000000000002
+15,horticulture,7,,3.58,25.060000000000002
+15,conservationist,7,,3.58,25.060000000000002
+15,global warming,7,,3.58,25.060000000000002
+15,critically endangered,7,,3.58,25.060000000000002
+15,natural resources,7,,3.58,25.060000000000002
+15,wildlife federation,7,,3.58,25.060000000000002
+15,elk,7,,3.58,25.060000000000002
+15,raptor,7,,3.58,25.060000000000002
+15,reptile,7,,3.58,25.060000000000002
+15,oceans,7,,3.58,25.060000000000002
+15,polar bears,7,,3.58,25.060000000000002
+15,land trust,7,,3.58,25.060000000000002
+15,agriculture,7,,3.58,25.060000000000002
+15,foresters,7,,3.58,25.060000000000002
+15,felling,7,,3.58,25.060000000000002
+15,riparian,7,,3.58,25.060000000000002
+15,environmentally sensitive,7,,3.58,25.060000000000002
+15,migratory birds,7,,3.58,25.060000000000002
+15,foxes,7,,3.58,25.060000000000002
+15,salamanders,7,,3.58,25.060000000000002
+15,crocodiles,7,,3.58,25.060000000000002
+15,lions,7,,3.58,25.060000000000002
+15,cats,7,,3.58,25.060000000000002
+15,grizzly,7,,3.58,25.060000000000002
+15,jungle,7,,3.58,25.060000000000002
+15,rabbit,7,,3.58,25.060000000000002
+15,dinosaur,7,,3.58,25.060000000000002
+15,hippos,7,,3.58,25.060000000000002
+15,sustainable,6,True,5.14,30.839999999999996
+15,zebra,6,True,4.0,24.0
+15,natural history,6,,3.58,21.48
+15,animal welfare,6,,3.58,21.48
+15,nature,6,,3.58,21.48
+15,redd,6,,3.58,21.48
+15,ecologists,6,,3.58,21.48
+15,fish,6,,3.58,21.48
+15,dnr,6,,3.58,21.48
+15,bobcats,6,,3.58,21.48
+15,parks,6,,3.58,21.48
+15,white tailed deer,6,,3.58,21.48
+15,lynx,6,,3.58,21.48
+15,environmental protection,6,,3.58,21.48
+15,antelope,6,,3.58,21.48
+15,manatee,6,,3.58,21.48
+15,clean water,6,,3.58,21.48
+15,wildlife refuge,6,,3.58,21.48
+15,bald eagle,6,,3.58,21.48
+15,organisms,6,,3.58,21.48
+15,sea creatures,6,,3.58,21.48
+15,polar bear,6,,3.58,21.48
+15,flowering plants,6,,3.58,21.48
+15,seabirds,6,,3.58,21.48
+15,water resources,6,,3.58,21.48
+15,forester,6,,3.58,21.48
+15,hardwoods,6,,3.58,21.48
+15,timberland,6,,3.58,21.48
+15,landscapes,6,,3.58,21.48
+15,tortoises,6,,3.58,21.48
+15,panther,6,,3.58,21.48
+15,wildlife refuges,6,,3.58,21.48
+15,grasses,6,,3.58,21.48
+15,critters,6,,3.58,21.48
+15,biomass,6,,3.58,21.48
+15,carbon sequestration,6,,3.58,21.48
+15,cropland,6,,3.58,21.48
+15,upland,6,,3.58,21.48
+15,frog,6,,3.58,21.48
+15,coyote,6,,3.58,21.48
+15,loggers,6,,3.58,21.48
+15,cat,6,,3.58,21.48
+15,giraffe,6,,3.58,21.48
+15,shark,6,,3.58,21.48
+15,cougar,6,,3.58,21.48
+15,apes,6,,3.58,21.48
+15,hunting,5,True,3.96,19.8
+15,sustainable development,5,,3.58,17.9
+15,sustainability,5,,3.58,17.9
+15,unep,5,,3.58,17.9
+15,wildlife conservation society,5,,3.58,17.9
+15,eco,5,,3.58,17.9
+15,wildlife resources,5,,3.58,17.9
+15,deer herd,5,,3.58,17.9
+15,marine mammal,5,,3.58,17.9
+15,bobcat,5,,3.58,17.9
+15,audubon,5,,3.58,17.9
+15,cougars,5,,3.58,17.9
+15,audubon society,5,,3.58,17.9
+15,biologists,5,,3.58,17.9
+15,subspecies,5,,3.58,17.9
+15,humans,5,,3.58,17.9
+15,manatees,5,,3.58,17.9
+15,primate,5,,3.58,17.9
+15,biologist,5,,3.58,17.9
+15,water quality,5,,3.58,17.9
+15,river watershed,5,,3.58,17.9
+15,nature reserve,5,,3.58,17.9
+15,forest fires,5,,3.58,17.9
+15,pines,5,,3.58,17.9
+15,marsh,5,,3.58,17.9
+15,floodplain,5,,3.58,17.9
+15,ponds,5,,3.58,17.9
+15,rivers,5,,3.58,17.9
+15,headwaters,5,,3.58,17.9
+15,sea turtles,5,,3.58,17.9
+15,marine mammals,5,,3.58,17.9
+15,eagles,5,,3.58,17.9
+15,owls,5,,3.58,17.9
+15,overfishing,5,,3.58,17.9
+15,jaguar,5,,3.58,17.9
+15,songbirds,5,,3.58,17.9
+15,soils,5,,3.58,17.9
+15,shorelines,5,,3.58,17.9
+15,glaciers,5,,3.58,17.9
+15,tropical,5,,3.58,17.9
+15,eco tourism,5,,3.58,17.9
+15,replanting,5,,3.58,17.9
+15,farmland,5,,3.58,17.9
+15,landowners,5,,3.58,17.9
+15,bear,5,,3.58,17.9
+15,toads,5,,3.58,17.9
+15,falcons,5,,3.58,17.9
+15,buffaloes,5,,3.58,17.9
+15,indigenous peoples,5,,3.58,17.9
+15,critter,5,,3.58,17.9
+15,chimps,5,,3.58,17.9
+15,banana,5,,3.58,17.9
+15,ape,5,,3.58,17.9
+15,orangutan,5,,3.58,17.9
+15,elephants,5,,3.58,17.9
+15,dog,5,,3.58,17.9
+15,whale,5,,3.58,17.9
+15,dragon,5,,3.58,17.9
+15,tortoise,5,,3.58,17.9
+15,zebras,5,,3.58,17.9
+15,extinction,4,True,20.28,81.12
+15,restoration,4,True,10.36,41.44
+15,wolves,4,True,5.32,21.28
+15,wolf,4,True,4.4,17.6
+15,chimpanzee,4,True,3.84,15.36
+15,stewardship,4,,3.58,14.32
+15,biology,4,,3.58,14.32
+15,rspb,4,,3.58,14.32
+15,archaeology,4,,3.58,14.32
+15,geology,4,,3.58,14.32
+15,wildlife service,4,,3.58,14.32
+15,deer,4,,3.58,14.32
+15,veterinary,4,,3.58,14.32
+15,inland fisheries,4,,3.58,14.32
+15,bighorn sheep,4,,3.58,14.32
+15,exotic animals,4,,3.58,14.32
+15,natural resources conservation,4,,3.58,14.32
+15,bird,4,,3.58,14.32
+15,mountain lion,4,,3.58,14.32
+15,hunters,4,,3.58,14.32
+15,endangered species act,4,,3.58,14.32
+15,vertebrates,4,,3.58,14.32
+15,butterflies,4,,3.58,14.32
+15,pandas,4,,3.58,14.32
+15,woodpecker,4,,3.58,14.32
+15,dinosaurs,4,,3.58,14.32
+15,trout unlimited,4,,3.58,14.32
+15,conservation easements,4,,3.58,14.32
+15,ducks unlimited,4,,3.58,14.32
+15,trails,4,,3.58,14.32
+15,forest service,4,,3.58,14.32
+15,roadless,4,,3.58,14.32
+15,lands,4,,3.58,14.32
+15,planting trees,4,,3.58,14.32
+15,landscape,4,,3.58,14.32
+15,sawmills,4,,3.58,14.32
+15,marshland,4,,3.58,14.32
+15,marshes,4,,3.58,14.32
+15,shoreline,4,,3.58,14.32
+15,greenbelt,4,,3.58,14.32
+15,cites,4,,3.58,14.32
+15,wild salmon,4,,3.58,14.32
+15,genetic diversity,4,,3.58,14.32
+15,hydrology,4,,3.58,14.32
+15,wildfire,4,,3.58,14.32
+15,ranger,4,,3.58,14.32
+15,coral,4,,3.58,14.32
+15,environmental degradation,4,,3.58,14.32
+15,tropics,4,,3.58,14.32
+15,stormwater runoff,4,,3.58,14.32
+15,greenway,4,,3.58,14.32
+15,stormwater,4,,3.58,14.32
+15,fungi,4,,3.58,14.32
+15,arable land,4,,3.58,14.32
+15,palm oil,4,,3.58,14.32
+15,lion,4,,3.58,14.32
+15,monster,4,,3.58,14.32
+15,chimp,4,,3.58,14.32
+15,chameleon,4,,3.58,14.32
+15,goat,4,,3.58,14.32
+15,serengeti,4,,3.58,14.32
+15,ninja,4,,3.58,14.32
+15,grizzly bear,4,,3.58,14.32
+15,bamboo,4,,3.58,14.32
+15,cub,4,,3.58,14.32
+15,koala,4,,3.58,14.32
+15,jungles,4,,3.58,14.32
+15,leopard,4,,3.58,14.32
+15,sea lion,4,,3.58,14.32
+15,penguin,4,,3.58,14.32
+15,pelican,4,,3.58,14.32
+15,giant panda,4,,3.58,14.32
+15,hippo,4,,3.58,14.32
+15,pine trees,4,,3.58,14.32
+15,alligator,4,,3.58,14.32
+15,giraffes,4,,3.58,14.32
+15,baboons,4,,3.58,14.32
+15,poaching,3,True,10.17,30.509999999999998
+15,environmental conservation,3,True,8.86,26.58
+15,land,3,True,4.72,14.16
+15,cheetahs,3,True,3.72,11.16
+15,pest,3,True,3.7,11.100000000000001
+15,renewable energy,3,,3.58,10.74
+15,oceanography,3,,3.58,10.74
+15,unfccc,3,,3.58,10.74
+15,farming,3,,3.58,10.74
+15,fish wildlife,3,,3.58,10.74
+15,fwp,3,,3.58,10.74
+15,wildlife biologist,3,,3.58,10.74
+15,fwc,3,,3.58,10.74
+15,animal rescue,3,,3.58,10.74
+15,poachers,3,,3.58,10.74
+15,grizzly bears,3,,3.58,10.74
+15,livestock,3,,3.58,10.74
+15,rangers,3,,3.58,10.74
+15,humane society,3,,3.58,10.74
+15,extinct,3,,3.58,10.74
+15,carnivores,3,,3.58,10.74
+15,grizzlies,3,,3.58,10.74
+15,snakes,3,,3.58,10.74
+15,water conservation,3,,3.58,10.74
+15,environmental quality,3,,3.58,10.74
+15,naturalist,3,,3.58,10.74
+15,land use,3,,3.58,10.74
+15,resource management,3,,3.58,10.74
+15,solid waste,3,,3.58,10.74
+15,environmentalist,3,,3.58,10.74
+15,soil,3,,3.58,10.74
+15,saplings,3,,3.58,10.74
+15,tree planting,3,,3.58,10.74
+15,lake,3,,3.58,10.74
+15,birding,3,,3.58,10.74
+15,water,3,,3.58,10.74
+15,federally protected,3,,3.58,10.74
+15,humpback whales,3,,3.58,10.74
+15,populations,3,,3.58,10.74
+15,wildflowers,3,,3.58,10.74
+15,botanical,3,,3.58,10.74
+15,agricultural sciences,3,,3.58,10.74
+15,salinity,3,,3.58,10.74
+15,microorganisms,3,,3.58,10.74
+15,reef,3,,3.58,10.74
+15,rangeland,3,,3.58,10.74
+15,parkland,3,,3.58,10.74
+15,meadows,3,,3.58,10.74
+15,acres,3,,3.58,10.74
+15,pine,3,,3.58,10.74
+15,wildflower,3,,3.58,10.74
+15,plum creek,3,,3.58,10.74
+15,mill,3,,3.58,10.74
+15,biscuit,3,,3.58,10.74
+15,avian,3,,3.58,10.74
+15,galapagos islands,3,,3.58,10.74
+15,snails,3,,3.58,10.74
+15,fossils,3,,3.58,10.74
+15,reclamation,3,,3.58,10.74
+15,fishermen,3,,3.58,10.74
+15,rebels,3,,3.58,10.74
+15,redhawks,3,,3.58,10.74
+15,hectares,3,,3.58,10.74
+15,highlands,3,,3.58,10.74
+15,hectare,3,,3.58,10.74
+15,insect,3,,3.58,10.74
+15,beetles,3,,3.58,10.74
+15,beavers,3,,3.58,10.74
+15,honeybees,3,,3.58,10.74
+15,rat,3,,3.58,10.74
+15,keepers,3,,3.58,10.74
+15,volcanoes,3,,3.58,10.74
+15,bunny,3,,3.58,10.74
+15,pig,3,,3.58,10.74
+15,borneo,3,,3.58,10.74
+15,gator,3,,3.58,10.74
+15,dolphin,3,,3.58,10.74
+15,crab,3,,3.58,10.74
+15,penguins,3,,3.58,10.74
+15,rodent,3,,3.58,10.74
+15,hatchlings,3,,3.58,10.74
+15,farmlands,3,,3.58,10.74
+15,sawmill,3,,3.58,10.74
+15,farms,3,,3.58,10.74
+15,swans,3,,3.58,10.74
+15,squirrels,3,,3.58,10.74
+15,sharks,3,,3.58,10.74
+15,kitten,3,,3.58,10.74
+15,zookeeper,3,,3.58,10.74
+15,pup,3,,3.58,10.74
+15,cubs,3,,3.58,10.74
+15,zookeepers,3,,3.58,10.74
+15,hamster,3,,3.58,10.74
+15,llama,3,,3.58,10.74
+15,dogs,3,,3.58,10.74
+15,invasive,2,True,16.32,32.64
+15,threatened,2,True,6.46,12.92
+15,predator,2,True,5.49,10.98
+15,population,2,,3.58,7.16
+15,unesco,2,,3.58,7.16
+15,biological,2,,3.58,7.16
+15,climate change ipcc,2,,3.58,7.16
+15,climate action,2,,3.58,7.16
+15,fao,2,,3.58,7.16
+15,archaeological,2,,3.58,7.16
+15,languages,2,,3.58,7.16
+15,adaptation,2,,3.58,7.16
+15,biofuel,2,,3.58,7.16
+15,mountain lions,2,,3.58,7.16
+15,mule deer,2,,3.58,7.16
+15,moose,2,,3.58,7.16
+15,diseases,2,,3.58,7.16
+15,gray wolves,2,,3.58,7.16
+15,plants,2,,3.58,7.16
+15,breeding,2,,3.58,7.16
+15,crops,2,,3.58,7.16
+15,sturgeon,2,,3.58,7.16
+15,disease,2,,3.58,7.16
+15,historic preservation,2,,3.58,7.16
+15,wilderness society,2,,3.58,7.16
+15,sierra club,2,,3.58,7.16
+15,solid waste management,2,,3.58,7.16
+15,dep,2,,3.58,7.16
+15,food pantry,2,,3.58,7.16
+15,affordable housing,2,,3.58,7.16
+15,volunteer,2,,3.58,7.16
+15,realtor,2,,3.58,7.16
+15,builders,2,,3.58,7.16
+15,animal shelter,2,,3.58,7.16
+15,re max,2,,3.58,7.16
+15,thrift shop,2,,3.58,7.16
+15,refuge,2,,3.58,7.16
+15,landholders,2,,3.58,7.16
+15,irrigation,2,,3.58,7.16
+15,dfo,2,,3.58,7.16
+15,great smoky mountains,2,,3.58,7.16
+15,pesticides,2,,3.58,7.16
+15,interior,2,,3.58,7.16
+15,marshlands,2,,3.58,7.16
+15,dams,2,,3.58,7.16
+15,dunes,2,,3.58,7.16
+15,drainage,2,,3.58,7.16
+15,sage grouse,2,,3.58,7.16
+15,walrus,2,,3.58,7.16
+15,sea lions,2,,3.58,7.16
+15,bluefin tuna,2,,3.58,7.16
+15,prairie dogs,2,,3.58,7.16
+15,sea turtle,2,,3.58,7.16
+15,national marine fisheries,2,,3.58,7.16
+15,forage,2,,3.58,7.16
+15,nesting,2,,3.58,7.16
+15,migratory,2,,3.58,7.16
+15,geological,2,,3.58,7.16
+15,mitigation,2,,3.58,7.16
+15,pollution,2,,3.58,7.16
+15,natural,2,,3.58,7.16
+15,algae,2,,3.58,7.16
+15,cultural heritage,2,,3.58,7.16
+15,primary industries,2,,3.58,7.16
+15,air quality,2,,3.58,7.16
+15,transportation,2,,3.58,7.16
+15,fire protection,2,,3.58,7.16
+15,rural development,2,,3.58,7.16
+15,coastal,2,,3.58,7.16
+15,public works,2,,3.58,7.16
+15,aquifers,2,,3.58,7.16
+15,sustainably,2,,3.58,7.16
+15,microbes,2,,3.58,7.16
+15,permafrost,2,,3.58,7.16
+15,photosynthesis,2,,3.58,7.16
+15,communities,2,,3.58,7.16
+15,conservation easement,2,,3.58,7.16
+15,grazing,2,,3.58,7.16
+15,outdoor recreation,2,,3.58,7.16
+15,ranchers,2,,3.58,7.16
+15,septic systems,2,,3.58,7.16
+15,oak,2,,3.58,7.16
+15,cedar,2,,3.58,7.16
+15,bear creek,2,,3.58,7.16
+15,canyon,2,,3.58,7.16
+15,tree,2,,3.58,7.16
+15,redwood,2,,3.58,7.16
+15,meadow,2,,3.58,7.16
+15,grove,2,,3.58,7.16
+15,mineral,2,,3.58,7.16
+15,grass,2,,3.58,7.16
+15,maple,2,,3.58,7.16
+15,glacier,2,,3.58,7.16
+15,ponderosa,2,,3.58,7.16
+15,spruce,2,,3.58,7.16
+15,orchard,2,,3.58,7.16
+15,naturalists,2,,3.58,7.16
+15,greenery,2,,3.58,7.16
+15,clean water act,2,,3.58,7.16
+15,recycling,2,,3.58,7.16
+15,marine biologist,2,,3.58,7.16
+15,botany,2,,3.58,7.16
+15,flood plain,2,,3.58,7.16
+15,flood plains,2,,3.58,7.16
+15,waterway,2,,3.58,7.16
+15,creek,2,,3.58,7.16
+15,catchment,2,,3.58,7.16
+15,sediment,2,,3.58,7.16
+15,tributary,2,,3.58,7.16
+15,lagoon,2,,3.58,7.16
+15,basin,2,,3.58,7.16
+15,aquifer,2,,3.58,7.16
+15,reservoir,2,,3.58,7.16
+15,tributaries,2,,3.58,7.16
+15,reservoirs,2,,3.58,7.16
+15,environmentalists,2,,3.58,7.16
+15,campaigners,2,,3.58,7.16
+15,proponents,2,,3.58,7.16
+15,residents,2,,3.58,7.16
+15,advocates,2,,3.58,7.16
+15,farmers,2,,3.58,7.16
+15,sanctuary,2,,3.58,7.16
+15,osprey,2,,3.58,7.16
+15,parrots,2,,3.58,7.16
+15,exotic,2,,3.58,7.16
+15,bulldogs,2,,3.58,7.16
+15,wildcats,2,,3.58,7.16
+15,cyclones,2,,3.58,7.16
+15,dragons,2,,3.58,7.16
+15,warhawks,2,,3.58,7.16
+15,maroons,2,,3.58,7.16
+15,bearcats,2,,3.58,7.16
+15,red raiders,2,,3.58,7.16
+15,lady bulldogs,2,,3.58,7.16
+15,jayhawks,2,,3.58,7.16
+15,mustangs,2,,3.58,7.16
+15,hilltoppers,2,,3.58,7.16
+15,dawgs,2,,3.58,7.16
+15,warriors,2,,3.58,7.16
+15,yellowjackets,2,,3.58,7.16
+15,jackets,2,,3.58,7.16
+15,huskers,2,,3.58,7.16
+15,redbirds,2,,3.58,7.16
+15,rattlers,2,,3.58,7.16
+15,lady rebels,2,,3.58,7.16
+15,bluejays,2,,3.58,7.16
+15,lancers,2,,3.58,7.16
+15,buffs,2,,3.58,7.16
+15,colonels,2,,3.58,7.16
+15,cobras,2,,3.58,7.16
+15,highlanders,2,,3.58,7.16
+15,stags,2,,3.58,7.16
+15,greyhounds,2,,3.58,7.16
+15,bearkats,2,,3.58,7.16
+15,crusaders,2,,3.58,7.16
+15,skyhawks,2,,3.58,7.16
+15,lady cats,2,,3.58,7.16
+15,bronchos,2,,3.58,7.16
+15,marauders,2,,3.58,7.16
+15,chieftains,2,,3.58,7.16
+15,lumberjacks,2,,3.58,7.16
+15,aggies,2,,3.58,7.16
+15,hogs,2,,3.58,7.16
+15,shockers,2,,3.58,7.16
+15,monarchs,2,,3.58,7.16
+15,sportsmen,2,,3.58,7.16
+15,zoos,2,,3.58,7.16
+15,marine,2,,3.58,7.16
+15,conserving,2,,3.58,7.16
+15,blackfoot,2,,3.58,7.16
+15,salmon,2,,3.58,7.16
+15,gunnison,2,,3.58,7.16
+15,swan,2,,3.58,7.16
+15,cottonwood,2,,3.58,7.16
+15,birch,2,,3.58,7.16
+15,shasta,2,,3.58,7.16
+15,replant,2,,3.58,7.16
+15,seedling,2,,3.58,7.16
+15,seedlings,2,,3.58,7.16
+15,poverty eradication,2,,3.58,7.16
+15,replanted,2,,3.58,7.16
+15,jatropha,2,,3.58,7.16
+15,harvesting,2,,3.58,7.16
+15,cultivation,2,,3.58,7.16
+15,plantings,2,,3.58,7.16
+15,beetle,2,,3.58,7.16
+15,fungus,2,,3.58,7.16
+15,mussels,2,,3.58,7.16
+15,predators,2,,3.58,7.16
+15,contaminants,2,,3.58,7.16
+15,moth,2,,3.58,7.16
+15,migrating birds,2,,3.58,7.16
+15,pollutants,2,,3.58,7.16
+15,coyotes,2,,3.58,7.16
+15,greenhouse gases,2,,3.58,7.16
+15,greenhouse gas,2,,3.58,7.16
+15,poorer nations,2,,3.58,7.16
+15,crop yields,2,,3.58,7.16
+15,carbon dioxide,2,,3.58,7.16
+15,coca,2,,3.58,7.16
+15,sugarcane,2,,3.58,7.16
+15,commercial whaling,2,,3.58,7.16
+15,bull,2,,3.58,7.16
+15,robot,2,,3.58,7.16
+15,bug,2,,3.58,7.16
+15,hog,2,,3.58,7.16
+15,sasquatch,2,,3.58,7.16
+15,spike,2,,3.58,7.16
+15,jelly,2,,3.58,7.16
+15,bubbles,2,,3.58,7.16
+15,rumble,2,,3.58,7.16
+15,rabbits,2,,3.58,7.16
+15,boom,2,,3.58,7.16
+15,simba,2,,3.58,7.16
+15,zombie,2,,3.58,7.16
+15,mouse,2,,3.58,7.16
+15,spooky,2,,3.58,7.16
+15,fluffy,2,,3.58,7.16
+15,vulture,2,,3.58,7.16
+15,indigenous,2,,3.58,7.16
+15,orchid,2,,3.58,7.16
+15,mermaid,2,,3.58,7.16
+15,amazon,2,,3.58,7.16
+15,madagascar,2,,3.58,7.16
+15,taz,2,,3.58,7.16
+15,velvet,2,,3.58,7.16
+15,scorpion,2,,3.58,7.16
+15,sandman,2,,3.58,7.16
+15,venom,2,,3.58,7.16
+15,bulldog,2,,3.58,7.16
+15,golfer,2,,3.58,7.16
+15,demon,2,,3.58,7.16
+15,kangaroo,2,,3.58,7.16
+15,dawg,2,,3.58,7.16
+15,sawgrass,2,,3.58,7.16
+15,falcon,2,,3.58,7.16
+15,fishing,2,,3.58,7.16
+15,seafood,2,,3.58,7.16
+15,fisherman,2,,3.58,7.16
+15,lobster,2,,3.58,7.16
+15,shrimp,2,,3.58,7.16
+15,dolphins,2,,3.58,7.16
+15,orca,2,,3.58,7.16
+15,crustaceans,2,,3.58,7.16
+15,robin,2,,3.58,7.16
+15,rodents,2,,3.58,7.16
+15,###ha,2,,3.58,7.16
+15,homesteads,2,,3.58,7.16
+15,homestead,2,,3.58,7.16
+15,weyerhaeuser,2,,3.58,7.16
+15,wild turkeys,2,,3.58,7.16
+15,crows,2,,3.58,7.16
+15,gulls,2,,3.58,7.16
+15,robins,2,,3.58,7.16
+15,moths,2,,3.58,7.16
+15,ozone layer,2,,3.58,7.16
+15,antarctica,2,,3.58,7.16
+15,spiders,2,,3.58,7.16
+15,alligators,2,,3.58,7.16
+15,kangaroos,2,,3.58,7.16
+15,swallows,2,,3.58,7.16
+15,amakhosi,2,,3.58,7.16
+15,stingrays,2,,3.58,7.16
+15,sundowns,2,,3.58,7.16
+15,vipers,2,,3.58,7.16
+15,boks,2,,3.58,7.16
+15,gunners,2,,3.58,7.16
+15,bafana,2,,3.58,7.16
+15,mamelodi sundowns,2,,3.58,7.16
+15,live oak,2,,3.58,7.16
+15,river basin,2,,3.58,7.16
+15,fairy,2,,3.58,7.16
+15,cow,2,,3.58,7.16
+15,donkey,2,,3.58,7.16
+15,planet,2,,3.58,7.16
+15,hat,2,,3.58,7.16
+15,pumpkin,2,,3.58,7.16
+15,cosmic,2,,3.58,7.16
+15,cock,2,,3.58,7.16
+15,worm,2,,3.58,7.16
+15,boogie,2,,3.58,7.16
+15,tiki,2,,3.58,7.16
+15,lucky,2,,3.58,7.16
+15,tail,2,,3.58,7.16
+15,ass,2,,3.58,7.16
+15,aptly named,2,,3.58,7.16
+15,bandit,2,,3.58,7.16
+15,sleepy,2,,3.58,7.16
+15,devil,2,,3.58,7.16
+15,tails,2,,3.58,7.16
+15,parrot,2,,3.58,7.16
+15,lowlands,2,,3.58,7.16
+15,swamps,2,,3.58,7.16
+15,sugar cane,2,,3.58,7.16
+15,eucalyptus,2,,3.58,7.16
+15,lumber,2,,3.58,7.16
+15,pulp,2,,3.58,7.16
+15,cane,2,,3.58,7.16
+15,cottage,2,,3.58,7.16
+15,bats,2,,3.58,7.16
+15,pups,2,,3.58,7.16
+15,possum,2,,3.58,7.16
+15,feline,2,,3.58,7.16
+15,beagle,2,,3.58,7.16
+15,puppy,2,,3.58,7.16
+15,german shepherd,2,,3.58,7.16
+15,rottweiler,2,,3.58,7.16
+15,pit bull,2,,3.58,7.16
+15,herold,2,,3.58,7.16
+15,golden retriever,2,,3.58,7.16
+15,great dane,2,,3.58,7.16
+15,mutt,2,,3.58,7.16
+15,pit bulls,2,,3.58,7.16
+15,felines,2,,3.58,7.16
+15,canines,2,,3.58,7.16
+15,estates,2,,3.58,7.16
+15,cocoa,2,,3.58,7.16
+15,villages,2,,3.58,7.16
+15,subdivision,2,,3.58,7.16
+15,bioremediation,1,True,27.68,27.68
+15,phytoremediation,1,True,16.98,16.98
+15,afforestation,1,True,13.28,13.28
+15,soil conservation,1,True,11.33,11.33
+15,revegetation,1,True,10.65,10.65
+15,predator prey,1,True,10.36,10.36
+15,valuation,1,True,9.25,9.25
+15,nature conservation,1,True,8.84,8.84
+15,invasive weed,1,True,8.51,8.51
+15,ecosystem management,1,True,8.51,8.51
+15,phytoextraction,1,True,7.99,7.99
+15,species conservation,1,True,7.24,7.24
+15,ecological restoration,1,True,6.93,6.93
+15,economic value,1,True,6.92,6.92
+15,invasion,1,True,6.83,6.83
+15,natural regeneration,1,True,6.68,6.68
+15,wildlife management,1,True,6.51,6.51
+15,remediation,1,True,6.4,6.4
+15,introduced species,1,True,6.36,6.36
+15,biodiversity conservation,1,True,6.22,6.22
+15,alien,1,True,5.67,5.67
+15,captive,1,True,5.63,5.63
+15,vegetation recovery,1,True,5.58,5.58
+15,threatened species,1,True,5.54,5.54
+15,natura 2000,1,True,5.5,5.5
+15,species survival,1,True,5.31,5.31
+15,panthera,1,True,5.14,5.14
+15,pan troglodytes,1,True,5.07,5.07
+15,accounting,1,True,5.0,5.0
+15,general equilibrium,1,True,4.93,4.93
+15,population declines,1,True,4.91,4.91
+15,crocodylus,1,True,4.83,4.83
+15,troglodytes,1,True,4.83,4.83
+15,afforested,1,True,4.76,4.76
+15,natura,1,True,4.76,4.76
+15,regeneration,1,True,4.62,4.62
+15,non native,1,True,4.62,4.62
+15,forest plantations,1,True,4.61,4.61
+15,prey,1,True,4.52,4.52
+15,contaminated,1,True,4.47,4.47
+15,bonobos,1,True,4.4,4.4
+15,acipenser,1,True,4.4,4.4
+15,contingent valuation,1,True,4.33,4.33
+15,alien species,1,True,4.31,4.31
+15,forest regeneration,1,True,4.3,4.3
+15,rhinoceros,1,True,4.26,4.26
+15,introduced,1,True,4.12,4.12
+15,environmental remediation,1,True,4.02,4.02
+15,vegetation restoration,1,True,3.93,3.93
+15,population decline,1,True,3.91,3.91
+15,criminology,1,True,3.78,3.78
+15,invasive plant,1,True,3.76,3.76
+15,public funding,1,True,3.73,3.73
+15,prey model,1,True,3.72,3.72
+15,arctos,1,True,3.58,3.58
+15,antarctic,1,,3.58,3.58
+15,astronomy,1,,3.58,3.58
+15,tuberculosis,1,,3.58,3.58
+15,biotechnology,1,,3.58,3.58
+15,wildlife conservation commission,1,,3.58,3.58
+15,animal control,1,,3.58,3.58
+15,animal care,1,,3.58,3.58
+15,charles darwin,1,,3.58,3.58
+15,genus,1,,3.58,3.58
+15,predation,1,,3.58,3.58
+15,enemies,1,,3.58,3.58
+15,origins,1,,3.58,3.58
+15,religions,1,,3.58,3.58
+15,civilizations,1,,3.58,3.58
+15,dec,1,,3.58,3.58
+15,humanity,1,,3.58,3.58
+15,rebuilding together,1,,3.58,3.58
+15,helping hands,1,,3.58,3.58
+15,home builders association,1,,3.58,3.58
+15,shelter,1,,3.58,3.58
+15,ywca,1,,3.58,3.58
+15,salvation army,1,,3.58,3.58
+15,second harvest,1,,3.58,3.58
+15,rescue mission,1,,3.58,3.58
+15,goodwill industries,1,,3.58,3.58
+15,big brothers,1,,3.58,3.58
+15,caring,1,,3.58,3.58
+15,catholic charities,1,,3.58,3.58
+15,housing authority,1,,3.58,3.58
+15,junior achievement,1,,3.58,3.58
+15,jaycees,1,,3.58,3.58
+15,easter seals,1,,3.58,3.58
+15,homes,1,,3.58,3.58
+15,second harvest food,1,,3.58,3.58
+15,ymca,1,,3.58,3.58
+15,& girls clubs,1,,3.58,3.58
+15,girls club,1,,3.58,3.58
+15,volunteering,1,,3.58,3.58
+15,kiwanis,1,,3.58,3.58
+15,weatherization,1,,3.58,3.58
+15,cares,1,,3.58,3.58
+15,hospice,1,,3.58,3.58
+15,volunteers,1,,3.58,3.58
+15,coldwell banker,1,,3.58,3.58
+15,compassion,1,,3.58,3.58
+15,thrift store,1,,3.58,3.58
+15,interfaith,1,,3.58,3.58
+15,girls clubs,1,,3.58,3.58
+15,first tee,1,,3.58,3.58
+15,soup kitchen,1,,3.58,3.58
+15,realtors ®,1,,3.58,3.58
+15,angel tree,1,,3.58,3.58
+15,homeless shelter,1,,3.58,3.58
+15,literacy,1,,3.58,3.58
+15,thrivent financial,1,,3.58,3.58
+15,pulte homes,1,,3.58,3.58
+15,charitable organizations,1,,3.58,3.58
+15,housing,1,,3.58,3.58
+15,disaster relief,1,,3.58,3.58
+15,extreme makeover home,1,,3.58,3.58
+15,america second harvest,1,,3.58,3.58
+15,outreach,1,,3.58,3.58
+15,townhome,1,,3.58,3.58
+15,big sisters,1,,3.58,3.58
+15,nonprofits,1,,3.58,3.58
+15,pantry,1,,3.58,3.58
+15,rotary,1,,3.58,3.58
+15,loaves,1,,3.58,3.58
+15,needy,1,,3.58,3.58
+15,realtors,1,,3.58,3.58
+15,kiwanis club,1,,3.58,3.58
+15,extreme makeover,1,,3.58,3.58
+15,rotarians,1,,3.58,3.58
+15,casa,1,,3.58,3.58
+15,homeownership,1,,3.58,3.58
+15,volunteerism,1,,3.58,3.58
+15,hgtv,1,,3.58,3.58
+15,ronald mcdonald,1,,3.58,3.58
+15,realty,1,,3.58,3.58
+15,pro bono,1,,3.58,3.58
+15,community outreach,1,,3.58,3.58
+15,goodwill,1,,3.58,3.58
+15,food pantries,1,,3.58,3.58
+15,red cross,1,,3.58,3.58
+15,optimist club,1,,3.58,3.58
+15,adopt,1,,3.58,3.58
+15,clean up,1,,3.58,3.58
+15,scenic,1,,3.58,3.58
+15,dredging,1,,3.58,3.58
+15,burros,1,,3.58,3.58
+15,refuges,1,,3.58,3.58
+15,burrows,1,,3.58,3.58
+15,nests,1,,3.58,3.58
+15,sanctuaries,1,,3.58,3.58
+15,foraging,1,,3.58,3.58
+15,coastlines,1,,3.58,3.58
+15,cultural,1,,3.58,3.58
+15,technological,1,,3.58,3.58
+15,renewable,1,,3.58,3.58
+15,clean energy,1,,3.58,3.58
+15,psychological,1,,3.58,3.58
+15,geographic information,1,,3.58,3.58
+15,biofuels,1,,3.58,3.58
+15,spiritual,1,,3.58,3.58
+15,organic,1,,3.58,3.58
+15,creation,1,,3.58,3.58
+15,autonomous,1,,3.58,3.58
+15,architectural,1,,3.58,3.58
+15,structural,1,,3.58,3.58
+15,ethical,1,,3.58,3.58
+15,waste,1,,3.58,3.58
+15,industrial relations,1,,3.58,3.58
+15,fire,1,,3.58,3.58
+15,wildfires,1,,3.58,3.58
+15,emergency management,1,,3.58,3.58
+15,cdf,1,,3.58,3.58
+15,tourism,1,,3.58,3.58
+15,land management,1,,3.58,3.58
+15,meteorology,1,,3.58,3.58
+15,blazes,1,,3.58,3.58
+15,entomologist,1,,3.58,3.58
+15,fire marshal,1,,3.58,3.58
+15,civil defence,1,,3.58,3.58
+15,aeronautics,1,,3.58,3.58
+15,fires,1,,3.58,3.58
+15,brush fires,1,,3.58,3.58
+15,highways,1,,3.58,3.58
+15,firefighting,1,,3.58,3.58
+15,civil protection,1,,3.58,3.58
+15,disaster management,1,,3.58,3.58
+15,aviation,1,,3.58,3.58
+15,meteorological,1,,3.58,3.58
+15,fire brigade,1,,3.58,3.58
+15,ag,1,,3.58,3.58
+15,fire marshal office,1,,3.58,3.58
+15,dse,1,,3.58,3.58
+15,plankton,1,,3.58,3.58
+15,livelihoods,1,,3.58,3.58
+15,phytoplankton,1,,3.58,3.58
+15,infrastructures,1,,3.58,3.58
+15,environments,1,,3.58,3.58
+15,ocean currents,1,,3.58,3.58
+15,nutrients,1,,3.58,3.58
+15,national wildlife refuge,1,,3.58,3.58
+15,hiking trails,1,,3.58,3.58
+15,recreation,1,,3.58,3.58
+15,recreational,1,,3.58,3.58
+15,park,1,,3.58,3.58
+15,glade,1,,3.58,3.58
+15,trail,1,,3.58,3.58
+15,pisgah,1,,3.58,3.58
+15,crest,1,,3.58,3.58
+15,yosemite,1,,3.58,3.58
+15,hills,1,,3.58,3.58
+15,sequoia,1,,3.58,3.58
+15,cascades,1,,3.58,3.58
+15,oaks,1,,3.58,3.58
+15,evergreen,1,,3.58,3.58
+15,yellowstone,1,,3.58,3.58
+15,cypress,1,,3.58,3.58
+15,countryside,1,,3.58,3.58
+15,recreation area,1,,3.58,3.58
+15,glencoe,1,,3.58,3.58
+15,lakeside,1,,3.58,3.58
+15,arden,1,,3.58,3.58
+15,highland,1,,3.58,3.58
+15,oakridge,1,,3.58,3.58
+15,cuyahoga valley,1,,3.58,3.58
+15,vale,1,,3.58,3.58
+15,monument,1,,3.58,3.58
+15,zion,1,,3.58,3.58
+15,springs,1,,3.58,3.58
+15,joshua tree,1,,3.58,3.58
+15,treasure,1,,3.58,3.58
+15,ridge,1,,3.58,3.58
+15,lolo,1,,3.58,3.58
+15,fairview,1,,3.58,3.58
+15,campgrounds,1,,3.58,3.58
+15,carmel,1,,3.58,3.58
+15,sycamore,1,,3.58,3.58
+15,ferns,1,,3.58,3.58
+15,orchids,1,,3.58,3.58
+15,archaeological sites,1,,3.58,3.58
+15,archeological,1,,3.58,3.58
+15,seashore,1,,3.58,3.58
+15,science,1,,3.58,3.58
+15,deq,1,,3.58,3.58
+15,biological sciences,1,,3.58,3.58
+15,environmental protection agency,1,,3.58,3.58
+15,chemistry,1,,3.58,3.58
+15,geography,1,,3.58,3.58
+15,nrdc,1,,3.58,3.58
+15,sociology,1,,3.58,3.58
+15,epa,1,,3.58,3.58
+15,molecular biology,1,,3.58,3.58
+15,anthropology,1,,3.58,3.58
+15,sanitation,1,,3.58,3.58
+15,chemical engineering,1,,3.58,3.58
+15,waste management,1,,3.58,3.58
+15,sciences,1,,3.58,3.58
+15,earthjustice,1,,3.58,3.58
+15,dfg,1,,3.58,3.58
+15,oceanographer,1,,3.58,3.58
+15,lagoons,1,,3.58,3.58
+15,marshy,1,,3.58,3.58
+15,lakeshore,1,,3.58,3.58
+15,river,1,,3.58,3.58
+15,dune,1,,3.58,3.58
+15,pond,1,,3.58,3.58
+15,dike,1,,3.58,3.58
+15,arboretum,1,,3.58,3.58
+15,topsoil,1,,3.58,3.58
+15,silt,1,,3.58,3.58
+15,retention pond,1,,3.58,3.58
+15,brownfield,1,,3.58,3.58
+15,dam,1,,3.58,3.58
+15,riverbanks,1,,3.58,3.58
+15,activists,1,,3.58,3.58
+15,scientists,1,,3.58,3.58
+15,opponents,1,,3.58,3.58
+15,officials,1,,3.58,3.58
+15,supporters,1,,3.58,3.58
+15,critics,1,,3.58,3.58
+15,backers,1,,3.58,3.58
+15,experts,1,,3.58,3.58
+15,lawmakers,1,,3.58,3.58
+15,locals,1,,3.58,3.58
+15,villagers,1,,3.58,3.58
+15,observers,1,,3.58,3.58
+15,organizers,1,,3.58,3.58
+15,skeptics,1,,3.58,3.58
+15,archaeologists,1,,3.58,3.58
+15,organisers,1,,3.58,3.58
+15,planners,1,,3.58,3.58
+15,developers,1,,3.58,3.58
+15,politicians,1,,3.58,3.58
+15,policymakers,1,,3.58,3.58
+15,legislators,1,,3.58,3.58
+15,others,1,,3.58,3.58
+15,historians,1,,3.58,3.58
+15,regulators,1,,3.58,3.58
+15,some,1,,3.58,3.58
+15,veterinarians,1,,3.58,3.58
+15,analysts,1,,3.58,3.58
+15,researchers,1,,3.58,3.58
+15,detractors,1,,3.58,3.58
+15,astronomers,1,,3.58,3.58
+15,onlookers,1,,3.58,3.58
+15,dozens,1,,3.58,3.58
+15,preservationists,1,,3.58,3.58
+15,hundreds,1,,3.58,3.58
+15,authorities,1,,3.58,3.58
+15,many,1,,3.58,3.58
+15,anglers,1,,3.58,3.58
+15,enthusiasts,1,,3.58,3.58
+15,geologists,1,,3.58,3.58
+15,automakers,1,,3.58,3.58
+15,commuters,1,,3.58,3.58
+15,commentators,1,,3.58,3.58
+15,economists,1,,3.58,3.58
+15,operators,1,,3.58,3.58
+15,relatives,1,,3.58,3.58
+15,foes,1,,3.58,3.58
+15,protesters,1,,3.58,3.58
+15,needless,1,,3.58,3.58
+15,parishioners,1,,3.58,3.58
+15,motorists,1,,3.58,3.58
+15,political observers,1,,3.58,3.58
+15,bosses,1,,3.58,3.58
+15,retailers,1,,3.58,3.58
+15,lawyers,1,,3.58,3.58
+15,owners,1,,3.58,3.58
+15,tourists,1,,3.58,3.58
+15,doctors,1,,3.58,3.58
+15,unions,1,,3.58,3.58
+15,boaters,1,,3.58,3.58
+15,neighbors,1,,3.58,3.58
+15,administrators,1,,3.58,3.58
+15,physicists,1,,3.58,3.58
+15,groups,1,,3.58,3.58
+15,educators,1,,3.58,3.58
+15,promoters,1,,3.58,3.58
+15,traders,1,,3.58,3.58
+15,negotiators,1,,3.58,3.58
+15,stakeholders,1,,3.58,3.58
+15,staffers,1,,3.58,3.58
+15,rare,1,,3.58,3.58
+15,protected,1,,3.58,3.58
+15,rescued,1,,3.58,3.58
+15,vulnerable,1,,3.58,3.58
+15,killing,1,,3.58,3.58
+15,captured,1,,3.58,3.58
+15,abandoned,1,,3.58,3.58
+15,newborn,1,,3.58,3.58
+15,attacked,1,,3.58,3.58
+15,threatens,1,,3.58,3.58
+15,found,1,,3.58,3.58
+15,found dead,1,,3.58,3.58
+15,fragile,1,,3.58,3.58
+15,threat,1,,3.58,3.58
+15,danger,1,,3.58,3.58
+15,spotted,1,,3.58,3.58
+15,oldest,1,,3.58,3.58
+15,bird flu,1,,3.58,3.58
+15,imperiled,1,,3.58,3.58
+15,sought,1,,3.58,3.58
+15,saving,1,,3.58,3.58
+15,missing,1,,3.58,3.58
+15,survive,1,,3.58,3.58
+15,protect,1,,3.58,3.58
+15,yellow jackets,1,,3.58,3.58
+15,bombers,1,,3.58,3.58
+15,wolverines,1,,3.58,3.58
+15,gators,1,,3.58,3.58
+15,panthers,1,,3.58,3.58
+15,razorbacks,1,,3.58,3.58
+15,spartans,1,,3.58,3.58
+15,blue devils,1,,3.58,3.58
+15,royals,1,,3.58,3.58
+15,gamecocks,1,,3.58,3.58
+15,hawks,1,,3.58,3.58
+15,golden eagles,1,,3.58,3.58
+15,longhorns,1,,3.58,3.58
+15,rams,1,,3.58,3.58
+15,commodores,1,,3.58,3.58
+15,green wave,1,,3.58,3.58
+15,trojans,1,,3.58,3.58
+15,canes,1,,3.58,3.58
+15,raiders,1,,3.58,3.58
+15,cardinals,1,,3.58,3.58
+15,braves,1,,3.58,3.58
+15,blue raiders,1,,3.58,3.58
+15,sooners,1,,3.58,3.58
+15,huskies,1,,3.58,3.58
+15,bears,1,,3.58,3.58
+15,crimson tide,1,,3.58,3.58
+15,hornets,1,,3.58,3.58
+15,red devils,1,,3.58,3.58
+15,comets,1,,3.58,3.58
+15,vols,1,,3.58,3.58
+15,mountaineers,1,,3.58,3.58
+15,vikings,1,,3.58,3.58
+15,hurricanes,1,,3.58,3.58
+15,bruins,1,,3.58,3.58
+15,knights,1,,3.58,3.58
+15,jaguars,1,,3.58,3.58
+15,bucs,1,,3.58,3.58
+15,sun devils,1,,3.58,3.58
+15,ironmen,1,,3.58,3.58
+15,jays,1,,3.58,3.58
+15,cornhuskers,1,,3.58,3.58
+15,broncos,1,,3.58,3.58
+15,golden bears,1,,3.58,3.58
+15,demons,1,,3.58,3.58
+15,seminoles,1,,3.58,3.58
+15,hawkeyes,1,,3.58,3.58
+15,blue jays,1,,3.58,3.58
+15,chanticleers,1,,3.58,3.58
+15,animal husbandry,1,,3.58,3.58
+15,zoology,1,,3.58,3.58
+15,pheasants,1,,3.58,3.58
+15,hunter,1,,3.58,3.58
+15,hsus,1,,3.58,3.58
+15,deer hunting,1,,3.58,3.58
+15,freudenthal,1,,3.58,3.58
+15,schweitzer,1,,3.58,3.58
+15,kulongoski,1,,3.58,3.58
+15,risch,1,,3.58,3.58
+15,kempthorne,1,,3.58,3.58
+15,hoeven,1,,3.58,3.58
+15,pawlenty,1,,3.58,3.58
+15,kitzhaber,1,,3.58,3.58
+15,gregoire,1,,3.58,3.58
+15,idaho,1,,3.58,3.58
+15,sanford,1,,3.58,3.58
+15,heineman,1,,3.58,3.58
+15,gov. ted kulongoski,1,,3.58,3.58
+15,murkowski,1,,3.58,3.58
+15,gov. dave freudenthal,1,,3.58,3.58
+15,mike rounds,1,,3.58,3.58
+15,frank murkowski,1,,3.58,3.58
+15,rehberg,1,,3.58,3.58
+15,john hoeven,1,,3.58,3.58
+15,lepage,1,,3.58,3.58
+15,brian schweitzer,1,,3.58,3.58
+15,minnick,1,,3.58,3.58
+15,chris gregoire,1,,3.58,3.58
+15,snake river,1,,3.58,3.58
+15,alaska,1,,3.58,3.58
+15,shumlin,1,,3.58,3.58
+15,emmer,1,,3.58,3.58
+15,alaskan,1,,3.58,3.58
+15,gov. jon huntsman,1,,3.58,3.58
+15,branstad,1,,3.58,3.58
+15,baldacci,1,,3.58,3.58
+15,gov. tim pawlenty,1,,3.58,3.58
+15,granholm,1,,3.58,3.58
+15,schwarzenegger,1,,3.58,3.58
+15,begich,1,,3.58,3.58
+15,ritter,1,,3.58,3.58
+15,juneau,1,,3.58,3.58
+15,bill ritter,1,,3.58,3.58
+15,huntsman,1,,3.58,3.58
+15,brewer,1,,3.58,3.58
+15,lingle,1,,3.58,3.58
+15,symington,1,,3.58,3.58
+15,john baldacci,1,,3.58,3.58
+15,rounds,1,,3.58,3.58
+15,colville,1,,3.58,3.58
+15,crist,1,,3.58,3.58
+15,pingree,1,,3.58,3.58
+15,perdue,1,,3.58,3.58
+15,hatch,1,,3.58,3.58
+15,palin,1,,3.58,3.58
+15,kodiak,1,,3.58,3.58
+15,allred,1,,3.58,3.58
+15,bayfield,1,,3.58,3.58
+15,barbour,1,,3.58,3.58
+15,thune,1,,3.58,3.58
+15,jim gibbons,1,,3.58,3.58
+15,ellsworth,1,,3.58,3.58
+15,flathead,1,,3.58,3.58
+15,sandpoint,1,,3.58,3.58
+15,gov. dave heineman,1,,3.58,3.58
+15,bridger,1,,3.58,3.58
+15,beebe,1,,3.58,3.58
+15,klamath,1,,3.58,3.58
+15,whitefish,1,,3.58,3.58
+15,blakeslee,1,,3.58,3.58
+15,buhl,1,,3.58,3.58
+15,fairbanks,1,,3.58,3.58
+15,dahl,1,,3.58,3.58
+15,badger,1,,3.58,3.58
+15,haugen,1,,3.58,3.58
+15,chenault,1,,3.58,3.58
+15,burley,1,,3.58,3.58
+15,easley,1,,3.58,3.58
+15,erickson,1,,3.58,3.58
+15,parnell,1,,3.58,3.58
+15,hb###,1,,3.58,3.58
+15,kasich,1,,3.58,3.58
+15,merkley,1,,3.58,3.58
+15,matheson,1,,3.58,3.58
+15,romney,1,,3.58,3.58
+15,lathrop,1,,3.58,3.58
+15,sitka,1,,3.58,3.58
+15,mccollum,1,,3.58,3.58
+15,caribou,1,,3.58,3.58
+15,jorgenson,1,,3.58,3.58
+15,soldotna,1,,3.58,3.58
+15,vilsack,1,,3.58,3.58
+15,coeur d' alene,1,,3.58,3.58
+15,greening,1,,3.58,3.58
+15,poverty alleviation,1,,3.58,3.58
+15,carbon offsets,1,,3.58,3.58
+15,denr,1,,3.58,3.58
+15,beautification,1,,3.58,3.58
+15,carbon credits,1,,3.58,3.58
+15,organic farming,1,,3.58,3.58
+15,alleviate poverty,1,,3.58,3.58
+15,emission reduction,1,,3.58,3.58
+15,eradication,1,,3.58,3.58
+15,planting,1,,3.58,3.58
+15,offsets,1,,3.58,3.58
+15,environmental stewardship,1,,3.58,3.58
+15,resettlement,1,,3.58,3.58
+15,environmental sustainability,1,,3.58,3.58
+15,bioenergy,1,,3.58,3.58
+15,sequestration,1,,3.58,3.58
+15,cleanups,1,,3.58,3.58
+15,thinning,1,,3.58,3.58
+15,pests,1,,3.58,3.58
+15,zebra mussels,1,,3.58,3.58
+15,emerald ash borer,1,,3.58,3.58
+15,asian carp,1,,3.58,3.58
+15,pathogens,1,,3.58,3.58
+15,pathogen,1,,3.58,3.58
+15,infestation,1,,3.58,3.58
+15,infestations,1,,3.58,3.58
+15,weeds,1,,3.58,3.58
+15,ash trees,1,,3.58,3.58
+15,carp,1,,3.58,3.58
+15,great lakes,1,,3.58,3.58
+15,algae blooms,1,,3.58,3.58
+15,aphids,1,,3.58,3.58
+15,poison ivy,1,,3.58,3.58
+15,bed bugs,1,,3.58,3.58
+15,mussel,1,,3.58,3.58
+15,bacterial,1,,3.58,3.58
+15,bacteria,1,,3.58,3.58
+15,parasite,1,,3.58,3.58
+15,mites,1,,3.58,3.58
+15,bedbug,1,,3.58,3.58
+15,fungal,1,,3.58,3.58
+15,feral cats,1,,3.58,3.58
+15,lyme disease,1,,3.58,3.58
+15,greenhouse gas emissions,1,,3.58,3.58
+15,carbon emission,1,,3.58,3.58
+15,urbanization,1,,3.58,3.58
+15,greenhouse emissions,1,,3.58,3.58
+15,carbon emissions,1,,3.58,3.58
+15,greenhouse gas emission,1,,3.58,3.58
+15,depletion,1,,3.58,3.58
+15,carbon dioxide emissions,1,,3.58,3.58
+15,malaria,1,,3.58,3.58
+15,urban sprawl,1,,3.58,3.58
+15,malnutrition,1,,3.58,3.58
+15,maternal mortality,1,,3.58,3.58
+15,heat trapping gases,1,,3.58,3.58
+15,extreme poverty,1,,3.58,3.58
+15,acid rain,1,,3.58,3.58
+15,co2 emissions,1,,3.58,3.58
+15,agriculture organization,1,,3.58,3.58
+15,agriculture organization fao,1,,3.58,3.58
+15,degradation,1,,3.58,3.58
+15,overpopulation,1,,3.58,3.58
+15,fossil fuels,1,,3.58,3.58
+15,droughts,1,,3.58,3.58
+15,climatic,1,,3.58,3.58
+15,kyoto protocol,1,,3.58,3.58
+15,burning fossil fuels,1,,3.58,3.58
+15,emissions,1,,3.58,3.58
+15,emission reductions,1,,3.58,3.58
+15,fossil fuel,1,,3.58,3.58
+15,extrajudicial killings,1,,3.58,3.58
+15,ghg emissions,1,,3.58,3.58
+15,encroachment,1,,3.58,3.58
+15,maternal deaths,1,,3.58,3.58
+15,carbon,1,,3.58,3.58
+15,giant,1,,3.58,3.58
+15,bigfoot,1,,3.58,3.58
+15,cookie,1,,3.58,3.58
+15,bubble,1,,3.58,3.58
+15,snowball,1,,3.58,3.58
+15,nut,1,,3.58,3.58
+15,volcano,1,,3.58,3.58
+15,spiral,1,,3.58,3.58
+15,buff,1,,3.58,3.58
+15,cowboy,1,,3.58,3.58
+15,tiny,1,,3.58,3.58
+15,jumbo,1,,3.58,3.58
+15,helmet,1,,3.58,3.58
+15,bat,1,,3.58,3.58
+15,stag,1,,3.58,3.58
+15,shaggy,1,,3.58,3.58
+15,legs,1,,3.58,3.58
+15,mascot,1,,3.58,3.58
+15,canopy,1,,3.58,3.58
+15,underwater,1,,3.58,3.58
+15,dragonfly,1,,3.58,3.58
+15,adventure,1,,3.58,3.58
+15,barefoot,1,,3.58,3.58
+15,mother earth,1,,3.58,3.58
+15,mud,1,,3.58,3.58
+15,national geographic,1,,3.58,3.58
+15,everglades,1,,3.58,3.58
+15,recycled,1,,3.58,3.58
+15,butterfly,1,,3.58,3.58
+15,patagonia,1,,3.58,3.58
+15,waterfall,1,,3.58,3.58
+15,greenpeace,1,,3.58,3.58
+15,equator,1,,3.58,3.58
+15,wcs,1,,3.58,3.58
+15,rainbow,1,,3.58,3.58
+15,mayan,1,,3.58,3.58
+15,abyss,1,,3.58,3.58
+15,rvd,1,,3.58,3.58
+15,flair,1,,3.58,3.58
+15,lethal,1,,3.58,3.58
+15,roode,1,,3.58,3.58
+15,samoa joe,1,,3.58,3.58
+15,taker,1,,3.58,3.58
+15,jbl,1,,3.58,3.58
+15,sabin,1,,3.58,3.58
+15,aj styles,1,,3.58,3.58
+15,viper,1,,3.58,3.58
+15,dreamer,1,,3.58,3.58
+15,sabu,1,,3.58,3.58
+15,rave,1,,3.58,3.58
+15,hbk,1,,3.58,3.58
+15,booker t,1,,3.58,3.58
+15,mick foley,1,,3.58,3.58
+15,ric flair,1,,3.58,3.58
+15,punk,1,,3.58,3.58
+15,hhh,1,,3.58,3.58
+15,cena,1,,3.58,3.58
+15,styles,1,,3.58,3.58
+15,kurt angle,1,,3.58,3.58
+15,swagger,1,,3.58,3.58
+15,kaz,1,,3.58,3.58
+15,mysterio,1,,3.58,3.58
+15,tna,1,,3.58,3.58
+15,suplex,1,,3.58,3.58
+15,razor,1,,3.58,3.58
+15,edge,1,,3.58,3.58
+15,raven,1,,3.58,3.58
+15,nitro,1,,3.58,3.58
+15,triple h,1,,3.58,3.58
+15,sheamus,1,,3.58,3.58
+15,finlay,1,,3.58,3.58
+15,maven,1,,3.58,3.58
+15,cage,1,,3.58,3.58
+15,havoc,1,,3.58,3.58
+15,petey,1,,3.58,3.58
+15,lashley,1,,3.58,3.58
+15,khali,1,,3.58,3.58
+15,wwe,1,,3.58,3.58
+15,wcw,1,,3.58,3.58
+15,regal,1,,3.58,3.58
+15,dx,1,,3.58,3.58
+15,tag,1,,3.58,3.58
+15,vinyl,1,,3.58,3.58
+15,chavo,1,,3.58,3.58
+15,angle,1,,3.58,3.58
+15,ecw,1,,3.58,3.58
+15,undertaker,1,,3.58,3.58
+15,mayhem,1,,3.58,3.58
+15,santino,1,,3.58,3.58
+15,atlas,1,,3.58,3.58
+15,nwa,1,,3.58,3.58
+15,randy orton,1,,3.58,3.58
+15,sable,1,,3.58,3.58
+15,torque,1,,3.58,3.58
+15,hardcore,1,,3.58,3.58
+15,deuce,1,,3.58,3.58
+15,nomad,1,,3.58,3.58
+15,roh,1,,3.58,3.58
+15,john cena,1,,3.58,3.58
+15,velocity,1,,3.58,3.58
+15,aries,1,,3.58,3.58
+15,yoshi,1,,3.58,3.58
+15,naturals,1,,3.58,3.58
+15,dibiase,1,,3.58,3.58
+15,shawn michaels,1,,3.58,3.58
+15,umaga,1,,3.58,3.58
+15,magnum,1,,3.58,3.58
+15,rey mysterio,1,,3.58,3.58
+15,sting,1,,3.58,3.58
+15,smackdown,1,,3.58,3.58
+15,dynamite,1,,3.58,3.58
+15,infinity,1,,3.58,3.58
+15,woods,1,,3.58,3.58
+15,tiger woods,1,,3.58,3.58
+15,mickelson,1,,3.58,3.58
+15,lefty,1,,3.58,3.58
+15,greg norman,1,,3.58,3.58
+15,rebel,1,,3.58,3.58
+15,nicklaus,1,,3.58,3.58
+15,els,1,,3.58,3.58
+15,wildcat,1,,3.58,3.58
+15,phil mickelson,1,,3.58,3.58
+15,buick open,1,,3.58,3.58
+15,cink,1,,3.58,3.58
+15,toms,1,,3.58,3.58
+15,jack nicklaus,1,,3.58,3.58
+15,karuna,1,,3.58,3.58
+15,birdie,1,,3.58,3.58
+15,faldo,1,,3.58,3.58
+15,hawk,1,,3.58,3.58
+15,razorback,1,,3.58,3.58
+15,sabbatini,1,,3.58,3.58
+15,gamecock,1,,3.58,3.58
+15,furyk,1,,3.58,3.58
+15,pga championship,1,,3.58,3.58
+15,ltte,1,,3.58,3.58
+15,golden bear,1,,3.58,3.58
+15,montgomerie,1,,3.58,3.58
+15,masters,1,,3.58,3.58
+15,dimarco,1,,3.58,3.58
+15,goosen,1,,3.58,3.58
+15,annika,1,,3.58,3.58
+15,micheel,1,,3.58,3.58
+15,lankan,1,,3.58,3.58
+15,mcilroy,1,,3.58,3.58
+15,ben hogan,1,,3.58,3.58
+15,dubai desert,1,,3.58,3.58
+15,bama,1,,3.58,3.58
+15,golf,1,,3.58,3.58
+15,kite,1,,3.58,3.58
+15,lancer,1,,3.58,3.58
+15,poulter,1,,3.58,3.58
+15,raider,1,,3.58,3.58
+15,baddeley,1,,3.58,3.58
+15,wife elin,1,,3.58,3.58
+15,bearcat,1,,3.58,3.58
+15,green jacket,1,,3.58,3.58
+15,johnnie walker classic,1,,3.58,3.58
+15,longhorn,1,,3.58,3.58
+15,mizzou,1,,3.58,3.58
+15,arnold palmer invitational,1,,3.58,3.58
+15,pampling,1,,3.58,3.58
+15,pavin,1,,3.58,3.58
+15,whistling straits,1,,3.58,3.58
+15,vijay singh,1,,3.58,3.58
+15,tide,1,,3.58,3.58
+15,golfer tiger woods,1,,3.58,3.58
+15,ye yang,1,,3.58,3.58
+15,sluman,1,,3.58,3.58
+15,stricker,1,,3.58,3.58
+15,duck,1,,3.58,3.58
+15,david toms,1,,3.58,3.58
+15,presidents cup,1,,3.58,3.58
+15,ryder cup,1,,3.58,3.58
+15,tee,1,,3.58,3.58
+15,hokie,1,,3.58,3.58
+15,blue devil,1,,3.58,3.58
+15,spartan,1,,3.58,3.58
+15,fishers,1,,3.58,3.58
+15,trawlers,1,,3.58,3.58
+15,hatcheries,1,,3.58,3.58
+15,cod,1,,3.58,3.58
+15,shellfish,1,,3.58,3.58
+15,tuna,1,,3.58,3.58
+15,fisher,1,,3.58,3.58
+15,red snapper,1,,3.58,3.58
+15,hatchery,1,,3.58,3.58
+15,maritime,1,,3.58,3.58
+15,herring,1,,3.58,3.58
+15,scallop,1,,3.58,3.58
+15,abalone,1,,3.58,3.58
+15,whaling,1,,3.58,3.58
+15,lobstermen,1,,3.58,3.58
+15,prawn,1,,3.58,3.58
+15,fishing boats,1,,3.58,3.58
+15,whalers,1,,3.58,3.58
+15,lobsters,1,,3.58,3.58
+15,noaa,1,,3.58,3.58
+15,halibut,1,,3.58,3.58
+15,international whaling commission,1,,3.58,3.58
+15,trawler,1,,3.58,3.58
+15,angling,1,,3.58,3.58
+15,striped bass,1,,3.58,3.58
+15,grouper,1,,3.58,3.58
+15,oyster,1,,3.58,3.58
+15,watermen,1,,3.58,3.58
+15,inshore,1,,3.58,3.58
+15,swordfish,1,,3.58,3.58
+15,transport,1,,3.58,3.58
+15,mackerel,1,,3.58,3.58
+15,seal hunt,1,,3.58,3.58
+15,fishes,1,,3.58,3.58
+15,rockfish,1,,3.58,3.58
+15,fishing nets,1,,3.58,3.58
+15,shrimpers,1,,3.58,3.58
+15,sockeye,1,,3.58,3.58
+15,giant squid,1,,3.58,3.58
+15,humpbacks,1,,3.58,3.58
+15,fossil,1,,3.58,3.58
+15,squid,1,,3.58,3.58
+15,killer whales,1,,3.58,3.58
+15,mammalian,1,,3.58,3.58
+15,orcas,1,,3.58,3.58
+15,acreage,1,,3.58,3.58
+15,undeveloped land,1,,3.58,3.58
+15,tracts,1,,3.58,3.58
+15,landowner,1,,3.58,3.58
+15,acre,1,,3.58,3.58
+15,property,1,,3.58,3.58
+15,tract,1,,3.58,3.58
+15,burial grounds,1,,3.58,3.58
+15,easements,1,,3.58,3.58
+15,landless,1,,3.58,3.58
+15,parcels,1,,3.58,3.58
+15,easement,1,,3.58,3.58
+15,sparrows,1,,3.58,3.58
+15,birders,1,,3.58,3.58
+15,pelicans,1,,3.58,3.58
+15,sparrow,1,,3.58,3.58
+15,bird watchers,1,,3.58,3.58
+15,geese,1,,3.58,3.58
+15,canada geese,1,,3.58,3.58
+15,wintering,1,,3.58,3.58
+15,hummingbirds,1,,3.58,3.58
+15,songbird,1,,3.58,3.58
+15,quail,1,,3.58,3.58
+15,hummingbird,1,,3.58,3.58
+15,peacocks,1,,3.58,3.58
+15,hazel,1,,3.58,3.58
+15,gladys,1,,3.58,3.58
+15,evelyn,1,,3.58,3.58
+15,daphne,1,,3.58,3.58
+15,lydia,1,,3.58,3.58
+15,celia,1,,3.58,3.58
+15,irene,1,,3.58,3.58
+15,helen,1,,3.58,3.58
+15,clara,1,,3.58,3.58
+15,jeanette,1,,3.58,3.58
+15,eleanor,1,,3.58,3.58
+15,lucy,1,,3.58,3.58
+15,vivian,1,,3.58,3.58
+15,myrtle,1,,3.58,3.58
+15,louise,1,,3.58,3.58
+15,juanita,1,,3.58,3.58
+15,mabel,1,,3.58,3.58
+15,olive,1,,3.58,3.58
+15,antonia,1,,3.58,3.58
+15,mildred,1,,3.58,3.58
+15,edna,1,,3.58,3.58
+15,theresa,1,,3.58,3.58
+15,rosalie,1,,3.58,3.58
+15,eva,1,,3.58,3.58
+15,priscilla,1,,3.58,3.58
+15,clarissa,1,,3.58,3.58
+15,eunice,1,,3.58,3.58
+15,stella,1,,3.58,3.58
+15,gloria,1,,3.58,3.58
+15,lillian,1,,3.58,3.58
+15,harriet,1,,3.58,3.58
+15,hilda,1,,3.58,3.58
+15,elsie,1,,3.58,3.58
+15,dona,1,,3.58,3.58
+15,audrey,1,,3.58,3.58
+15,edith,1,,3.58,3.58
+15,rosemary,1,,3.58,3.58
+15,claudia,1,,3.58,3.58
+15,lena,1,,3.58,3.58
+15,ida,1,,3.58,3.58
+15,ethel,1,,3.58,3.58
+15,shirley,1,,3.58,3.58
+15,amelia,1,,3.58,3.58
+15,henrietta,1,,3.58,3.58
+15,lola,1,,3.58,3.58
+15,josephine,1,,3.58,3.58
+15,lyn,1,,3.58,3.58
+15,nola,1,,3.58,3.58
+15,lillie,1,,3.58,3.58
+15,jennie,1,,3.58,3.58
+15,elsa,1,,3.58,3.58
+15,della,1,,3.58,3.58
+15,dorothy,1,,3.58,3.58
+15,anna,1,,3.58,3.58
+15,cleo,1,,3.58,3.58
+15,lorna,1,,3.58,3.58
+15,gertrude,1,,3.58,3.58
+15,faye,1,,3.58,3.58
+15,brenda,1,,3.58,3.58
+15,millie,1,,3.58,3.58
+15,carla,1,,3.58,3.58
+15,marguerite,1,,3.58,3.58
+15,janie,1,,3.58,3.58
+15,martha,1,,3.58,3.58
+15,valerie,1,,3.58,3.58
+15,wanda,1,,3.58,3.58
+15,eloise,1,,3.58,3.58
+15,margo,1,,3.58,3.58
+15,yvonne,1,,3.58,3.58
+15,velma,1,,3.58,3.58
+15,agnes,1,,3.58,3.58
+15,thelma,1,,3.58,3.58
+15,patsy,1,,3.58,3.58
+15,annabelle,1,,3.58,3.58
+15,suzy,1,,3.58,3.58
+15,angela,1,,3.58,3.58
+15,esther,1,,3.58,3.58
+15,charlene,1,,3.58,3.58
+15,belinda,1,,3.58,3.58
+15,yolanda,1,,3.58,3.58
+15,lois,1,,3.58,3.58
+15,veronica,1,,3.58,3.58
+15,nora,1,,3.58,3.58
+15,pauline,1,,3.58,3.58
+15,louisa,1,,3.58,3.58
+15,blanche,1,,3.58,3.58
+15,vicky,1,,3.58,3.58
+15,jeanie,1,,3.58,3.58
+15,nellie,1,,3.58,3.58
+15,cornelia,1,,3.58,3.58
+15,alma,1,,3.58,3.58
+15,ramona,1,,3.58,3.58
+15,rosa,1,,3.58,3.58
+15,maud,1,,3.58,3.58
+15,monica,1,,3.58,3.58
+15,anita,1,,3.58,3.58
+15,phyllis,1,,3.58,3.58
+15,fern,1,,3.58,3.58
+15,connie,1,,3.58,3.58
+15,donna,1,,3.58,3.58
+15,antarctic ice,1,,3.58,3.58
+15,carbon dioxide co2,1,,3.58,3.58
+15,undergrowth,1,,3.58,3.58
+15,caterpillars,1,,3.58,3.58
+15,larvae,1,,3.58,3.58
+15,micro organisms,1,,3.58,3.58
+15,wanderers,1,,3.58,3.58
+15,quins,1,,3.58,3.58
+15,dynamos,1,,3.58,3.58
+15,roosters,1,,3.58,3.58
+15,harlequins,1,,3.58,3.58
+15,pumas,1,,3.58,3.58
+15,hull kr,1,,3.58,3.58
+15,vics,1,,3.58,3.58
+15,saracens,1,,3.58,3.58
+15,waratahs,1,,3.58,3.58
+15,exiles,1,,3.58,3.58
+15,stormers,1,,3.58,3.58
+15,sky blues,1,,3.58,3.58
+15,wasps,1,,3.58,3.58
+15,amazulu,1,,3.58,3.58
+15,tykes,1,,3.58,3.58
+15,souths,1,,3.58,3.58
+15,leeds rhinos,1,,3.58,3.58
+15,wests,1,,3.58,3.58
+15,brumbies,1,,3.58,3.58
+15,nomads,1,,3.58,3.58
+15,castleford,1,,3.58,3.58
+15,imps,1,,3.58,3.58
+15,barbarians,1,,3.58,3.58
+15,griquas,1,,3.58,3.58
+15,rovers,1,,3.58,3.58
+15,eels,1,,3.58,3.58
+15,rabbitohs,1,,3.58,3.58
+15,bulls,1,,3.58,3.58
+15,magpies,1,,3.58,3.58
+15,bluebirds,1,,3.58,3.58
+15,chiefs,1,,3.58,3.58
+15,sydney roosters,1,,3.58,3.58
+15,springboks,1,,3.58,3.58
+15,st george illawarra,1,,3.58,3.58
+15,wests tigers,1,,3.58,3.58
+15,swifts,1,,3.58,3.58
+15,brisbane broncos,1,,3.58,3.58
+15,kc stadium,1,,3.58,3.58
+15,seagulls,1,,3.58,3.58
+15,daggers,1,,3.58,3.58
+15,flyhalf,1,,3.58,3.58
+15,bantams,1,,3.58,3.58
+15,cobblers,1,,3.58,3.58
+15,accies,1,,3.58,3.58
+15,clarets,1,,3.58,3.58
+15,kickers,1,,3.58,3.58
+15,brive,1,,3.58,3.58
+15,black cats,1,,3.58,3.58
+15,catalans,1,,3.58,3.58
+15,welford road,1,,3.58,3.58
+15,seasiders,1,,3.58,3.58
+15,centurions,1,,3.58,3.58
+15,ajax cape town,1,,3.58,3.58
+15,gills,1,,3.58,3.58
+15,ashton gate,1,,3.58,3.58
+15,table toppers,1,,3.58,3.58
+15,stallions,1,,3.58,3.58
+15,saddlers,1,,3.58,3.58
+15,tri nations,1,,3.58,3.58
+15,whitecaps,1,,3.58,3.58
+15,guinness premiership,1,,3.58,3.58
+15,perth glory,1,,3.58,3.58
+15,cumbrians,1,,3.58,3.58
+15,super rugby,1,,3.58,3.58
+15,castres,1,,3.58,3.58
+15,connacht,1,,3.58,3.58
+15,sale sharks,1,,3.58,3.58
+15,redbacks,1,,3.58,3.58
+15,roar,1,,3.58,3.58
+15,scarlets,1,,3.58,3.58
+15,placer,1,,3.58,3.58
+15,butte,1,,3.58,3.58
+15,pinedale,1,,3.58,3.58
+15,monte vista,1,,3.58,3.58
+15,yucca valley,1,,3.58,3.58
+15,yreka,1,,3.58,3.58
+15,el dorado,1,,3.58,3.58
+15,shoshone,1,,3.58,3.58
+15,del norte,1,,3.58,3.58
+15,chino valley,1,,3.58,3.58
+15,san dimas,1,,3.58,3.58
+15,tehachapi,1,,3.58,3.58
+15,san jacinto,1,,3.58,3.58
+15,mojave,1,,3.58,3.58
+15,red bluff,1,,3.58,3.58
+15,foothill,1,,3.58,3.58
+15,oroville,1,,3.58,3.58
+15,hemet,1,,3.58,3.58
+15,rancho,1,,3.58,3.58
+15,dry creek,1,,3.58,3.58
+15,ranch,1,,3.58,3.58
+15,ione,1,,3.58,3.58
+15,clear creek,1,,3.58,3.58
+15,yuba,1,,3.58,3.58
+15,placerville,1,,3.58,3.58
+15,yerington,1,,3.58,3.58
+15,sweetwater,1,,3.58,3.58
+15,madera,1,,3.58,3.58
+15,gridley,1,,3.58,3.58
+15,colusa,1,,3.58,3.58
+15,santa margarita,1,,3.58,3.58
+15,willow creek,1,,3.58,3.58
+15,porterville,1,,3.58,3.58
+15,montezuma,1,,3.58,3.58
+15,indio,1,,3.58,3.58
+15,arroyo grande,1,,3.58,3.58
+15,ridgecrest,1,,3.58,3.58
+15,barstow,1,,3.58,3.58
+15,lemoore,1,,3.58,3.58
+15,battle mountain,1,,3.58,3.58
+15,lassen,1,,3.58,3.58
+15,santa ynez,1,,3.58,3.58
+15,pahrump valley,1,,3.58,3.58
+15,mohave,1,,3.58,3.58
+15,tulare,1,,3.58,3.58
+15,nipomo,1,,3.58,3.58
+15,sonora,1,,3.58,3.58
+15,moreno valley,1,,3.58,3.58
+15,fremont,1,,3.58,3.58
+15,yuba city,1,,3.58,3.58
+15,chaparral,1,,3.58,3.58
+15,elk grove,1,,3.58,3.58
+15,hesperia,1,,3.58,3.58
+15,washoe,1,,3.58,3.58
+15,colfax,1,,3.58,3.58
+15,elkhorn,1,,3.58,3.58
+15,fallbrook,1,,3.58,3.58
+15,yavapai,1,,3.58,3.58
+15,mariposa,1,,3.58,3.58
+15,ukiah,1,,3.58,3.58
+15,carpinteria,1,,3.58,3.58
+15,whittier,1,,3.58,3.58
+15,truckee,1,,3.58,3.58
+15,san bernardino,1,,3.58,3.58
+15,murrieta,1,,3.58,3.58
+15,clovis,1,,3.58,3.58
+15,wasco,1,,3.58,3.58
+15,cibola,1,,3.58,3.58
+15,desert hot springs,1,,3.58,3.58
+15,estancia,1,,3.58,3.58
+15,calaveras,1,,3.58,3.58
+15,chino,1,,3.58,3.58
+15,incline,1,,3.58,3.58
+15,maricopa,1,,3.58,3.58
+15,san marcos,1,,3.58,3.58
+15,casa grande,1,,3.58,3.58
+15,perris,1,,3.58,3.58
+15,pima,1,,3.58,3.58
+15,redlands,1,,3.58,3.58
+15,moorpark,1,,3.58,3.58
+15,amador,1,,3.58,3.58
+15,arapahoe,1,,3.58,3.58
+15,mesquite,1,,3.58,3.58
+15,rolling hills,1,,3.58,3.58
+15,paradise valley,1,,3.58,3.58
+15,rio vista,1,,3.58,3.58
+15,yolo,1,,3.58,3.58
+15,cimarron,1,,3.58,3.58
+15,basins,1,,3.58,3.58
+15,creeks,1,,3.58,3.58
+15,wastewater,1,,3.58,3.58
+15,streams,1,,3.58,3.58
+15,municipalities,1,,3.58,3.58
+15,hydroelectric dams,1,,3.58,3.58
+15,snowpack,1,,3.58,3.58
+15,brownfields,1,,3.58,3.58
+15,culverts,1,,3.58,3.58
+15,irrigators,1,,3.58,3.58
+15,coal ash,1,,3.58,3.58
+15,hydropower,1,,3.58,3.58
+15,septic tanks,1,,3.58,3.58
+15,superfund site,1,,3.58,3.58
+15,funky,1,,3.58,3.58
+15,boy,1,,3.58,3.58
+15,mad,1,,3.58,3.58
+15,ox,1,,3.58,3.58
+15,crazy,1,,3.58,3.58
+15,bitch,1,,3.58,3.58
+15,kong,1,,3.58,3.58
+15,rooster,1,,3.58,3.58
+15,karma,1,,3.58,3.58
+15,stitch,1,,3.58,3.58
+15,hop,1,,3.58,3.58
+15,mojo,1,,3.58,3.58
+15,magical,1,,3.58,3.58
+15,buddha,1,,3.58,3.58
+15,happy,1,,3.58,3.58
+15,bling,1,,3.58,3.58
+15,bullet,1,,3.58,3.58
+15,collar,1,,3.58,3.58
+15,unicorn,1,,3.58,3.58
+15,lil,1,,3.58,3.58
+15,shit,1,,3.58,3.58
+15,clown,1,,3.58,3.58
+15,hen,1,,3.58,3.58
+15,tricky,1,,3.58,3.58
+15,amazing,1,,3.58,3.58
+15,ol,1,,3.58,3.58
+15,roo,1,,3.58,3.58
+15,ginger,1,,3.58,3.58
+15,scarecrow,1,,3.58,3.58
+15,groove,1,,3.58,3.58
+15,kung fu,1,,3.58,3.58
+15,heaven,1,,3.58,3.58
+15,limbo,1,,3.58,3.58
+15,girl,1,,3.58,3.58
+15,chicken,1,,3.58,3.58
+15,lucifer,1,,3.58,3.58
+15,toe,1,,3.58,3.58
+15,misery,1,,3.58,3.58
+15,spider,1,,3.58,3.58
+15,mist,1,,3.58,3.58
+15,witch,1,,3.58,3.58
+15,cave,1,,3.58,3.58
+15,octopus,1,,3.58,3.58
+15,troll,1,,3.58,3.58
+15,loki,1,,3.58,3.58
+15,teeth,1,,3.58,3.58
+15,pigeon,1,,3.58,3.58
+15,skull,1,,3.58,3.58
+15,smokey,1,,3.58,3.58
+15,rock,1,,3.58,3.58
+15,lantern,1,,3.58,3.58
+15,tooth,1,,3.58,3.58
+15,purple,1,,3.58,3.58
+15,nose,1,,3.58,3.58
+15,yellow,1,,3.58,3.58
+15,surfer,1,,3.58,3.58
+15,cobra,1,,3.58,3.58
+15,slayer,1,,3.58,3.58
+15,mouth,1,,3.58,3.58
+15,balloon,1,,3.58,3.58
+15,axe,1,,3.58,3.58
+15,bald,1,,3.58,3.58
+15,thor,1,,3.58,3.58
+15,whiskey,1,,3.58,3.58
+15,swamp,1,,3.58,3.58
+15,watermelon,1,,3.58,3.58
+15,rowdy,1,,3.58,3.58
+15,bananas,1,,3.58,3.58
+15,nicknamed,1,,3.58,3.58
+15,cruiser,1,,3.58,3.58
+15,joker,1,,3.58,3.58
+15,lover,1,,3.58,3.58
+15,voodoo,1,,3.58,3.58
+15,himalayas,1,,3.58,3.58
+15,pristine,1,,3.58,3.58
+15,bushland,1,,3.58,3.58
+15,unspoiled,1,,3.58,3.58
+15,prairies,1,,3.58,3.58
+15,great barrier reef,1,,3.58,3.58
+15,andes,1,,3.58,3.58
+15,sugar,1,,3.58,3.58
+15,wood,1,,3.58,3.58
+15,marble,1,,3.58,3.58
+15,cement,1,,3.58,3.58
+15,concrete,1,,3.58,3.58
+15,machinery,1,,3.58,3.58
+15,flat,1,,3.58,3.58
+15,canfor,1,,3.58,3.58
+15,milling,1,,3.58,3.58
+15,cattle,1,,3.58,3.58
+15,steel,1,,3.58,3.58
+15,tobacco,1,,3.58,3.58
+15,leather,1,,3.58,3.58
+15,building materials,1,,3.58,3.58
+15,paper,1,,3.58,3.58
+15,coal,1,,3.58,3.58
+15,textile,1,,3.58,3.58
+15,furniture,1,,3.58,3.58
+15,potato,1,,3.58,3.58
+15,welding,1,,3.58,3.58
+15,rubber,1,,3.58,3.58
+15,timbers,1,,3.58,3.58
+15,kettle,1,,3.58,3.58
+15,fruit,1,,3.58,3.58
+15,quarry,1,,3.58,3.58
+15,grain,1,,3.58,3.58
+15,stora enso,1,,3.58,3.58
+15,aluminium,1,,3.58,3.58
+15,gunns,1,,3.58,3.58
+15,cotton,1,,3.58,3.58
+15,hollow,1,,3.58,3.58
+15,teak,1,,3.58,3.58
+15,bluff,1,,3.58,3.58
+15,powder,1,,3.58,3.58
+15,gypsum,1,,3.58,3.58
+15,fir,1,,3.58,3.58
+15,flooring,1,,3.58,3.58
+15,tractor,1,,3.58,3.58
+15,emerald,1,,3.58,3.58
+15,trucking,1,,3.58,3.58
+15,shady,1,,3.58,3.58
+15,windmill,1,,3.58,3.58
+15,pineapple,1,,3.58,3.58
+15,hardwood,1,,3.58,3.58
+15,meat,1,,3.58,3.58
+15,ore,1,,3.58,3.58
+15,brahmas,1,,3.58,3.58
+15,mudbugs,1,,3.58,3.58
+15,bison,1,,3.58,3.58
+15,riverkings,1,,3.58,3.58
+15,mules,1,,3.58,3.58
+15,t birds,1,,3.58,3.58
+15,salukis,1,,3.58,3.58
+15,cowgirls,1,,3.58,3.58
+15,rayz,1,,3.58,3.58
+15,hounds,1,,3.58,3.58
+15,wranglers,1,,3.58,3.58
+15,jackrabbits,1,,3.58,3.58
+15,condors,1,,3.58,3.58
+15,bees,1,,3.58,3.58
+15,griffins,1,,3.58,3.58
+15,mallards,1,,3.58,3.58
+15,rivermen,1,,3.58,3.58
+15,sycamores,1,,3.58,3.58
+15,broncs,1,,3.58,3.58
+15,roughnecks,1,,3.58,3.58
+15,matadors,1,,3.58,3.58
+15,roadrunners,1,,3.58,3.58
+15,lobos,1,,3.58,3.58
+15,muskies,1,,3.58,3.58
+15,nebraska omaha,1,,3.58,3.58
+15,k wings,1,,3.58,3.58
+15,icehogs,1,,3.58,3.58
+15,thunderbirds,1,,3.58,3.58
+15,camels,1,,3.58,3.58
+15,statesmen,1,,3.58,3.58
+15,pioneers,1,,3.58,3.58
+15,plainsmen,1,,3.58,3.58
+15,billikens,1,,3.58,3.58
+15,wolf pack,1,,3.58,3.58
+15,komets,1,,3.58,3.58
+15,nanooks,1,,3.58,3.58
+15,salmon kings,1,,3.58,3.58
+15,savages,1,,3.58,3.58
+15,steelheads,1,,3.58,3.58
+15,nailers,1,,3.58,3.58
+15,barons,1,,3.58,3.58
+15,leathernecks,1,,3.58,3.58
+15,drillers,1,,3.58,3.58
+15,horns,1,,3.58,3.58
+15,golden hurricane,1,,3.58,3.58
+15,flames,1,,3.58,3.58
+15,oilers,1,,3.58,3.58
+15,croc,1,,3.58,3.58
+15,killer whale,1,,3.58,3.58
+15,buffalo,1,,3.58,3.58
+15,raccoons,1,,3.58,3.58
+15,python,1,,3.58,3.58
+15,aquarium,1,,3.58,3.58
+15,pug,1,,3.58,3.58
+15,pooch,1,,3.58,3.58
+15,chihuahuas,1,,3.58,3.58
+15,poodle,1,,3.58,3.58
+15,puppies,1,,3.58,3.58
+15,kittens,1,,3.58,3.58
+15,boar,1,,3.58,3.58
+15,goats,1,,3.58,3.58
+15,rats,1,,3.58,3.58
+15,pharaohs,1,,3.58,3.58
+15,cranes,1,,3.58,3.58
+15,cows,1,,3.58,3.58
+15,robert pattinson,1,,3.58,3.58
+15,cameroon,1,,3.58,3.58
+15,ivory coast,1,,3.58,3.58
+15,bafana bafana,1,,3.58,3.58
+15,rwanda,1,,3.58,3.58
+15,ivorians,1,,3.58,3.58
+15,drogba,1,,3.58,3.58
+15,jolie,1,,3.58,3.58
+15,horses,1,,3.58,3.58
+15,angelina jolie,1,,3.58,3.58
+15,zamalek,1,,3.58,3.58
+15,babies,1,,3.58,3.58
+15,kristen stewart,1,,3.58,3.58
+15,les bleus,1,,3.58,3.58
+15,dr congo,1,,3.58,3.58
+15,ants,1,,3.58,3.58
+15,lovers,1,,3.58,3.58
+15,chickens,1,,3.58,3.58
+15,horse,1,,3.58,3.58
+15,cote d' ivoire,1,,3.58,3.58
+15,jennifer aniston,1,,3.58,3.58
+15,enyimba,1,,3.58,3.58
+15,eto'o,1,,3.58,3.58
+15,namibia,1,,3.58,3.58
+15,kung fu panda,1,,3.58,3.58
+15,robots,1,,3.58,3.58
+15,angolans,1,,3.58,3.58
+15,groves,1,,3.58,3.58
+15,cashew,1,,3.58,3.58
+15,orchards,1,,3.58,3.58
+15,growers,1,,3.58,3.58
+15,planters,1,,3.58,3.58
+15,sugar mills,1,,3.58,3.58
+15,pineapples,1,,3.58,3.58
+15,vines,1,,3.58,3.58
+15,vineyards,1,,3.58,3.58
+15,peasants,1,,3.58,3.58
+15,slaves,1,,3.58,3.58
+15,cassava,1,,3.58,3.58
+15,huts,1,,3.58,3.58
+15,factories,1,,3.58,3.58
+15,grower,1,,3.58,3.58
+15,bush,1,,3.58,3.58
+15,shrub,1,,3.58,3.58
+15,warehouses,1,,3.58,3.58
+15,mills,1,,3.58,3.58
+15,nurseries,1,,3.58,3.58
+15,cultivars,1,,3.58,3.58
+15,cooperatives,1,,3.58,3.58
+15,slave labor,1,,3.58,3.58
+15,crop,1,,3.58,3.58
+15,ranches,1,,3.58,3.58
+15,olive trees,1,,3.58,3.58
+15,vegetable gardens,1,,3.58,3.58
+15,greenhouses,1,,3.58,3.58
+15,shacks,1,,3.58,3.58
+15,mines,1,,3.58,3.58
+15,pastoralists,1,,3.58,3.58
+15,harvests,1,,3.58,3.58
+15,vine,1,,3.58,3.58
+15,neanderthal,1,,3.58,3.58
+15,cottages,1,,3.58,3.58
+15,st. augustine,1,,3.58,3.58
+15,pinecrest,1,,3.58,3.58
+15,shores,1,,3.58,3.58
+15,villas,1,,3.58,3.58
+15,palmetto,1,,3.58,3.58
+15,gardens,1,,3.58,3.58
+15,palatka,1,,3.58,3.58
+15,glades,1,,3.58,3.58
+15,apopka,1,,3.58,3.58
+15,eustis,1,,3.58,3.58
+15,hammock,1,,3.58,3.58
+15,colonial,1,,3.58,3.58
+15,rockledge,1,,3.58,3.58
+15,manor,1,,3.58,3.58
+15,ponte vedra beach,1,,3.58,3.58
+15,pointe,1,,3.58,3.58
+15,goose creek,1,,3.58,3.58
+15,leesburg,1,,3.58,3.58
+15,lantana,1,,3.58,3.58
+15,azalea,1,,3.58,3.58
+15,brooksville,1,,3.58,3.58
+15,hilton head,1,,3.58,3.58
+15,summerville,1,,3.58,3.58
+15,deerfield beach,1,,3.58,3.58
+15,thomasville,1,,3.58,3.58
+15,palm beach gardens,1,,3.58,3.58
+15,estate,1,,3.58,3.58
+15,cove,1,,3.58,3.58
+15,beach resort,1,,3.58,3.58
+15,condominium,1,,3.58,3.58
+15,belleview,1,,3.58,3.58
+15,amelia island,1,,3.58,3.58
+15,rosewood,1,,3.58,3.58
+15,condominiums,1,,3.58,3.58
+15,southern pines,1,,3.58,3.58
+15,fort pierce,1,,3.58,3.58
+15,meadowbrook,1,,3.58,3.58
+15,clarendon,1,,3.58,3.58
+15,fla.,1,,3.58,3.58
+15,abbeville,1,,3.58,3.58
+15,coconut grove,1,,3.58,3.58
+15,auburndale,1,,3.58,3.58
+15,golf resort,1,,3.58,3.58
+15,hilton head island,1,,3.58,3.58
+15,magnolia,1,,3.58,3.58
+15,middleburg,1,,3.58,3.58
+15,riviera beach,1,,3.58,3.58
+15,village,1,,3.58,3.58
+15,west palm beach,1,,3.58,3.58
+15,pembroke pines,1,,3.58,3.58
+15,mansion,1,,3.58,3.58
+15,jensen beach,1,,3.58,3.58
+15,edgewater,1,,3.58,3.58
+15,mulberry,1,,3.58,3.58
+15,wesley chapel,1,,3.58,3.58
+15,lake worth,1,,3.58,3.58
+15,ocala,1,,3.58,3.58
+15,terrace,1,,3.58,3.58
+15,country club,1,,3.58,3.58
+15,estero,1,,3.58,3.58
+15,landing,1,,3.58,3.58
+15,boynton beach,1,,3.58,3.58
+15,ridgeland,1,,3.58,3.58
+15,apartments,1,,3.58,3.58
+15,farm,1,,3.58,3.58
+15,bluffton,1,,3.58,3.58
+15,ebenezer,1,,3.58,3.58
+15,ormond beach,1,,3.58,3.58
+15,delray beach,1,,3.58,3.58
+15,landrum,1,,3.58,3.58
+15,deltona,1,,3.58,3.58
+15,punta gorda,1,,3.58,3.58
+15,pompano beach,1,,3.58,3.58
+15,briarwood,1,,3.58,3.58
+15,okeechobee,1,,3.58,3.58
+15,coral springs,1,,3.58,3.58
+15,longwood,1,,3.58,3.58
+15,seminole,1,,3.58,3.58
+15,alachua,1,,3.58,3.58
+15,lowcountry,1,,3.58,3.58
+15,reidsville,1,,3.58,3.58
+15,statesboro,1,,3.58,3.58

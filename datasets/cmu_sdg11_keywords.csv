@@ -1,0 +1,2278 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+11,floods,30,,4.07,122.10000000000001
+11,tsunami,29,True,4.79,138.91
+11,earthquake,27,True,14.98,404.46000000000004
+11,disaster,26,True,7.96,206.96
+11,tornado,26,True,4.8,124.8
+11,flooding,25,True,6.14,153.5
+11,flood,24,True,9.32,223.68
+11,storm,23,,4.07,93.61000000000001
+11,storms,22,,4.07,89.54
+11,hurricane,20,True,6.74,134.8
+11,typhoon,20,,4.07,81.4
+11,quake,19,,4.07,77.33000000000001
+11,cyclone,19,,4.07,77.33000000000001
+11,transit,18,True,7.98,143.64000000000001
+11,tornadoes,18,,4.07,73.26
+11,commuter,18,,4.07,73.26
+11,disasters,17,True,6.61,112.37
+11,tornados,17,,4.07,69.19
+11,commuters,17,,4.07,69.19
+11,earthquakes,15,True,8.81,132.15
+11,archaeological,15,True,5.75,86.25
+11,twisters,14,,4.07,56.980000000000004
+11,traffic,13,True,7.99,103.87
+11,drought,13,,4.07,52.910000000000004
+11,transportation,12,True,6.5,78.0
+11,metro,12,True,4.61,55.32000000000001
+11,quakes,12,,4.07,48.84
+11,catastrophe,12,,4.07,48.84
+11,devastating floods,12,,4.07,48.84
+11,flash flood,12,,4.07,48.84
+11,rail,12,,4.07,48.84
+11,motorists,12,,4.07,48.84
+11,museums,12,,4.07,48.84
+11,cultural heritage,11,True,10.4,114.4
+11,congestion,11,True,4.82,53.02
+11,#.# magnitude earthquake,11,,4.07,44.77
+11,tsunamis,11,,4.07,44.77
+11,landslide,11,,4.07,44.77
+11,landslides,11,,4.07,44.77
+11,mudslides,11,,4.07,44.77
+11,flash floods,11,,4.07,44.77
+11,cyclones,11,,4.07,44.77
+11,floodwaters,11,,4.07,44.77
+11,heavy rains,11,,4.07,44.77
+11,heavy rain,11,,4.07,44.77
+11,trolley,11,,4.07,44.77
+11,historic preservation,11,,4.07,44.77
+11,heritage,10,True,14.94,149.4
+11,natural disasters,10,True,14.78,147.79999999999998
+11,city,10,True,11.83,118.3
+11,historic,10,True,5.66,56.6
+11,transport,10,True,4.54,45.4
+11,#.# magnitude quake,10,,4.07,40.7
+11,devastating earthquake,10,,4.07,40.7
+11,typhoons,10,,4.07,40.7
+11,flash flooding,10,,4.07,40.7
+11,thunderstorms,10,,4.07,40.7
+11,severe weather,10,,4.07,40.7
+11,bus,10,,4.07,40.7
+11,trains,10,,4.07,40.7
+11,tram,10,,4.07,40.7
+11,roads,10,,4.07,40.7
+11,highways,10,,4.07,40.7
+11,landmarks,10,,4.07,40.7
+11,preservation,10,,4.07,40.7
+11,redevelopment,10,,4.07,40.7
+11,tropical storm,10,,4.07,40.7
+11,streets,10,,4.07,40.7
+11,unesco,9,True,4.87,43.83
+11,parking,9,True,4.59,41.31
+11,mudslide,9,,4.07,36.63
+11,cyclone yasi,9,,4.07,36.63
+11,katrina,9,,4.07,36.63
+11,hurricanes,9,,4.07,36.63
+11,hurricanes katrina,9,,4.07,36.63
+11,torrential rains,9,,4.07,36.63
+11,wildfires,9,,4.07,36.63
+11,pedestrian,9,,4.07,36.63
+11,expressway,9,,4.07,36.63
+11,motorway,9,,4.07,36.63
+11,interstates,9,,4.07,36.63
+11,antiquities,9,,4.07,36.63
+11,museum,9,,4.07,36.63
+11,artifacts,9,,4.07,36.63
+11,affordable housing,9,,4.07,36.63
+11,ferries,9,,4.07,36.63
+11,neighborhoods,9,,4.07,36.63
+11,cities,8,True,6.18,49.44
+11,pollution,8,True,5.93,47.44
+11,traffic congestion,8,True,5.3,42.4
+11,historical,8,True,4.53,36.24
+11,commuting,8,True,4.18,33.44
+11,temblor,8,,4.07,32.56
+11,tidal waves,8,,4.07,32.56
+11,bird flu,8,,4.07,32.56
+11,cyclone nargis,8,,4.07,32.56
+11,calamity,8,,4.07,32.56
+11,hurricane ike,8,,4.07,32.56
+11,rainstorms,8,,4.07,32.56
+11,rainfall,8,,4.07,32.56
+11,snowfall,8,,4.07,32.56
+11,commuter rail,8,,4.07,32.56
+11,rush hour,8,,4.07,32.56
+11,freight,8,,4.07,32.56
+11,corridor,8,,4.07,32.56
+11,monuments,8,,4.07,32.56
+11,cultural,8,,4.07,32.56
+11,treasures,8,,4.07,32.56
+11,ancient,8,,4.07,32.56
+11,downtowns,8,,4.07,32.56
+11,downtown,8,,4.07,32.56
+11,homelessness,7,True,4.96,34.72
+11,emergencies,7,,4.07,28.490000000000002
+11,winter storm,7,,4.07,28.490000000000002
+11,tragedy,7,,4.07,28.490000000000002
+11,devastation,7,,4.07,28.490000000000002
+11,flood ravaged,7,,4.07,28.490000000000002
+11,hurricane ivan,7,,4.07,28.490000000000002
+11,rains,7,,4.07,28.490000000000002
+11,rain,7,,4.07,28.490000000000002
+11,passenger,7,,4.07,28.490000000000002
+11,light rail,7,,4.07,28.490000000000002
+11,brt,7,,4.07,28.490000000000002
+11,mass transit,7,,4.07,28.490000000000002
+11,buses,7,,4.07,28.490000000000002
+11,commuter trains,7,,4.07,28.490000000000002
+11,taxis,7,,4.07,28.490000000000002
+11,bike lanes,7,,4.07,28.490000000000002
+11,archeological,7,,4.07,28.490000000000002
+11,archaeology,7,,4.07,28.490000000000002
+11,history,7,,4.07,28.490000000000002
+11,archaeologists,7,,4.07,28.490000000000002
+11,urban renewal,7,,4.07,28.490000000000002
+11,walkable,7,,4.07,28.490000000000002
+11,twister,7,,4.07,28.490000000000002
+11,railway,7,,4.07,28.490000000000002
+11,highway,7,,4.07,28.490000000000002
+11,residents,7,,4.07,28.490000000000002
+11,neighborhood,7,,4.07,28.490000000000002
+11,artefacts,6,True,4.79,28.740000000000002
+11,train,6,True,4.35,26.099999999999998
+11,earthquake measuring,6,,4.07,24.42
+11,aftershocks,6,,4.07,24.42
+11,tsunami waves,6,,4.07,24.42
+11,magnitude,6,,4.07,24.42
+11,disaster management,6,,4.07,24.42
+11,oil spill,6,,4.07,24.42
+11,calamities,6,,4.07,24.42
+11,ike,6,,4.07,24.42
+11,recession,6,,4.07,24.42
+11,hurricane isabel,6,,4.07,24.42
+11,hurricane charley,6,,4.07,24.42
+11,inundation,6,,4.07,24.42
+11,delays,6,,4.07,24.42
+11,taxi,6,,4.07,24.42
+11,passengers,6,,4.07,24.42
+11,high speed rail,6,,4.07,24.42
+11,bicyclists,6,,4.07,24.42
+11,rta,6,,4.07,24.42
+11,streetcar,6,,4.07,24.42
+11,metro rail,6,,4.07,24.42
+11,traffic jams,6,,4.07,24.42
+11,traffic snarls,6,,4.07,24.42
+11,airports,6,,4.07,24.42
+11,freeways,6,,4.07,24.42
+11,expressways,6,,4.07,24.42
+11,waterways,6,,4.07,24.42
+11,culture,6,,4.07,24.42
+11,biodiversity,6,,4.07,24.42
+11,revitalization,6,,4.07,24.42
+11,livability,6,,4.07,24.42
+11,renters,6,,4.07,24.42
+11,severe thunderstorms,6,,4.07,24.42
+11,hurricane dennis,6,,4.07,24.42
+11,weather,6,,4.07,24.42
+11,tropical storms,6,,4.07,24.42
+11,railways,6,,4.07,24.42
+11,seismic,5,True,6.08,30.4
+11,landfill,5,True,5.75,28.75
+11,aftershock,5,,4.07,20.35
+11,tremor,5,,4.07,20.35
+11,explosion,5,,4.07,20.35
+11,disaster relief,5,,4.07,20.35
+11,geological,5,,4.07,20.35
+11,wildfire,5,,4.07,20.35
+11,volcanic eruption,5,,4.07,20.35
+11,volcano,5,,4.07,20.35
+11,pacific tsunami warning,5,,4.07,20.35
+11,haitian earthquake,5,,4.07,20.35
+11,disaster preparedness,5,,4.07,20.35
+11,hurricane katrina,5,,4.07,20.35
+11,catastrophes,5,,4.07,20.35
+11,hurricane rita,5,,4.07,20.35
+11,natural calamities,5,,4.07,20.35
+11,hurricane wilma,5,,4.07,20.35
+11,waves,5,,4.07,20.35
+11,hurricane frances,5,,4.07,20.35
+11,downpours,5,,4.07,20.35
+11,flood waters,5,,4.07,20.35
+11,heavy rainfall,5,,4.07,20.35
+11,torrential rain,5,,4.07,20.35
+11,heavy downpours,5,,4.07,20.35
+11,flooded,5,,4.07,20.35
+11,floodwater,5,,4.07,20.35
+11,deluge,5,,4.07,20.35
+11,flood prone,5,,4.07,20.35
+11,train derailment,5,,4.07,20.35
+11,ridership,5,,4.07,20.35
+11,motorist,5,,4.07,20.35
+11,metrorail,5,,4.07,20.35
+11,amtrak,5,,4.07,20.35
+11,commute,5,,4.07,20.35
+11,commuter train,5,,4.07,20.35
+11,rapid transit,5,,4.07,20.35
+11,metrolink,5,,4.07,20.35
+11,drivers,5,,4.07,20.35
+11,mta,5,,4.07,20.35
+11,transit authority,5,,4.07,20.35
+11,monorail,5,,4.07,20.35
+11,ease congestion,5,,4.07,20.35
+11,infrastructure,5,,4.07,20.35
+11,roadwork,5,,4.07,20.35
+11,lanes,5,,4.07,20.35
+11,roundabouts,5,,4.07,20.35
+11,drainage,5,,4.07,20.35
+11,freeway,5,,4.07,20.35
+11,architectural,5,,4.07,20.35
+11,archaeological sites,5,,4.07,20.35
+11,wetlands,5,,4.07,20.35
+11,archeology,5,,4.07,20.35
+11,relics,5,,4.07,20.35
+11,treasure,5,,4.07,20.35
+11,historical society,5,,4.07,20.35
+11,carvings,5,,4.07,20.35
+11,smart growth,5,,4.07,20.35
+11,waterfront,5,,4.07,20.35
+11,homeowners,5,,4.07,20.35
+11,thunderstorm,5,,4.07,20.35
+11,tropical storm fay,5,,4.07,20.35
+11,railroad,5,,4.07,20.35
+11,public works,5,,4.07,20.35
+11,dot,5,,4.07,20.35
+11,roadways,5,,4.07,20.35
+11,northbound,5,,4.07,20.35
+11,lightning,5,,4.07,20.35
+11,pedestrians,5,,4.07,20.35
+11,pedestrian friendly,5,,4.07,20.35
+11,bike paths,5,,4.07,20.35
+11,solid waste,4,True,23.22,92.88
+11,urban,4,True,20.25,81.0
+11,housing,4,True,10.3,41.2
+11,waste,4,True,9.76,39.04
+11,municipal,4,True,9.47,37.88
+11,gentrification,4,True,8.85,35.4
+11,sewage,4,True,6.84,27.36
+11,richter scale,4,,4.07,16.28
+11,seismic activity,4,,4.07,16.28
+11,tremors,4,,4.07,16.28
+11,avalanches,4,,4.07,16.28
+11,emergency management,4,,4.07,16.28
+11,earthquake ravaged,4,,4.07,16.28
+11,crisis,4,,4.07,16.28
+11,emergency preparedness,4,,4.07,16.28
+11,fema,4,,4.07,16.28
+11,pandemic,4,,4.07,16.28
+11,swine flu,4,,4.07,16.28
+11,hurricane dean,4,,4.07,16.28
+11,bushfire,4,,4.07,16.28
+11,gustav,4,,4.07,16.28
+11,hurricane gustav,4,,4.07,16.28
+11,fires,4,,4.07,16.28
+11,crashes,4,,4.07,16.28
+11,heavy snow,4,,4.07,16.28
+11,hailstorm,4,,4.07,16.28
+11,rainstorm,4,,4.07,16.28
+11,metro transit,4,,4.07,16.28
+11,caltrain,4,,4.07,16.28
+11,commutes,4,,4.07,16.28
+11,cyclists,4,,4.07,16.28
+11,carpooling,4,,4.07,16.28
+11,cargo,4,,4.07,16.28
+11,subway,4,,4.07,16.28
+11,septa,4,,4.07,16.28
+11,greyhound,4,,4.07,16.28
+11,bart,4,,4.07,16.28
+11,lirr,4,,4.07,16.28
+11,cta,4,,4.07,16.28
+11,trimet,4,,4.07,16.28
+11,congested,4,,4.07,16.28
+11,gridlock,4,,4.07,16.28
+11,tolls,4,,4.07,16.28
+11,bypass,4,,4.07,16.28
+11,vehicular traffic,4,,4.07,16.28
+11,motorways,4,,4.07,16.28
+11,roadworks,4,,4.07,16.28
+11,interchanges,4,,4.07,16.28
+11,urban sprawl,4,,4.07,16.28
+11,monument,4,,4.07,16.28
+11,world heritage site,4,,4.07,16.28
+11,inscriptions,4,,4.07,16.28
+11,historical significance,4,,4.07,16.28
+11,historic preservation commission,4,,4.07,16.28
+11,archeologists,4,,4.07,16.28
+11,excavations,4,,4.07,16.28
+11,bicentennial,4,,4.07,16.28
+11,archeologist,4,,4.07,16.28
+11,archaeologist,4,,4.07,16.28
+11,civilization,4,,4.07,16.28
+11,traditions,4,,4.07,16.28
+11,antiquity,4,,4.07,16.28
+11,cultures,4,,4.07,16.28
+11,ecological,4,,4.07,16.28
+11,tourism,4,,4.07,16.28
+11,arts,4,,4.07,16.28
+11,artifact,4,,4.07,16.28
+11,scenic,4,,4.07,16.28
+11,downtown revitalization,4,,4.07,16.28
+11,condos,4,,4.07,16.28
+11,condo,4,,4.07,16.28
+11,redevelopment agency,4,,4.07,16.28
+11,suburban sprawl,4,,4.07,16.28
+11,power outages,4,,4.07,16.28
+11,blast,4,,4.07,16.28
+11,blaze,4,,4.07,16.28
+11,groundwater,4,,4.07,16.28
+11,water,4,,4.07,16.28
+11,tropical cyclone,4,,4.07,16.28
+11,storm surges,4,,4.07,16.28
+11,transportation authority,4,,4.07,16.28
+11,translink,4,,4.07,16.28
+11,transit administration,4,,4.07,16.28
+11,streetcars,4,,4.07,16.28
+11,parking authority,4,,4.07,16.28
+11,metra,4,,4.07,16.28
+11,ferry,4,,4.07,16.28
+11,routes,4,,4.07,16.28
+11,roadway,4,,4.07,16.28
+11,underpass,4,,4.07,16.28
+11,parkway,4,,4.07,16.28
+11,viaduct,4,,4.07,16.28
+11,thoroughfare,4,,4.07,16.28
+11,southbound,4,,4.07,16.28
+11,citywide,4,,4.07,16.28
+11,old town,4,,4.07,16.28
+11,midtown,4,,4.07,16.28
+11,metropolis,4,,4.07,16.28
+11,uptown,4,,4.07,16.28
+11,communities,4,,4.07,16.28
+11,eyesores,4,,4.07,16.28
+11,riverfront,4,,4.07,16.28
+11,cultural arts,4,,4.07,16.28
+11,anthropology,4,,4.07,16.28
+11,historical museum,4,,4.07,16.28
+11,antique,4,,4.07,16.28
+11,railway station,4,,4.07,16.28
+11,parks,3,True,4.91,14.73
+11,paintings,3,True,4.8,14.399999999999999
+11,road,3,True,4.7,14.100000000000001
+11,mitigation,3,True,4.6,13.799999999999999
+11,buildings,3,True,4.22,12.66
+11,quake epicenter,3,,4.07,12.21
+11,seismologists,3,,4.07,12.21
+11,usgs,3,,4.07,12.21
+11,rebuild,3,,4.07,12.21
+11,plane crash,3,,4.07,12.21
+11,bombing,3,,4.07,12.21
+11,emergency response,3,,4.07,12.21
+11,civil defence,3,,4.07,12.21
+11,sendai,3,,4.07,12.21
+11,bomb,3,,4.07,12.21
+11,magnitudes,3,,4.07,12.21
+11,relief,3,,4.07,12.21
+11,emergency,3,,4.07,12.21
+11,preparedness,3,,4.07,12.21
+11,evacuation,3,,4.07,12.21
+11,rebuilding,3,,4.07,12.21
+11,monsoon,3,,4.07,12.21
+11,sumatra,3,,4.07,12.21
+11,padang,3,,4.07,12.21
+11,unrest,3,,4.07,12.21
+11,monsoon rains,3,,4.07,12.21
+11,heatwave,3,,4.07,12.21
+11,strong winds,3,,4.07,12.21
+11,blizzards,3,,4.07,12.21
+11,droughts,3,,4.07,12.21
+11,cholera outbreak,3,,4.07,12.21
+11,bicycle,3,,4.07,12.21
+11,bike,3,,4.07,12.21
+11,carpool,3,,4.07,12.21
+11,muni,3,,4.07,12.21
+11,metropolitan transportation,3,,4.07,12.21
+11,ttc,3,,4.07,12.21
+11,cabbies,3,,4.07,12.21
+11,bike racks,3,,4.07,12.21
+11,speeding,3,,4.07,12.21
+11,congestion pricing,3,,4.07,12.21
+11,air pollution,3,,4.07,12.21
+11,rubbish,3,,4.07,12.21
+11,interchange,3,,4.07,12.21
+11,litter,3,,4.07,12.21
+11,smog,3,,4.07,12.21
+11,ports,3,,4.07,12.21
+11,unemployment,3,,4.07,12.21
+11,land use,3,,4.07,12.21
+11,noise,3,,4.07,12.21
+11,intermodal,3,,4.07,12.21
+11,epidemics,3,,4.07,12.21
+11,pandemics,3,,4.07,12.21
+11,humanitarian crises,3,,4.07,12.21
+11,cataclysmic,3,,4.07,12.21
+11,global warming,3,,4.07,12.21
+11,tombs,3,,4.07,12.21
+11,botanical,3,,4.07,12.21
+11,national historic landmark,3,,4.07,12.21
+11,historic site,3,,4.07,12.21
+11,tomb,3,,4.07,12.21
+11,historic places,3,,4.07,12.21
+11,national historic site,3,,4.07,12.21
+11,conservation,3,,4.07,12.21
+11,forests,3,,4.07,12.21
+11,photographic,3,,4.07,12.21
+11,folk,3,,4.07,12.21
+11,visual arts,3,,4.07,12.21
+11,livable,3,,4.07,12.21
+11,housing authority,3,,4.07,12.21
+11,zoning,3,,4.07,12.21
+11,foreclosures,3,,4.07,12.21
+11,subdivisions,3,,4.07,12.21
+11,residential,3,,4.07,12.21
+11,apartment complexes,3,,4.07,12.21
+11,homeless,3,,4.07,12.21
+11,sprawl,3,,4.07,12.21
+11,greenway,3,,4.07,12.21
+11,heavy snowfall,3,,4.07,12.21
+11,stormy weather,3,,4.07,12.21
+11,snowstorm,3,,4.07,12.21
+11,gusts,3,,4.07,12.21
+11,blizzard,3,,4.07,12.21
+11,flood control,3,,4.07,12.21
+11,blight,3,,4.07,12.21
+11,watershed,3,,4.07,12.21
+11,fay,3,,4.07,12.21
+11,wilma,3,,4.07,12.21
+11,forecasters,3,,4.07,12.21
+11,rip currents,3,,4.07,12.21
+11,nj transit,3,,4.07,12.21
+11,lrt,3,,4.07,12.21
+11,marta,3,,4.07,12.21
+11,sound transit,3,,4.07,12.21
+11,mbta,3,,4.07,12.21
+11,fare hikes,3,,4.07,12.21
+11,metropolitan planning,3,,4.07,12.21
+11,interstate highways,3,,4.07,12.21
+11,thoroughfares,3,,4.07,12.21
+11,dual carriageway,3,,4.07,12.21
+11,traffic safety,3,,4.07,12.21
+11,irrigation,3,,4.07,12.21
+11,solid waste management,3,,4.07,12.21
+11,motor vehicle,3,,4.07,12.21
+11,potholes,3,,4.07,12.21
+11,interstate highway,3,,4.07,12.21
+11,junctions,3,,4.07,12.21
+11,eastbound,3,,4.07,12.21
+11,alternate routes,3,,4.07,12.21
+11,metros,3,,4.07,12.21
+11,thunder,3,,4.07,12.21
+11,comets,3,,4.07,12.21
+11,raider,3,,4.07,12.21
+11,bandits,3,,4.07,12.21
+11,hawks,3,,4.07,12.21
+11,knights,3,,4.07,12.21
+11,vipers,3,,4.07,12.21
+11,hawk,3,,4.07,12.21
+11,bomber,3,,4.07,12.21
+11,intersections,3,,4.07,12.21
+11,roundabout,3,,4.07,12.21
+11,intersection,3,,4.07,12.21
+11,vehicular,3,,4.07,12.21
+11,flights,3,,4.07,12.21
+11,winds,3,,4.07,12.21
+11,gales,3,,4.07,12.21
+11,snowstorms,3,,4.07,12.21
+11,lightning strikes,3,,4.07,12.21
+11,councilmember,3,,4.07,12.21
+11,centennial,3,,4.07,12.21
+11,sidewalks,3,,4.07,12.21
+11,code enforcement,3,,4.07,12.21
+11,mayors,3,,4.07,12.21
+11,civic,3,,4.07,12.21
+11,community,3,,4.07,12.21
+11,nonprofits,3,,4.07,12.21
+11,suburbs,3,,4.07,12.21
+11,trails,3,,4.07,12.21
+11,eastside,3,,4.07,12.21
+11,lofts,3,,4.07,12.21
+11,streetscape,3,,4.07,12.21
+11,plaza,3,,4.07,12.21
+11,parking garages,3,,4.07,12.21
+11,railroads,3,,4.07,12.21
+11,prehistoric,3,,4.07,12.21
+11,maritime museum,3,,4.07,12.21
+11,medieval,3,,4.07,12.21
+11,landmark,3,,4.07,12.21
+11,lighthouse,3,,4.07,12.21
+11,multicultural,3,,4.07,12.21
+11,classical,3,,4.07,12.21
+11,trams,3,,4.07,12.21
+11,hornet,3,,4.07,12.21
+11,ponies,3,,4.07,12.21
+11,garbage,3,,4.07,12.21
+11,stormwater runoff,3,,4.07,12.21
+11,disposal,3,,4.07,12.21
+11,wastewater,3,,4.07,12.21
+11,centuries,3,,4.07,12.21
+11,homeownership,2,True,8.29,16.58
+11,urbanization,2,True,7.39,14.78
+11,compost,2,True,4.89,9.78
+11,street,2,True,4.31,8.62
+11,planning,2,True,4.29,8.58
+11,civil defense,2,,4.07,8.14
+11,windstorm,2,,4.07,8.14
+11,avalanche,2,,4.07,8.14
+11,geological survey,2,,4.07,8.14
+11,meteorology,2,,4.07,8.14
+11,disaster recovery,2,,4.07,8.14
+11,emergency operations,2,,4.07,8.14
+11,response,2,,4.07,8.14
+11,spill,2,,4.07,8.14
+11,hazards,2,,4.07,8.14
+11,resilience,2,,4.07,8.14
+11,accident,2,,4.07,8.14
+11,federal emergency management,2,,4.07,8.14
+11,tidal wave,2,,4.07,8.14
+11,indian ocean,2,,4.07,8.14
+11,tsunami ravaged,2,,4.07,8.14
+11,andaman,2,,4.07,8.14
+11,nias,2,,4.07,8.14
+11,haiti,2,,4.07,8.14
+11,bombings,2,,4.07,8.14
+11,clashes,2,,4.07,8.14
+11,inundating,2,,4.07,8.14
+11,cholera,2,,4.07,8.14
+11,displaced,2,,4.07,8.14
+11,drought stricken,2,,4.07,8.14
+11,attacks,2,,4.07,8.14
+11,severe,2,,4.07,8.14
+11,shortages,2,,4.07,8.14
+11,limousine,2,,4.07,8.14
+11,cab,2,,4.07,8.14
+11,shuttle,2,,4.07,8.14
+11,tube,2,,4.07,8.14
+11,e zpass,2,,4.07,8.14
+11,bottleneck,2,,4.07,8.14
+11,gridlocked,2,,4.07,8.14
+11,traffic jam,2,,4.07,8.14
+11,bottlenecks,2,,4.07,8.14
+11,overcrowding,2,,4.07,8.14
+11,traffic control,2,,4.07,8.14
+11,mobility,2,,4.07,8.14
+11,speeds,2,,4.07,8.14
+11,accidents,2,,4.07,8.14
+11,tunnel,2,,4.07,8.14
+11,toll,2,,4.07,8.14
+11,tragedies,2,,4.07,8.14
+11,crises,2,,4.07,8.14
+11,economies,2,,4.07,8.14
+11,catastrophic,2,,4.07,8.14
+11,objects,2,,4.07,8.14
+11,debris,2,,4.07,8.14
+11,cemetery,2,,4.07,8.14
+11,restoration,2,,4.07,8.14
+11,sculpture,2,,4.07,8.14
+11,excavation,2,,4.07,8.14
+11,landscape,2,,4.07,8.14
+11,pilgrimage,2,,4.07,8.14
+11,landscapes,2,,4.07,8.14
+11,curators,2,,4.07,8.14
+11,fine art,2,,4.07,8.14
+11,burial grounds,2,,4.07,8.14
+11,antiques,2,,4.07,8.14
+11,cultural diversity,2,,4.07,8.14
+11,sacred,2,,4.07,8.14
+11,tourist attractions,2,,4.07,8.14
+11,artworks,2,,4.07,8.14
+11,habitats,2,,4.07,8.14
+11,silk road,2,,4.07,8.14
+11,tourist destinations,2,,4.07,8.14
+11,diaspora,2,,4.07,8.14
+11,wetland,2,,4.07,8.14
+11,maritime,2,,4.07,8.14
+11,wildlife,2,,4.07,8.14
+11,civilizations,2,,4.07,8.14
+11,coral reefs,2,,4.07,8.14
+11,real estate,2,,4.07,8.14
+11,renewable energy,2,,4.07,8.14
+11,affordability,2,,4.07,8.14
+11,multifamily,2,,4.07,8.14
+11,greenbelt,2,,4.07,8.14
+11,rents,2,,4.07,8.14
+11,condominium,2,,4.07,8.14
+11,cdbg,2,,4.07,8.14
+11,infill,2,,4.07,8.14
+11,undeveloped land,2,,4.07,8.14
+11,subdivision,2,,4.07,8.14
+11,farmland,2,,4.07,8.14
+11,land,2,,4.07,8.14
+11,foreclosed homes,2,,4.07,8.14
+11,environmentally sensitive,2,,4.07,8.14
+11,zoning ordinances,2,,4.07,8.14
+11,amenity,2,,4.07,8.14
+11,evacuations,2,,4.07,8.14
+11,downpour,2,,4.07,8.14
+11,heavy downpour,2,,4.07,8.14
+11,freezing rain,2,,4.07,8.14
+11,uprooted trees,2,,4.07,8.14
+11,power outage,2,,4.07,8.14
+11,explosions,2,,4.07,8.14
+11,multiplayer,2,,4.07,8.14
+11,levee,2,,4.07,8.14
+11,floodplain,2,,4.07,8.14
+11,flood plains,2,,4.07,8.14
+11,rivers,2,,4.07,8.14
+11,charley,2,,4.07,8.14
+11,nor'easter,2,,4.07,8.14
+11,gulf coast,2,,4.07,8.14
+11,mph winds,2,,4.07,8.14
+11,meteorological,2,,4.07,8.14
+11,dart,2,,4.07,8.14
+11,rtd,2,,4.07,8.14
+11,cabs,2,,4.07,8.14
+11,busses,2,,4.07,8.14
+11,stagecoach,2,,4.07,8.14
+11,postal,2,,4.07,8.14
+11,subways,2,,4.07,8.14
+11,interstate,2,,4.07,8.14
+11,overpasses,2,,4.07,8.14
+11,gravel roads,2,,4.07,8.14
+11,highways agency,2,,4.07,8.14
+11,water resources,2,,4.07,8.14
+11,overpass,2,,4.07,8.14
+11,water supply,2,,4.07,8.14
+11,natural resources,2,,4.07,8.14
+11,tollway,2,,4.07,8.14
+11,eastbound lanes,2,,4.07,8.14
+11,public safety,2,,4.07,8.14
+11,motor vehicles,2,,4.07,8.14
+11,civil engineering,2,,4.07,8.14
+11,forestry,2,,4.07,8.14
+11,footpaths,2,,4.07,8.14
+11,volcanoes,2,,4.07,8.14
+11,kickers,2,,4.07,8.14
+11,steelheads,2,,4.07,8.14
+11,riptide,2,,4.07,8.14
+11,rhinos,2,,4.07,8.14
+11,roughnecks,2,,4.07,8.14
+11,toros,2,,4.07,8.14
+11,fury,2,,4.07,8.14
+11,dragons,2,,4.07,8.14
+11,siren,2,,4.07,8.14
+11,havoc,2,,4.07,8.14
+11,ice,2,,4.07,8.14
+11,stampede,2,,4.07,8.14
+11,demon,2,,4.07,8.14
+11,rampage,2,,4.07,8.14
+11,tides,2,,4.07,8.14
+11,stingers,2,,4.07,8.14
+11,venom,2,,4.07,8.14
+11,icy,2,,4.07,8.14
+11,fog,2,,4.07,8.14
+11,dragon,2,,4.07,8.14
+11,inferno,2,,4.07,8.14
+11,wind,2,,4.07,8.14
+11,policing,2,,4.07,8.14
+11,toll plaza,2,,4.07,8.14
+11,speeders,2,,4.07,8.14
+11,patrols,2,,4.07,8.14
+11,wind gusts,2,,4.07,8.14
+11,gusty winds,2,,4.07,8.14
+11,squall,2,,4.07,8.14
+11,town,2,,4.07,8.14
+11,mayor,2,,4.07,8.14
+11,borough,2,,4.07,8.14
+11,mayoral,2,,4.07,8.14
+11,aldermen,2,,4.07,8.14
+11,council,2,,4.07,8.14
+11,councilman,2,,4.07,8.14
+11,councilwoman,2,,4.07,8.14
+11,heights,2,,4.07,8.14
+11,mayor pro tem,2,,4.07,8.14
+11,civic center,2,,4.07,8.14
+11,municipality,2,,4.07,8.14
+11,boardwalk,2,,4.07,8.14
+11,panhandlers,2,,4.07,8.14
+11,recreation,2,,4.07,8.14
+11,public utilities,2,,4.07,8.14
+11,bushfires,2,,4.07,8.14
+11,famine,2,,4.07,8.14
+11,businesses,2,,4.07,8.14
+11,schoolchildren,2,,4.07,8.14
+11,taxpayers,2,,4.07,8.14
+11,travelers,2,,4.07,8.14
+11,tenants,2,,4.07,8.14
+11,voters,2,,4.07,8.14
+11,teens,2,,4.07,8.14
+11,households,2,,4.07,8.14
+11,truckers,2,,4.07,8.14
+11,landowners,2,,4.07,8.14
+11,conservationists,2,,4.07,8.14
+11,families,2,,4.07,8.14
+11,places,2,,4.07,8.14
+11,beaches,2,,4.07,8.14
+11,homebuilders,2,,4.07,8.14
+11,libraries,2,,4.07,8.14
+11,schools,2,,4.07,8.14
+11,churches,2,,4.07,8.14
+11,riverwalk,2,,4.07,8.14
+11,main street,2,,4.07,8.14
+11,sidewalk,2,,4.07,8.14
+11,nightlife,2,,4.07,8.14
+11,southside,2,,4.07,8.14
+11,bicycling,2,,4.07,8.14
+11,metropolitan,2,,4.07,8.14
+11,excavated,2,,4.07,8.14
+11,geology,2,,4.07,8.14
+11,fossils,2,,4.07,8.14
+11,unearthed,2,,4.07,8.14
+11,stonehenge,2,,4.07,8.14
+11,pottery,2,,4.07,8.14
+11,curator,2,,4.07,8.14
+11,historian,2,,4.07,8.14
+11,geologists,2,,4.07,8.14
+11,shipwrecks,2,,4.07,8.14
+11,caves,2,,4.07,8.14
+11,educational,2,,4.07,8.14
+11,ruins,2,,4.07,8.14
+11,literary,2,,4.07,8.14
+11,mummies,2,,4.07,8.14
+11,fossilized,2,,4.07,8.14
+11,main thoroughfare,2,,4.07,8.14
+11,parking lots,2,,4.07,8.14
+11,snow plows,2,,4.07,8.14
+11,snarled traffic,2,,4.07,8.14
+11,flyovers,2,,4.07,8.14
+11,storm drains,2,,4.07,8.14
+11,eruption,2,,4.07,8.14
+11,tornado ripped,2,,4.07,8.14
+11,tornado touched,2,,4.07,8.14
+11,japan meteorological agency,2,,4.07,8.14
+11,derailment,2,,4.07,8.14
+11,eruptions,2,,4.07,8.14
+11,renaissance,2,,4.07,8.14
+11,friendship,2,,4.07,8.14
+11,cultural centre,2,,4.07,8.14
+11,literacy,2,,4.07,8.14
+11,olde,2,,4.07,8.14
+11,vintage,2,,4.07,8.14
+11,wilderness,2,,4.07,8.14
+11,humanities,2,,4.07,8.14
+11,preservation society,2,,4.07,8.14
+11,contemporary,2,,4.07,8.14
+11,literature,2,,4.07,8.14
+11,tradition,2,,4.07,8.14
+11,native,2,,4.07,8.14
+11,languages,2,,4.07,8.14
+11,coastal,2,,4.07,8.14
+11,terrorist attacks,2,,4.07,8.14
+11,civil war era,2,,4.07,8.14
+11,art deco,2,,4.07,8.14
+11,civil war,2,,4.07,8.14
+11,library,2,,4.07,8.14
+11,restored,2,,4.07,8.14
+11,network rail,2,,4.07,8.14
+11,arriva,2,,4.07,8.14
+11,locomotive,2,,4.07,8.14
+11,freight trains,2,,4.07,8.14
+11,locomotives,2,,4.07,8.14
+11,eurostar,2,,4.07,8.14
+11,haulage,2,,4.07,8.14
+11,railcars,2,,4.07,8.14
+11,municipalities,2,,4.07,8.14
+11,towns,2,,4.07,8.14
+11,counties,2,,4.07,8.14
+11,states,2,,4.07,8.14
+11,councils,2,,4.07,8.14
+11,festivals,2,,4.07,8.14
+11,thunderbolts,2,,4.07,8.14
+11,comet,2,,4.07,8.14
+11,racers,2,,4.07,8.14
+11,thunderbirds,2,,4.07,8.14
+11,panther,2,,4.07,8.14
+11,stallions,2,,4.07,8.14
+11,cobras,2,,4.07,8.14
+11,mustang,2,,4.07,8.14
+11,midgets,2,,4.07,8.14
+11,neo,2,,4.07,8.14
+11,barons,2,,4.07,8.14
+11,vehicles,2,,4.07,8.14
+11,ambulances,2,,4.07,8.14
+11,cars,2,,4.07,8.14
+11,trucks,2,,4.07,8.14
+11,bicycles,2,,4.07,8.14
+11,busing,2,,4.07,8.14
+11,warhawks,2,,4.07,8.14
+11,overpopulation,2,,4.07,8.14
+11,climate change,2,,4.07,8.14
+11,aquifers,2,,4.07,8.14
+11,crowding,2,,4.07,8.14
+11,stormwater,2,,4.07,8.14
+11,recycling,2,,4.07,8.14
+11,waste management,2,,4.07,8.14
+11,waste disposal,2,,4.07,8.14
+11,trash,2,,4.07,8.14
+11,hazardous waste,2,,4.07,8.14
+11,allied waste,2,,4.07,8.14
+11,incinerator,2,,4.07,8.14
+11,biosolids,2,,4.07,8.14
+11,biomass,2,,4.07,8.14
+11,environmental,2,,4.07,8.14
+11,recycle,2,,4.07,8.14
+11,sludge,2,,4.07,8.14
+11,veolia,2,,4.07,8.14
+11,recycled,2,,4.07,8.14
+11,curbside recycling,2,,4.07,8.14
+11,sanitation,2,,4.07,8.14
+11,wastewater treatment,2,,4.07,8.14
+11,water quality,2,,4.07,8.14
+11,effluent,2,,4.07,8.14
+11,dredging,2,,4.07,8.14
+11,flu pandemic,2,,4.07,8.14
+11,forest fires,2,,4.07,8.14
+11,influenza pandemic,2,,4.07,8.14
+11,avian flu,2,,4.07,8.14
+11,volcanic eruptions,2,,4.07,8.14
+11,memorabilia,2,,4.07,8.14
+11,artwork,2,,4.07,8.14
+11,exhibits,2,,4.07,8.14
+11,exploring,2,,4.07,8.14
+11,sewer,2,,4.07,8.14
+11,sewerage,2,,4.07,8.14
+11,waterworks,2,,4.07,8.14
+11,reservoir,2,,4.07,8.14
+11,civil aviation,2,,4.07,8.14
+11,pyramids,2,,4.07,8.14
+11,pharaoh,2,,4.07,8.14
+11,voter turnout,2,,4.07,8.14
+11,enrollment,2,,4.07,8.14
+11,performing arts,2,,4.07,8.14
+11,road network,1,True,16.09,16.09
+11,urban development,1,True,13.77,13.77
+11,public transport,1,True,13.55,13.55
+11,intelligent transportation,1,True,12.95,12.95
+11,urban planning,1,True,12.11,12.11
+11,public transportation,1,True,11.75,11.75
+11,smart cities,1,True,11.3,11.3
+11,road networks,1,True,10.43,10.43
+11,housing market,1,True,10.01,10.01
+11,smart city,1,True,9.16,9.16
+11,disaster prevention,1,True,9.02,9.02
+11,natural disaster,1,True,8.9,8.9
+11,intelligent transport,1,True,8.31,8.31
+11,traffic noise,1,True,8.24,8.24
+11,flood risk,1,True,7.7,7.7
+11,drought monitoring,1,True,7.65,7.65
+11,public space,1,True,7.3,7.3
+11,world heritage,1,True,7.24,7.24
+11,residential mobility,1,True,7.22,7.22
+11,urban land,1,True,7.16,7.16
+11,rail transit,1,True,6.75,6.75
+11,urban landscape,1,True,6.4,6.4
+11,heritage site,1,True,6.18,6.18
+11,historical buildings,1,True,6.12,6.12
+11,solid,1,True,5.93,5.93
+11,historic buildings,1,True,5.67,5.67
+11,earthquake engineering,1,True,5.46,5.46
+11,prediction,1,True,5.44,5.44
+11,urban landscapes,1,True,5.34,5.34
+11,transportation systems,1,True,5.34,5.34
+11,public,1,True,5.28,5.28
+11,urban air,1,True,5.18,5.18
+11,town planning,1,True,5.06,5.06
+11,traffic signal,1,True,5.03,5.03
+11,intelligent,1,True,5.0,5.0
+11,housing markets,1,True,4.9,4.9
+11,trafficking,1,True,4.9,4.9
+11,disaster mitigation,1,True,4.81,4.81
+11,traffic assignment,1,True,4.57,4.57
+11,highway traffic,1,True,4.49,4.49
+11,signalized,1,True,4.42,4.42
+11,city planning,1,True,4.42,4.42
+11,smart,1,True,4.29,4.29
+11,urban heat,1,True,4.27,4.27
+11,heat island,1,True,4.15,4.15
+11,public spaces,1,True,4.13,4.13
+11,urban regeneration,1,True,4.1,4.1
+11,public transit,1,True,4.09,4.09
+11,natural hazards,1,True,4.09,4.09
+11,land cover,1,True,4.07,4.07
+11,fault,1,,4.07,4.07
+11,bam,1,,4.07,4.07
+11,fire,1,,4.07,4.07
+11,rescue,1,,4.07,4.07
+11,incident,1,,4.07,4.07
+11,recovery,1,,4.07,4.07
+11,first responders,1,,4.07,4.07
+11,trauma,1,,4.07,4.07
+11,emergency management agency,1,,4.07,4.07
+11,coordinating,1,,4.07,4.07
+11,coordination,1,,4.07,4.07
+11,aid,1,,4.07,4.07
+11,red cross,1,,4.07,4.07
+11,aftermath,1,,4.07,4.07
+11,panic,1,,4.07,4.07
+11,disaster declaration,1,,4.07,4.07
+11,civil protection,1,,4.07,4.07
+11,phuket,1,,4.07,4.07
+11,aceh,1,,4.07,4.07
+11,tuvalu,1,,4.07,4.07
+11,blasts,1,,4.07,4.07
+11,shootings,1,,4.07,4.07
+11,riots,1,,4.07,4.07
+11,surging,1,,4.07,4.07
+11,crops,1,,4.07,4.07
+11,threatens,1,,4.07,4.07
+11,protests,1,,4.07,4.07
+11,student,1,,4.07,4.07
+11,luggage,1,,4.07,4.07
+11,travel,1,,4.07,4.07
+11,fare,1,,4.07,4.07
+11,motorcyclist,1,,4.07,4.07
+11,cyclist,1,,4.07,4.07
+11,limo,1,,4.07,4.07
+11,cellphone,1,,4.07,4.07
+11,ride,1,,4.07,4.07
+11,employee,1,,4.07,4.07
+11,cycling,1,,4.07,4.07
+11,taxpayer,1,,4.07,4.07
+11,truck,1,,4.07,4.07
+11,wheelchair,1,,4.07,4.07
+11,trucker,1,,4.07,4.07
+11,driver,1,,4.07,4.07
+11,voter,1,,4.07,4.07
+11,emissions,1,,4.07,4.07
+11,air quality,1,,4.07,4.07
+11,connectivity,1,,4.07,4.07
+11,uninsured,1,,4.07,4.07
+11,tolling,1,,4.07,4.07
+11,bandwidth,1,,4.07,4.07
+11,asthma,1,,4.07,4.07
+11,piracy,1,,4.07,4.07
+11,obesity,1,,4.07,4.07
+11,toll booths,1,,4.07,4.07
+11,fatigue,1,,4.07,4.07
+11,corruption,1,,4.07,4.07
+11,volatility,1,,4.07,4.07
+11,budget,1,,4.07,4.07
+11,impacts,1,,4.07,4.07
+11,dangers,1,,4.07,4.07
+11,diseases,1,,4.07,4.07
+11,failures,1,,4.07,4.07
+11,terrorism,1,,4.07,4.07
+11,viruses,1,,4.07,4.07
+11,problems,1,,4.07,4.07
+11,terrorists,1,,4.07,4.07
+11,stress,1,,4.07,4.07
+11,mistakes,1,,4.07,4.07
+11,policies,1,,4.07,4.07
+11,incidents,1,,4.07,4.07
+11,crimes,1,,4.07,4.07
+11,problem,1,,4.07,4.07
+11,poverty,1,,4.07,4.07
+11,victims,1,,4.07,4.07
+11,defenses,1,,4.07,4.07
+11,tragic,1,,4.07,4.07
+11,threats,1,,4.07,4.07
+11,societies,1,,4.07,4.07
+11,deaths,1,,4.07,4.07
+11,challenges,1,,4.07,4.07
+11,threat,1,,4.07,4.07
+11,needs,1,,4.07,4.07
+11,risks,1,,4.07,4.07
+11,weddings,1,,4.07,4.07
+11,actions,1,,4.07,4.07
+11,scams,1,,4.07,4.07
+11,memories,1,,4.07,4.07
+11,chernobyl,1,,4.07,4.07
+11,deadly,1,,4.07,4.07
+11,heart disease,1,,4.07,4.07
+11,cemeteries,1,,4.07,4.07
+11,memorials,1,,4.07,4.07
+11,tombstones,1,,4.07,4.07
+11,gravestones,1,,4.07,4.07
+11,remembrance,1,,4.07,4.07
+11,statues,1,,4.07,4.07
+11,headstones,1,,4.07,4.07
+11,lighthouses,1,,4.07,4.07
+11,graves,1,,4.07,4.07
+11,human rights,1,,4.07,4.07
+11,unification,1,,4.07,4.07
+11,inscription,1,,4.07,4.07
+11,quarries,1,,4.07,4.07
+11,martyrs,1,,4.07,4.07
+11,gravestone,1,,4.07,4.07
+11,murals,1,,4.07,4.07
+11,galleries,1,,4.07,4.07
+11,tombstone,1,,4.07,4.07
+11,architects,1,,4.07,4.07
+11,graveyards,1,,4.07,4.07
+11,statue,1,,4.07,4.07
+11,pantheon,1,,4.07,4.07
+11,religions,1,,4.07,4.07
+11,flora,1,,4.07,4.07
+11,fauna,1,,4.07,4.07
+11,cultural organization,1,,4.07,4.07
+11,ancestral,1,,4.07,4.07
+11,folklore,1,,4.07,4.07
+11,culturally,1,,4.07,4.07
+11,sovereignty,1,,4.07,4.07
+11,richness,1,,4.07,4.07
+11,uniqueness,1,,4.07,4.07
+11,handicrafts,1,,4.07,4.07
+11,nationhood,1,,4.07,4.07
+11,ecology,1,,4.07,4.07
+11,cuisines,1,,4.07,4.07
+11,handicraft,1,,4.07,4.07
+11,territorial integrity,1,,4.07,4.07
+11,cuisine,1,,4.07,4.07
+11,eco tourism,1,,4.07,4.07
+11,tourist destination,1,,4.07,4.07
+11,socio cultural,1,,4.07,4.07
+11,dialects,1,,4.07,4.07
+11,indigenous peoples,1,,4.07,4.07
+11,educational scientific,1,,4.07,4.07
+11,treasured,1,,4.07,4.07
+11,ecotourism,1,,4.07,4.07
+11,dialect,1,,4.07,4.07
+11,ecosystems,1,,4.07,4.07
+11,peoples,1,,4.07,4.07
+11,masterpieces,1,,4.07,4.07
+11,manuscripts,1,,4.07,4.07
+11,shrines,1,,4.07,4.07
+11,ancestors,1,,4.07,4.07
+11,artistic expression,1,,4.07,4.07
+11,irreplaceable,1,,4.07,4.07
+11,temples,1,,4.07,4.07
+11,tourist attraction,1,,4.07,4.07
+11,backwardness,1,,4.07,4.07
+11,splendor,1,,4.07,4.07
+11,linguistic,1,,4.07,4.07
+11,housing affordability,1,,4.07,4.07
+11,mental health,1,,4.07,4.07
+11,apartments,1,,4.07,4.07
+11,dwellings,1,,4.07,4.07
+11,condominiums,1,,4.07,4.07
+11,townhouses,1,,4.07,4.07
+11,violent crime,1,,4.07,4.07
+11,duplexes,1,,4.07,4.07
+11,townhomes,1,,4.07,4.07
+11,fixed incomes,1,,4.07,4.07
+11,redistricting,1,,4.07,4.07
+11,affordable,1,,4.07,4.07
+11,vacant,1,,4.07,4.07
+11,brownfield,1,,4.07,4.07
+11,comprehensive plan,1,,4.07,4.07
+11,property,1,,4.07,4.07
+11,eminent domain,1,,4.07,4.07
+11,homebuyer,1,,4.07,4.07
+11,rezoning,1,,4.07,4.07
+11,shovel ready,1,,4.07,4.07
+11,empty nesters,1,,4.07,4.07
+11,townhouse,1,,4.07,4.07
+11,realtors,1,,4.07,4.07
+11,same sex,1,,4.07,4.07
+11,skatepark,1,,4.07,4.07
+11,condominium complex,1,,4.07,4.07
+11,unaffordable,1,,4.07,4.07
+11,homebuyers,1,,4.07,4.07
+11,townhome,1,,4.07,4.07
+11,residences,1,,4.07,4.07
+11,realtor,1,,4.07,4.07
+11,accessibility,1,,4.07,4.07
+11,redeveloping,1,,4.07,4.07
+11,redevelop,1,,4.07,4.07
+11,melting snow,1,,4.07,4.07
+11,runoff,1,,4.07,4.07
+11,wet weather,1,,4.07,4.07
+11,damage,1,,4.07,4.07
+11,contamination,1,,4.07,4.07
+11,vandalism,1,,4.07,4.07
+11,drifting snow,1,,4.07,4.07
+11,waterlogged,1,,4.07,4.07
+11,downed trees,1,,4.07,4.07
+11,impassable,1,,4.07,4.07
+11,gunfire,1,,4.07,4.07
+11,fallout,1,,4.07,4.07
+11,crackdown,1,,4.07,4.07
+11,nuke,1,,4.07,4.07
+11,crysis,1,,4.07,4.07
+11,counter strike,1,,4.07,4.07
+11,unreal tournament,1,,4.07,4.07
+11,unreal,1,,4.07,4.07
+11,wow,1,,4.07,4.07
+11,crash,1,,4.07,4.07
+11,tetris,1,,4.07,4.07
+11,attack,1,,4.07,4.07
+11,rift,1,,4.07,4.07
+11,miyamoto,1,,4.07,4.07
+11,street fighter,1,,4.07,4.07
+11,final fantasy,1,,4.07,4.07
+11,dead rising,1,,4.07,4.07
+11,collapse,1,,4.07,4.07
+11,guild wars,1,,4.07,4.07
+11,raid,1,,4.07,4.07
+11,dead,1,,4.07,4.07
+11,burnout,1,,4.07,4.07
+11,diablo,1,,4.07,4.07
+11,wrath,1,,4.07,4.07
+11,intensity,1,,4.07,4.07
+11,mmo,1,,4.07,4.07
+11,dev,1,,4.07,4.07
+11,brawl,1,,4.07,4.07
+11,crossfire,1,,4.07,4.07
+11,pvp,1,,4.07,4.07
+11,mortal kombat,1,,4.07,4.07
+11,warcraft,1,,4.07,4.07
+11,shutdown,1,,4.07,4.07
+11,halo,1,,4.07,4.07
+11,san andreas,1,,4.07,4.07
+11,strike,1,,4.07,4.07
+11,massive,1,,4.07,4.07
+11,kobe,1,,4.07,4.07
+11,conflict,1,,4.07,4.07
+11,meltdown,1,,4.07,4.07
+11,doom,1,,4.07,4.07
+11,slump,1,,4.07,4.07
+11,mmos,1,,4.07,4.07
+11,assassin creed,1,,4.07,4.07
+11,slowdown,1,,4.07,4.07
+11,waters,1,,4.07,4.07
+11,kiernan,1,,4.07,4.07
+11,humphreys,1,,4.07,4.07
+11,keogh,1,,4.07,4.07
+11,youngs,1,,4.07,4.07
+11,flynn,1,,4.07,4.07
+11,dams,1,,4.07,4.07
+11,blanchard,1,,4.07,4.07
+11,o'rourke,1,,4.07,4.07
+11,flood plain,1,,4.07,4.07
+11,farrell,1,,4.07,4.07
+11,buckley,1,,4.07,4.07
+11,duffy,1,,4.07,4.07
+11,geraghty,1,,4.07,4.07
+11,asbestos,1,,4.07,4.07
+11,wilkin,1,,4.07,4.07
+11,inundate,1,,4.07,4.07
+11,kehoe,1,,4.07,4.07
+11,drowning,1,,4.07,4.07
+11,gleeson,1,,4.07,4.07
+11,mcnally,1,,4.07,4.07
+11,colley,1,,4.07,4.07
+11,costello,1,,4.07,4.07
+11,hickey,1,,4.07,4.07
+11,flannery,1,,4.07,4.07
+11,cotter,1,,4.07,4.07
+11,dalby,1,,4.07,4.07
+11,bourke,1,,4.07,4.07
+11,burke,1,,4.07,4.07
+11,fitzgerald,1,,4.07,4.07
+11,conlon,1,,4.07,4.07
+11,mower,1,,4.07,4.07
+11,mcphail,1,,4.07,4.07
+11,coyne,1,,4.07,4.07
+11,hooker,1,,4.07,4.07
+11,howley,1,,4.07,4.07
+11,cooney,1,,4.07,4.07
+11,caffrey,1,,4.07,4.07
+11,harwood,1,,4.07,4.07
+11,dam,1,,4.07,4.07
+11,inundated,1,,4.07,4.07
+11,hurricane earl,1,,4.07,4.07
+11,tropical depression,1,,4.07,4.07
+11,landfall,1,,4.07,4.07
+11,yucatan peninsula,1,,4.07,4.07
+11,tropical storm hanna,1,,4.07,4.07
+11,nhc,1,,4.07,4.07
+11,sustained winds,1,,4.07,4.07
+11,yucatan,1,,4.07,4.07
+11,leeward islands,1,,4.07,4.07
+11,ophelia,1,,4.07,4.07
+11,florida keys,1,,4.07,4.07
+11,national weather service,1,,4.07,4.07
+11,cape hatteras,1,,4.07,4.07
+11,category,1,,4.07,4.07
+11,outer banks,1,,4.07,4.07
+11,tropical storm warning,1,,4.07,4.07
+11,meteorologists,1,,4.07,4.07
+11,ernesto,1,,4.07,4.07
+11,claudette,1,,4.07,4.07
+11,weather service,1,,4.07,4.07
+11,grand cayman,1,,4.07,4.07
+11,florida panhandle,1,,4.07,4.07
+11,paloma,1,,4.07,4.07
+11,flood insurance,1,,4.07,4.07
+11,cozumel,1,,4.07,4.07
+11,tornado warnings,1,,4.07,4.07
+11,caribbean islands,1,,4.07,4.07
+11,galveston island,1,,4.07,4.07
+11,hanna,1,,4.07,4.07
+11,ivan,1,,4.07,4.07
+11,port authority,1,,4.07,4.07
+11,taxicab,1,,4.07,4.07
+11,sprinter,1,,4.07,4.07
+11,path,1,,4.07,4.07
+11,ambulance,1,,4.07,4.07
+11,mdot,1,,4.07,4.07
+11,hwy,1,,4.07,4.07
+11,cdot,1,,4.07,4.07
+11,modot,1,,4.07,4.07
+11,odot,1,,4.07,4.07
+11,adot,1,,4.07,4.07
+11,route,1,,4.07,4.07
+11,tdot,1,,4.07,4.07
+11,idot,1,,4.07,4.07
+11,indot,1,,4.07,4.07
+11,nhai,1,,4.07,4.07
+11,bridges,1,,4.07,4.07
+11,repaving,1,,4.07,4.07
+11,vdot,1,,4.07,4.07
+11,pwd,1,,4.07,4.07
+11,westbound lanes,1,,4.07,4.07
+11,repave,1,,4.07,4.07
+11,txdot,1,,4.07,4.07
+11,caltrans,1,,4.07,4.07
+11,culverts,1,,4.07,4.07
+11,penndot,1,,4.07,4.07
+11,san jose earthquakes,1,,4.07,4.07
+11,chivas usa,1,,4.07,4.07
+11,metrostars,1,,4.07,4.07
+11,houston dynamo,1,,4.07,4.07
+11,fc dallas,1,,4.07,4.07
+11,real salt lake,1,,4.07,4.07
+11,sounders,1,,4.07,4.07
+11,chivas,1,,4.07,4.07
+11,dynamo,1,,4.07,4.07
+11,columbus crew,1,,4.07,4.07
+11,seattle sounders,1,,4.07,4.07
+11,los angeles galaxy,1,,4.07,4.07
+11,toronto fc,1,,4.07,4.07
+11,red bulls,1,,4.07,4.07
+11,colorado rapids,1,,4.07,4.07
+11,fcd,1,,4.07,4.07
+11,galaxy,1,,4.07,4.07
+11,sounders fc,1,,4.07,4.07
+11,brian ching,1,,4.07,4.07
+11,mls,1,,4.07,4.07
+11,timbers,1,,4.07,4.07
+11,landon donovan,1,,4.07,4.07
+11,la galaxy,1,,4.07,4.07
+11,wizards,1,,4.07,4.07
+11,de rosario,1,,4.07,4.07
+11,pachuca,1,,4.07,4.07
+11,revs,1,,4.07,4.07
+11,twellman,1,,4.07,4.07
+11,vancouver whitecaps,1,,4.07,4.07
+11,carlos ruiz,1,,4.07,4.07
+11,convey,1,,4.07,4.07
+11,whitecaps,1,,4.07,4.07
+11,buddle,1,,4.07,4.07
+11,rsl,1,,4.07,4.07
+11,hejduk,1,,4.07,4.07
+11,cruz azul,1,,4.07,4.07
+11,rapids,1,,4.07,4.07
+11,condors,1,,4.07,4.07
+11,altidore,1,,4.07,4.07
+11,silvertips,1,,4.07,4.07
+11,salmon kings,1,,4.07,4.07
+11,gauchos,1,,4.07,4.07
+11,concacaf gold cup,1,,4.07,4.07
+11,caps,1,,4.07,4.07
+11,osasuna,1,,4.07,4.07
+11,blue jackets,1,,4.07,4.07
+11,##ers,1,,4.07,4.07
+11,capitals,1,,4.07,4.07
+11,nailers,1,,4.07,4.07
+11,freddy adu,1,,4.07,4.07
+11,spartan stadium,1,,4.07,4.07
+11,juan pablo angel,1,,4.07,4.07
+11,rfk stadium,1,,4.07,4.07
+11,mammoth,1,,4.07,4.07
+11,rockets,1,,4.07,4.07
+11,tfc,1,,4.07,4.07
+11,ucsb,1,,4.07,4.07
+11,damarcus beasley,1,,4.07,4.07
+11,sjsu,1,,4.07,4.07
+11,ljungberg,1,,4.07,4.07
+11,clint dempsey,1,,4.07,4.07
+11,sacramento kings,1,,4.07,4.07
+11,paraguay,1,,4.07,4.07
+11,deportivo,1,,4.07,4.07
+11,mariners,1,,4.07,4.07
+11,bmo field,1,,4.07,4.07
+11,gulls,1,,4.07,4.07
+11,niners,1,,4.07,4.07
+11,san jose,1,,4.07,4.07
+11,jozy altidore,1,,4.07,4.07
+11,palmeiras,1,,4.07,4.07
+11,cronk,1,,4.07,4.07
+11,eels,1,,4.07,4.07
+11,lynx,1,,4.07,4.07
+11,shock,1,,4.07,4.07
+11,roosters,1,,4.07,4.07
+11,maroons,1,,4.07,4.07
+11,roar,1,,4.07,4.07
+11,stormy,1,,4.07,4.07
+11,mystics,1,,4.07,4.07
+11,warrior,1,,4.07,4.07
+11,bombers,1,,4.07,4.07
+11,fever,1,,4.07,4.07
+11,blues,1,,4.07,4.07
+11,kangaroos,1,,4.07,4.07
+11,sting,1,,4.07,4.07
+11,crush,1,,4.07,4.07
+11,rage,1,,4.07,4.07
+11,stingrays,1,,4.07,4.07
+11,reign,1,,4.07,4.07
+11,brisbane broncos,1,,4.07,4.07
+11,surge,1,,4.07,4.07
+11,manly,1,,4.07,4.07
+11,stealth,1,,4.07,4.07
+11,rabbitohs,1,,4.07,4.07
+11,wave,1,,4.07,4.07
+11,wolves,1,,4.07,4.07
+11,swarm,1,,4.07,4.07
+11,swans,1,,4.07,4.07
+11,heat,1,,4.07,4.07
+11,warriors,1,,4.07,4.07
+11,blackout,1,,4.07,4.07
+11,billy slater,1,,4.07,4.07
+11,souths,1,,4.07,4.07
+11,st george illawarra,1,,4.07,4.07
+11,crimson,1,,4.07,4.07
+11,greg inglis,1,,4.07,4.07
+11,cats,1,,4.07,4.07
+11,pies,1,,4.07,4.07
+11,dreamer,1,,4.07,4.07
+11,broncos,1,,4.07,4.07
+11,sonics,1,,4.07,4.07
+11,titans,1,,4.07,4.07
+11,rats,1,,4.07,4.07
+11,raiders,1,,4.07,4.07
+11,sharks,1,,4.07,4.07
+11,gallop,1,,4.07,4.07
+11,cannons,1,,4.07,4.07
+11,kats,1,,4.07,4.07
+11,bulldogs,1,,4.07,4.07
+11,roos,1,,4.07,4.07
+11,gale,1,,4.07,4.07
+11,nrl,1,,4.07,4.07
+11,crime,1,,4.07,4.07
+11,navigation,1,,4.07,4.07
+11,northbound lanes,1,,4.07,4.07
+11,southbound lanes,1,,4.07,4.07
+11,driving,1,,4.07,4.07
+11,visibility,1,,4.07,4.07
+11,westbound,1,,4.07,4.07
+11,enforcement,1,,4.07,4.07
+11,ticketing,1,,4.07,4.07
+11,curfew,1,,4.07,4.07
+11,fatal crashes,1,,4.07,4.07
+11,airport,1,,4.07,4.07
+11,carriageway,1,,4.07,4.07
+11,vehicle,1,,4.07,4.07
+11,showers,1,,4.07,4.07
+11,squalls,1,,4.07,4.07
+11,gale force winds,1,,4.07,4.07
+11,snow sleet,1,,4.07,4.07
+11,winds gusting,1,,4.07,4.07
+11,scattered showers,1,,4.07,4.07
+11,sleet,1,,4.07,4.07
+11,toppled trees,1,,4.07,4.07
+11,sandstorms,1,,4.07,4.07
+11,snow showers,1,,4.07,4.07
+11,wintry weather,1,,4.07,4.07
+11,violent,1,,4.07,4.07
+11,clouds,1,,4.07,4.07
+11,rainy,1,,4.07,4.07
+11,carolinas,1,,4.07,4.07
+11,frosts,1,,4.07,4.07
+11,snow flurries,1,,4.07,4.07
+11,mayoral candidate,1,,4.07,4.07
+11,county,1,,4.07,4.07
+11,village,1,,4.07,4.07
+11,council chambers,1,,4.07,4.07
+11,junction,1,,4.07,4.07
+11,grove,1,,4.07,4.07
+11,state,1,,4.07,4.07
+11,district,1,,4.07,4.07
+11,rec,1,,4.07,4.07
+11,councilmembers,1,,4.07,4.07
+11,boroughs,1,,4.07,4.07
+11,ordinance,1,,4.07,4.07
+11,gotham,1,,4.07,4.07
+11,palace,1,,4.07,4.07
+11,municipal building,1,,4.07,4.07
+11,councilmen,1,,4.07,4.07
+11,ponca city,1,,4.07,4.07
+11,skyline,1,,4.07,4.07
+11,riverbank,1,,4.07,4.07
+11,funkhouser,1,,4.07,4.07
+11,planning commission,1,,4.07,4.07
+11,ordinances,1,,4.07,4.07
+11,cathedral,1,,4.07,4.07
+11,new york,1,,4.07,4.07
+11,philharmonic,1,,4.07,4.07
+11,broken arrow,1,,4.07,4.07
+11,mayor rudolph giuliani,1,,4.07,4.07
+11,parish,1,,4.07,4.07
+11,valley,1,,4.07,4.07
+11,crescent,1,,4.07,4.07
+11,municipal airport,1,,4.07,4.07
+11,mayor rudy giuliani,1,,4.07,4.07
+11,plaza hotel,1,,4.07,4.07
+11,township,1,,4.07,4.07
+11,roseland,1,,4.07,4.07
+11,garbage pickup,1,,4.07,4.07
+11,okla.,1,,4.07,4.07
+11,cholera epidemic,1,,4.07,4.07
+11,monsoons,1,,4.07,4.07
+11,wheat crop,1,,4.07,4.07
+11,shoppers,1,,4.07,4.07
+11,travellers,1,,4.07,4.07
+11,tourists,1,,4.07,4.07
+11,diners,1,,4.07,4.07
+11,patrons,1,,4.07,4.07
+11,customers,1,,4.07,4.07
+11,visitors,1,,4.07,4.07
+11,students,1,,4.07,4.07
+11,consumers,1,,4.07,4.07
+11,fans,1,,4.07,4.07
+11,parents,1,,4.07,4.07
+11,locals,1,,4.07,4.07
+11,spectators,1,,4.07,4.07
+11,patients,1,,4.07,4.07
+11,teenagers,1,,4.07,4.07
+11,viewers,1,,4.07,4.07
+11,job seekers,1,,4.07,4.07
+11,listeners,1,,4.07,4.07
+11,evacuees,1,,4.07,4.07
+11,boaters,1,,4.07,4.07
+11,smokers,1,,4.07,4.07
+11,readers,1,,4.07,4.07
+11,hikers,1,,4.07,4.07
+11,people,1,,4.07,4.07
+11,thousands,1,,4.07,4.07
+11,audiences,1,,4.07,4.07
+11,golfers,1,,4.07,4.07
+11,pregnant women,1,,4.07,4.07
+11,youngsters,1,,4.07,4.07
+11,investors,1,,4.07,4.07
+11,folks,1,,4.07,4.07
+11,villagers,1,,4.07,4.07
+11,borrowers,1,,4.07,4.07
+11,others,1,,4.07,4.07
+11,politicians,1,,4.07,4.07
+11,bikers,1,,4.07,4.07
+11,individuals,1,,4.07,4.07
+11,hundreds,1,,4.07,4.07
+11,skiers,1,,4.07,4.07
+11,participants,1,,4.07,4.07
+11,traders,1,,4.07,4.07
+11,retailers,1,,4.07,4.07
+11,shippers,1,,4.07,4.07
+11,guests,1,,4.07,4.07
+11,farmers,1,,4.07,4.07
+11,employees,1,,4.07,4.07
+11,employers,1,,4.07,4.07
+11,campers,1,,4.07,4.07
+11,mourners,1,,4.07,4.07
+11,users,1,,4.07,4.07
+11,advertisers,1,,4.07,4.07
+11,retirees,1,,4.07,4.07
+11,pensioners,1,,4.07,4.07
+11,civilians,1,,4.07,4.07
+11,parishioners,1,,4.07,4.07
+11,migrants,1,,4.07,4.07
+11,callers,1,,4.07,4.07
+11,protestors,1,,4.07,4.07
+11,developers,1,,4.07,4.07
+11,landlords,1,,4.07,4.07
+11,homes,1,,4.07,4.07
+11,neighborhood watch,1,,4.07,4.07
+11,neighbors,1,,4.07,4.07
+11,neighbourhood,1,,4.07,4.07
+11,property owners,1,,4.07,4.07
+11,spaces,1,,4.07,4.07
+11,concerned citizens,1,,4.07,4.07
+11,homeowner,1,,4.07,4.07
+11,environments,1,,4.07,4.07
+11,rebuilding together,1,,4.07,4.07
+11,nonprofit,1,,4.07,4.07
+11,living,1,,4.07,4.07
+11,hud,1,,4.07,4.07
+11,economic opportunity,1,,4.07,4.07
+11,neighbor,1,,4.07,4.07
+11,avenues,1,,4.07,4.07
+11,community outreach,1,,4.07,4.07
+11,moms,1,,4.07,4.07
+11,citizens,1,,4.07,4.07
+11,crime prevention,1,,4.07,4.07
+11,brownfields,1,,4.07,4.07
+11,ywca,1,,4.07,4.07
+11,caregivers,1,,4.07,4.07
+11,choices,1,,4.07,4.07
+11,five points,1,,4.07,4.07
+11,riverfront park,1,,4.07,4.07
+11,area chamber,1,,4.07,4.07
+11,farmer market,1,,4.07,4.07
+11,parking garage,1,,4.07,4.07
+11,farmers market,1,,4.07,4.07
+11,promenade,1,,4.07,4.07
+11,cvb,1,,4.07,4.07
+11,bid,1,,4.07,4.07
+11,galleria,1,,4.07,4.07
+11,walnut street,1,,4.07,4.07
+11,square,1,,4.07,4.07
+11,westside,1,,4.07,4.07
+11,riverside drive,1,,4.07,4.07
+11,beale street,1,,4.07,4.07
+11,chinatown,1,,4.07,4.07
+11,rescue mission,1,,4.07,4.07
+11,ninth street,1,,4.07,4.07
+11,mall,1,,4.07,4.07
+11,greater,1,,4.07,4.07
+11,embassy suites,1,,4.07,4.07
+11,loft,1,,4.07,4.07
+11,panhandling,1,,4.07,4.07
+11,bourbon street,1,,4.07,4.07
+11,towners,1,,4.07,4.07
+11,vine street,1,,4.07,4.07
+11,tif,1,,4.07,4.07
+11,tax increment financing,1,,4.07,4.07
+11,beltline,1,,4.07,4.07
+11,fairgrounds,1,,4.07,4.07
+11,inner harbor,1,,4.07,4.07
+11,young professionals,1,,4.07,4.07
+11,chestnut street,1,,4.07,4.07
+11,sixth avenue,1,,4.07,4.07
+11,strip mall,1,,4.07,4.07
+11,hampton inn,1,,4.07,4.07
+11,storefronts,1,,4.07,4.07
+11,homeland security,1,,4.07,4.07
+11,hybrid electric,1,,4.07,4.07
+11,subway trains,1,,4.07,4.07
+11,biking,1,,4.07,4.07
+11,alternative fuels,1,,4.07,4.07
+11,subway stations,1,,4.07,4.07
+11,natural history,1,,4.07,4.07
+11,excavating,1,,4.07,4.07
+11,excavate,1,,4.07,4.07
+11,paleontologist,1,,4.07,4.07
+11,fossil,1,,4.07,4.07
+11,anthropologist,1,,4.07,4.07
+11,astronomy,1,,4.07,4.07
+11,natural history museum,1,,4.07,4.07
+11,paleontologists,1,,4.07,4.07
+11,anthropologists,1,,4.07,4.07
+11,genealogy,1,,4.07,4.07
+11,appraisal,1,,4.07,4.07
+11,exploration,1,,4.07,4.07
+11,forensic,1,,4.07,4.07
+11,national geographic,1,,4.07,4.07
+11,shipwreck,1,,4.07,4.07
+11,anthropological,1,,4.07,4.07
+11,forensic science,1,,4.07,4.07
+11,fieldwork,1,,4.07,4.07
+11,horticulture,1,,4.07,4.07
+11,veterinary,1,,4.07,4.07
+11,monastery,1,,4.07,4.07
+11,documentation,1,,4.07,4.07
+11,geologic,1,,4.07,4.07
+11,boulevard,1,,4.07,4.07
+11,boulevards,1,,4.07,4.07
+11,alleys,1,,4.07,4.07
+11,arterial,1,,4.07,4.07
+11,medians,1,,4.07,4.07
+11,crosswalks,1,,4.07,4.07
+11,pavements,1,,4.07,4.07
+11,corridors,1,,4.07,4.07
+11,arteries,1,,4.07,4.07
+11,plazas,1,,4.07,4.07
+11,stoplights,1,,4.07,4.07
+11,alleyways,1,,4.07,4.07
+11,walkways,1,,4.07,4.07
+11,streetlights,1,,4.07,4.07
+11,artery,1,,4.07,4.07
+11,driveways,1,,4.07,4.07
+11,detours,1,,4.07,4.07
+11,entrances,1,,4.07,4.07
+11,byways,1,,4.07,4.07
+11,roadsides,1,,4.07,4.07
+11,paved roads,1,,4.07,4.07
+11,crossings,1,,4.07,4.07
+11,unpaved,1,,4.07,4.07
+11,explosion rocked,1,,4.07,4.07
+11,train derailed,1,,4.07,4.07
+11,bomb blast,1,,4.07,4.07
+11,seismologist,1,,4.07,4.07
+11,sichuan province,1,,4.07,4.07
+11,lightning strike,1,,4.07,4.07
+11,fukushima plant,1,,4.07,4.07
+11,epicenter,1,,4.07,4.07
+11,fukushima nuclear,1,,4.07,4.07
+11,colonial,1,,4.07,4.07
+11,countryside,1,,4.07,4.07
+11,audubon,1,,4.07,4.07
+11,woodland,1,,4.07,4.07
+11,pioneer,1,,4.07,4.07
+11,unity,1,,4.07,4.07
+11,legacy,1,,4.07,4.07
+11,legends,1,,4.07,4.07
+11,riverbend,1,,4.07,4.07
+11,plantation,1,,4.07,4.07
+11,national,1,,4.07,4.07
+11,old mill,1,,4.07,4.07
+11,pride,1,,4.07,4.07
+11,hilltop,1,,4.07,4.07
+11,independence,1,,4.07,4.07
+11,jubilee,1,,4.07,4.07
+11,riverview,1,,4.07,4.07
+11,rosewood,1,,4.07,4.07
+11,holiday,1,,4.07,4.07
+11,lenape,1,,4.07,4.07
+11,dogwood,1,,4.07,4.07
+11,carriage,1,,4.07,4.07
+11,meadowbrook,1,,4.07,4.07
+11,heritage lottery,1,,4.07,4.07
+11,jim thorpe,1,,4.07,4.07
+11,creekside,1,,4.07,4.07
+11,new orleans,1,,4.07,4.07
+11,hurricane ravaged,1,,4.07,4.07
+11,louisiana,1,,4.07,4.07
+11,gov. kathleen blanco,1,,4.07,4.07
+11,biloxi,1,,4.07,4.07
+11,nagin,1,,4.07,4.07
+11,mayor ray nagin,1,,4.07,4.07
+11,rita,1,,4.07,4.07
+11,superdome,1,,4.07,4.07
+11,bernard parish,1,,4.07,4.07
+11,baton rouge,1,,4.07,4.07
+11,biloxi miss.,1,,4.07,4.07
+11,gulfport miss.,1,,4.07,4.07
+11,ninth ward,1,,4.07,4.07
+11,gulfport,1,,4.07,4.07
+11,big easy,1,,4.07,4.07
+11,mississippi,1,,4.07,4.07
+11,fema trailers,1,,4.07,4.07
+11,waveland,1,,4.07,4.07
+11,louisiana superdome,1,,4.07,4.07
+11,mississippians,1,,4.07,4.07
+11,slidell,1,,4.07,4.07
+11,galveston,1,,4.07,4.07
+11,gov. bobby jindal,1,,4.07,4.07
+11,hattiesburg,1,,4.07,4.07
+11,paulison,1,,4.07,4.07
+11,fugate,1,,4.07,4.07
+11,lake pontchartrain,1,,4.07,4.07
+11,fema trailer,1,,4.07,4.07
+11,treme,1,,4.07,4.07
+11,jefferson parish,1,,4.07,4.07
+11,rig explosion,1,,4.07,4.07
+11,st. tammany,1,,4.07,4.07
+11,bayou,1,,4.07,4.07
+11,joplin,1,,4.07,4.07
+11,bp deepwater horizon,1,,4.07,4.07
+11,lower 9th,1,,4.07,4.07
+11,pascagoula,1,,4.07,4.07
+11,la.,1,,4.07,4.07
+11,plaquemines parish,1,,4.07,4.07
+11,great recession,1,,4.07,4.07
+11,french quarter,1,,4.07,4.07
+11,thibodaux,1,,4.07,4.07
+11,debris removal,1,,4.07,4.07
+11,metairie,1,,4.07,4.07
+11,times picayune,1,,4.07,4.07
+11,acadiana,1,,4.07,4.07
+11,preservationists,1,,4.07,4.07
+11,colonial williamsburg,1,,4.07,4.07
+11,visitor center,1,,4.07,4.07
+11,###th anniversary,1,,4.07,4.07
+11,mansion,1,,4.07,4.07
+11,underground railroad,1,,4.07,4.07
+11,schoolhouse,1,,4.07,4.07
+11,preserve,1,,4.07,4.07
+11,land trust,1,,4.07,4.07
+11,stately,1,,4.07,4.07
+11,commemorative,1,,4.07,4.07
+11,living history,1,,4.07,4.07
+11,centennial celebration,1,,4.07,4.07
+11,candlelight,1,,4.07,4.07
+11,revolutionary war,1,,4.07,4.07
+11,guided tours,1,,4.07,4.07
+11,preserving,1,,4.07,4.07
+11,iconic,1,,4.07,4.07
+11,old,1,,4.07,4.07
+11,public lands,1,,4.07,4.07
+11,preserved,1,,4.07,4.07
+11,conservancy,1,,4.07,4.07
+11,london underground,1,,4.07,4.07
+11,pipeline,1,,4.07,4.07
+11,gas pipeline,1,,4.07,4.07
+11,go ahead,1,,4.07,4.07
+11,federal railroad,1,,4.07,4.07
+11,railway tracks,1,,4.07,4.07
+11,rails,1,,4.07,4.07
+11,crossrail,1,,4.07,4.07
+11,line,1,,4.07,4.07
+11,deutsche bahn,1,,4.07,4.07
+11,indian railways,1,,4.07,4.07
+11,rmt,1,,4.07,4.07
+11,transmission,1,,4.07,4.07
+11,railcar,1,,4.07,4.07
+11,norfolk southern,1,,4.07,4.07
+11,csx,1,,4.07,4.07
+11,pipelines,1,,4.07,4.07
+11,channel tunnel,1,,4.07,4.07
+11,metropolitan areas,1,,4.07,4.07
+11,leaders,1,,4.07,4.07
+11,governments,1,,4.07,4.07
+11,venues,1,,4.07,4.07
+11,localities,1,,4.07,4.07
+11,agencies,1,,4.07,4.07
+11,countries,1,,4.07,4.07
+11,immigrants,1,,4.07,4.07
+11,firms,1,,4.07,4.07
+11,hospitals,1,,4.07,4.07
+11,women voters,1,,4.07,4.07
+11,clubs,1,,4.07,4.07
+11,organizations,1,,4.07,4.07
+11,provinces,1,,4.07,4.07
+11,innovators,1,,4.07,4.07
+11,trees,1,,4.07,4.07
+11,projects,1,,4.07,4.07
+11,ymcas,1,,4.07,4.07
+11,districts,1,,4.07,4.07
+11,casinos,1,,4.07,4.07
+11,destinations,1,,4.07,4.07
+11,companies,1,,4.07,4.07
+11,tribes,1,,4.07,4.07
+11,priorities,1,,4.07,4.07
+11,restaurants,1,,4.07,4.07
+11,franchises,1,,4.07,4.07
+11,ideas,1,,4.07,4.07
+11,inner,1,,4.07,4.07
+11,conservation voters,1,,4.07,4.07
+11,rural,1,,4.07,4.07
+11,entrepreneurs,1,,4.07,4.07
+11,neighboring,1,,4.07,4.07
+11,carriers,1,,4.07,4.07
+11,future,1,,4.07,4.07
+11,spitfire,1,,4.07,4.07
+11,viper,1,,4.07,4.07
+11,squirrel,1,,4.07,4.07
+11,collision,1,,4.07,4.07
+11,cobra,1,,4.07,4.07
+11,funnel cloud,1,,4.07,4.07
+11,crusader,1,,4.07,4.07
+11,flu,1,,4.07,4.07
+11,wreck,1,,4.07,4.07
+11,commandos,1,,4.07,4.07
+11,virus,1,,4.07,4.07
+11,terror,1,,4.07,4.07
+11,shield,1,,4.07,4.07
+11,horns,1,,4.07,4.07
+11,endurance,1,,4.07,4.07
+11,belles,1,,4.07,4.07
+11,laser,1,,4.07,4.07
+11,vans,1,,4.07,4.07
+11,minibuses,1,,4.07,4.07
+11,trolleys,1,,4.07,4.07
+11,minibus,1,,4.07,4.07
+11,lorries,1,,4.07,4.07
+11,carriages,1,,4.07,4.07
+11,planes,1,,4.07,4.07
+11,rickshaws,1,,4.07,4.07
+11,bussed,1,,4.07,4.07
+11,rides,1,,4.07,4.07
+11,shuttles,1,,4.07,4.07
+11,bused,1,,4.07,4.07
+11,dump trucks,1,,4.07,4.07
+11,van,1,,4.07,4.07
+11,tractor trailers,1,,4.07,4.07
+11,double decker bus,1,,4.07,4.07
+11,tours,1,,4.07,4.07
+11,lines,1,,4.07,4.07
+11,busloads,1,,4.07,4.07
+11,bikes,1,,4.07,4.07
+11,boats,1,,4.07,4.07
+11,tanker trucks,1,,4.07,4.07
+11,taxi cab,1,,4.07,4.07
+11,lorry,1,,4.07,4.07
+11,rickshaw,1,,4.07,4.07
+11,wagons,1,,4.07,4.07
+11,carts,1,,4.07,4.07
+11,motorcycles,1,,4.07,4.07
+11,classes,1,,4.07,4.07
+11,pickup,1,,4.07,4.07
+11,motorcade,1,,4.07,4.07
+11,hawkeye,1,,4.07,4.07
+11,wildcat,1,,4.07,4.07
+11,bearcat,1,,4.07,4.07
+11,cougar,1,,4.07,4.07
+11,dolphin,1,,4.07,4.07
+11,bronco,1,,4.07,4.07
+11,bobcat,1,,4.07,4.07
+11,husky,1,,4.07,4.07
+11,uno,1,,4.07,4.07
+11,spartan,1,,4.07,4.07
+11,gopher,1,,4.07,4.07
+11,bulldog,1,,4.07,4.07
+11,triton,1,,4.07,4.07
+11,jayhawk,1,,4.07,4.07
+11,lancer,1,,4.07,4.07
+11,longhorn,1,,4.07,4.07
+11,titan,1,,4.07,4.07
+11,shocker,1,,4.07,4.07
+11,buccaneer,1,,4.07,4.07
+11,sst,1,,4.07,4.07
+11,hchs,1,,4.07,4.07
+11,badger,1,,4.07,4.07
+11,nu,1,,4.07,4.07
+11,cards,1,,4.07,4.07
+11,red raider,1,,4.07,4.07
+11,mu,1,,4.07,4.07
+11,falcon,1,,4.07,4.07
+11,seahawk,1,,4.07,4.07
+11,ksu,1,,4.07,4.07
+11,husker,1,,4.07,4.07
+11,isu,1,,4.07,4.07
+11,rocket,1,,4.07,4.07
+11,boilers,1,,4.07,4.07
+11,ue,1,,4.07,4.07
+11,cavalier,1,,4.07,4.07
+11,ku,1,,4.07,4.07
+11,flyer,1,,4.07,4.07
+11,gophers,1,,4.07,4.07
+11,osu,1,,4.07,4.07
+11,vandal,1,,4.07,4.07
+11,raven,1,,4.07,4.07
+11,boilermaker,1,,4.07,4.07
+11,barta,1,,4.07,4.07
+11,shs,1,,4.07,4.07
+11,viking,1,,4.07,4.07
+11,mean green,1,,4.07,4.07
+11,origin,1,,4.07,4.07
+11,urbanized,1,,4.07,4.07
+11,environmental degradation,1,,4.07,4.07
+11,strip malls,1,,4.07,4.07
+11,suburbia,1,,4.07,4.07
+11,parkland,1,,4.07,4.07
+11,annexations,1,,4.07,4.07
+11,desertification,1,,4.07,4.07
+11,encroachment,1,,4.07,4.07
+11,deforestation,1,,4.07,4.07
+11,soil erosion,1,,4.07,4.07
+11,gated communities,1,,4.07,4.07
+11,habitat,1,,4.07,4.07
+11,wildlife habitat,1,,4.07,4.07
+11,annexation,1,,4.07,4.07
+11,greenery,1,,4.07,4.07
+11,farmlands,1,,4.07,4.07
+11,environmentalism,1,,4.07,4.07
+11,vegetation,1,,4.07,4.07
+11,grasslands,1,,4.07,4.07
+11,dense,1,,4.07,4.07
+11,densely populated,1,,4.07,4.07
+11,encroaching,1,,4.07,4.07
+11,woodlands,1,,4.07,4.07
+11,regionalism,1,,4.07,4.07
+11,environmentalists,1,,4.07,4.07
+11,unincorporated areas,1,,4.07,4.07
+11,density,1,,4.07,4.07
+11,cityscape,1,,4.07,4.07
+11,annexing,1,,4.07,4.07
+11,denser,1,,4.07,4.07
+11,forested,1,,4.07,4.07
+11,invasive species,1,,4.07,4.07
+11,affluence,1,,4.07,4.07
+11,supercenter,1,,4.07,4.07
+11,industrialization,1,,4.07,4.07
+11,arable land,1,,4.07,4.07
+11,incineration,1,,4.07,4.07
+11,composting,1,,4.07,4.07
+11,recycler,1,,4.07,4.07
+11,covanta,1,,4.07,4.07
+11,landfills,1,,4.07,4.07
+11,wastes,1,,4.07,4.07
+11,recyclables,1,,4.07,4.07
+11,clean,1,,4.07,4.07
+11,refuse,1,,4.07,4.07
+11,dump,1,,4.07,4.07
+11,recyclers,1,,4.07,4.07
+11,container,1,,4.07,4.07
+11,cleaning,1,,4.07,4.07
+11,garbage disposal,1,,4.07,4.07
+11,renewables,1,,4.07,4.07
+11,recyclable materials,1,,4.07,4.07
+11,radioactive waste,1,,4.07,4.07
+11,fuels,1,,4.07,4.07
+11,incinerators,1,,4.07,4.07
+11,haulers,1,,4.07,4.07
+11,manure,1,,4.07,4.07
+11,salvage,1,,4.07,4.07
+11,composted,1,,4.07,4.07
+11,scrap,1,,4.07,4.07
+11,reuse,1,,4.07,4.07
+11,toxic waste,1,,4.07,4.07
+11,fuel,1,,4.07,4.07
+11,energy,1,,4.07,4.07
+11,ethanol,1,,4.07,4.07
+11,renewable,1,,4.07,4.07
+11,clean energy,1,,4.07,4.07
+11,bins,1,,4.07,4.07
+11,bfi,1,,4.07,4.07
+11,concrete,1,,4.07,4.07
+11,shred,1,,4.07,4.07
+11,recyclable,1,,4.07,4.07
+11,paving,1,,4.07,4.07
+11,biofuels,1,,4.07,4.07
+11,storage,1,,4.07,4.07
+11,dumping,1,,4.07,4.07
+11,pest,1,,4.07,4.07
+11,gasification,1,,4.07,4.07
+11,hazardous,1,,4.07,4.07
+11,material,1,,4.07,4.07
+11,soil,1,,4.07,4.07
+11,sustainable,1,,4.07,4.07
+11,recycles,1,,4.07,4.07
+11,nuclear,1,,4.07,4.07
+11,towing,1,,4.07,4.07
+11,plastics,1,,4.07,4.07
+11,biodiesel,1,,4.07,4.07
+11,compostable,1,,4.07,4.07
+11,economic downturns,1,,4.07,4.07
+11,downturns,1,,4.07,4.07
+11,pandemic flu,1,,4.07,4.07
+11,outbreaks,1,,4.07,4.07
+11,manmade,1,,4.07,4.07
+11,pandemic influenza,1,,4.07,4.07
+11,bioterrorism,1,,4.07,4.07
+11,el niño,1,,4.07,4.07
+11,ravages,1,,4.07,4.07
+11,humanitarian assistance,1,,4.07,4.07
+11,supply disruptions,1,,4.07,4.07
+11,disruptions,1,,4.07,4.07
+11,unforeseen,1,,4.07,4.07
+11,adversities,1,,4.07,4.07
+11,upheavals,1,,4.07,4.07
+11,wars,1,,4.07,4.07
+11,coastlines,1,,4.07,4.07
+11,cataclysm,1,,4.07,4.07
+11,asteroid,1,,4.07,4.07
+11,volcanic activity,1,,4.07,4.07
+11,reefs,1,,4.07,4.07
+11,asteroids,1,,4.07,4.07
+11,photographs,1,,4.07,4.07
+11,drawings,1,,4.07,4.07
+11,remains,1,,4.07,4.07
+11,mementos,1,,4.07,4.07
+11,remnants,1,,4.07,4.07
+11,seized,1,,4.07,4.07
+11,symbols,1,,4.07,4.07
+11,souvenirs,1,,4.07,4.07
+11,documents,1,,4.07,4.07
+11,icons,1,,4.07,4.07
+11,collection,1,,4.07,4.07
+11,collections,1,,4.07,4.07
+11,exhibit,1,,4.07,4.07
+11,stolen,1,,4.07,4.07
+11,tapestries,1,,4.07,4.07
+11,items,1,,4.07,4.07
+11,rare,1,,4.07,4.07
+11,traces,1,,4.07,4.07
+11,prints,1,,4.07,4.07
+11,displays,1,,4.07,4.07
+11,collectibles,1,,4.07,4.07
+11,recovered,1,,4.07,4.07
+11,discoveries,1,,4.07,4.07
+11,etchings,1,,4.07,4.07
+11,slavery,1,,4.07,4.07
+11,curiosities,1,,4.07,4.07
+11,valuable,1,,4.07,4.07
+11,native americans,1,,4.07,4.07
+11,portraits,1,,4.07,4.07
+11,skeletal remains,1,,4.07,4.07
+11,reproductions,1,,4.07,4.07
+11,miniatures,1,,4.07,4.07
+11,replicas,1,,4.07,4.07
+11,coins,1,,4.07,4.07
+11,descendants,1,,4.07,4.07
+11,experiences,1,,4.07,4.07
+11,skulls,1,,4.07,4.07
+11,pieces,1,,4.07,4.07
+11,bodies,1,,4.07,4.07
+11,king tut,1,,4.07,4.07
+11,relic,1,,4.07,4.07
+11,sewage treatment,1,,4.07,4.07
+11,water works,1,,4.07,4.07
+11,utilities,1,,4.07,4.07
+11,sanitary sewer,1,,4.07,4.07
+11,utility,1,,4.07,4.07
+11,clean water,1,,4.07,4.07
+11,public works director,1,,4.07,4.07
+11,desalination,1,,4.07,4.07
+11,sanitary,1,,4.07,4.07
+11,water conservation,1,,4.07,4.07
+11,aquifer,1,,4.07,4.07
+11,reverse osmosis,1,,4.07,4.07
+11,reclamation,1,,4.07,4.07
+11,water mains,1,,4.07,4.07
+11,raw sewage,1,,4.07,4.07
+11,deq,1,,4.07,4.07
+11,sewers,1,,4.07,4.07
+11,public utility,1,,4.07,4.07
+11,septic systems,1,,4.07,4.07
+11,animal control,1,,4.07,4.07
+11,facilities,1,,4.07,4.07
+11,septic,1,,4.07,4.07
+11,gallons,1,,4.07,4.07
+11,septic tanks,1,,4.07,4.07
+11,dpw,1,,4.07,4.07
+11,desalination plant,1,,4.07,4.07
+11,severn trent,1,,4.07,4.07
+11,environmental protection,1,,4.07,4.07
+11,environmental quality,1,,4.07,4.07
+11,filtration,1,,4.07,4.07
+11,reservoirs,1,,4.07,4.07
+11,lagoons,1,,4.07,4.07
+11,fire hydrants,1,,4.07,4.07
+11,potable water,1,,4.07,4.07
+11,dep,1,,4.07,4.07
+11,electricity,1,,4.07,4.07
+11,cip,1,,4.07,4.07
+11,septic tank,1,,4.07,4.07
+11,pud,1,,4.07,4.07
+11,plant,1,,4.07,4.07
+11,bpw,1,,4.07,4.07
+11,watersheds,1,,4.07,4.07
+11,fertilizer,1,,4.07,4.07
+11,chlorine,1,,4.07,4.07
+11,maintenance,1,,4.07,4.07
+11,facility,1,,4.07,4.07
+11,mustangs,1,,4.07,4.07
+11,roadrunners,1,,4.07,4.07
+11,greyhounds,1,,4.07,4.07
+11,skyhawks,1,,4.07,4.07
+11,t birds,1,,4.07,4.07
+11,colonels,1,,4.07,4.07
+11,statesmen,1,,4.07,4.07
+11,yellowjackets,1,,4.07,4.07
+11,lancers,1,,4.07,4.07
+11,nighthawks,1,,4.07,4.07
+11,hornets,1,,4.07,4.07
+11,mules,1,,4.07,4.07
+11,apaches,1,,4.07,4.07
+11,lady trojans,1,,4.07,4.07
+11,pumas,1,,4.07,4.07
+11,rebels,1,,4.07,4.07
+11,pipers,1,,4.07,4.07
+11,lady mustangs,1,,4.07,4.07
+11,privateers,1,,4.07,4.07
+11,tomahawks,1,,4.07,4.07
+11,ironmen,1,,4.07,4.07
+11,gryphons,1,,4.07,4.07
+11,lady cats,1,,4.07,4.07
+11,marauders,1,,4.07,4.07
+11,pioneers,1,,4.07,4.07
+11,eagles,1,,4.07,4.07
+11,warplanes,1,,4.07,4.07
+11,hounds,1,,4.07,4.07
+11,falcons,1,,4.07,4.07
+11,streaks,1,,4.07,4.07
+11,rattlers,1,,4.07,4.07
+11,tritons,1,,4.07,4.07
+11,lady bulldogs,1,,4.07,4.07
+11,destroyers,1,,4.07,4.07
+11,chieftains,1,,4.07,4.07
+11,bronchos,1,,4.07,4.07
+11,crusaders,1,,4.07,4.07
+11,red devils,1,,4.07,4.07
+11,pelicans,1,,4.07,4.07
+11,cougars,1,,4.07,4.07
+11,lasers,1,,4.07,4.07
+11,wildcats,1,,4.07,4.07
+11,squadron,1,,4.07,4.07
+11,fighter jets,1,,4.07,4.07
+11,squadrons,1,,4.07,4.07
+11,jackals,1,,4.07,4.07
+11,jaguars,1,,4.07,4.07
+11,golden knights,1,,4.07,4.07
+11,stars,1,,4.07,4.07
+11,jackets,1,,4.07,4.07
+11,shockers,1,,4.07,4.07
+11,broncs,1,,4.07,4.07
+11,toppers,1,,4.07,4.07
+11,highlanders,1,,4.07,4.07
+11,matadors,1,,4.07,4.07
+11,spitfires,1,,4.07,4.07
+11,yellow jackets,1,,4.07,4.07
+11,brahmas,1,,4.07,4.07
+11,camels,1,,4.07,4.07
+11,sailors,1,,4.07,4.07
+11,missiles,1,,4.07,4.07
+11,gents,1,,4.07,4.07
+11,bison,1,,4.07,4.07
+11,monarchs,1,,4.07,4.07
+11,jackrabbits,1,,4.07,4.07
+11,maidens,1,,4.07,4.07
+11,ramblers,1,,4.07,4.07
+11,admirals,1,,4.07,4.07
+11,cruisers,1,,4.07,4.07
+11,scorpions,1,,4.07,4.07
+11,environment,1,,4.07,4.07
+11,defence,1,,4.07,4.07
+11,aviation,1,,4.07,4.07
+11,tfl,1,,4.07,4.07
+11,government,1,,4.07,4.07
+11,finance,1,,4.07,4.07
+11,air transport,1,,4.07,4.07
+11,shipping,1,,4.07,4.07
+11,civil aviation authority,1,,4.07,4.07
+11,telecommunications,1,,4.07,4.07
+11,fisheries,1,,4.07,4.07
+11,telecommunication,1,,4.07,4.07
+11,trucking,1,,4.07,4.07
+11,safety,1,,4.07,4.07
+11,home affairs,1,,4.07,4.07
+11,labour,1,,4.07,4.07
+11,commercial vehicle,1,,4.07,4.07
+11,telecom,1,,4.07,4.07
+11,pensions,1,,4.07,4.07
+11,foreign affairs,1,,4.07,4.07
+11,parliamentary,1,,4.07,4.07
+11,finance minister,1,,4.07,4.07
+11,customs,1,,4.07,4.07
+11,airports authority,1,,4.07,4.07
+11,petroleum,1,,4.07,4.07
+11,transport workers,1,,4.07,4.07
+11,automobile association,1,,4.07,4.07
+11,communication,1,,4.07,4.07
+11,logistics,1,,4.07,4.07
+11,ambulance service,1,,4.07,4.07
+11,minister,1,,4.07,4.07
+11,telematics,1,,4.07,4.07
+11,sita,1,,4.07,4.07
+11,royal mail,1,,4.07,4.07
+11,dvla,1,,4.07,4.07
+11,tanker,1,,4.07,4.07
+11,traffic calming,1,,4.07,4.07
+11,inconveniences,1,,4.07,4.07
+11,parking spaces,1,,4.07,4.07
+11,eyesore,1,,4.07,4.07
+11,inconvenience,1,,4.07,4.07
+11,environmental impacts,1,,4.07,4.07
+11,hassles,1,,4.07,4.07
+11,rerouting,1,,4.07,4.07
+11,pedestrian crossing,1,,4.07,4.07
+11,nuisance,1,,4.07,4.07
+11,swollen river,1,,4.07,4.07
+11,water borne diseases,1,,4.07,4.07
+11,waterborne diseases,1,,4.07,4.07
+11,embankments,1,,4.07,4.07
+11,snowfalls,1,,4.07,4.07
+11,millennia,1,,4.07,4.07
+11,ancient greek,1,,4.07,4.07
+11,modern,1,,4.07,4.07
+11,mesopotamia,1,,4.07,4.07
+11,mayan,1,,4.07,4.07
+11,romans,1,,4.07,4.07
+11,gods,1,,4.07,4.07
+11,roman,1,,4.07,4.07
+11,middle ages,1,,4.07,4.07
+11,pharaohs,1,,4.07,4.07
+11,mysteries,1,,4.07,4.07
+11,roman empire,1,,4.07,4.07
+11,scrolls,1,,4.07,4.07
+11,biblical,1,,4.07,4.07
+11,mysterious,1,,4.07,4.07
+11,byzantine,1,,4.07,4.07
+11,stone age,1,,4.07,4.07
+11,oldest,1,,4.07,4.07
+11,inca,1,,4.07,4.07
+11,ottoman,1,,4.07,4.07
+11,deities,1,,4.07,4.07
+11,ritual,1,,4.07,4.07
+11,mystical,1,,4.07,4.07
+11,persians,1,,4.07,4.07
+11,persia,1,,4.07,4.07
+11,lore,1,,4.07,4.07
+11,skull,1,,4.07,4.07
+11,empires,1,,4.07,4.07
+11,mystic,1,,4.07,4.07
+11,cave,1,,4.07,4.07
+11,conquerors,1,,4.07,4.07
+11,kingdoms,1,,4.07,4.07
+11,magical,1,,4.07,4.07
+11,aristotle,1,,4.07,4.07
+11,old testament,1,,4.07,4.07
+11,dark ages,1,,4.07,4.07
+11,sphinx,1,,4.07,4.07
+11,goddess,1,,4.07,4.07
+11,greco roman,1,,4.07,4.07
+11,forbidden,1,,4.07,4.07
+11,eternal,1,,4.07,4.07
+11,crusades,1,,4.07,4.07
+11,oriental,1,,4.07,4.07
+11,cleopatra,1,,4.07,4.07
+11,origins,1,,4.07,4.07
+11,fares,1,,4.07,4.07
+11,visitor arrivals,1,,4.07,4.07
+11,vre,1,,4.07,4.07
+11,tourist arrivals,1,,4.07,4.07
+11,declining enrollment,1,,4.07,4.07
+11,enrollments,1,,4.07,4.07
+11,allegiant,1,,4.07,4.07
+11,dropout rate,1,,4.07,4.07
+11,occupancy,1,,4.07,4.07
+11,turnout,1,,4.07,4.07
+11,turnouts,1,,4.07,4.07
+11,systemwide,1,,4.07,4.07
+11,viewership,1,,4.07,4.07
+11,punctuality,1,,4.07,4.07
+11,weekday,1,,4.07,4.07
+11,footfall,1,,4.07,4.07
+11,skybus,1,,4.07,4.07
+11,attendance,1,,4.07,4.07
+11,cultural affairs,1,,4.07,4.07
+11,fine arts,1,,4.07,4.07
+11,artistic,1,,4.07,4.07
+11,language,1,,4.07,4.07
+11,ethnic,1,,4.07,4.07
+11,film,1,,4.07,4.07
+11,art,1,,4.07,4.07
+11,adult education,1,,4.07,4.07
+11,storytelling,1,,4.07,4.07
+11,spiritual,1,,4.07,4.07
+11,arts festival,1,,4.07,4.07
+11,art gallery,1,,4.07,4.07
+11,poetry,1,,4.07,4.07
+11,religious,1,,4.07,4.07
+11,contemporary art,1,,4.07,4.07
+11,tourist,1,,4.07,4.07
+11,art museum,1,,4.07,4.07
+11,cinema,1,,4.07,4.07
+11,creative arts,1,,4.07,4.07
+11,exhibitions,1,,4.07,4.07
+11,economic development,1,,4.07,4.07
+11,early childhood,1,,4.07,4.07
+11,lifelong learning,1,,4.07,4.07
+11,youth,1,,4.07,4.07
+11,artisans,1,,4.07,4.07
+11,heritage month,1,,4.07,4.07
+11,governmental,1,,4.07,4.07
+11,english language,1,,4.07,4.07
+11,student activities,1,,4.07,4.07
+11,choral,1,,4.07,4.07
+11,theatre,1,,4.07,4.07
+11,festival,1,,4.07,4.07
+11,education,1,,4.07,4.07
+11,ecumenical,1,,4.07,4.07
+11,interfaith,1,,4.07,4.07
+11,diversity,1,,4.07,4.07
+11,textile,1,,4.07,4.07
+11,dance theater,1,,4.07,4.07
+11,intellectual,1,,4.07,4.07
+11,spirituality,1,,4.07,4.07
+11,celebration,1,,4.07,4.07
+11,theater,1,,4.07,4.07
+11,learning,1,,4.07,4.07

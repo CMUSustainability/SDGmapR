@@ -1,0 +1,1056 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+7,renewable energy,115,True,9.92,1140.8
+7,renewable,80,True,8.27,661.5999999999999
+7,renewables,77,,3.79,291.83
+7,biomass,71,True,8.07,572.97
+7,biofuel,53,True,14.84,786.52
+7,biofuels,50,True,11.29,564.5
+7,biodiesel,49,True,15.79,773.7099999999999
+7,geothermal,48,True,11.83,567.84
+7,solar,46,True,10.14,466.44000000000005
+7,ethanol,46,True,4.55,209.29999999999998
+7,hydrogen,41,True,8.02,328.82
+7,energy,40,True,8.66,346.4
+7,wind farm,39,True,4.22,164.57999999999998
+7,smart grid,36,True,8.25,297.0
+7,mw,35,,3.79,132.65
+7,bioenergy,33,True,10.6,349.8
+7,wind energy,31,True,6.09,188.79
+7,renewable energies,30,,3.79,113.7
+7,cellulosic ethanol,30,,3.79,113.7
+7,hydro,29,True,5.3,153.7
+7,clean energy,29,True,4.72,136.88
+7,fossil fuel,28,,3.79,106.12
+7,wind farms,28,,3.79,106.12
+7,carbon capture,28,,3.79,106.12
+7,solar thermal,27,,3.79,102.33
+7,natural gas,27,,3.79,102.33
+7,alternative energy,26,,3.79,98.54
+7,electricity,26,,3.79,98.54
+7,cogeneration,26,,3.79,98.54
+7,wind turbine,25,True,7.98,199.5
+7,fuels,25,True,4.69,117.25000000000001
+7,fossil fuels,25,,3.79,94.75
+7,hydropower,24,True,12.03,288.71999999999997
+7,photovoltaics,24,True,8.4,201.60000000000002
+7,solar pv,24,,3.79,90.96000000000001
+7,renewable fuels,24,,3.79,90.96000000000001
+7,biogas,24,,3.79,90.96000000000001
+7,bioethanol,23,True,8.74,201.02
+7,fuel,23,True,6.01,138.23
+7,offshore wind,23,True,4.56,104.88
+7,solar photovoltaic,23,,3.79,87.17
+7,coal fired,23,,3.79,87.17
+7,coal,23,,3.79,87.17
+7,##mw,23,,3.79,87.17
+7,bio diesel,23,,3.79,87.17
+7,photovoltaic,22,True,17.32,381.04
+7,wind turbines,22,True,5.45,119.9
+7,megawatts,22,,3.79,83.38
+7,###mw,22,,3.79,83.38
+7,turbine,21,True,5.55,116.55
+7,bio fuels,21,,3.79,79.59
+7,alternative fuels,21,,3.79,79.59
+7,gasification,21,,3.79,79.59
+7,carbon sequestration,20,,3.79,75.8
+7,megawatt,20,,3.79,75.8
+7,kwh,20,,3.79,75.8
+7,hydroelectric,19,True,10.36,196.83999999999997
+7,solar power,19,True,4.16,79.04
+7,cleantech,19,,3.79,72.01
+7,gigawatts,19,,3.79,72.01
+7,liquid fuels,19,,3.79,72.01
+7,hydro electric,19,,3.79,72.01
+7,lng,19,,3.79,72.01
+7,cleaner burning,19,,3.79,72.01
+7,switchgrass,18,True,3.92,70.56
+7,solar panels,18,,3.79,68.22
+7,megawatts mw,18,,3.79,68.22
+7,feedstocks,18,,3.79,68.22
+7,turbines,17,True,5.36,91.12
+7,power generation,17,,3.79,64.43
+7,feedstock,17,,3.79,64.43
+7,zero emission,16,,3.79,60.64
+7,kilowatt hour,16,,3.79,60.64
+7,diesel,16,,3.79,60.64
+7,hydrogen powered,16,,3.79,60.64
+7,hydrogen fuel,16,,3.79,60.64
+7,fuel cell,15,True,12.74,191.1
+7,climate change,15,,3.79,56.85
+7,algae,15,,3.79,56.85
+7,emissions,15,,3.79,56.85
+7,energy efficiency,14,True,16.97,237.57999999999998
+7,wind,14,True,7.88,110.32
+7,reduce carbon emissions,14,,3.79,53.06
+7,emission reduction,14,,3.79,53.06
+7,nanotechnology,14,,3.79,53.06
+7,desalination,13,,3.79,49.27
+7,sustainable,13,,3.79,49.27
+7,soybean,13,,3.79,49.27
+7,power plant,13,,3.79,49.27
+7,oil sands,13,,3.79,49.27
+7,kilowatt,13,,3.79,49.27
+7,solar cells,12,True,12.05,144.60000000000002
+7,carbon dioxide emissions,12,,3.79,45.480000000000004
+7,nrel,12,,3.79,45.480000000000004
+7,aquaculture,12,,3.79,45.480000000000004
+7,jatropha,12,,3.79,45.480000000000004
+7,petroleum,12,,3.79,45.480000000000004
+7,evs,12,,3.79,45.480000000000004
+7,electric,11,True,7.67,84.37
+7,reducing carbon emissions,11,,3.79,41.69
+7,carbon emissions,11,,3.79,41.69
+7,gamesa,11,,3.79,41.69
+7,cpv,11,,3.79,41.69
+7,wood chips,11,,3.79,41.69
+7,cellulose,11,,3.79,41.69
+7,gas,11,,3.79,41.69
+7,corn,11,,3.79,41.69
+7,diesel fuel,11,,3.79,41.69
+7,solar arrays,11,,3.79,41.69
+7,kilowatts,11,,3.79,41.69
+7,hybrid electric,11,,3.79,41.69
+7,electric vehicle,10,True,6.96,69.6
+7,pv,10,True,5.1,51.0
+7,power,10,True,3.93,39.300000000000004
+7,greenhouse emissions,10,,3.79,37.9
+7,greenhouse gases,10,,3.79,37.9
+7,greenhouse gas emissions,10,,3.79,37.9
+7,organic farming,10,,3.79,37.9
+7,reduce greenhouse gas,10,,3.79,37.9
+7,vestas,10,,3.79,37.9
+7,nuclear,10,,3.79,37.9
+7,methane,10,,3.79,37.9
+7,internal combustion engines,10,,3.79,37.9
+7,kw,10,,3.79,37.9
+7,kilowatt hours,10,,3.79,37.9
+7,##kw,10,,3.79,37.9
+7,greenhouse gas,9,,3.79,34.11
+7,greenhouse gas emission,9,,3.79,34.11
+7,fertilizer,9,,3.79,34.11
+7,lignite,9,,3.79,34.11
+7,rentech,9,,3.79,34.11
+7,co2,9,,3.79,34.11
+7,sugarcane,9,,3.79,34.11
+7,vegetable oils,9,,3.79,34.11
+7,sugar cane,9,,3.79,34.11
+7,flex fuel,9,,3.79,34.11
+7,windmills,9,,3.79,34.11
+7,windmill,9,,3.79,34.11
+7,liquefied natural gas,9,,3.79,34.11
+7,solar modules,9,,3.79,34.11
+7,inverter,9,,3.79,34.11
+7,###kw,9,,3.79,34.11
+7,environmentally sustainable,8,,3.79,30.32
+7,emission reductions,8,,3.79,30.32
+7,carbon emission,8,,3.79,30.32
+7,reducing greenhouse gas,8,,3.79,30.32
+7,res,8,,3.79,30.32
+7,carbon dioxide,8,,3.79,30.32
+7,e.on,8,,3.79,30.32
+7,agribusiness,8,,3.79,30.32
+7,hybrids,8,,3.79,30.32
+7,soybeans,8,,3.79,30.32
+7,gasoline,8,,3.79,30.32
+7,environmentally friendly,8,,3.79,30.32
+7,tar sands,8,,3.79,30.32
+7,lng terminal,8,,3.79,30.32
+7,desalination plant,8,,3.79,30.32
+7,nuclear reactors,8,,3.79,30.32
+7,inverters,8,,3.79,30.32
+7,led lighting,8,,3.79,30.32
+7,co2 emissions,8,,3.79,30.32
+7,global warming,7,,3.79,26.53
+7,sustainability,7,,3.79,26.53
+7,iberdrola,7,,3.79,26.53
+7,masdar,7,,3.79,26.53
+7,vattenfall,7,,3.79,26.53
+7,sunpower,7,,3.79,26.53
+7,utilities,7,,3.79,26.53
+7,boilers,7,,3.79,26.53
+7,genetically modified crops,7,,3.79,26.53
+7,methanol,7,,3.79,26.53
+7,tidal,7,,3.79,26.53
+7,shale gas,7,,3.79,26.53
+7,polysilicon,7,,3.79,26.53
+7,suzlon,7,,3.79,26.53
+7,internal combustion engine,7,,3.79,26.53
+7,mwh,6,,3.79,22.740000000000002
+7,nrg energy,6,,3.79,22.740000000000002
+7,bio,6,,3.79,22.740000000000002
+7,crops,6,,3.79,22.740000000000002
+7,sorghum,6,,3.79,22.740000000000002
+7,palm oil,6,,3.79,22.740000000000002
+7,diesel engines,6,,3.79,22.740000000000002
+7,refineries,6,,3.79,22.740000000000002
+7,cape wind,6,,3.79,22.740000000000002
+7,aluminum smelter,6,,3.79,22.740000000000002
+7,acciona,6,,3.79,22.740000000000002
+7,greenfield,6,,3.79,22.740000000000002
+7,suntech,6,,3.79,22.740000000000002
+7,solar powered,6,,3.79,22.740000000000002
+7,carbon,6,,3.79,22.740000000000002
+7,ghg emissions,6,,3.79,22.740000000000002
+7,cooling towers,6,,3.79,22.740000000000002
+7,utility,6,,3.79,22.740000000000002
+7,lithium ion battery,6,,3.79,22.740000000000002
+7,electric vehicles,5,True,6.71,33.55
+7,led,5,True,5.6,28.0
+7,grid,5,True,3.98,19.9
+7,recycling,5,,3.79,18.95
+7,incinerator,5,,3.79,18.95
+7,environmental,5,,3.79,18.95
+7,carbon credits,5,,3.79,18.95
+7,biotechnology,5,,3.79,18.95
+7,agri,5,,3.79,18.95
+7,refining,5,,3.79,18.95
+7,agricultural,5,,3.79,18.95
+7,soy,5,,3.79,18.95
+7,sugar beet,5,,3.79,18.95
+7,lpg,5,,3.79,18.95
+7,oilseed,5,,3.79,18.95
+7,e##,5,,3.79,18.95
+7,siting,5,,3.79,18.95
+7,futuregen,5,,3.79,18.95
+7,sunedison,5,,3.79,18.95
+7,ipp,5,,3.79,18.95
+7,urea,5,,3.79,18.95
+7,carbon dioxide co2,5,,3.79,18.95
+7,hydroelectric dams,5,,3.79,18.95
+7,electric utilities,5,,3.79,18.95
+7,electric power,5,,3.79,18.95
+7,nuclear power,5,,3.79,18.95
+7,transformer,5,,3.79,18.95
+7,petrochemical,5,,3.79,18.95
+7,petrochemicals,5,,3.79,18.95
+7,compressed natural,5,,3.79,18.95
+7,lithium ion batteries,5,,3.79,18.95
+7,lithium ion,4,True,5.66,22.64
+7,diodes,4,True,5.58,22.32
+7,offshore,4,True,3.9,15.6
+7,cloud computing,4,,3.79,15.16
+7,agriculture,4,,3.79,15.16
+7,ghg,4,,3.79,15.16
+7,rwe,4,,3.79,15.16
+7,sustainable development,4,,3.79,15.16
+7,composites,4,,3.79,15.16
+7,incineration,4,,3.79,15.16
+7,biotech,4,,3.79,15.16
+7,grains,4,,3.79,15.16
+7,plastics,4,,3.79,15.16
+7,pacific ethanol,4,,3.79,15.16
+7,propane,4,,3.79,15.16
+7,cng,4,,3.79,15.16
+7,refinery,4,,3.79,15.16
+7,diesel powered,4,,3.79,15.16
+7,oil,4,,3.79,15.16
+7,pacificorp,4,,3.79,15.16
+7,substation,4,,3.79,15.16
+7,transcanada,4,,3.79,15.16
+7,nrg,4,,3.79,15.16
+7,oilsands,4,,3.79,15.16
+7,evergreen solar,4,,3.79,15.16
+7,csp,4,,3.79,15.16
+7,watt,4,,3.79,15.16
+7,hybrid,4,,3.79,15.16
+7,amsc,4,,3.79,15.16
+7,kv,4,,3.79,15.16
+7,thermal coal,4,,3.79,15.16
+7,energy agency,4,,3.79,15.16
+7,crude oil,4,,3.79,15.16
+7,dams,4,,3.79,15.16
+7,electrical grid,4,,3.79,15.16
+7,greenhouse,4,,3.79,15.16
+7,nanotech,4,,3.79,15.16
+7,generators,4,,3.79,15.16
+7,energy regulatory commission,4,,3.79,15.16
+7,rapeseed,4,,3.79,15.16
+7,semiconductors,4,,3.79,15.16
+7,leds,4,,3.79,15.16
+7,polymers,4,,3.79,15.16
+7,electric motors,4,,3.79,15.16
+7,generator,4,,3.79,15.16
+7,energy efficient,3,True,13.66,40.980000000000004
+7,batteries,3,True,4.97,14.91
+7,dam,3,True,3.84,11.52
+7,waste,3,,3.79,11.370000000000001
+7,ecological,3,,3.79,11.370000000000001
+7,combustion,3,,3.79,11.370000000000001
+7,composting,3,,3.79,11.370000000000001
+7,climate,3,,3.79,11.370000000000001
+7,dairy,3,,3.79,11.370000000000001
+7,grain,3,,3.79,11.370000000000001
+7,gmos,3,,3.79,11.370000000000001
+7,nitrogen,3,,3.79,11.370000000000001
+7,canola,3,,3.79,11.370000000000001
+7,sugar beets,3,,3.79,11.370000000000001
+7,verasun,3,,3.79,11.370000000000001
+7,landfill,3,,3.79,11.370000000000001
+7,corn crop,3,,3.79,11.370000000000001
+7,ratepayer,3,,3.79,11.370000000000001
+7,onshore,3,,3.79,11.370000000000001
+7,coalbed methane,3,,3.79,11.370000000000001
+7,nantucket sound,3,,3.79,11.370000000000001
+7,coal seam gas,3,,3.79,11.370000000000001
+7,thermal,3,,3.79,11.370000000000001
+7,yingli green energy,3,,3.79,11.370000000000001
+7,silicon,3,,3.79,11.370000000000001
+7,ntpc,3,,3.79,11.370000000000001
+7,power grid,3,,3.79,11.370000000000001
+7,polluting,3,,3.79,11.370000000000001
+7,pollution,3,,3.79,11.370000000000001
+7,emission,3,,3.79,11.370000000000001
+7,incandescent bulbs,3,,3.79,11.370000000000001
+7,shale,3,,3.79,11.370000000000001
+7,uranium,3,,3.79,11.370000000000001
+7,energy doe,3,,3.79,11.370000000000001
+7,hydrocarbon,3,,3.79,11.370000000000001
+7,irrigation,3,,3.79,11.370000000000001
+7,incinerators,3,,3.79,11.370000000000001
+7,water heater,3,,3.79,11.370000000000001
+7,technologies,3,,3.79,11.370000000000001
+7,biosciences,3,,3.79,11.370000000000001
+7,environmental sustainability,3,,3.79,11.370000000000001
+7,agro,3,,3.79,11.370000000000001
+7,substations,3,,3.79,11.370000000000001
+7,xcel energy,3,,3.79,11.370000000000001
+7,diesel generators,3,,3.79,11.370000000000001
+7,electrical,3,,3.79,11.370000000000001
+7,transmission,3,,3.79,11.370000000000001
+7,national grid,3,,3.79,11.370000000000001
+7,transformers,3,,3.79,11.370000000000001
+7,hydrocarbons,3,,3.79,11.370000000000001
+7,environmentally sound,3,,3.79,11.370000000000001
+7,arable land,3,,3.79,11.370000000000001
+7,diesels,3,,3.79,11.370000000000001
+7,eco friendly,3,,3.79,11.370000000000001
+7,corn soybeans,3,,3.79,11.370000000000001
+7,fertilizers,3,,3.79,11.370000000000001
+7,agricultural commodities,3,,3.79,11.370000000000001
+7,soya,3,,3.79,11.370000000000001
+7,reactors,3,,3.79,11.370000000000001
+7,smelters,3,,3.79,11.370000000000001
+7,smokestack,3,,3.79,11.370000000000001
+7,wastewater treatment,3,,3.79,11.370000000000001
+7,sulfur,3,,3.79,11.370000000000001
+7,stevia,3,,3.79,11.370000000000001
+7,photonics,3,,3.79,11.370000000000001
+7,semiconductor,3,,3.79,11.370000000000001
+7,auo,3,,3.79,11.370000000000001
+7,tft lcd,3,,3.79,11.370000000000001
+7,substrates,3,,3.79,11.370000000000001
+7,compressor,3,,3.79,11.370000000000001
+7,rotor,3,,3.79,11.370000000000001
+7,rechargeable batteries,3,,3.79,11.370000000000001
+7,refiners,3,,3.79,11.370000000000001
+7,starch,3,,3.79,11.370000000000001
+7,energy saving,2,True,9.66,19.32
+7,conservation,2,,3.79,7.58
+7,ecotourism,2,,3.79,7.58
+7,rps,2,,3.79,7.58
+7,commodities,2,,3.79,7.58
+7,farming,2,,3.79,7.58
+7,organics,2,,3.79,7.58
+7,innovation,2,,3.79,7.58
+7,crop yields,2,,3.79,7.58
+7,organic,2,,3.79,7.58
+7,diesel engine,2,,3.79,7.58
+7,pork,2,,3.79,7.58
+7,vegetable,2,,3.79,7.58
+7,glyphosate,2,,3.79,7.58
+7,feedlot,2,,3.79,7.58
+7,landowners,2,,3.79,7.58
+7,supercenter,2,,3.79,7.58
+7,ratepayers,2,,3.79,7.58
+7,dairy farms,2,,3.79,7.58
+7,ev,2,,3.79,7.58
+7,insulation,2,,3.79,7.58
+7,mmscmd,2,,3.79,7.58
+7,cusecs,2,,3.79,7.58
+7,metric tonnes,2,,3.79,7.58
+7,bcm,2,,3.79,7.58
+7,tonnes,2,,3.79,7.58
+7,tata power,2,,3.79,7.58
+7,cubic meters,2,,3.79,7.58
+7,b d,2,,3.79,7.58
+7,metric tons,2,,3.79,7.58
+7,bpd,2,,3.79,7.58
+7,load shedding,2,,3.79,7.58
+7,hectares,2,,3.79,7.58
+7,boepd,2,,3.79,7.58
+7,bbl d,2,,3.79,7.58
+7,bcf,2,,3.79,7.58
+7,refining capacity,2,,3.79,7.58
+7,burning fossil fuels,2,,3.79,7.58
+7,heat trapping gases,2,,3.79,7.58
+7,gas guzzling,2,,3.79,7.58
+7,iea,2,,3.79,7.58
+7,gas guzzlers,2,,3.79,7.58
+7,polluter,2,,3.79,7.58
+7,mining,2,,3.79,7.58
+7,exploration,2,,3.79,7.58
+7,mineral resources,2,,3.79,7.58
+7,minerals,2,,3.79,7.58
+7,plants,2,,3.79,7.58
+7,masts,2,,3.79,7.58
+7,grids,2,,3.79,7.58
+7,towers,2,,3.79,7.58
+7,water heaters,2,,3.79,7.58
+7,reverse osmosis,2,,3.79,7.58
+7,drip irrigation,2,,3.79,7.58
+7,broadband,2,,3.79,7.58
+7,better place,2,,3.79,7.58
+7,wimax,2,,3.79,7.58
+7,electrification,2,,3.79,7.58
+7,metering,2,,3.79,7.58
+7,comed,2,,3.79,7.58
+7,genomics,2,,3.79,7.58
+7,sustainably,2,,3.79,7.58
+7,oilseeds,2,,3.79,7.58
+7,cropland,2,,3.79,7.58
+7,watts,2,,3.79,7.58
+7,rolling blackouts,2,,3.79,7.58
+7,water,2,,3.79,7.58
+7,public utility,2,,3.79,7.58
+7,tariff,2,,3.79,7.58
+7,public utilities,2,,3.79,7.58
+7,sewerage,2,,3.79,7.58
+7,gas pipeline,2,,3.79,7.58
+7,telecom,2,,3.79,7.58
+7,transco,2,,3.79,7.58
+7,electric cooperative,2,,3.79,7.58
+7,psc,2,,3.79,7.58
+7,water resources,2,,3.79,7.58
+7,puc,2,,3.79,7.58
+7,wastewater,2,,3.79,7.58
+7,greener,2,,3.79,7.58
+7,efficiency,2,,3.79,7.58
+7,t. boone pickens,2,,3.79,7.58
+7,chevy volt,2,,3.79,7.58
+7,offshore drilling,2,,3.79,7.58
+7,locally grown,2,,3.79,7.58
+7,volt,2,,3.79,7.58
+7,maize,2,,3.79,7.58
+7,smelter,2,,3.79,7.58
+7,energies,2,,3.79,7.58
+7,doe,2,,3.79,7.58
+7,bc hydro,2,,3.79,7.58
+7,sewage treatment,2,,3.79,7.58
+7,compostable,2,,3.79,7.58
+7,oils,2,,3.79,7.58
+7,mems,2,,3.79,7.58
+7,oled,2,,3.79,7.58
+7,silicon wafers,2,,3.79,7.58
+7,oleds,2,,3.79,7.58
+7,nanomaterials,2,,3.79,7.58
+7,optical components,2,,3.79,7.58
+7,metrology,2,,3.79,7.58
+7,polymer,2,,3.79,7.58
+7,nanotube,2,,3.79,7.58
+7,diode,2,,3.79,7.58
+7,microelectronics,2,,3.79,7.58
+7,carbon nanotubes,2,,3.79,7.58
+7,imec,2,,3.79,7.58
+7,titanium dioxide,2,,3.79,7.58
+7,hvac,2,,3.79,7.58
+7,engineering procurement,2,,3.79,7.58
+7,motors,2,,3.79,7.58
+7,modules,2,,3.79,7.58
+7,air conditioner,2,,3.79,7.58
+7,ics,2,,3.79,7.58
+7,transistor,2,,3.79,7.58
+7,led lights,2,,3.79,7.58
+7,epic,2,,3.79,7.58
+7,sega,2,,3.79,7.58
+7,gravity,2,,3.79,7.58
+7,engines,2,,3.79,7.58
+7,compressors,2,,3.79,7.58
+7,raw material,2,,3.79,7.58
+7,raw materials,2,,3.79,7.58
+7,ethylene,2,,3.79,7.58
+7,naphtha,2,,3.79,7.58
+7,resins,2,,3.79,7.58
+7,polypropylene,2,,3.79,7.58
+7,polyethylene,2,,3.79,7.58
+7,byproducts,2,,3.79,7.58
+7,refining margins,2,,3.79,7.58
+7,starches,2,,3.79,7.58
+7,ngl,2,,3.79,7.58
+7,edible oils,2,,3.79,7.58
+7,ngls,2,,3.79,7.58
+7,deepwater,2,,3.79,7.58
+7,winds,2,,3.79,7.58
+7,gusts,2,,3.79,7.58
+7,wind gusts,2,,3.79,7.58
+7,breeze,2,,3.79,7.58
+7,storms,2,,3.79,7.58
+7,thunderstorms,2,,3.79,7.58
+7,recyclable materials,2,,3.79,7.58
+7,plant,2,,3.79,7.58
+7,internet things,1,True,15.16,15.16
+7,fuel cells,1,True,11.25,11.25
+7,things,1,True,9.83,9.83
+7,iter,1,True,9.82,9.82
+7,hydrogen evolution,1,True,9.61,9.61
+7,light emitting,1,True,8.89,8.89
+7,location based,1,True,8.41,8.41
+7,fusion,1,True,7.74,7.74
+7,energy savings,1,True,7.51,7.51
+7,hydrogen storage,1,True,7.46,7.46
+7,wireless ad,1,True,7.28,7.28
+7,solar cell,1,True,7.18,7.18
+7,smart,1,True,7.15,7.15
+7,hvdc,1,True,7.04,7.04
+7,tokamak,1,True,6.97,6.97
+7,smart home,1,True,6.81,6.81
+7,microgrid,1,True,6.49,6.49
+7,based services,1,True,6.36,6.36
+7,wind power,1,True,6.24,6.24
+7,emitting,1,True,6.21,6.21
+7,district heating,1,True,6.12,6.12
+7,emitting diodes,1,True,6.06,6.06
+7,iot,1,True,6.0,6.0
+7,distributed generation,1,True,5.97,5.97
+7,demand response,1,True,5.88,5.88
+7,ion batteries,1,True,5.74,5.74
+7,sofc,1,True,5.68,5.68
+7,emitting diode,1,True,5.55,5.55
+7,lithium,1,True,5.48,5.48
+7,h2,1,True,5.12,5.12
+7,pyrolysis,1,True,5.08,5.08
+7,home,1,True,4.99,4.99
+7,led light,1,True,4.95,4.95
+7,battery,1,True,4.7,4.7
+7,things iot,1,True,4.69,4.69
+7,lamps,1,True,4.62,4.62
+7,microgrids,1,True,4.48,4.48
+7,electric propulsion,1,True,4.47,4.47
+7,lamp,1,True,4.33,4.33
+7,saving,1,True,4.14,4.14
+7,h2 evolution,1,True,4.06,4.06
+7,confinement fusion,1,True,4.04,4.04
+7,fast pyrolysis,1,True,4.02,4.02
+7,li,1,True,3.96,3.96
+7,inertial confinement,1,True,3.94,3.94
+7,wave energy,1,True,3.9,3.9
+7,smart grids,1,True,3.87,3.87
+7,ion battery,1,True,3.83,3.83
+7,dg,1,True,3.81,3.81
+7,hydrothermal,1,True,3.79,3.79
+7,islanding,1,True,3.79,3.79
+7,affordable housing,1,,3.79,3.79
+7,stem cell,1,,3.79,3.79
+7,diversification,1,,3.79,3.79
+7,carbon trust,1,,3.79,3.79
+7,sempra,1,,3.79,3.79
+7,biosolids,1,,3.79,3.79
+7,packaging,1,,3.79,3.79
+7,gmo,1,,3.79,3.79
+7,unleaded gasoline,1,,3.79,3.79
+7,meat,1,,3.79,3.79
+7,potato,1,,3.79,3.79
+7,mtbe,1,,3.79,3.79
+7,adm,1,,3.79,3.79
+7,commodity,1,,3.79,3.79
+7,corn belt,1,,3.79,3.79
+7,archer daniels midland,1,,3.79,3.79
+7,trucking,1,,3.79,3.79
+7,pulp mill,1,,3.79,3.79
+7,landowner,1,,3.79,3.79
+7,project,1,,3.79,3.79
+7,spaceport,1,,3.79,3.79
+7,gravel pit,1,,3.79,3.79
+7,quarry,1,,3.79,3.79
+7,lighthouse,1,,3.79,3.79
+7,nuclear reactor,1,,3.79,3.79
+7,eco,1,,3.79,3.79
+7,ldk solar,1,,3.79,3.79
+7,micro,1,,3.79,3.79
+7,tep,1,,3.79,3.79
+7,fit,1,,3.79,3.79
+7,applied materials,1,,3.79,3.79
+7,lighting,1,,3.79,3.79
+7,advantage,1,,3.79,3.79
+7,kyocera,1,,3.79,3.79
+7,lakh tonnes,1,,3.79,3.79
+7,mt,1,,3.79,3.79
+7,crore,1,,3.79,3.79
+7,bhel,1,,3.79,3.79
+7,rs.### crore,1,,3.79,3.79
+7,"rs #,##,### crore",1,,3.79,3.79
+7,rs### crore,1,,3.79,3.79
+7,jsw steel,1,,3.79,3.79
+7,reliance power,1,,3.79,3.79
+7,inr,1,,3.79,3.79
+7,"#,##,### units",1,,3.79,3.79
+7,sez,1,,3.79,3.79
+7,mln tons,1,,3.79,3.79
+7,rs,1,,3.79,3.79
+7,sezs,1,,3.79,3.79
+7,lakh crore,1,,3.79,3.79
+7,crores,1,,3.79,3.79
+7,reliance infrastructure,1,,3.79,3.79
+7,rs.## crore,1,,3.79,3.79
+7,uttaranchal,1,,3.79,3.79
+7,rs.2,1,,3.79,3.79
+7,cil,1,,3.79,3.79
+7,sugar mills,1,,3.79,3.79
+7,rs.###.## crore,1,,3.79,3.79
+7,gail,1,,3.79,3.79
+7,uttarakhand,1,,3.79,3.79
+7,sail,1,,3.79,3.79
+7,phased manner,1,,3.79,3.79
+7,cr,1,,3.79,3.79
+7,bopd,1,,3.79,3.79
+7,nmdc,1,,3.79,3.79
+7,rs1,1,,3.79,3.79
+7,rs.###,1,,3.79,3.79
+7,offtake,1,,3.79,3.79
+7,nhai,1,,3.79,3.79
+7,shinde,1,,3.79,3.79
+7,lakh,1,,3.79,3.79
+7,rs.1,1,,3.79,3.79
+7,sterlite,1,,3.79,3.79
+7,"##,##,###",1,,3.79,3.79
+7,fossil,1,,3.79,3.79
+7,drilling,1,,3.79,3.79
+7,cbm,1,,3.79,3.79
+7,geological,1,,3.79,3.79
+7,mineral,1,,3.79,3.79
+7,seismic,1,,3.79,3.79
+7,groundwater,1,,3.79,3.79
+7,heating,1,,3.79,3.79
+7,geological survey,1,,3.79,3.79
+7,btu,1,,3.79,3.79
+7,farms,1,,3.79,3.79
+7,dairies,1,,3.79,3.79
+7,feedlots,1,,3.79,3.79
+7,zigbee,1,,3.79,3.79
+7,itron,1,,3.79,3.79
+7,ipv6,1,,3.79,3.79
+7,telehealth,1,,3.79,3.79
+7,wireless broadband,1,,3.79,3.79
+7,ftth,1,,3.79,3.79
+7,weatherization,1,,3.79,3.79
+7,cybersecurity,1,,3.79,3.79
+7,enterprise mobility,1,,3.79,3.79
+7,m2m,1,,3.79,3.79
+7,wireless mesh,1,,3.79,3.79
+7,grid computing,1,,3.79,3.79
+7,femtocell,1,,3.79,3.79
+7,datacenter,1,,3.79,3.79
+7,arra,1,,3.79,3.79
+7,datacentre,1,,3.79,3.79
+7,ehrs,1,,3.79,3.79
+7,femtocells,1,,3.79,3.79
+7,powerline,1,,3.79,3.79
+7,wireless,1,,3.79,3.79
+7,unified communications,1,,3.79,3.79
+7,4g,1,,3.79,3.79
+7,oncor,1,,3.79,3.79
+7,virtualization,1,,3.79,3.79
+7,datacenters,1,,3.79,3.79
+7,networked,1,,3.79,3.79
+7,gpon,1,,3.79,3.79
+7,lte,1,,3.79,3.79
+7,wireless lan,1,,3.79,3.79
+7,optical networking,1,,3.79,3.79
+7,interoperable,1,,3.79,3.79
+7,iptv,1,,3.79,3.79
+7,hie,1,,3.79,3.79
+7,broadband connectivity,1,,3.79,3.79
+7,forestry,1,,3.79,3.79
+7,bioscience,1,,3.79,3.79
+7,ag,1,,3.79,3.79
+7,horticulture,1,,3.79,3.79
+7,biodiversity,1,,3.79,3.79
+7,regenerative medicine,1,,3.79,3.79
+7,biomaterials,1,,3.79,3.79
+7,bioinformatics,1,,3.79,3.79
+7,biomedical research,1,,3.79,3.79
+7,trillion cubic feet,1,,3.79,3.79
+7,cubic feet,1,,3.79,3.79
+7,boe d,1,,3.79,3.79
+7,aes,1,,3.79,3.79
+7,water supply,1,,3.79,3.79
+7,telecommunications,1,,3.79,3.79
+7,telecommunication,1,,3.79,3.79
+7,blackouts,1,,3.79,3.79
+7,sewage,1,,3.79,3.79
+7,power outages,1,,3.79,3.79
+7,privatisation,1,,3.79,3.79
+7,water works,1,,3.79,3.79
+7,petrol,1,,3.79,3.79
+7,interconnection,1,,3.79,3.79
+7,kesc,1,,3.79,3.79
+7,outages,1,,3.79,3.79
+7,mains,1,,3.79,3.79
+7,public utilities commission,1,,3.79,3.79
+7,pepco,1,,3.79,3.79
+7,privatization,1,,3.79,3.79
+7,rare earths,1,,3.79,3.79
+7,deforestation,1,,3.79,3.79
+7,carbon footprint,1,,3.79,3.79
+7,enel,1,,3.79,3.79
+7,bilateral cooperation,1,,3.79,3.79
+7,areva,1,,3.79,3.79
+7,endesa,1,,3.79,3.79
+7,electric hybrids,1,,3.79,3.79
+7,electric hybrid,1,,3.79,3.79
+7,environmentally conscious,1,,3.79,3.79
+7,automobiles,1,,3.79,3.79
+7,mass transit,1,,3.79,3.79
+7,recovery act,1,,3.79,3.79
+7,anwr,1,,3.79,3.79
+7,chevrolet volt,1,,3.79,3.79
+7,commercialization,1,,3.79,3.79
+7,nox,1,,3.79,3.79
+7,industrialization,1,,3.79,3.79
+7,mercury emissions,1,,3.79,3.79
+7,sulfur dioxide,1,,3.79,3.79
+7,scrubbers,1,,3.79,3.79
+7,coal mines,1,,3.79,3.79
+7,coal mining,1,,3.79,3.79
+7,coal ash,1,,3.79,3.79
+7,aep,1,,3.79,3.79
+7,nitrogen oxide,1,,3.79,3.79
+7,txu,1,,3.79,3.79
+7,air pollution,1,,3.79,3.79
+7,mirant,1,,3.79,3.79
+7,polluters,1,,3.79,3.79
+7,coal mine,1,,3.79,3.79
+7,nitrogen oxides,1,,3.79,3.79
+7,resources,1,,3.79,3.79
+7,environment,1,,3.79,3.79
+7,natural resources,1,,3.79,3.79
+7,natural resource,1,,3.79,3.79
+7,commerce,1,,3.79,3.79
+7,bodman,1,,3.79,3.79
+7,infrastructure,1,,3.79,3.79
+7,bg group,1,,3.79,3.79
+7,reliant energy,1,,3.79,3.79
+7,secretary steven chu,1,,3.79,3.79
+7,transportation,1,,3.79,3.79
+7,metals,1,,3.79,3.79
+7,reservoirs,1,,3.79,3.79
+7,rivers,1,,3.79,3.79
+7,watersheds,1,,3.79,3.79
+7,eco tourism,1,,3.79,3.79
+7,three gorges dam,1,,3.79,3.79
+7,freshwater,1,,3.79,3.79
+7,river basin,1,,3.79,3.79
+7,upstream,1,,3.79,3.79
+7,reservoir,1,,3.79,3.79
+7,bauxite,1,,3.79,3.79
+7,riparian,1,,3.79,3.79
+7,smelting,1,,3.79,3.79
+7,adb,1,,3.79,3.79
+7,carbon neutral,1,,3.79,3.79
+7,cassava,1,,3.79,3.79
+7,biodegradable,1,,3.79,3.79
+7,compost,1,,3.79,3.79
+7,hemp,1,,3.79,3.79
+7,lubricants,1,,3.79,3.79
+7,commercially viable,1,,3.79,3.79
+7,human embryonic stem,1,,3.79,3.79
+7,embryonic stem cells,1,,3.79,3.79
+7,transgenic,1,,3.79,3.79
+7,biopharmaceuticals,1,,3.79,3.79
+7,hydro quebec,1,,3.79,3.79
+7,nb power,1,,3.79,3.79
+7,transalta,1,,3.79,3.79
+7,aecl,1,,3.79,3.79
+7,suncor,1,,3.79,3.79
+7,cameco,1,,3.79,3.79
+7,snc lavalin,1,,3.79,3.79
+7,pge,1,,3.79,3.79
+7,noranda,1,,3.79,3.79
+7,tva,1,,3.79,3.79
+7,northwestern,1,,3.79,3.79
+7,enbridge,1,,3.79,3.79
+7,norsk hydro,1,,3.79,3.79
+7,alliant energy,1,,3.79,3.79
+7,alcan,1,,3.79,3.79
+7,petro canada,1,,3.79,3.79
+7,westar,1,,3.79,3.79
+7,firstenergy,1,,3.79,3.79
+7,ppl,1,,3.79,3.79
+7,calpine,1,,3.79,3.79
+7,xcel,1,,3.79,3.79
+7,nipsco,1,,3.79,3.79
+7,domtar,1,,3.79,3.79
+7,cuc,1,,3.79,3.79
+7,entergy,1,,3.79,3.79
+7,dominion,1,,3.79,3.79
+7,sask,1,,3.79,3.79
+7,dte,1,,3.79,3.79
+7,progress energy,1,,3.79,3.79
+7,nstar,1,,3.79,3.79
+7,pud,1,,3.79,3.79
+7,amerenue,1,,3.79,3.79
+7,telus,1,,3.79,3.79
+7,sse,1,,3.79,3.79
+7,abitibibowater,1,,3.79,3.79
+7,fpl,1,,3.79,3.79
+7,gdf suez,1,,3.79,3.79
+7,alinta,1,,3.79,3.79
+7,nexen,1,,3.79,3.79
+7,alliant,1,,3.79,3.79
+7,imperial oil,1,,3.79,3.79
+7,inco,1,,3.79,3.79
+7,tembec,1,,3.79,3.79
+7,avista,1,,3.79,3.79
+7,stelco,1,,3.79,3.79
+7,liquid crystal display,1,,3.79,3.79
+7,veeco,1,,3.79,3.79
+7,lcd panels,1,,3.79,3.79
+7,integrators,1,,3.79,3.79
+7,###v,1,,3.79,3.79
+7,capacitor,1,,3.79,3.79
+7,voltage,1,,3.79,3.79
+7,##v,1,,3.79,3.79
+7,voltages,1,,3.79,3.79
+7,capacitors,1,,3.79,3.79
+7,amplifier,1,,3.79,3.79
+7,alternator,1,,3.79,3.79
+7,poe,1,,3.79,3.79
+7,electric motor,1,,3.79,3.79
+7,charger,1,,3.79,3.79
+7,###w,1,,3.79,3.79
+7,connectors,1,,3.79,3.79
+7,amplifiers,1,,3.79,3.79
+7,capacitance,1,,3.79,3.79
+7,actuators,1,,3.79,3.79
+7,adapters,1,,3.79,3.79
+7,adapter,1,,3.79,3.79
+7,#.#v,1,,3.79,3.79
+7,flywheel,1,,3.79,3.79
+7,transceiver,1,,3.79,3.79
+7,connector,1,,3.79,3.79
+7,converter,1,,3.79,3.79
+7,module,1,,3.79,3.79
+7,socket,1,,3.79,3.79
+7,rohs compliant,1,,3.79,3.79
+7,backlight,1,,3.79,3.79
+7,electrode,1,,3.79,3.79
+7,electromechanical,1,,3.79,3.79
+7,electrically,1,,3.79,3.79
+7,circuitry,1,,3.79,3.79
+7,encoder,1,,3.79,3.79
+7,motherboard,1,,3.79,3.79
+7,bulb,1,,3.79,3.79
+7,transceivers,1,,3.79,3.79
+7,heat exchanger,1,,3.79,3.79
+7,sockets,1,,3.79,3.79
+7,battery powered,1,,3.79,3.79
+7,rechargeable battery,1,,3.79,3.79
+7,microcontroller,1,,3.79,3.79
+7,projector,1,,3.79,3.79
+7,washer,1,,3.79,3.79
+7,rechargeable,1,,3.79,3.79
+7,cabling,1,,3.79,3.79
+7,coils,1,,3.79,3.79
+7,chargers,1,,3.79,3.79
+7,converters,1,,3.79,3.79
+7,crane,1,,3.79,3.79
+7,valve,1,,3.79,3.79
+7,mmo,1,,3.79,3.79
+7,steam,1,,3.79,3.79
+7,mmorpg,1,,3.79,3.79
+7,gdc,1,,3.79,3.79
+7,wow,1,,3.79,3.79
+7,ncsoft,1,,3.79,3.79
+7,guild wars,1,,3.79,3.79
+7,epic games,1,,3.79,3.79
+7,prototype,1,,3.79,3.79
+7,zynga,1,,3.79,3.79
+7,mmos,1,,3.79,3.79
+7,blizzard,1,,3.79,3.79
+7,bioshock,1,,3.79,3.79
+7,onlive,1,,3.79,3.79
+7,spore,1,,3.79,3.79
+7,capcom,1,,3.79,3.79
+7,conduit,1,,3.79,3.79
+7,lucasarts,1,,3.79,3.79
+7,torque,1,,3.79,3.79
+7,warcraft,1,,3.79,3.79
+7,atari,1,,3.79,3.79
+7,dc universe,1,,3.79,3.79
+7,oblivion,1,,3.79,3.79
+7,vortex,1,,3.79,3.79
+7,dice,1,,3.79,3.79
+7,cube,1,,3.79,3.79
+7,square enix,1,,3.79,3.79
+7,codemasters,1,,3.79,3.79
+7,bioware,1,,3.79,3.79
+7,popcap,1,,3.79,3.79
+7,high voltage,1,,3.79,3.79
+7,soe,1,,3.79,3.79
+7,mechanical,1,,3.79,3.79
+7,gamasutra,1,,3.79,3.79
+7,ge aviation,1,,3.79,3.79
+7,ea,1,,3.79,3.79
+7,climax,1,,3.79,3.79
+7,pixel,1,,3.79,3.79
+7,halo,1,,3.79,3.79
+7,orb,1,,3.79,3.79
+7,massively multiplayer online,1,,3.79,3.79
+7,killzone,1,,3.79,3.79
+7,realm,1,,3.79,3.79
+7,gears,1,,3.79,3.79
+7,dark horse,1,,3.79,3.79
+7,tate modern,1,,3.79,3.79
+7,unreal,1,,3.79,3.79
+7,mass effect,1,,3.79,3.79
+7,hydra,1,,3.79,3.79
+7,halo reach,1,,3.79,3.79
+7,lost planet,1,,3.79,3.79
+7,kojima,1,,3.79,3.79
+7,heavy rain,1,,3.79,3.79
+7,cvg,1,,3.79,3.79
+7,infinite,1,,3.79,3.79
+7,pax,1,,3.79,3.79
+7,engine,1,,3.79,3.79
+7,precision,1,,3.79,3.79
+7,fps,1,,3.79,3.79
+7,final fantasy,1,,3.79,3.79
+7,wiiware,1,,3.79,3.79
+7,littlebigplanet,1,,3.79,3.79
+7,downloadable content,1,,3.79,3.79
+7,aero,1,,3.79,3.79
+7,starcraft,1,,3.79,3.79
+7,infinity ward,1,,3.79,3.79
+7,bungie,1,,3.79,3.79
+7,fabrication,1,,3.79,3.79
+7,ignition,1,,3.79,3.79
+7,machines,1,,3.79,3.79
+7,modern warfare,1,,3.79,3.79
+7,dev,1,,3.79,3.79
+7,emergent,1,,3.79,3.79
+7,game developers,1,,3.79,3.79
+7,ign,1,,3.79,3.79
+7,alumina,1,,3.79,3.79
+7,pig iron,1,,3.79,3.79
+7,metric ton,1,,3.79,3.79
+7,bitumen,1,,3.79,3.79
+7,metallurgical coal,1,,3.79,3.79
+7,resin,1,,3.79,3.79
+7,coking coal,1,,3.79,3.79
+7,steelmaking,1,,3.79,3.79
+7,refiner,1,,3.79,3.79
+7,phosphate,1,,3.79,3.79
+7,sabic,1,,3.79,3.79
+7,sulfuric acid,1,,3.79,3.79
+7,potash,1,,3.79,3.79
+7,lyondellbasell,1,,3.79,3.79
+7,phosphates,1,,3.79,3.79
+7,sequestration,1,,3.79,3.79
+7,ccs,1,,3.79,3.79
+7,emitters,1,,3.79,3.79
+7,fermentation,1,,3.79,3.79
+7,genetically modified,1,,3.79,3.79
+7,sugar,1,,3.79,3.79
+7,danisco,1,,3.79,3.79
+7,graphene,1,,3.79,3.79
+7,coatings,1,,3.79,3.79
+7,integrated circuits,1,,3.79,3.79
+7,liquid crystal displays,1,,3.79,3.79
+7,transistors,1,,3.79,3.79
+7,lcds,1,,3.79,3.79
+7,composite materials,1,,3.79,3.79
+7,nanotubes,1,,3.79,3.79
+7,nanoscale,1,,3.79,3.79
+7,nanowires,1,,3.79,3.79
+7,nano,1,,3.79,3.79
+7,electronics,1,,3.79,3.79
+7,quantum dots,1,,3.79,3.79
+7,cmos,1,,3.79,3.79
+7,lithography,1,,3.79,3.79
+7,edf,1,,3.79,3.79
+7,outer continental shelf,1,,3.79,3.79
+7,deepwater drilling,1,,3.79,3.79
+7,container terminal,1,,3.79,3.79
+7,submarine cable,1,,3.79,3.79
+7,centrica,1,,3.79,3.79
+7,ofgem,1,,3.79,3.79
+7,shipbuilders,1,,3.79,3.79
+7,statoilhydro,1,,3.79,3.79
+7,cnooc,1,,3.79,3.79
+7,candle,1,,3.79,3.79
+7,breezes,1,,3.79,3.79
+7,rain,1,,3.79,3.79
+7,winds gusting,1,,3.79,3.79
+7,gusty winds,1,,3.79,3.79
+7,weather,1,,3.79,3.79
+7,wave,1,,3.79,3.79
+7,gust,1,,3.79,3.79
+7,generation,1,,3.79,3.79
+7,gale force winds,1,,3.79,3.79
+7,gales,1,,3.79,3.79
+7,zephyr,1,,3.79,3.79
+7,dust,1,,3.79,3.79
+7,clouds,1,,3.79,3.79
+7,whisper,1,,3.79,3.79
+7,gale,1,,3.79,3.79
+7,thunderstorm,1,,3.79,3.79
+7,gusty,1,,3.79,3.79
+7,storm,1,,3.79,3.79
+7,gusting winds,1,,3.79,3.79
+7,light,1,,3.79,3.79
+7,prairie,1,,3.79,3.79
+7,mph winds,1,,3.79,3.79
+7,shade,1,,3.79,3.79
+7,cow,1,,3.79,3.79
+7,bat,1,,3.79,3.79
+7,tornado,1,,3.79,3.79
+7,windy,1,,3.79,3.79
+7,gone,1,,3.79,3.79
+7,gusting,1,,3.79,3.79
+7,flow,1,,3.79,3.79
+7,strong winds,1,,3.79,3.79
+7,fiddle,1,,3.79,3.79
+7,squalls,1,,3.79,3.79
+7,severe thunderstorms,1,,3.79,3.79
+7,spirit,1,,3.79,3.79
+7,light bulbs,1,,3.79,3.79
+7,skylights,1,,3.79,3.79
+7,roofs,1,,3.79,3.79
+7,greenhouses,1,,3.79,3.79
+7,bulbs,1,,3.79,3.79
+7,leed certified,1,,3.79,3.79
+7,cfls,1,,3.79,3.79
+7,recycled materials,1,,3.79,3.79
+7,air conditioners,1,,3.79,3.79
+7,antennas,1,,3.79,3.79
+7,panels,1,,3.79,3.79
+7,roof,1,,3.79,3.79
+7,air conditioning,1,,3.79,3.79
+7,recycling bins,1,,3.79,3.79
+7,arrays,1,,3.79,3.79
+7,rooftop,1,,3.79,3.79
+7,reflectors,1,,3.79,3.79
+7,retrofitting,1,,3.79,3.79
+7,telescopes,1,,3.79,3.79
+7,sugars,1,,3.79,3.79
+7,organic compounds,1,,3.79,3.79
+7,residues,1,,3.79,3.79
+7,proteomics,1,,3.79,3.79
+7,lipids,1,,3.79,3.79
+7,photosynthesis,1,,3.79,3.79
+7,distillate,1,,3.79,3.79
+7,boiler,1,,3.79,3.79
+7,retrofit,1,,3.79,3.79
+7,mhi,1,,3.79,3.79
+7,turnkey,1,,3.79,3.79
+7,rotors,1,,3.79,3.79
+7,propellers,1,,3.79,3.79
+7,pylons,1,,3.79,3.79
+7,furnaces,1,,3.79,3.79
+7,jet engines,1,,3.79,3.79
+7,propeller,1,,3.79,3.79
+7,cranes,1,,3.79,3.79
+7,blades,1,,3.79,3.79
+7,wells,1,,3.79,3.79
+7,pumps,1,,3.79,3.79
+7,locomotives,1,,3.79,3.79
+7,smokestacks,1,,3.79,3.79

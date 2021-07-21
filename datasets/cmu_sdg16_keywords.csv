@@ -1,0 +1,1963 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+16,rape,49,,4.92,241.07999999999998
+16,sexual assault,41,True,5.8,237.79999999999998
+16,abuse,39,True,12.14,473.46000000000004
+16,harassment,33,True,5.78,190.74
+16,crime,31,,4.92,152.52
+16,bullying,28,True,8.66,242.48000000000002
+16,violence,26,True,8.46,219.96000000000004
+16,crimes,26,,4.92,127.92
+16,kidnapping,24,,4.92,118.08
+16,prostitution,24,,4.92,118.08
+16,terrorism,23,True,7.49,172.27
+16,torture,23,,4.92,113.16
+16,sexual,22,True,6.97,153.34
+16,sexual abuse,21,True,6.98,146.58
+16,terrorist,19,True,8.61,163.58999999999997
+16,murder,19,True,6.23,118.37
+16,sexual misconduct,19,,4.92,93.48
+16,discrimination,19,,4.92,93.48
+16,child abuse,18,True,8.18,147.24
+16,assault,17,True,8.58,145.86
+16,terror,17,True,6.49,110.33
+16,neglect,17,True,5.73,97.41000000000001
+16,sexual assaults,17,,4.92,83.64
+16,molestation,17,,4.92,83.64
+16,abduction,17,,4.92,83.64
+16,murders,17,,4.92,83.64
+16,robberies,17,,4.92,83.64
+16,racism,17,,4.92,83.64
+16,corruption,16,True,21.36,341.76
+16,homicide,16,True,12.66,202.56
+16,maltreatment,16,True,10.12,161.92
+16,violent,16,True,7.13,114.08
+16,sexual harassment,16,True,5.36,85.76
+16,terrorists,16,,4.92,78.72
+16,bribery,15,True,8.09,121.35
+16,civil liberties,15,True,4.95,74.25
+16,rapes,15,,4.92,73.8
+16,spousal abuse,15,,4.92,73.8
+16,domestic violence,15,,4.92,73.8
+16,criminal,15,,4.92,73.8
+16,al qaeda,15,,4.92,73.8
+16,al qaida,15,,4.92,73.8
+16,human rights,14,True,27.48,384.72
+16,sexual molestation,14,,4.92,68.88
+16,sexual exploitation,14,,4.92,68.88
+16,sex,14,,4.92,68.88
+16,victimization,14,,4.92,68.88
+16,fraud,14,,4.92,68.88
+16,human trafficking,14,,4.92,68.88
+16,counterterrorism,13,True,6.56,85.28
+16,abusive,13,True,5.8,75.39999999999999
+16,statutory rape,13,,4.92,63.96
+16,sexually abused,13,,4.92,63.96
+16,assaults,13,,4.92,63.96
+16,robbery,13,,4.92,63.96
+16,killings,13,,4.92,63.96
+16,vandalism,13,,4.92,63.96
+16,cyberbullying,12,True,9.16,109.92
+16,democracy,12,True,5.15,61.800000000000004
+16,indecent assault,12,,4.92,59.04
+16,sexual intercourse,12,,4.92,59.04
+16,rapist,12,,4.92,59.04
+16,hate crimes,12,,4.92,59.04
+16,incidents,12,,4.92,59.04
+16,arson,12,,4.92,59.04
+16,mistreatment,12,,4.92,59.04
+16,attacks,12,,4.92,59.04
+16,trafficking,12,,4.92,59.04
+16,censorship,12,,4.92,59.04
+16,constitutional,12,,4.92,59.04
+16,freedom,11,True,10.57,116.27000000000001
+16,incest,11,True,8.91,98.01
+16,counter terrorism,11,True,6.63,72.92999999999999
+16,homicides,11,True,6.16,67.76
+16,sexually abusing,11,,4.92,54.12
+16,molested,11,,4.92,54.12
+16,sexually molested,11,,4.92,54.12
+16,sexual encounters,11,,4.92,54.12
+16,sexually,11,,4.92,54.12
+16,poverty,11,,4.92,54.12
+16,extremists,11,,4.92,54.12
+16,equality,11,,4.92,54.12
+16,rights,10,True,5.28,52.800000000000004
+16,sexually assaulted,10,,4.92,49.2
+16,indecent exposure,10,,4.92,49.2
+16,raping,10,,4.92,49.2
+16,raped,10,,4.92,49.2
+16,burglary,10,,4.92,49.2
+16,molesting,10,,4.92,49.2
+16,shootings,10,,4.92,49.2
+16,cyber bullying,10,,4.92,49.2
+16,violence against,10,,4.92,49.2
+16,cheating,10,,4.92,49.2
+16,jihad,10,,4.92,49.2
+16,bin laden,10,,4.92,49.2
+16,sexually assaulting,9,,4.92,44.28
+16,child molestation,9,,4.92,44.28
+16,fondling,9,,4.92,44.28
+16,hazing,9,,4.92,44.28
+16,stabbing,9,,4.92,44.28
+16,sexual predator,9,,4.92,44.28
+16,abused,9,,4.92,44.28
+16,cruelty,9,,4.92,44.28
+16,homelessness,9,,4.92,44.28
+16,homosexuality,9,,4.92,44.28
+16,deaths,9,,4.92,44.28
+16,pedophilia,9,,4.92,44.28
+16,radical islam,9,,4.92,44.28
+16,constitution,9,,4.92,44.28
+16,civil society,9,,4.92,44.28
+16,civil rights,9,,4.92,44.28
+16,criminals,9,,4.92,44.28
+16,violent crime,8,True,6.82,54.56
+16,political,8,True,6.44,51.52
+16,fondled,8,,4.92,39.36
+16,lewd,8,,4.92,39.36
+16,felony,8,,4.92,39.36
+16,sodomy,8,,4.92,39.36
+16,animal cruelty,8,,4.92,39.36
+16,child pornography,8,,4.92,39.36
+16,oral sex,8,,4.92,39.36
+16,abductions,8,,4.92,39.36
+16,suicide,8,,4.92,39.36
+16,racist,8,,4.92,39.36
+16,anti semitism,8,,4.92,39.36
+16,sexuality,8,,4.92,39.36
+16,verbal abuse,8,,4.92,39.36
+16,sexting,8,,4.92,39.36
+16,kidnappings,8,,4.92,39.36
+16,bombings,8,,4.92,39.36
+16,militant,8,,4.92,39.36
+16,policing,8,,4.92,39.36
+16,jihadi,8,,4.92,39.36
+16,jihadists,8,,4.92,39.36
+16,jihadist,8,,4.92,39.36
+16,jihadis,8,,4.92,39.36
+16,islamic extremists,8,,4.92,39.36
+16,islamic radicals,8,,4.92,39.36
+16,al qa'ida,8,,4.92,39.36
+16,extremist,8,,4.92,39.36
+16,morality,8,,4.92,39.36
+16,qaeda,8,,4.92,39.36
+16,osama bin laden,8,,4.92,39.36
+16,freedoms,8,,4.92,39.36
+16,corrupt,7,True,9.59,67.13
+16,murdered,7,True,8.19,57.33
+16,aggravated sexual,7,,4.92,34.44
+16,assaulting,7,,4.92,34.44
+16,misconduct,7,,4.92,34.44
+16,indecency,7,,4.92,34.44
+16,lewdness,7,,4.92,34.44
+16,unsolved murders,7,,4.92,34.44
+16,sexual predators,7,,4.92,34.44
+16,theft,7,,4.92,34.44
+16,molest,7,,4.92,34.44
+16,abuses,7,,4.92,34.44
+16,identity theft,7,,4.92,34.44
+16,genocide,7,,4.92,34.44
+16,slaying,7,,4.92,34.44
+16,war crimes,7,,4.92,34.44
+16,piracy,7,,4.92,34.44
+16,bombing,7,,4.92,34.44
+16,child porn,7,,4.92,34.44
+16,sexually explicit,7,,4.92,34.44
+16,radical islamists,7,,4.92,34.44
+16,cybercrime,7,,4.92,34.44
+16,extremist groups,7,,4.92,34.44
+16,al qaeda operatives,7,,4.92,34.44
+16,let,7,,4.92,34.44
+16,mujahideen,7,,4.92,34.44
+16,suspected terrorists,7,,4.92,34.44
+16,sovereignty,7,,4.92,34.44
+16,liberty,7,,4.92,34.44
+16,involvement,6,True,8.37,50.22
+16,free speech,6,True,7.78,46.68
+16,transparency,6,True,5.91,35.46
+16,consensual sex,6,,4.92,29.52
+16,sexually assault,6,,4.92,29.52
+16,sexual imposition,6,,4.92,29.52
+16,sex offender,6,,4.92,29.52
+16,stalking,6,,4.92,29.52
+16,abuser,6,,4.92,29.52
+16,burglaries,6,,4.92,29.52
+16,slayings,6,,4.92,29.52
+16,disappearances,6,,4.92,29.52
+16,exploitation,6,,4.92,29.52
+16,death penalty,6,,4.92,29.52
+16,advocacy,6,,4.92,29.52
+16,accountability,6,,4.92,29.52
+16,abortion,6,,4.92,29.52
+16,homophobia,6,,4.92,29.52
+16,gender discrimination,6,,4.92,29.52
+16,pedophile,6,,4.92,29.52
+16,corporal punishment,6,,4.92,29.52
+16,pornographic images,6,,4.92,29.52
+16,possessing child pornography,6,,4.92,29.52
+16,combating terrorism,6,,4.92,29.52
+16,antiterrorism,6,,4.92,29.52
+16,homeland security,6,,4.92,29.52
+16,islamist extremists,6,,4.92,29.52
+16,terror plots,6,,4.92,29.52
+16,suicide bombers,6,,4.92,29.52
+16,criminality,6,,4.92,29.52
+16,sexually harassed,6,,4.92,29.52
+16,underage girls,6,,4.92,29.52
+16,atrocities,6,,4.92,29.52
+16,conspiracy,6,,4.92,29.52
+16,voyeurism,6,,4.92,29.52
+16,shoplifting,5,,4.92,24.6
+16,groped,5,,4.92,24.6
+16,groping,5,,4.92,24.6
+16,break ins,5,,4.92,24.6
+16,thefts,5,,4.92,24.6
+16,arsons,5,,4.92,24.6
+16,suicides,5,,4.92,24.6
+16,fatal shootings,5,,4.92,24.6
+16,abusing,5,,4.92,24.6
+16,threats,5,,4.92,24.6
+16,transgender,5,,4.92,24.6
+16,dissent,5,,4.92,24.6
+16,hatred,5,,4.92,24.6
+16,pedophile priests,5,,4.92,24.6
+16,abusive priests,5,,4.92,24.6
+16,priests,5,,4.92,24.6
+16,pedophiles,5,,4.92,24.6
+16,child protective services,5,,4.92,24.6
+16,massacre,5,,4.92,24.6
+16,murderer,5,,4.92,24.6
+16,terrorist attacks,5,,4.92,24.6
+16,aqap,5,,4.92,24.6
+16,islamic extremist,5,,4.92,24.6
+16,radical islamist,5,,4.92,24.6
+16,al qaida operatives,5,,4.92,24.6
+16,al zarqawi,5,,4.92,24.6
+16,osama,5,,4.92,24.6
+16,militants,5,,4.92,24.6
+16,insurgents,5,,4.92,24.6
+16,bigamy,5,,4.92,24.6
+16,racial profiling,5,,4.92,24.6
+16,child molester,5,,4.92,24.6
+16,fundamental freedoms,5,,4.92,24.6
+16,conscience,5,,4.92,24.6
+16,dignity,5,,4.92,24.6
+16,first amendment,5,,4.92,24.6
+16,intercourse,5,,4.92,24.6
+16,anti corruption,5,,4.92,24.6
+16,detective,5,,4.92,24.6
+16,terror suspects,5,,4.92,24.6
+16,democracies,5,,4.92,24.6
+16,pluralism,5,,4.92,24.6
+16,greed,5,,4.92,24.6
+16,religious,5,,4.92,24.6
+16,gay,5,,4.92,24.6
+16,gay marriage,5,,4.92,24.6
+16,mafia,4,True,13.53,54.12
+16,child,4,True,4.93,19.72
+16,liberties,4,True,4.92,19.68
+16,aggravated assault,4,,4.92,19.68
+16,drunken driving,4,,4.92,19.68
+16,disorderly conduct,4,,4.92,19.68
+16,false imprisonment,4,,4.92,19.68
+16,fatal stabbing,4,,4.92,19.68
+16,armed robbery,4,,4.92,19.68
+16,carjacking,4,,4.92,19.68
+16,serial rapist,4,,4.92,19.68
+16,assaulted,4,,4.92,19.68
+16,underage drinking,4,,4.92,19.68
+16,child endangerment,4,,4.92,19.68
+16,armed robberies,4,,4.92,19.68
+16,stabbings,4,,4.92,19.68
+16,offenses,4,,4.92,19.68
+16,drownings,4,,4.92,19.68
+16,abusers,4,,4.92,19.68
+16,divorce,4,,4.92,19.68
+16,scandal,4,,4.92,19.68
+16,scams,4,,4.92,19.68
+16,addiction,4,,4.92,19.68
+16,clergy,4,,4.92,19.68
+16,victim,4,,4.92,19.68
+16,stealing,4,,4.92,19.68
+16,behaviour,4,,4.92,19.68
+16,killing,4,,4.92,19.68
+16,arrests,4,,4.92,19.68
+16,threat,4,,4.92,19.68
+16,tolerance,4,,4.92,19.68
+16,slavery,4,,4.92,19.68
+16,physically abused,4,,4.92,19.68
+16,priest,4,,4.92,19.68
+16,defrocked,4,,4.92,19.68
+16,serial killers,4,,4.92,19.68
+16,fatal,4,,4.92,19.68
+16,serial killer,4,,4.92,19.68
+16,guilty,4,,4.92,19.68
+16,islamophobia,4,,4.92,19.68
+16,fascism,4,,4.92,19.68
+16,islamic extremism,4,,4.92,19.68
+16,liberalism,4,,4.92,19.68
+16,intelligence,4,,4.92,19.68
+16,zarqawi,4,,4.92,19.68
+16,pakistani taliban,4,,4.92,19.68
+16,islamist militant,4,,4.92,19.68
+16,islamic militants,4,,4.92,19.68
+16,lashkar e toiba,4,,4.92,19.68
+16,al shabaab,4,,4.92,19.68
+16,jemaah islamiah,4,,4.92,19.68
+16,jemaah islamiyah,4,,4.92,19.68
+16,lashkar e taiba,4,,4.92,19.68
+16,suicide bombings,4,,4.92,19.68
+16,religious intolerance,4,,4.92,19.68
+16,brutality,4,,4.92,19.68
+16,bestiality,4,,4.92,19.68
+16,misbehavior,4,,4.92,19.68
+16,homosexual,4,,4.92,19.68
+16,gambling,4,,4.92,19.68
+16,representation,4,,4.92,19.68
+16,fairness,4,,4.92,19.68
+16,reform,4,,4.92,19.68
+16,privacy,4,,4.92,19.68
+16,constitutional rights,4,,4.92,19.68
+16,human rights watch,4,,4.92,19.68
+16,beatings,4,,4.92,19.68
+16,cold case,4,,4.92,19.68
+16,prosecution,4,,4.92,19.68
+16,criminal investigation,4,,4.92,19.68
+16,drug trafficking,4,,4.92,19.68
+16,cops,4,,4.92,19.68
+16,enemies,4,,4.92,19.68
+16,democratic,4,,4.92,19.68
+16,patriotism,4,,4.92,19.68
+16,racial discrimination,4,,4.92,19.68
+16,illegal,4,,4.92,19.68
+16,impeachment,4,,4.92,19.68
+16,affirmative action,4,,4.92,19.68
+16,gender,4,,4.92,19.68
+16,religious minorities,4,,4.92,19.68
+16,persecution,4,,4.92,19.68
+16,oppression,4,,4.92,19.68
+16,gays,4,,4.92,19.68
+16,infanticide,3,True,10.61,31.83
+16,sex offenders,3,True,5.58,16.740000000000002
+16,bribe,3,True,5.27,15.809999999999999
+16,repression,3,True,5.22,15.66
+16,attempted murder,3,,4.92,14.76
+16,criminal trespass,3,,4.92,14.76
+16,accuser,3,,4.92,14.76
+16,registered sex offender,3,,4.92,14.76
+16,duis,3,,4.92,14.76
+16,rapists,3,,4.92,14.76
+16,bias,3,,4.92,14.76
+16,protection,3,,4.92,14.76
+16,violations,3,,4.92,14.76
+16,scam,3,,4.92,14.76
+16,violation,3,,4.92,14.76
+16,meth,3,,4.92,14.76
+16,kidnap,3,,4.92,14.76
+16,feminist,3,,4.92,14.76
+16,tragedy,3,,4.92,14.76
+16,arrest,3,,4.92,14.76
+16,brutal,3,,4.92,14.76
+16,teenage pregnancy,3,,4.92,14.76
+16,gangs,3,,4.92,14.76
+16,archdiocese,3,,4.92,14.76
+16,diocese,3,,4.92,14.76
+16,pornography,3,,4.92,14.76
+16,accusers,3,,4.92,14.76
+16,prisoner abuse,3,,4.92,14.76
+16,death,3,,4.92,14.76
+16,poisonings,3,,4.92,14.76
+16,massacres,3,,4.92,14.76
+16,heinous crimes,3,,4.92,14.76
+16,sentences,3,,4.92,14.76
+16,killer,3,,4.92,14.76
+16,deadly,3,,4.92,14.76
+16,suspects,3,,4.92,14.76
+16,horror,3,,4.92,14.76
+16,drowning,3,,4.92,14.76
+16,accidents,3,,4.92,14.76
+16,islamic fundamentalism,3,,4.92,14.76
+16,extremism,3,,4.92,14.76
+16,violent extremism,3,,4.92,14.76
+16,religion,3,,4.92,14.76
+16,politics,3,,4.92,14.76
+16,radicalization,3,,4.92,14.76
+16,strategic studies,3,,4.92,14.76
+16,wmd,3,,4.92,14.76
+16,homeland,3,,4.92,14.76
+16,security,3,,4.92,14.76
+16,islamist,3,,4.92,14.76
+16,lashkar,3,,4.92,14.76
+16,islamist militants,3,,4.92,14.76
+16,aqim,3,,4.92,14.76
+16,insurgent,3,,4.92,14.76
+16,al qaida operative,3,,4.92,14.76
+16,islamists,3,,4.92,14.76
+16,awlaki,3,,4.92,14.76
+16,al zawahri,3,,4.92,14.76
+16,islamic militant,3,,4.92,14.76
+16,islamic jihad,3,,4.92,14.76
+16,ji,3,,4.92,14.76
+16,indian mujahideen,3,,4.92,14.76
+16,yemen,3,,4.92,14.76
+16,truancy,3,,4.92,14.76
+16,immorality,3,,4.92,14.76
+16,underage,3,,4.92,14.76
+16,improper conduct,3,,4.92,14.76
+16,impropriety,3,,4.92,14.76
+16,unethical behavior,3,,4.92,14.76
+16,wrongdoing,3,,4.92,14.76
+16,masturbating,3,,4.92,14.76
+16,allegations,3,,4.92,14.76
+16,autism,3,,4.92,14.76
+16,racial,3,,4.92,14.76
+16,discipline,3,,4.92,14.76
+16,breastfeeding,3,,4.92,14.76
+16,amnesty,3,,4.92,14.76
+16,inalienable rights,3,,4.92,14.76
+16,amnesty international,3,,4.92,14.76
+16,constitutional protections,3,,4.92,14.76
+16,second amendment,3,,4.92,14.76
+16,respect,3,,4.92,14.76
+16,human,3,,4.92,14.76
+16,rights abuses,3,,4.92,14.76
+16,constitutions,3,,4.92,14.76
+16,reforms,3,,4.92,14.76
+16,extrajudicial killings,3,,4.92,14.76
+16,abducting,3,,4.92,14.76
+16,republican,3,,4.92,14.76
+16,democrats,3,,4.92,14.76
+16,legislative,3,,4.92,14.76
+16,liberals,3,,4.92,14.76
+16,narcotics,3,,4.92,14.76
+16,investigative,3,,4.92,14.76
+16,drugs,3,,4.92,14.76
+16,crimestoppers,3,,4.92,14.76
+16,litter,3,,4.92,14.76
+16,police,3,,4.92,14.76
+16,enforcement,3,,4.92,14.76
+16,detectives,3,,4.92,14.76
+16,cop,3,,4.92,14.76
+16,prosecutions,3,,4.92,14.76
+16,enemy,3,,4.92,14.76
+16,bomb,3,,4.92,14.76
+16,attack,3,,4.92,14.76
+16,perpetrators,3,,4.92,14.76
+16,patriot act,3,,4.92,14.76
+16,unlawful sexual intercourse,3,,4.92,14.76
+16,peace,3,,4.92,14.76
+16,pro democracy,3,,4.92,14.76
+16,democratization,3,,4.92,14.76
+16,common cause,3,,4.92,14.76
+16,leftist,3,,4.92,14.76
+16,elections,3,,4.92,14.76
+16,judiciary,3,,4.92,14.76
+16,motherland,3,,4.92,14.76
+16,nepotism,3,,4.92,14.76
+16,homophobic,3,,4.92,14.76
+16,physically assaulted,3,,4.92,14.76
+16,counterterror,3,,4.92,14.76
+16,immigration,3,,4.92,14.76
+16,post-#/##,3,,4.92,14.76
+16,rampant corruption,3,,4.92,14.76
+16,malfeasance,3,,4.92,14.76
+16,graft,3,,4.92,14.76
+16,cronyism,3,,4.92,14.76
+16,earmarks,3,,4.92,14.76
+16,judicial,3,,4.92,14.76
+16,fourth amendment,3,,4.92,14.76
+16,ethics,3,,4.92,14.76
+16,pollution,3,,4.92,14.76
+16,animal welfare,3,,4.92,14.76
+16,inhumane treatment,3,,4.92,14.76
+16,mistreating,3,,4.92,14.76
+16,negligence,3,,4.92,14.76
+16,adolescent,3,,4.92,14.76
+16,disability,3,,4.92,14.76
+16,masturbation,3,,4.92,14.76
+16,outrages,3,,4.92,14.76
+16,atrocity,3,,4.92,14.76
+16,lesbian,3,,4.92,14.76
+16,lesbians,3,,4.92,14.76
+16,gender identity,3,,4.92,14.76
+16,gender equality,3,,4.92,14.76
+16,detentions,3,,4.92,14.76
+16,minorities,3,,4.92,14.76
+16,marginalization,3,,4.92,14.76
+16,child welfare,2,True,14.52,29.04
+16,participatory,2,True,12.92,25.84
+16,child protection,2,True,11.3,22.6
+16,civic engagement,2,True,9.05,18.1
+16,participation,2,True,8.26,16.52
+16,civic,2,True,6.14,12.28
+16,misdemeanor assault,2,,4.92,9.84
+16,misdemeanor battery,2,,4.92,9.84
+16,criminal mischief,2,,4.92,9.84
+16,drunk driving,2,,4.92,9.84
+16,aggravated robbery,2,,4.92,9.84
+16,degree murder,2,,4.92,9.84
+16,probation violation,2,,4.92,9.84
+16,convicted sex offender,2,,4.92,9.84
+16,aggravated kidnapping,2,,4.92,9.84
+16,vehicular homicide,2,,4.92,9.84
+16,binge drinking,2,,4.92,9.84
+16,unprotected sex,2,,4.92,9.84
+16,crisis,2,,4.92,9.84
+16,intervention,2,,4.92,9.84
+16,misuse,2,,4.92,9.84
+16,pregnancy,2,,4.92,9.84
+16,treatment,2,,4.92,9.84
+16,alcohol,2,,4.92,9.84
+16,outrage,2,,4.92,9.84
+16,tainted,2,,4.92,9.84
+16,dumping,2,,4.92,9.84
+16,porn,2,,4.92,9.84
+16,drunk,2,,4.92,9.84
+16,intimidation,2,,4.92,9.84
+16,incident,2,,4.92,9.84
+16,complaint,2,,4.92,9.84
+16,condemns,2,,4.92,9.84
+16,extortion,2,,4.92,9.84
+16,protests,2,,4.92,9.84
+16,misdemeanor,2,,4.92,9.84
+16,complaints,2,,4.92,9.84
+16,unrest,2,,4.92,9.84
+16,clashes,2,,4.92,9.84
+16,conflict,2,,4.92,9.84
+16,cholera,2,,4.92,9.84
+16,riots,2,,4.92,9.84
+16,lawlessness,2,,4.92,9.84
+16,chaos,2,,4.92,9.84
+16,rhetoric,2,,4.92,9.84
+16,graffiti,2,,4.92,9.84
+16,priestly,2,,4.92,9.84
+16,body found,2,,4.92,9.84
+16,man killed,2,,4.92,9.84
+16,found dead,2,,4.92,9.84
+16,cases,2,,4.92,9.84
+16,shooting,2,,4.92,9.84
+16,dead,2,,4.92,9.84
+16,heinous crime,2,,4.92,9.84
+16,lynching,2,,4.92,9.84
+16,man charged,2,,4.92,9.84
+16,islamism,2,,4.92,9.84
+16,globalization,2,,4.92,9.84
+16,religious extremism,2,,4.92,9.84
+16,militancy,2,,4.92,9.84
+16,diplomacy,2,,4.92,9.84
+16,global warming,2,,4.92,9.84
+16,weapons,2,,4.92,9.84
+16,propaganda,2,,4.92,9.84
+16,zawahiri,2,,4.92,9.84
+16,taliban,2,,4.92,9.84
+16,ansar al islam,2,,4.92,9.84
+16,taleban,2,,4.92,9.84
+16,zawahri,2,,4.92,9.84
+16,tehrik e taliban,2,,4.92,9.84
+16,abu musab al zarqawi,2,,4.92,9.84
+16,mehsud,2,,4.92,9.84
+16,ayman al zawahiri,2,,4.92,9.84
+16,islamic fundamentalists,2,,4.92,9.84
+16,baitullah mehsud,2,,4.92,9.84
+16,jordanian militant,2,,4.92,9.84
+16,ttp,2,,4.92,9.84
+16,hizballah,2,,4.92,9.84
+16,al masri,2,,4.92,9.84
+16,mujahedeen,2,,4.92,9.84
+16,jundallah,2,,4.92,9.84
+16,sunni insurgents,2,,4.92,9.84
+16,al shabab,2,,4.92,9.84
+16,hambali,2,,4.92,9.84
+16,polygamy,2,,4.92,9.84
+16,adultery,2,,4.92,9.84
+16,misogyny,2,,4.92,9.84
+16,bigotry,2,,4.92,9.84
+16,promiscuity,2,,4.92,9.84
+16,mental disorders,2,,4.92,9.84
+16,mental health,2,,4.92,9.84
+16,teen pregnancy,2,,4.92,9.84
+16,voluntary manslaughter,2,,4.92,9.84
+16,improprieties,2,,4.92,9.84
+16,plagiarism,2,,4.92,9.84
+16,inappropriate,2,,4.92,9.84
+16,disciplinary action,2,,4.92,9.84
+16,bullies,2,,4.92,9.84
+16,bully,2,,4.92,9.84
+16,parental,2,,4.92,9.84
+16,tackling,2,,4.92,9.84
+16,abstinence,2,,4.92,9.84
+16,criticism,2,,4.92,9.84
+16,hate,2,,4.92,9.84
+16,amendment,2,,4.92,9.84
+16,magna carta,2,,4.92,9.84
+16,protect,2,,4.92,9.84
+16,protections,2,,4.92,9.84
+16,equal rights,2,,4.92,9.84
+16,law,2,,4.92,9.84
+16,amendments,2,,4.92,9.84
+16,empowerment,2,,4.92,9.84
+16,voting rights,2,,4.92,9.84
+16,privacy act,2,,4.92,9.84
+16,charter,2,,4.92,9.84
+16,advocates,2,,4.92,9.84
+16,statute,2,,4.92,9.84
+16,secular,2,,4.92,9.84
+16,protest,2,,4.92,9.84
+16,hrw,2,,4.92,9.84
+16,draconian,2,,4.92,9.84
+16,immigrant,2,,4.92,9.84
+16,struggle,2,,4.92,9.84
+16,welfare,2,,4.92,9.84
+16,compensation,2,,4.92,9.84
+16,atrocities committed,2,,4.92,9.84
+16,anal sex,2,,4.92,9.84
+16,murdering,2,,4.92,9.84
+16,invasions,2,,4.92,9.84
+16,democrat,2,,4.92,9.84
+16,democratic party,2,,4.92,9.84
+16,congressional,2,,4.92,9.84
+16,senate,2,,4.92,9.84
+16,senator,2,,4.92,9.84
+16,liberal,2,,4.92,9.84
+16,libertarian,2,,4.92,9.84
+16,presidential,2,,4.92,9.84
+16,election,2,,4.92,9.84
+16,conservatives,2,,4.92,9.84
+16,crime prevention,2,,4.92,9.84
+16,crime unit,2,,4.92,9.84
+16,law enforcement,2,,4.92,9.84
+16,heroin,2,,4.92,9.84
+16,crime stoppers,2,,4.92,9.84
+16,det,2,,4.92,9.84
+16,fugitive,2,,4.92,9.84
+16,gangster,2,,4.92,9.84
+16,spy,2,,4.92,9.84
+16,stupid,2,,4.92,9.84
+16,bombs,2,,4.92,9.84
+16,detention,2,,4.92,9.84
+16,pornographic,2,,4.92,9.84
+16,indecent,2,,4.92,9.84
+16,fgm,2,,4.92,9.84
+16,ilo,2,,4.92,9.84
+16,obscenity,2,,4.92,9.84
+16,unlawful imprisonment,2,,4.92,9.84
+16,solidarity,2,,4.92,9.84
+16,patriotic,2,,4.92,9.84
+16,presidential election,2,,4.92,9.84
+16,progressives,2,,4.92,9.84
+16,undemocratic,2,,4.92,9.84
+16,common sense,2,,4.92,9.84
+16,voter,2,,4.92,9.84
+16,prosperity,2,,4.92,9.84
+16,liberation,2,,4.92,9.84
+16,progress,2,,4.92,9.84
+16,governance,2,,4.92,9.84
+16,cpj,2,,4.92,9.84
+16,campaign,2,,4.92,9.84
+16,democratically,2,,4.92,9.84
+16,citizens,2,,4.92,9.84
+16,unity,2,,4.92,9.84
+16,gender bias,2,,4.92,9.84
+16,equal employment opportunity,2,,4.92,9.84
+16,eeoc,2,,4.92,9.84
+16,sexism,2,,4.92,9.84
+16,title vii,2,,4.92,9.84
+16,racial bias,2,,4.92,9.84
+16,racial slurs,2,,4.92,9.84
+16,discriminated against,2,,4.92,9.84
+16,slurs,2,,4.92,9.84
+16,counternarcotics,2,,4.92,9.84
+16,counter narcotics,2,,4.92,9.84
+16,mi5,2,,4.92,9.84
+16,counterintelligence,2,,4.92,9.84
+16,cybersecurity,2,,4.92,9.84
+16,non proliferation,2,,4.92,9.84
+16,nonproliferation,2,,4.92,9.84
+16,cia,2,,4.92,9.84
+16,csis,2,,4.92,9.84
+16,counterterrorism adviser,2,,4.92,9.84
+16,fbi,2,,4.92,9.84
+16,plotters,2,,4.92,9.84
+16,homeland security secretary,2,,4.92,9.84
+16,diplomatic,2,,4.92,9.84
+16,intelligence agency,2,,4.92,9.84
+16,chertoff,2,,4.92,9.84
+16,suicide attackers,2,,4.92,9.84
+16,corrupted,2,,4.92,9.84
+16,indicted,2,,4.92,9.84
+16,mob,2,,4.92,9.84
+16,bribing,2,,4.92,9.84
+16,probes,2,,4.92,9.84
+16,wrongdoers,2,,4.92,9.84
+16,bribed,2,,4.92,9.84
+16,bribes,2,,4.92,9.84
+16,wanted,2,,4.92,9.84
+16,accused,2,,4.92,9.84
+16,corrupting,2,,4.92,9.84
+16,threaten,2,,4.92,9.84
+16,reforming,2,,4.92,9.84
+16,exposed,2,,4.92,9.84
+16,electoral,2,,4.92,9.84
+16,constituent assembly,2,,4.92,9.84
+16,federalism,2,,4.92,9.84
+16,judicial activism,2,,4.92,9.84
+16,habeas corpus,2,,4.92,9.84
+16,territorial integrity,2,,4.92,9.84
+16,parliamentary,2,,4.92,9.84
+16,rome statute,2,,4.92,9.84
+16,moral,2,,4.92,9.84
+16,prerogatives,2,,4.92,9.84
+16,influence peddling,2,,4.92,9.84
+16,privatization,2,,4.92,9.84
+16,anti graft,2,,4.92,9.84
+16,dishonesty,2,,4.92,9.84
+16,privatisation,2,,4.92,9.84
+16,sleaze,2,,4.92,9.84
+16,transparency international,2,,4.92,9.84
+16,malpractices,2,,4.92,9.84
+16,deception,2,,4.92,9.84
+16,money laundering,2,,4.92,9.84
+16,integrity,2,,4.92,9.84
+16,impunity,2,,4.92,9.84
+16,inequality,2,,4.92,9.84
+16,suspect,2,,4.92,9.84
+16,embezzlement,2,,4.92,9.84
+16,homicide detectives,2,,4.92,9.84
+16,humane society,2,,4.92,9.84
+16,humane,2,,4.92,9.84
+16,animal shelter,2,,4.92,9.84
+16,animals,2,,4.92,9.84
+16,animal,2,,4.92,9.84
+16,veterinary,2,,4.92,9.84
+16,dog,2,,4.92,9.84
+16,paws,2,,4.92,9.84
+16,slaughter,2,,4.92,9.84
+16,neglectful,2,,4.92,9.84
+16,abandonment,2,,4.92,9.84
+16,childhood,2,,4.92,9.84
+16,mismanagement,2,,4.92,9.84
+16,maternal,2,,4.92,9.84
+16,malnutrition,2,,4.92,9.84
+16,exposure,2,,4.92,9.84
+16,child molestation charges,2,,4.92,9.84
+16,sodomized,2,,4.92,9.84
+16,altar boy,2,,4.92,9.84
+16,catholic priest,2,,4.92,9.84
+16,heterosexual,2,,4.92,9.84
+16,erotic,2,,4.92,9.84
+16,erotica,2,,4.92,9.84
+16,incidences,2,,4.92,9.84
+16,raids,2,,4.92,9.84
+16,attackers,2,,4.92,9.84
+16,murderers,2,,4.92,9.84
+16,detainees,2,,4.92,9.84
+16,immigrants,2,,4.92,9.84
+16,rage,2,,4.92,9.84
+16,marriage,2,,4.92,9.84
+16,lgbt,2,,4.92,9.84
+16,pride,2,,4.92,9.84
+16,equal,2,,4.92,9.84
+16,special rapporteur,2,,4.92,9.84
+16,repressive,2,,4.92,9.84
+16,geneva conventions,2,,4.92,9.84
+16,religious persecution,2,,4.92,9.84
+16,aclu,2,,4.92,9.84
+16,american civil liberties,2,,4.92,9.84
+16,secularism,2,,4.92,9.84
+16,diversity,2,,4.92,9.84
+16,inclusion,2,,4.92,9.84
+16,premeditated murder,2,,4.92,9.84
+16,membership,2,,4.92,9.84
+16,participate,2,,4.92,9.84
+16,attendance,2,,4.92,9.84
+16,registration,2,,4.92,9.84
+16,participating,2,,4.92,9.84
+16,participant,2,,4.92,9.84
+16,sponsored,2,,4.92,9.84
+16,canwest,2,,4.92,9.84
+16,injustice,2,,4.92,9.84
+16,mistreated,2,,4.92,9.84
+16,mistreat,2,,4.92,9.84
+16,torturing,2,,4.92,9.84
+16,degrading treatment,2,,4.92,9.84
+16,desecration,2,,4.92,9.84
+16,complicity,2,,4.92,9.84
+16,mutilation,2,,4.92,9.84
+16,subjugation,2,,4.92,9.84
+16,enslavement,2,,4.92,9.84
+16,community engagement,1,True,15.55,15.55
+16,community participation,1,True,14.67,14.67
+16,rule law,1,True,14.39,14.39
+16,community involvement,1,True,12.56,12.56
+16,public participation,1,True,12.38,12.38
+16,participatory research,1,True,12.31,12.31
+16,collaborative decision,1,True,12.18,12.18
+16,public engagement,1,True,12.17,12.17
+16,human right,1,True,12.02,12.02
+16,participatory approach,1,True,10.33,10.33
+16,armed conflict,1,True,10.09,10.09
+16,political participation,1,True,9.86,9.86
+16,government,1,True,9.73,9.73
+16,employee involvement,1,True,9.3,9.3
+16,armed,1,True,9.14,9.14
+16,aggression,1,True,9.08,9.08
+16,physical aggression,1,True,8.72,8.72
+16,public involvement,1,True,8.55,8.55
+16,stakeholder involvement,1,True,8.13,8.13
+16,war terror,1,True,8.06,8.06
+16,individual rights,1,True,8.05,8.05
+16,participative,1,True,7.72,7.72
+16,political engagement,1,True,7.63,7.63
+16,participation decision,1,True,7.62,7.62
+16,economic freedom,1,True,7.62,7.62
+16,employee participation,1,True,7.33,7.33
+16,engagement,1,True,7.26,7.26
+16,egovernment,1,True,7.2,7.2
+16,political violence,1,True,7.07,7.07
+16,gun,1,True,7.07,7.07
+16,armed conflicts,1,True,6.67,6.67
+16,access justice,1,True,6.52,6.52
+16,public accountability,1,True,6.43,6.43
+16,stakeholder engagement,1,True,6.27,6.27
+16,balances,1,True,6.26,6.26
+16,clientelism,1,True,6.11,6.11
+16,interpersonal violence,1,True,6.09,6.09
+16,fundamental rights,1,True,6.08,6.08
+16,political rights,1,True,5.75,5.75
+16,citizen participation,1,True,5.6,5.6
+16,school violence,1,True,5.59,5.59
+16,checks,1,True,5.52,5.52
+16,stakeholder,1,True,5.44,5.44
+16,freedom expression,1,True,5.4,5.4
+16,public,1,True,5.28,5.28
+16,organized crime,1,True,5.06,5.06
+16,direct democracy,1,True,5.06,5.06
+16,freedom information,1,True,5.04,5.04
+16,family violence,1,True,5.02,5.02
+16,attempted robbery,1,,4.92,4.92
+16,allegedly assaulting,1,,4.92,4.92
+16,sexually transmitted infections,1,,4.92,4.92
+16,chlamydia,1,,4.92,4.92
+16,racially motivated,1,,4.92,4.92
+16,claim,1,,4.92,4.92
+16,benefits,1,,4.92,4.92
+16,struggles,1,,4.92,4.92
+16,pain,1,,4.92,4.92
+16,victims,1,,4.92,4.92
+16,dispute,1,,4.92,4.92
+16,grief,1,,4.92,4.92
+16,occupation,1,,4.92,4.92
+16,epilepsy,1,,4.92,4.92
+16,lawsuit,1,,4.92,4.92
+16,woes,1,,4.92,4.92
+16,settlements,1,,4.92,4.92
+16,measles,1,,4.92,4.92
+16,hoax,1,,4.92,4.92
+16,harassing,1,,4.92,4.92
+16,threatening,1,,4.92,4.92
+16,terroristic threats,1,,4.92,4.92
+16,trespass,1,,4.92,4.92
+16,attempted,1,,4.92,4.92
+16,charges,1,,4.92,4.92
+16,trespassing,1,,4.92,4.92
+16,harass,1,,4.92,4.92
+16,criminal trespassing,1,,4.92,4.92
+16,harassed,1,,4.92,4.92
+16,suspicious,1,,4.92,4.92
+16,demands,1,,4.92,4.92
+16,lawsuits,1,,4.92,4.92
+16,bloodshed,1,,4.92,4.92
+16,sectarian violence,1,,4.92,4.92
+16,tension,1,,4.92,4.92
+16,anger,1,,4.92,4.92
+16,fighting,1,,4.92,4.92
+16,conflicts,1,,4.92,4.92
+16,casualties,1,,4.92,4.92
+16,sectarian killings,1,,4.92,4.92
+16,anarchy,1,,4.92,4.92
+16,turmoil,1,,4.92,4.92
+16,rioting,1,,4.92,4.92
+16,gunfire,1,,4.92,4.92
+16,ethnic tensions,1,,4.92,4.92
+16,forgiveness,1,,4.92,4.92
+16,hunger,1,,4.92,4.92
+16,tensions,1,,4.92,4.92
+16,curfew,1,,4.92,4.92
+16,unemployment,1,,4.92,4.92
+16,civil strife,1,,4.92,4.92
+16,drought,1,,4.92,4.92
+16,anxiety,1,,4.92,4.92
+16,flooding,1,,4.92,4.92
+16,diocesan,1,,4.92,4.92
+16,juvenile offenders,1,,4.92,4.92
+16,unsolved,1,,4.92,4.92
+16,killed,1,,4.92,4.92
+16,crashes,1,,4.92,4.92
+16,visits,1,,4.92,4.92
+16,mysteries,1,,4.92,4.92
+16,heist,1,,4.92,4.92
+16,man dies,1,,4.92,4.92
+16,globalisation,1,,4.92,4.92
+16,islam,1,,4.92,4.92
+16,warfare,1,,4.92,4.92
+16,fundamentalism,1,,4.92,4.92
+16,radicalism,1,,4.92,4.92
+16,ideology,1,,4.92,4.92
+16,communism,1,,4.92,4.92
+16,islamic fundamentalist,1,,4.92,4.92
+16,mullah omar,1,,4.92,4.92
+16,waziristan,1,,4.92,4.92
+16,insurgency,1,,4.92,4.92
+16,khalid sheikh mohammed,1,,4.92,4.92
+16,saddam hussein,1,,4.92,4.92
+16,haqqani network,1,,4.92,4.92
+16,substance abuse,1,,4.92,4.92
+16,alcoholism,1,,4.92,4.92
+16,marital,1,,4.92,4.92
+16,drunkenness,1,,4.92,4.92
+16,infidelity,1,,4.92,4.92
+16,divorces,1,,4.92,4.92
+16,spousal,1,,4.92,4.92
+16,mental illness,1,,4.92,4.92
+16,petty theft,1,,4.92,4.92
+16,drug addiction,1,,4.92,4.92
+16,dui,1,,4.92,4.92
+16,marriages,1,,4.92,4.92
+16,restraining orders,1,,4.92,4.92
+16,cohabitation,1,,4.92,4.92
+16,impaired driving,1,,4.92,4.92
+16,child rearing,1,,4.92,4.92
+16,reckless driving,1,,4.92,4.92
+16,postpartum depression,1,,4.92,4.92
+16,dowry,1,,4.92,4.92
+16,social ills,1,,4.92,4.92
+16,indiscretions,1,,4.92,4.92
+16,misdemeanors,1,,4.92,4.92
+16,conduct unbecoming,1,,4.92,4.92
+16,misbehaving,1,,4.92,4.92
+16,openly gay,1,,4.92,4.92
+16,bullied,1,,4.92,4.92
+16,texting,1,,4.92,4.92
+16,obesity,1,,4.92,4.92
+16,eating disorders,1,,4.92,4.92
+16,phishing,1,,4.92,4.92
+16,parental involvement,1,,4.92,4.92
+16,parenting,1,,4.92,4.92
+16,redistricting,1,,4.92,4.92
+16,motivation,1,,4.92,4.92
+16,antisocial behavior,1,,4.92,4.92
+16,absenteeism,1,,4.92,4.92
+16,childhood obesity,1,,4.92,4.92
+16,swine flu,1,,4.92,4.92
+16,asperger,1,,4.92,4.92
+16,adhd,1,,4.92,4.92
+16,social networking,1,,4.92,4.92
+16,spyware,1,,4.92,4.92
+16,stress,1,,4.92,4.92
+16,eating disorder,1,,4.92,4.92
+16,self esteem,1,,4.92,4.92
+16,responsibility,1,,4.92,4.92
+16,protection act,1,,4.92,4.92
+16,activist,1,,4.92,4.92
+16,act,1,,4.92,4.92
+16,status,1,,4.92,4.92
+16,inalienable,1,,4.92,4.92
+16,defend,1,,4.92,4.92
+16,provisions,1,,4.92,4.92
+16,declaration,1,,4.92,4.92
+16,responsible,1,,4.92,4.92
+16,universal declaration,1,,4.92,4.92
+16,separation,1,,4.92,4.92
+16,manifesto,1,,4.92,4.92
+16,activists,1,,4.92,4.92
+16,petition,1,,4.92,4.92
+16,reform act,1,,4.92,4.92
+16,clause,1,,4.92,4.92
+16,policy,1,,4.92,4.92
+16,values,1,,4.92,4.92
+16,disabled,1,,4.92,4.92
+16,legal defense,1,,4.92,4.92
+16,mandate,1,,4.92,4.92
+16,agreements,1,,4.92,4.92
+16,social responsibility,1,,4.92,4.92
+16,pact,1,,4.92,4.92
+16,gang raped,1,,4.92,4.92
+16,brutally murdered,1,,4.92,4.92
+16,gonorrhea,1,,4.92,4.92
+16,gop,1,,4.92,4.92
+16,republicans,1,,4.92,4.92
+16,dem,1,,4.92,4.92
+16,dems,1,,4.92,4.92
+16,gop gubernatorial,1,,4.92,4.92
+16,midterm election,1,,4.92,4.92
+16,gubernatorial,1,,4.92,4.92
+16,sen.,1,,4.92,4.92
+16,democratic senatorial campaign,1,,4.92,4.92
+16,democratic caucus,1,,4.92,4.92
+16,democratic challenger,1,,4.92,4.92
+16,dick gephardt,1,,4.92,4.92
+16,gephardt,1,,4.92,4.92
+16,midterm elections,1,,4.92,4.92
+16,caucus,1,,4.92,4.92
+16,dnc,1,,4.92,4.92
+16,reelection,1,,4.92,4.92
+16,primaries,1,,4.92,4.92
+16,sen. hillary clinton,1,,4.92,4.92
+16,election day,1,,4.92,4.92
+16,centrist,1,,4.92,4.92
+16,sen. hillary rodham,1,,4.92,4.92
+16,congressman,1,,4.92,4.92
+16,howard dean,1,,4.92,4.92
+16,rnc,1,,4.92,4.92
+16,mccain,1,,4.92,4.92
+16,dfl,1,,4.92,4.92
+16,senator hillary clinton,1,,4.92,4.92
+16,illinois senator,1,,4.92,4.92
+16,democratic gubernatorial candidate,1,,4.92,4.92
+16,superdelegate,1,,4.92,4.92
+16,superdelegates,1,,4.92,4.92
+16,congressional district,1,,4.92,4.92
+16,rep.,1,,4.92,4.92
+16,gubernatorial candidate,1,,4.92,4.92
+16,electability,1,,4.92,4.92
+16,senate minority leader,1,,4.92,4.92
+16,clinton,1,,4.92,4.92
+16,lieutenant governor,1,,4.92,4.92
+16,tea party,1,,4.92,4.92
+16,senators,1,,4.92,4.92
+16,senatorial,1,,4.92,4.92
+16,presumptive democratic,1,,4.92,4.92
+16,libertarian party,1,,4.92,4.92
+16,presumptive republican,1,,4.92,4.92
+16,gubernatorial candidates,1,,4.92,4.92
+16,barack obama,1,,4.92,4.92
+16,kucinich,1,,4.92,4.92
+16,officeholders,1,,4.92,4.92
+16,michele bachmann,1,,4.92,4.92
+16,bayh,1,,4.92,4.92
+16,dccc,1,,4.92,4.92
+16,dn.y.,1,,4.92,4.92
+16,congressional campaign,1,,4.92,4.92
+16,tea party movement,1,,4.92,4.92
+16,afl cio,1,,4.92,4.92
+16,congressional delegation,1,,4.92,4.92
+16,presidential hopefuls,1,,4.92,4.92
+16,mitt romney,1,,4.92,4.92
+16,obama,1,,4.92,4.92
+16,iowa caucuses,1,,4.92,4.92
+16,hillary clinton,1,,4.92,4.92
+16,presidential nomination,1,,4.92,4.92
+16,voters,1,,4.92,4.92
+16,specter,1,,4.92,4.92
+16,republican senatorial committee,1,,4.92,4.92
+16,clintons,1,,4.92,4.92
+16,politico,1,,4.92,4.92
+16,tea partiers,1,,4.92,4.92
+16,sen. evan bayh,1,,4.92,4.92
+16,caucuses,1,,4.92,4.92
+16,undecided voters,1,,4.92,4.92
+16,pelosi,1,,4.92,4.92
+16,santorum,1,,4.92,4.92
+16,shays,1,,4.92,4.92
+16,house minority leader,1,,4.92,4.92
+16,minority leader,1,,4.92,4.92
+16,rudy giuliani,1,,4.92,4.92
+16,fiscally conservative,1,,4.92,4.92
+16,criminal justice,1,,4.92,4.92
+16,traffic,1,,4.92,4.92
+16,firearms,1,,4.92,4.92
+16,drug,1,,4.92,4.92
+16,most wanted,1,,4.92,4.92
+16,forensics,1,,4.92,4.92
+16,forensic science,1,,4.92,4.92
+16,methamphetamine,1,,4.92,4.92
+16,public safety,1,,4.92,4.92
+16,trauma,1,,4.92,4.92
+16,fascist,1,,4.92,4.92
+16,naxalite,1,,4.92,4.92
+16,naxal,1,,4.92,4.92
+16,ltte,1,,4.92,4.92
+16,subversive,1,,4.92,4.92
+16,trafficked,1,,4.92,4.92
+16,prostitutes,1,,4.92,4.92
+16,traffickers,1,,4.92,4.92
+16,coercion,1,,4.92,4.92
+16,brothels,1,,4.92,4.92
+16,pimps,1,,4.92,4.92
+16,forgery,1,,4.92,4.92
+16,nude pictures,1,,4.92,4.92
+16,minors,1,,4.92,4.92
+16,socialism,1,,4.92,4.92
+16,journalism,1,,4.92,4.92
+16,movement,1,,4.92,4.92
+16,capitalism,1,,4.92,4.92
+16,dialogue,1,,4.92,4.92
+16,uprising,1,,4.92,4.92
+16,dictatorship,1,,4.92,4.92
+16,socialist,1,,4.92,4.92
+16,revolutionary,1,,4.92,4.92
+16,economic policy,1,,4.92,4.92
+16,communist,1,,4.92,4.92
+16,public opinion,1,,4.92,4.92
+16,public integrity,1,,4.92,4.92
+16,junta,1,,4.92,4.92
+16,governing,1,,4.92,4.92
+16,party,1,,4.92,4.92
+16,policy studies,1,,4.92,4.92
+16,public policy,1,,4.92,4.92
+16,multiparty,1,,4.92,4.92
+16,economy,1,,4.92,4.92
+16,journalist,1,,4.92,4.92
+16,political science,1,,4.92,4.92
+16,subversion,1,,4.92,4.92
+16,revolution,1,,4.92,4.92
+16,communists,1,,4.92,4.92
+16,disarmament,1,,4.92,4.92
+16,wrongful termination,1,,4.92,4.92
+16,sexist,1,,4.92,4.92
+16,browne sanders,1,,4.92,4.92
+16,defamation,1,,4.92,4.92
+16,slander,1,,4.92,4.92
+16,insubordination,1,,4.92,4.92
+16,whistle blower,1,,4.92,4.92
+16,workplace,1,,4.92,4.92
+16,defamation suit,1,,4.92,4.92
+16,unfair dismissal,1,,4.92,4.92
+16,derogatory remarks,1,,4.92,4.92
+16,defamation lawsuit,1,,4.92,4.92
+16,defamatory,1,,4.92,4.92
+16,sexual orientation,1,,4.92,4.92
+16,whistleblower,1,,4.92,4.92
+16,whistle blowers,1,,4.92,4.92
+16,racial slur,1,,4.92,4.92
+16,grievance,1,,4.92,4.92
+16,counter insurgency,1,,4.92,4.92
+16,asio,1,,4.92,4.92
+16,counterinsurgency,1,,4.92,4.92
+16,scotland yard,1,,4.92,4.92
+16,peacekeeping,1,,4.92,4.92
+16,mr ruddock,1,,4.92,4.92
+16,interdiction,1,,4.92,4.92
+16,nato,1,,4.92,4.92
+16,anti piracy,1,,4.92,4.92
+16,cyber,1,,4.92,4.92
+16,afghanistan,1,,4.92,4.92
+16,covert,1,,4.92,4.92
+16,interagency,1,,4.92,4.92
+16,military,1,,4.92,4.92
+16,special operations,1,,4.92,4.92
+16,mr downer,1,,4.92,4.92
+16,intel,1,,4.92,4.92
+16,maritime,1,,4.92,4.92
+16,fco,1,,4.92,4.92
+16,interrogation,1,,4.92,4.92
+16,philip ruddock,1,,4.92,4.92
+16,militaries,1,,4.92,4.92
+16,bioterrorism,1,,4.92,4.92
+16,gspc,1,,4.92,4.92
+16,ayman al zawahri,1,,4.92,4.92
+16,arabian peninsula,1,,4.92,4.92
+16,hakimullah mehsud,1,,4.92,4.92
+16,hamas,1,,4.92,4.92
+16,crooked,1,,4.92,4.92
+16,crooks,1,,4.92,4.92
+16,fake,1,,4.92,4.92
+16,failed,1,,4.92,4.92
+16,crony,1,,4.92,4.92
+16,dangerous,1,,4.92,4.92
+16,cronies,1,,4.92,4.92
+16,scoundrels,1,,4.92,4.92
+16,thieving,1,,4.92,4.92
+16,politician,1,,4.92,4.92
+16,criminal gangs,1,,4.92,4.92
+16,elect,1,,4.92,4.92
+16,gangsters,1,,4.92,4.92
+16,profiteers,1,,4.92,4.92
+16,unscrupulous,1,,4.92,4.92
+16,banned,1,,4.92,4.92
+16,bogus,1,,4.92,4.92
+16,dishonest,1,,4.92,4.92
+16,wrong,1,,4.92,4.92
+16,greedy,1,,4.92,4.92
+16,elected,1,,4.92,4.92
+16,rogues,1,,4.92,4.92
+16,coup,1,,4.92,4.92
+16,blocked,1,,4.92,4.92
+16,busted,1,,4.92,4.92
+16,risky,1,,4.92,4.92
+16,drug lords,1,,4.92,4.92
+16,crook,1,,4.92,4.92
+16,allowed,1,,4.92,4.92
+16,outrageous,1,,4.92,4.92
+16,alleged,1,,4.92,4.92
+16,tells,1,,4.92,4.92
+16,accuses,1,,4.92,4.92
+16,failures,1,,4.92,4.92
+16,jailed,1,,4.92,4.92
+16,reckless,1,,4.92,4.92
+16,fail,1,,4.92,4.92
+16,criticizes,1,,4.92,4.92
+16,steal,1,,4.92,4.92
+16,disgraced,1,,4.92,4.92
+16,shame,1,,4.92,4.92
+16,corrupts,1,,4.92,4.92
+16,constitutionally,1,,4.92,4.92
+16,presidency,1,,4.92,4.92
+16,jurisprudence,1,,4.92,4.92
+16,constitutional court,1,,4.92,4.92
+16,constitutionality,1,,4.92,4.92
+16,constitutional amendments,1,,4.92,4.92
+16,unconstitutional,1,,4.92,4.92
+16,founding fathers,1,,4.92,4.92
+16,nullification,1,,4.92,4.92
+16,republic,1,,4.92,4.92
+16,constitutional amendment,1,,4.92,4.92
+16,democratically elected,1,,4.92,4.92
+16,civil,1,,4.92,4.92
+16,legal,1,,4.92,4.92
+16,voting rights act,1,,4.92,4.92
+16,supreme court,1,,4.92,4.92
+16,jurists,1,,4.92,4.92
+16,duly elected,1,,4.92,4.92
+16,roe v. wade,1,,4.92,4.92
+16,parliamentarians,1,,4.92,4.92
+16,electoral college,1,,4.92,4.92
+16,governmental,1,,4.92,4.92
+16,icj,1,,4.92,4.92
+16,lawmaking,1,,4.92,4.92
+16,constitutional convention,1,,4.92,4.92
+16,sharia,1,,4.92,4.92
+16,electoral act,1,,4.92,4.92
+16,parliament,1,,4.92,4.92
+16,secrecy,1,,4.92,4.92
+16,dengue,1,,4.92,4.92
+16,combating,1,,4.92,4.92
+16,corruption scandals,1,,4.92,4.92
+16,doping,1,,4.92,4.92
+16,tribalism,1,,4.92,4.92
+16,inefficiency,1,,4.92,4.92
+16,betrayal,1,,4.92,4.92
+16,bureaucracy,1,,4.92,4.92
+16,inflation,1,,4.92,4.92
+16,politicization,1,,4.92,4.92
+16,vigilance,1,,4.92,4.92
+16,deflation,1,,4.92,4.92
+16,voter fraud,1,,4.92,4.92
+16,endemic,1,,4.92,4.92
+16,pernicious,1,,4.92,4.92
+16,slain,1,,4.92,4.92
+16,mystery,1,,4.92,4.92
+16,conviction,1,,4.92,4.92
+16,wife,1,,4.92,4.92
+16,boyfriend,1,,4.92,4.92
+16,notorious,1,,4.92,4.92
+16,whodunit,1,,4.92,4.92
+16,condemned,1,,4.92,4.92
+16,mysterious,1,,4.92,4.92
+16,agatha christie,1,,4.92,4.92
+16,standoff,1,,4.92,4.92
+16,widow,1,,4.92,4.92
+16,who killed,1,,4.92,4.92
+16,husband,1,,4.92,4.92
+16,kidnapped,1,,4.92,4.92
+16,verdict,1,,4.92,4.92
+16,motive,1,,4.92,4.92
+16,dying,1,,4.92,4.92
+16,shooter,1,,4.92,4.92
+16,honeymoon,1,,4.92,4.92
+16,trial,1,,4.92,4.92
+16,confession,1,,4.92,4.92
+16,man,1,,4.92,4.92
+16,killers,1,,4.92,4.92
+16,cop killer,1,,4.92,4.92
+16,assassination,1,,4.92,4.92
+16,fcpa,1,,4.92,4.92
+16,foreign corrupt practices,1,,4.92,4.92
+16,bid rigging,1,,4.92,4.92
+16,accepting bribes,1,,4.92,4.92
+16,collusion,1,,4.92,4.92
+16,thievery,1,,4.92,4.92
+16,lobbying,1,,4.92,4.92
+16,auditing,1,,4.92,4.92
+16,illegality,1,,4.92,4.92
+16,tax evasion,1,,4.92,4.92
+16,profiteering,1,,4.92,4.92
+16,indictment,1,,4.92,4.92
+16,frauds,1,,4.92,4.92
+16,kickback,1,,4.92,4.92
+16,deceit,1,,4.92,4.92
+16,bribery scandal,1,,4.92,4.92
+16,conduct,1,,4.92,4.92
+16,lying,1,,4.92,4.92
+16,homicide detective,1,,4.92,4.92
+16,lethal,1,,4.92,4.92
+16,samoa joe,1,,4.92,4.92
+16,carlito,1,,4.92,4.92
+16,john cena,1,,4.92,4.92
+16,aj styles,1,,4.92,4.92
+16,mysterio,1,,4.92,4.92
+16,hhh,1,,4.92,4.92
+16,mick foley,1,,4.92,4.92
+16,lockdown,1,,4.92,4.92
+16,roode,1,,4.92,4.92
+16,cena,1,,4.92,4.92
+16,mpd,1,,4.92,4.92
+16,triple h,1,,4.92,4.92
+16,hpd,1,,4.92,4.92
+16,rvd,1,,4.92,4.92
+16,lashley,1,,4.92,4.92
+16,sgt,1,,4.92,4.92
+16,abyss,1,,4.92,4.92
+16,shawn michaels,1,,4.92,4.92
+16,chavo,1,,4.92,4.92
+16,undertaker,1,,4.92,4.92
+16,taker,1,,4.92,4.92
+16,styles,1,,4.92,4.92
+16,punk,1,,4.92,4.92
+16,randy orton,1,,4.92,4.92
+16,roh,1,,4.92,4.92
+16,bret hart,1,,4.92,4.92
+16,chris benoit,1,,4.92,4.92
+16,coroner,1,,4.92,4.92
+16,america most wanted,1,,4.92,4.92
+16,coroners,1,,4.92,4.92
+16,bomb squad,1,,4.92,4.92
+16,booker t,1,,4.92,4.92
+16,umaga,1,,4.92,4.92
+16,smackdown,1,,4.92,4.92
+16,cm punk,1,,4.92,4.92
+16,hitman,1,,4.92,4.92
+16,wrestlemania,1,,4.92,4.92
+16,chris jericho,1,,4.92,4.92
+16,crime lab,1,,4.92,4.92
+16,batista,1,,4.92,4.92
+16,stone cold,1,,4.92,4.92
+16,swagger,1,,4.92,4.92
+16,detective sergeant,1,,4.92,4.92
+16,ncis,1,,4.92,4.92
+16,wwe,1,,4.92,4.92
+16,hbk,1,,4.92,4.92
+16,rey mysterio,1,,4.92,4.92
+16,lapd,1,,4.92,4.92
+16,spca,1,,4.92,4.92
+16,rspca,1,,4.92,4.92
+16,aspca,1,,4.92,4.92
+16,animal rescue,1,,4.92,4.92
+16,ethical treatment,1,,4.92,4.92
+16,veterinary medical,1,,4.92,4.92
+16,animal control,1,,4.92,4.92
+16,dogfighting,1,,4.92,4.92
+16,puppy mill,1,,4.92,4.92
+16,animal care,1,,4.92,4.92
+16,stray animals,1,,4.92,4.92
+16,spay,1,,4.92,4.92
+16,dogs,1,,4.92,4.92
+16,hsus,1,,4.92,4.92
+16,kennel,1,,4.92,4.92
+16,peta,1,,4.92,4.92
+16,puppy mills,1,,4.92,4.92
+16,neutering,1,,4.92,4.92
+16,kittens,1,,4.92,4.92
+16,cockfighting,1,,4.92,4.92
+16,spay neuter,1,,4.92,4.92
+16,strays,1,,4.92,4.92
+16,pit bulls,1,,4.92,4.92
+16,pet,1,,4.92,4.92
+16,terrorism act,1,,4.92,4.92
+16,kitten,1,,4.92,4.92
+16,cats,1,,4.92,4.92
+16,veterinarian,1,,4.92,4.92
+16,spaying,1,,4.92,4.92
+16,feral cats,1,,4.92,4.92
+16,american kennel club,1,,4.92,4.92
+16,neuter,1,,4.92,4.92
+16,stray dogs,1,,4.92,4.92
+16,euthanasia,1,,4.92,4.92
+16,kennel club,1,,4.92,4.92
+16,kennels,1,,4.92,4.92
+16,pets,1,,4.92,4.92
+16,menu foods,1,,4.92,4.92
+16,roosters,1,,4.92,4.92
+16,rescue,1,,4.92,4.92
+16,petsmart,1,,4.92,4.92
+16,shelter,1,,4.92,4.92
+16,veterinarians,1,,4.92,4.92
+16,slaughterhouses,1,,4.92,4.92
+16,puppies,1,,4.92,4.92
+16,stray cats,1,,4.92,4.92
+16,iams,1,,4.92,4.92
+16,euthanize,1,,4.92,4.92
+16,horse racing,1,,4.92,4.92
+16,pit bull,1,,4.92,4.92
+16,dogfighting ring,1,,4.92,4.92
+16,felines,1,,4.92,4.92
+16,littering,1,,4.92,4.92
+16,rabies,1,,4.92,4.92
+16,canine,1,,4.92,4.92
+16,starving,1,,4.92,4.92
+16,pooches,1,,4.92,4.92
+16,gerry mccann,1,,4.92,4.92
+16,abandoned,1,,4.92,4.92
+16,neglecting,1,,4.92,4.92
+16,failure,1,,4.92,4.92
+16,neglected,1,,4.92,4.92
+16,inattention,1,,4.92,4.92
+16,inadequate,1,,4.92,4.92
+16,dementia,1,,4.92,4.92
+16,prevent,1,,4.92,4.92
+16,inaction,1,,4.92,4.92
+16,mortality,1,,4.92,4.92
+16,infection,1,,4.92,4.92
+16,missing,1,,4.92,4.92
+16,failing,1,,4.92,4.92
+16,defeat,1,,4.92,4.92
+16,newborn,1,,4.92,4.92
+16,diagnosis,1,,4.92,4.92
+16,safe haven,1,,4.92,4.92
+16,problems,1,,4.92,4.92
+16,elderly,1,,4.92,4.92
+16,carelessness,1,,4.92,4.92
+16,vulnerable,1,,4.92,4.92
+16,endangered,1,,4.92,4.92
+16,homeless,1,,4.92,4.92
+16,protecting,1,,4.92,4.92
+16,absence,1,,4.92,4.92
+16,tragic,1,,4.92,4.92
+16,osteoporosis,1,,4.92,4.92
+16,illness,1,,4.92,4.92
+16,preventable,1,,4.92,4.92
+16,exposing,1,,4.92,4.92
+16,problem,1,,4.92,4.92
+16,preventing,1,,4.92,4.92
+16,charge,1,,4.92,4.92
+16,population,1,,4.92,4.92
+16,drugging,1,,4.92,4.92
+16,mesereau,1,,4.92,4.92
+16,prosecutorial misconduct,1,,4.92,4.92
+16,acquittal,1,,4.92,4.92
+16,neverland ranch,1,,4.92,4.92
+16,holocaust denial,1,,4.92,4.92
+16,homosexuals,1,,4.92,4.92
+16,atheism,1,,4.92,4.92
+16,celibacy,1,,4.92,4.92
+16,depravity,1,,4.92,4.92
+16,perverts,1,,4.92,4.92
+16,smut,1,,4.92,4.92
+16,scientology,1,,4.92,4.92
+16,nazism,1,,4.92,4.92
+16,perversion,1,,4.92,4.92
+16,homosexual acts,1,,4.92,4.92
+16,child molesters,1,,4.92,4.92
+16,bishops,1,,4.92,4.92
+16,anorexia,1,,4.92,4.92
+16,catholicism,1,,4.92,4.92
+16,porno,1,,4.92,4.92
+16,assisted suicide,1,,4.92,4.92
+16,priesthood,1,,4.92,4.92
+16,anti semitic,1,,4.92,4.92
+16,canonical,1,,4.92,4.92
+16,deviant,1,,4.92,4.92
+16,altercations,1,,4.92,4.92
+16,incursions,1,,4.92,4.92
+16,unprovoked attack,1,,4.92,4.92
+16,confrontations,1,,4.92,4.92
+16,unprovoked,1,,4.92,4.92
+16,assassinations,1,,4.92,4.92
+16,hijackings,1,,4.92,4.92
+16,ambushes,1,,4.92,4.92
+16,crackdowns,1,,4.92,4.92
+16,mugging,1,,4.92,4.92
+16,brawls,1,,4.92,4.92
+16,breaches,1,,4.92,4.92
+16,outbreaks,1,,4.92,4.92
+16,disturbances,1,,4.92,4.92
+16,bombardments,1,,4.92,4.92
+16,intrusions,1,,4.92,4.92
+16,airstrikes,1,,4.92,4.92
+16,heists,1,,4.92,4.92
+16,terrorizing,1,,4.92,4.92
+16,missile strikes,1,,4.92,4.92
+16,firefights,1,,4.92,4.92
+16,firebombing,1,,4.92,4.92
+16,national counterterrorism,1,,4.92,4.92
+16,arms control,1,,4.92,4.92
+16,preparedness,1,,4.92,4.92
+16,abdulmutallab,1,,4.92,4.92
+16,cyber security,1,,4.92,4.92
+16,homeland security dhs,1,,4.92,4.92
+16,dni,1,,4.92,4.92
+16,explosives,1,,4.92,4.92
+16,umar farouk abdulmutallab,1,,4.92,4.92
+16,nypd,1,,4.92,4.92
+16,cia operatives,1,,4.92,4.92
+16,john negroponte,1,,4.92,4.92
+16,coordination,1,,4.92,4.92
+16,foreign affairs,1,,4.92,4.92
+16,consular,1,,4.92,4.92
+16,peace process,1,,4.92,4.92
+16,military intelligence,1,,4.92,4.92
+16,foiled plot,1,,4.92,4.92
+16,lone wolf,1,,4.92,4.92
+16,political affairs,1,,4.92,4.92
+16,emergency management,1,,4.92,4.92
+16,leiter,1,,4.92,4.92
+16,defense,1,,4.92,4.92
+16,national intelligence estimate,1,,4.92,4.92
+16,mexican drug cartels,1,,4.92,4.92
+16,hackers,1,,4.92,4.92
+16,civilians,1,,4.92,4.92
+16,leftists,1,,4.92,4.92
+16,innocent civilians,1,,4.92,4.92
+16,naxals,1,,4.92,4.92
+16,troops,1,,4.92,4.92
+16,innocents,1,,4.92,4.92
+16,hostages,1,,4.92,4.92
+16,guerrillas,1,,4.92,4.92
+16,fundamentalists,1,,4.92,4.92
+16,assassins,1,,4.92,4.92
+16,guerillas,1,,4.92,4.92
+16,bombers,1,,4.92,4.92
+16,smugglers,1,,4.92,4.92
+16,saboteurs,1,,4.92,4.92
+16,infidels,1,,4.92,4.92
+16,foreigners,1,,4.92,4.92
+16,missiles,1,,4.92,4.92
+16,viruses,1,,4.92,4.92
+16,politicians,1,,4.92,4.92
+16,zionists,1,,4.92,4.92
+16,cowards,1,,4.92,4.92
+16,migrants,1,,4.92,4.92
+16,prisoners,1,,4.92,4.92
+16,naxalites,1,,4.92,4.92
+16,miscreants,1,,4.92,4.92
+16,sunni extremists,1,,4.92,4.92
+16,ultras,1,,4.92,4.92
+16,bomber,1,,4.92,4.92
+16,nightmare,1,,4.92,4.92
+16,imperialism,1,,4.92,4.92
+16,gitmo,1,,4.92,4.92
+16,regime,1,,4.92,4.92
+16,scare,1,,4.92,4.92
+16,mccarthyism,1,,4.92,4.92
+16,plot,1,,4.92,4.92
+16,fear,1,,4.92,4.92
+16,evil,1,,4.92,4.92
+16,invasion,1,,4.92,4.92
+16,ksm,1,,4.92,4.92
+16,siege,1,,4.92,4.92
+16,anthrax,1,,4.92,4.92
+16,radical,1,,4.92,4.92
+16,psychological,1,,4.92,4.92
+16,physical,1,,4.92,4.92
+16,intimate,1,,4.92,4.92
+16,mental,1,,4.92,4.92
+16,stds,1,,4.92,4.92
+16,bisexual,1,,4.92,4.92
+16,spiritual,1,,4.92,4.92
+16,sexually transmitted diseases,1,,4.92,4.92
+16,domestic,1,,4.92,4.92
+16,reproductive,1,,4.92,4.92
+16,stis,1,,4.92,4.92
+16,nudity,1,,4.92,4.92
+16,relationships,1,,4.92,4.92
+16,genetic,1,,4.92,4.92
+16,lust,1,,4.92,4.92
+16,emotional,1,,4.92,4.92
+16,fertility,1,,4.92,4.92
+16,condoms,1,,4.92,4.92
+16,psychology,1,,4.92,4.92
+16,unwanted pregnancies,1,,4.92,4.92
+16,sexually active,1,,4.92,4.92
+16,spirituality,1,,4.92,4.92
+16,sexually transmitted disease,1,,4.92,4.92
+16,bioethics,1,,4.92,4.92
+16,male,1,,4.92,4.92
+16,monogamy,1,,4.92,4.92
+16,hiv prevention,1,,4.92,4.92
+16,teenage,1,,4.92,4.92
+16,menopause,1,,4.92,4.92
+16,independence,1,,4.92,4.92
+16,victory,1,,4.92,4.92
+16,patriot,1,,4.92,4.92
+16,martyrs,1,,4.92,4.92
+16,foi,1,,4.92,4.92
+16,courage,1,,4.92,4.92
+16,friendship,1,,4.92,4.92
+16,honor,1,,4.92,4.92
+16,salvation,1,,4.92,4.92
+16,valor,1,,4.92,4.92
+16,martyr,1,,4.92,4.92
+16,compassion,1,,4.92,4.92
+16,preservation,1,,4.92,4.92
+16,rti,1,,4.92,4.92
+16,silence,1,,4.92,4.92
+16,free,1,,4.92,4.92
+16,monarch,1,,4.92,4.92
+16,information,1,,4.92,4.92
+16,legacy,1,,4.92,4.92
+16,heritage,1,,4.92,4.92
+16,remembrance,1,,4.92,4.92
+16,wilderness,1,,4.92,4.92
+16,truth,1,,4.92,4.92
+16,emancipation,1,,4.92,4.92
+16,clarity,1,,4.92,4.92
+16,dream,1,,4.92,4.92
+16,faith,1,,4.92,4.92
+16,peaceful,1,,4.92,4.92
+16,national,1,,4.92,4.92
+16,sacrifice,1,,4.92,4.92
+16,veterans,1,,4.92,4.92
+16,harmony,1,,4.92,4.92
+16,founders,1,,4.92,4.92
+16,citizen,1,,4.92,4.92
+16,voice,1,,4.92,4.92
+16,reason,1,,4.92,4.92
+16,transformation,1,,4.92,4.92
+16,right,1,,4.92,4.92
+16,foia,1,,4.92,4.92
+16,destiny,1,,4.92,4.92
+16,frontier,1,,4.92,4.92
+16,silent,1,,4.92,4.92
+16,sovereign,1,,4.92,4.92
+16,praise,1,,4.92,4.92
+16,pirate,1,,4.92,4.92
+16,rainbow,1,,4.92,4.92
+16,wisdom,1,,4.92,4.92
+16,miracle,1,,4.92,4.92
+16,spirit,1,,4.92,4.92
+16,prayer,1,,4.92,4.92
+16,bicentennial,1,,4.92,4.92
+16,future,1,,4.92,4.92
+16,quality,1,,4.92,4.92
+16,mellencamp,1,,4.92,4.92
+16,forward,1,,4.92,4.92
+16,reporters without borders,1,,4.92,4.92
+16,arbitrary arrests,1,,4.92,4.92
+16,humanitarian,1,,4.92,4.92
+16,non governmental,1,,4.92,4.92
+16,un,1,,4.92,4.92
+16,united nations,1,,4.92,4.92
+16,protect journalists,1,,4.92,4.92
+16,ngos,1,,4.92,4.92
+16,osce,1,,4.92,4.92
+16,nongovernmental organizations,1,,4.92,4.92
+16,justice,1,,4.92,4.92
+16,rsf,1,,4.92,4.92
+16,democratic reforms,1,,4.92,4.92
+16,indigenous peoples,1,,4.92,4.92
+16,dissidents,1,,4.92,4.92
+16,nobel peace,1,,4.92,4.92
+16,nuclear nonproliferation,1,,4.92,4.92
+16,nobel peace laureate,1,,4.92,4.92
+16,multilateralism,1,,4.92,4.92
+16,nongovernmental,1,,4.92,4.92
+16,religious tolerance,1,,4.92,4.92
+16,un envoy,1,,4.92,4.92
+16,parliamentary assembly,1,,4.92,4.92
+16,intellectuals,1,,4.92,4.92
+16,aung san suu kyi,1,,4.92,4.92
+16,journalists,1,,4.92,4.92
+16,liu xiaobo,1,,4.92,4.92
+16,nonviolence,1,,4.92,4.92
+16,ngo,1,,4.92,4.92
+16,corporate governance,1,,4.92,4.92
+16,arbour,1,,4.92,4.92
+16,oppressed,1,,4.92,4.92
+16,ban ki moon,1,,4.92,4.92
+16,internally displaced persons,1,,4.92,4.92
+16,unarmed civilians,1,,4.92,4.92
+16,darfur,1,,4.92,4.92
+16,nobel peace prize,1,,4.92,4.92
+16,ebadi,1,,4.92,4.92
+16,international criminal,1,,4.92,4.92
+16,dissident,1,,4.92,4.92
+16,civil libertarians,1,,4.92,4.92
+16,usa patriot act,1,,4.92,4.92
+16,electronic frontier foundation,1,,4.92,4.92
+16,indefinite detention,1,,4.92,4.92
+16,electronic privacy information,1,,4.92,4.92
+16,civil liberties union,1,,4.92,4.92
+16,political correctness,1,,4.92,4.92
+16,authoritarianism,1,,4.92,4.92
+16,wiretapping,1,,4.92,4.92
+16,constitutionally protected,1,,4.92,4.92
+16,fisa,1,,4.92,4.92
+16,military tribunals,1,,4.92,4.92
+16,enemy combatants,1,,4.92,4.92
+16,military commissions act,1,,4.92,4.92
+16,secularist,1,,4.92,4.92
+16,law abiding,1,,4.92,4.92
+16,totalitarianism,1,,4.92,4.92
+16,eff,1,,4.92,4.92
+16,secularists,1,,4.92,4.92
+16,decency,1,,4.92,4.92
+16,authoritarian,1,,4.92,4.92
+16,net neutrality,1,,4.92,4.92
+16,morals,1,,4.92,4.92
+16,judge alito,1,,4.92,4.92
+16,libertarians,1,,4.92,4.92
+16,marriage equality,1,,4.92,4.92
+16,glbt,1,,4.92,4.92
+16,lesbian gay bisexual,1,,4.92,4.92
+16,human rights campaign,1,,4.92,4.92
+16,prop 8,1,,4.92,4.92
+16,interfaith,1,,4.92,4.92
+16,log cabin republicans,1,,4.92,4.92
+16,lambda legal,1,,4.92,4.92
+16,hrc,1,,4.92,4.92
+16,anti defamation league,1,,4.92,4.92
+16,queer,1,,4.92,4.92
+16,same sex,1,,4.92,4.92
+16,stonewall,1,,4.92,4.92
+16,sex couples,1,,4.92,4.92
+16,gay couples,1,,4.92,4.92
+16,gay lesbian bisexual,1,,4.92,4.92
+16,gay lesbian,1,,4.92,4.92
+16,charter schools,1,,4.92,4.92
+16,coalition,1,,4.92,4.92
+16,racial equality,1,,4.92,4.92
+16,prop. 8,1,,4.92,4.92
+16,naral pro choice,1,,4.92,4.92
+16,coalition against,1,,4.92,4.92
+16,proposition 8,1,,4.92,4.92
+16,sex marriage,1,,4.92,4.92
+16,carers,1,,4.92,4.92
+16,transgendered,1,,4.92,4.92
+16,education,1,,4.92,4.92
+16,civil unions,1,,4.92,4.92
+16,adl,1,,4.92,4.92
+16,marry,1,,4.92,4.92
+16,fathers,1,,4.92,4.92
+16,employment,1,,4.92,4.92
+16,glaad,1,,4.92,4.92
+16,higher education,1,,4.92,4.92
+16,lesbian couples,1,,4.92,4.92
+16,immigration reform,1,,4.92,4.92
+16,pensions,1,,4.92,4.92
+16,manslaughter,1,,4.92,4.92
+16,felonies,1,,4.92,4.92
+16,aggravated burglary,1,,4.92,4.92
+16,reckless endangerment,1,,4.92,4.92
+16,aggravated manslaughter,1,,4.92,4.92
+16,malicious wounding,1,,4.92,4.92
+16,involuntary manslaughter,1,,4.92,4.92
+16,criminally negligent homicide,1,,4.92,4.92
+16,aggravated battery,1,,4.92,4.92
+16,vehicular manslaughter,1,,4.92,4.92
+16,maximum sentence,1,,4.92,4.92
+16,grand larceny,1,,4.92,4.92
+16,felony counts,1,,4.92,4.92
+16,enrollment,1,,4.92,4.92
+16,advance registration,1,,4.92,4.92
+16,entry,1,,4.92,4.92
+16,preregistration,1,,4.92,4.92
+16,activity,1,,4.92,4.92
+16,registrations,1,,4.92,4.92
+16,pre registration,1,,4.92,4.92
+16,funding,1,,4.92,4.92
+16,admission,1,,4.92,4.92
+16,eligibility,1,,4.92,4.92
+16,initiated,1,,4.92,4.92
+16,incentive,1,,4.92,4.92
+16,sponsorship,1,,4.92,4.92
+16,engaging,1,,4.92,4.92
+16,turnout,1,,4.92,4.92
+16,donation,1,,4.92,4.92
+16,qualification,1,,4.92,4.92
+16,signup,1,,4.92,4.92
+16,contribution,1,,4.92,4.92
+16,attending,1,,4.92,4.92
+16,awareness,1,,4.92,4.92
+16,confidence,1,,4.92,4.92
+16,acceptance,1,,4.92,4.92
+16,participants,1,,4.92,4.92
+16,fees,1,,4.92,4.92
+16,recognition,1,,4.92,4.92
+16,success,1,,4.92,4.92
+16,partnership,1,,4.92,4.92
+16,volunteering,1,,4.92,4.92
+16,registering,1,,4.92,4.92
+16,commitment,1,,4.92,4.92
+16,participated,1,,4.92,4.92
+16,usage,1,,4.92,4.92
+16,funded,1,,4.92,4.92
+16,conducting,1,,4.92,4.92
+16,invitations,1,,4.92,4.92
+16,fee,1,,4.92,4.92
+16,mandatory,1,,4.92,4.92
+16,fundraising,1,,4.92,4.92
+16,subscriptions,1,,4.92,4.92
+16,financing,1,,4.92,4.92
+16,contributions,1,,4.92,4.92
+16,program,1,,4.92,4.92
+16,individual,1,,4.92,4.92
+16,informal,1,,4.92,4.92
+16,registrants,1,,4.92,4.92
+16,invitation,1,,4.92,4.92
+16,organized,1,,4.92,4.92
+16,enthusiasm,1,,4.92,4.92
+16,liability,1,,4.92,4.92
+16,involving,1,,4.92,4.92
+16,coverage,1,,4.92,4.92
+16,supporting,1,,4.92,4.92
+16,winning,1,,4.92,4.92
+16,tuition,1,,4.92,4.92
+16,accessibility,1,,4.92,4.92
+16,popularity,1,,4.92,4.92
+16,incentives,1,,4.92,4.92
+16,subscription,1,,4.92,4.92
+16,vaccination,1,,4.92,4.92
+16,support,1,,4.92,4.92
+16,voluntary,1,,4.92,4.92
+16,appreciation,1,,4.92,4.92
+16,interest,1,,4.92,4.92
+16,applications,1,,4.92,4.92
+16,access,1,,4.92,4.92
+16,issuance,1,,4.92,4.92
+16,payment,1,,4.92,4.92
+16,preparation,1,,4.92,4.92
+16,accessible,1,,4.92,4.92
+16,memberships,1,,4.92,4.92
+16,partnerships,1,,4.92,4.92
+16,guarantee,1,,4.92,4.92
+16,participates,1,,4.92,4.92
+16,nonmembers,1,,4.92,4.92
+16,entry fee,1,,4.92,4.92
+16,consultation,1,,4.92,4.92
+16,cost,1,,4.92,4.92
+16,canadians,1,,4.92,4.92
+16,daniel nestor,1,,4.92,4.92
+16,stephen harper,1,,4.92,4.92
+16,gilles duceppe,1,,4.92,4.92
+16,criminal code,1,,4.92,4.92
+16,bloc quebecois,1,,4.92,4.92
+16,hungarians,1,,4.92,4.92
+16,michael ignatieff,1,,4.92,4.92
+16,kurdistan,1,,4.92,4.92
+16,ontarians,1,,4.92,4.92
+16,quebecers,1,,4.92,4.92
+16,st. catharines,1,,4.92,4.92
+16,citizenship,1,,4.92,4.92
+16,ndp,1,,4.92,4.92
+16,navratilova,1,,4.92,4.92
+16,jack layton,1,,4.92,4.92
+16,fantino,1,,4.92,4.92
+16,quebec,1,,4.92,4.92
+16,conservative,1,,4.92,4.92
+16,mounties,1,,4.92,4.92
+16,canadian forces,1,,4.92,4.92
+16,civilization,1,,4.92,4.92
+16,ontario,1,,4.92,4.92
+16,socialists,1,,4.92,4.92
+16,syrians,1,,4.92,4.92
+16,throne,1,,4.92,4.92
+16,duceppe,1,,4.92,4.92
+16,billie jean king,1,,4.92,4.92
+16,ataturk,1,,4.92,4.92
+16,federalist,1,,4.92,4.92
+16,samuel dalembert,1,,4.92,4.92
+16,bulgarians,1,,4.92,4.92
+16,bloc,1,,4.92,4.92
+16,berlusconi,1,,4.92,4.92
+16,kurds,1,,4.92,4.92
+16,silvio berlusconi,1,,4.92,4.92
+16,chrétien,1,,4.92,4.92
+16,ignatieff,1,,4.92,4.92
+16,manitobans,1,,4.92,4.92
+16,accountability act,1,,4.92,4.92
+16,gomery,1,,4.92,4.92
+16,trudeau,1,,4.92,4.92
+16,canadian,1,,4.92,4.92
+16,bob rae,1,,4.92,4.92
+16,ridings,1,,4.92,4.92
+16,fidesz,1,,4.92,4.92
+16,szabo,1,,4.92,4.92
+16,khadr,1,,4.92,4.92
+16,francesca schiavone,1,,4.92,4.92
+16,defending,1,,4.92,4.92
+16,bc,1,,4.92,4.92
+16,strasbourg,1,,4.92,4.92
+16,venus williams,1,,4.92,4.92
+16,iggy,1,,4.92,4.92
+16,prime minister stephen harper,1,,4.92,4.92
+16,virtue,1,,4.92,4.92
+16,votto,1,,4.92,4.92
+16,scola,1,,4.92,4.92
+16,triano,1,,4.92,4.92
+16,liberal leader,1,,4.92,4.92
+16,toronto,1,,4.92,4.92
+16,montreal gazette,1,,4.92,4.92
+16,serbian,1,,4.92,4.92
+16,niqab,1,,4.92,4.92
+16,discriminatory,1,,4.92,4.92
+16,prejudice,1,,4.92,4.92
+16,discriminated,1,,4.92,4.92
+16,stereotyping,1,,4.92,4.92
+16,discriminate,1,,4.92,4.92
+16,inequalities,1,,4.92,4.92
+16,discriminates,1,,4.92,4.92
+16,discriminating,1,,4.92,4.92
+16,intolerance,1,,4.92,4.92
+16,ethnicity,1,,4.92,4.92
+16,ignorance,1,,4.92,4.92
+16,unequal,1,,4.92,4.92
+16,unfair,1,,4.92,4.92
+16,prejudices,1,,4.92,4.92
+16,ethnic minorities,1,,4.92,4.92
+16,disparities,1,,4.92,4.92
+16,inequity,1,,4.92,4.92
+16,segregation,1,,4.92,4.92
+16,hate speech,1,,4.92,4.92
+16,punishment,1,,4.92,4.92
+16,matters,1,,4.92,4.92
+16,courts,1,,4.92,4.92
+16,disasters,1,,4.92,4.92
+16,patrols,1,,4.92,4.92
+16,acts,1,,4.92,4.92
+16,injustices,1,,4.92,4.92
+16,abu ghraib,1,,4.92,4.92
+16,tortured,1,,4.92,4.92
+16,unsanitary conditions,1,,4.92,4.92
+16,abu ghraib prison,1,,4.92,4.92
+16,inhumane,1,,4.92,4.92
+16,humiliation,1,,4.92,4.92
+16,misdeeds,1,,4.92,4.92
+16,insensitivity,1,,4.92,4.92
+16,plight,1,,4.92,4.92
+16,interrogations,1,,4.92,4.92
+16,wrongdoings,1,,4.92,4.92
+16,tortures,1,,4.92,4.92
+16,guantánamo bay,1,,4.92,4.92
+16,torturers,1,,4.92,4.92
+16,mauling,1,,4.92,4.92
+16,manhandling,1,,4.92,4.92
+16,deplorable,1,,4.92,4.92
+16,indignities,1,,4.92,4.92
+16,inhumanity,1,,4.92,4.92
+16,guantanamo bay,1,,4.92,4.92
+16,internment,1,,4.92,4.92
+16,emaciated,1,,4.92,4.92
+16,interrogators,1,,4.92,4.92
+16,mishandling,1,,4.92,4.92
+16,humiliations,1,,4.92,4.92
+16,disrespect,1,,4.92,4.92
+16,desertion,1,,4.92,4.92
+16,substantiated,1,,4.92,4.92
+16,deprivation,1,,4.92,4.92
+16,psychological trauma,1,,4.92,4.92
+16,dereliction,1,,4.92,4.92
+16,infant mortality,1,,4.92,4.92
+16,ptsd,1,,4.92,4.92
+16,strangulation,1,,4.92,4.92
+16,suffocation,1,,4.92,4.92
+16,delinquency,1,,4.92,4.92
+16,psychiatric disorders,1,,4.92,4.92
+16,court martialed,1,,4.92,4.92
+16,dog bites,1,,4.92,4.92
+16,incarceration,1,,4.92,4.92
+16,caseworkers,1,,4.92,4.92
+16,depressive symptoms,1,,4.92,4.92
+16,bodily injury,1,,4.92,4.92
+16,cirrhosis,1,,4.92,4.92
+16,birth defects,1,,4.92,4.92
+16,malnourished,1,,4.92,4.92

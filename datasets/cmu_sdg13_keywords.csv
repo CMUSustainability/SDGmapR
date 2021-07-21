@@ -1,0 +1,934 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+13,emissions,71,True,10.22,725.62
+13,renewable energy,71,,3.19,226.49
+13,global warming,65,True,16.06,1043.8999999999999
+13,climate change,59,True,26.61,1569.99
+13,carbon dioxide,50,True,10.0,500.0
+13,pollution,48,,3.19,153.12
+13,renewables,43,,3.19,137.17
+13,biofuel,42,,3.19,133.98
+13,renewable,41,,3.19,130.79
+13,co2,39,True,19.35,754.6500000000001
+13,biofuels,39,,3.19,124.41
+13,biomass,38,,3.19,121.22
+13,greenhouse gas,37,True,16.4,606.8
+13,greenhouse gases,37,True,8.69,321.53
+13,carbon,37,True,8.05,297.85
+13,fossil fuel,37,True,6.56,242.72
+13,methane,36,True,5.5,198.0
+13,carbon dioxide emissions,36,,3.19,114.84
+13,greenhouse emissions,36,,3.19,114.84
+13,ghg,35,True,7.49,262.15000000000003
+13,kyoto protocol,35,True,5.43,190.04999999999998
+13,fossil fuels,35,True,5.43,190.04999999999998
+13,ghg emissions,35,True,4.42,154.7
+13,greenhouse gas emissions,35,,3.19,111.64999999999999
+13,co2 emissions,34,True,17.6,598.4000000000001
+13,climate,34,True,12.12,412.08
+13,carbon emissions,34,,3.19,108.46
+13,greenhouse gas emission,32,,3.19,102.08
+13,reducing carbon emissions,32,,3.19,102.08
+13,emission,31,True,12.53,388.43
+13,emission reductions,31,,3.19,98.89
+13,carbon emission,31,,3.19,98.89
+13,emission reduction,30,,3.19,95.7
+13,reduce carbon emissions,30,,3.19,95.7
+13,carbon dioxide co2,30,,3.19,95.7
+13,carbon capture,29,True,7.09,205.60999999999999
+13,carbon sequestration,28,,3.19,89.32
+13,nox,27,,3.19,86.13
+13,heat trapping gases,27,,3.19,86.13
+13,environmental,26,True,4.88,126.88
+13,air pollution,26,,3.19,82.94
+13,nitrogen oxides,26,,3.19,82.94
+13,energy,25,True,3.58,89.5
+13,nitrogen oxide,25,,3.19,79.75
+13,polluters,25,,3.19,79.75
+13,polluting,25,,3.19,79.75
+13,coal,25,,3.19,79.75
+13,coal fired,24,,3.19,76.56
+13,renewable fuels,24,,3.19,76.56
+13,alternative fuels,24,,3.19,76.56
+13,mercury emissions,23,,3.19,73.37
+13,pollutant,23,,3.19,73.37
+13,pollutants,23,,3.19,73.37
+13,polluter,23,,3.19,73.37
+13,carbon credits,23,,3.19,73.37
+13,carbon offsets,23,,3.19,73.37
+13,reducing greenhouse gas,23,,3.19,73.37
+13,reduce greenhouse gas,23,,3.19,73.37
+13,renewable energies,23,,3.19,73.37
+13,particulate matter,22,,3.19,70.17999999999999
+13,sulfur dioxide,22,,3.19,70.17999999999999
+13,burning fossil fuels,22,,3.19,70.17999999999999
+13,ethanol,22,,3.19,70.17999999999999
+13,biodiesel,22,,3.19,70.17999999999999
+13,acid rain,21,,3.19,66.99
+13,ozone,21,,3.19,66.99
+13,hydrogen,21,,3.19,66.99
+13,zero emission,21,,3.19,66.99
+13,bio fuels,21,,3.19,66.99
+13,climate action,20,,3.19,63.8
+13,cleaner burning,20,,3.19,63.8
+13,gases,19,True,4.19,79.61000000000001
+13,emitters,19,,3.19,60.61
+13,clean energy,19,,3.19,60.61
+13,carbon footprint,18,True,10.62,191.16
+13,kyoto,18,True,6.49,116.82000000000001
+13,energy efficiency,18,,3.19,57.42
+13,soot,18,,3.19,57.42
+13,sustainability,18,,3.19,57.42
+13,clean air,17,,3.19,54.23
+13,carbon footprints,17,,3.19,54.23
+13,deforestation,17,,3.19,54.23
+13,smog,16,,3.19,51.04
+13,nitrogen,16,,3.19,51.04
+13,carbon neutral,16,,3.19,51.04
+13,sustainable,16,,3.19,51.04
+13,vocs,15,,3.19,47.85
+13,epa,15,,3.19,47.85
+13,copenhagen accord,15,,3.19,47.85
+13,geothermal,15,,3.19,47.85
+13,particulates,14,,3.19,44.66
+13,bioenergy,14,,3.19,44.66
+13,volatile organic compounds,13,,3.19,41.47
+13,gasses,13,,3.19,41.47
+13,smart grid,13,,3.19,41.47
+13,natural gas,12,,3.19,38.28
+13,environmental protection agency,12,,3.19,38.28
+13,environmentally friendly,12,,3.19,38.28
+13,bioethanol,12,,3.19,38.28
+13,greener,12,,3.19,38.28
+13,environmentally sustainable,12,,3.19,38.28
+13,warming,11,True,12.26,134.85999999999999
+13,fuel,11,,3.19,35.089999999999996
+13,climate change ipcc,11,,3.19,35.089999999999996
+13,environmental sustainability,11,,3.19,35.089999999999996
+13,solar,11,,3.19,35.089999999999996
+13,fuels,11,,3.19,35.089999999999996
+13,environmental impacts,10,True,3.64,36.4
+13,biodiversity,10,,3.19,31.9
+13,unfccc,10,,3.19,31.9
+13,mercury,10,,3.19,31.9
+13,environmentally sound,10,,3.19,31.9
+13,cellulosic ethanol,10,,3.19,31.9
+13,ets,9,,3.19,28.71
+13,carb,9,,3.19,28.71
+13,diesel,9,,3.19,28.71
+13,redd,9,,3.19,28.71
+13,ecological,9,,3.19,28.71
+13,water vapor,9,,3.19,28.71
+13,arctic,8,True,3.31,26.48
+13,emitted,8,,3.19,25.52
+13,arsenic,8,,3.19,25.52
+13,toxic chemicals,8,,3.19,25.52
+13,eco,8,,3.19,25.52
+13,cdm,8,,3.19,25.52
+13,alternative energy,8,,3.19,25.52
+13,wind energy,8,,3.19,25.52
+13,liquid fuels,8,,3.19,25.52
+13,algae,8,,3.19,25.52
+13,ipcc,7,True,8.35,58.449999999999996
+13,gas,7,True,3.97,27.790000000000003
+13,air quality,7,,3.19,22.33
+13,emitting,7,,3.19,22.33
+13,efficiency,7,,3.19,22.33
+13,emit,7,,3.19,22.33
+13,combustion,7,,3.19,22.33
+13,gigawatts,7,,3.19,22.33
+13,greenest,7,,3.19,22.33
+13,emitter,7,,3.19,22.33
+13,offsets,7,,3.19,22.33
+13,cleantech,7,,3.19,22.33
+13,electricity,7,,3.19,22.33
+13,bio diesel,7,,3.19,22.33
+13,lng,7,,3.19,22.33
+13,gasification,7,,3.19,22.33
+13,drought,6,True,4.93,29.58
+13,particulate,6,,3.19,19.14
+13,pesticides,6,,3.19,19.14
+13,copenhagen,6,,3.19,19.14
+13,conservation,6,,3.19,19.14
+13,crop yields,6,,3.19,19.14
+13,contaminant,6,,3.19,19.14
+13,aerosols,6,,3.19,19.14
+13,hydrogen sulfide,6,,3.19,19.14
+13,toxins,6,,3.19,19.14
+13,dioxins,6,,3.19,19.14
+13,carcinogens,6,,3.19,19.14
+13,atmospheric,6,,3.19,19.14
+13,hydrogen fuel,6,,3.19,19.14
+13,hydrogen powered,6,,3.19,19.14
+13,tar sands,6,,3.19,19.14
+13,environmentally responsible,6,,3.19,19.14
+13,evs,6,,3.19,19.14
+13,carbon trust,6,,3.19,19.14
+13,greening,6,,3.19,19.14
+13,recycling,6,,3.19,19.14
+13,pollute,6,,3.19,19.14
+13,photovoltaics,6,,3.19,19.14
+13,hydro,6,,3.19,19.14
+13,biogas,6,,3.19,19.14
+13,feedstocks,6,,3.19,19.14
+13,feedstock,6,,3.19,19.14
+13,petroleum,6,,3.19,19.14
+13,nuclear,6,,3.19,19.14
+13,climatic,5,True,3.64,18.2
+13,temperature,5,True,3.48,17.4
+13,congestion,5,,3.19,15.95
+13,internal combustion engines,5,,3.19,15.95
+13,environmental degradation,5,,3.19,15.95
+13,ecosystems,5,,3.19,15.95
+13,sustainable development,5,,3.19,15.95
+13,ozone layer,5,,3.19,15.95
+13,organic compounds,5,,3.19,15.95
+13,ammonia,5,,3.19,15.95
+13,sulfur,5,,3.19,15.95
+13,carbon monoxide,5,,3.19,15.95
+13,benzene,5,,3.19,15.95
+13,environmentally conscious,5,,3.19,15.95
+13,environmental stewardship,5,,3.19,15.95
+13,waste,5,,3.19,15.95
+13,recycle,5,,3.19,15.95
+13,legally binding,5,,3.19,15.95
+13,wind farms,5,,3.19,15.95
+13,wind farm,5,,3.19,15.95
+13,switchgrass,5,,3.19,15.95
+13,cogeneration,5,,3.19,15.95
+13,groundwater,5,,3.19,15.95
+13,contaminants,5,,3.19,15.95
+13,fuel cell,5,,3.19,15.95
+13,aquaculture,5,,3.19,15.95
+13,smokestacks,4,,3.19,12.76
+13,desertification,4,,3.19,12.76
+13,environmentalism,4,,3.19,12.76
+13,poorer nations,4,,3.19,12.76
+13,tropical forests,4,,3.19,12.76
+13,oceans,4,,3.19,12.76
+13,melting ice,4,,3.19,12.76
+13,yvo de boer,4,,3.19,12.76
+13,globalization,4,,3.19,12.76
+13,warmer,4,,3.19,12.76
+13,el nino,4,,3.19,12.76
+13,permafrost,4,,3.19,12.76
+13,methane gas,4,,3.19,12.76
+13,chlorine,4,,3.19,12.76
+13,nitrate,4,,3.19,12.76
+13,vapors,4,,3.19,12.76
+13,chemicals,4,,3.19,12.76
+13,phosphorus,4,,3.19,12.76
+13,eco friendly,4,,3.19,12.76
+13,solar thermal,4,,3.19,12.76
+13,hydropower,4,,3.19,12.76
+13,photovoltaic,4,,3.19,12.76
+13,desalination,4,,3.19,12.76
+13,pfoa,4,,3.19,12.76
+13,wmo,4,,3.19,12.76
+13,energy agency,4,,3.19,12.76
+13,internal combustion engine,4,,3.19,12.76
+13,vegetable oils,4,,3.19,12.76
+13,hybrid electric,4,,3.19,12.76
+13,polluted,4,,3.19,12.76
+13,toxic,4,,3.19,12.76
+13,toxic waste,4,,3.19,12.76
+13,weather,4,,3.19,12.76
+13,fertilizer,4,,3.19,12.76
+13,nanotechnology,4,,3.19,12.76
+13,solar power,4,,3.19,12.76
+13,toxic substances,4,,3.19,12.76
+13,hazardous chemicals,4,,3.19,12.76
+13,toxic fumes,4,,3.19,12.76
+13,soybean,4,,3.19,12.76
+13,agribusiness,4,,3.19,12.76
+13,mitigation,3,True,7.18,21.54
+13,change,3,True,6.57,19.71
+13,footprint,3,True,6.43,19.29
+13,fossil,3,True,5.81,17.43
+13,noise,3,,3.19,9.57
+13,pachauri,3,,3.19,9.57
+13,ecology,3,,3.19,9.57
+13,environment,3,,3.19,9.57
+13,environmentalists,3,,3.19,9.57
+13,polar ice,3,,3.19,9.57
+13,warmer temperatures,3,,3.19,9.57
+13,glaciers,3,,3.19,9.57
+13,la nina,3,,3.19,9.57
+13,melting,3,,3.19,9.57
+13,el niño,3,,3.19,9.57
+13,antarctic ice,3,,3.19,9.57
+13,climatologist,3,,3.19,9.57
+13,la niña,3,,3.19,9.57
+13,algae blooms,3,,3.19,9.57
+13,vapor,3,,3.19,9.57
+13,gaseous,3,,3.19,9.57
+13,photosynthesis,3,,3.19,9.57
+13,phosphorous,3,,3.19,9.57
+13,kilowatt hours,3,,3.19,9.57
+13,nuclear arsenals,3,,3.19,9.57
+13,conserving,3,,3.19,9.57
+13,mpg,3,,3.19,9.57
+13,solar pv,3,,3.19,9.57
+13,offshore wind,3,,3.19,9.57
+13,wind turbine,3,,3.19,9.57
+13,megawatts,3,,3.19,9.57
+13,organic farming,3,,3.19,9.57
+13,solar panels,3,,3.19,9.57
+13,res,3,,3.19,9.57
+13,industrialized countries,3,,3.19,9.57
+13,industrialized nations,3,,3.19,9.57
+13,gasoline,3,,3.19,9.57
+13,incandescent bulbs,3,,3.19,9.57
+13,wood chips,3,,3.19,9.57
+13,gas guzzling,3,,3.19,9.57
+13,oil,3,,3.19,9.57
+13,asthma,3,,3.19,9.57
+13,soil erosion,3,,3.19,9.57
+13,sustainably,3,,3.19,9.57
+13,eco conscious,3,,3.19,9.57
+13,planting trees,3,,3.19,9.57
+13,natural resource,3,,3.19,9.57
+13,antarctic,3,,3.19,9.57
+13,rentech,3,,3.19,9.57
+13,bio,3,,3.19,9.57
+13,jatropha,3,,3.19,9.57
+13,crops,3,,3.19,9.57
+13,power generation,3,,3.19,9.57
+13,composting,3,,3.19,9.57
+13,harmful chemicals,3,,3.19,9.57
+13,stormwater runoff,3,,3.19,9.57
+13,hazardous waste,3,,3.19,9.57
+13,effluent,3,,3.19,9.57
+13,solvents,3,,3.19,9.57
+13,dioxin,3,,3.19,9.57
+13,chloride,3,,3.19,9.57
+13,utilities,3,,3.19,9.57
+13,hybrids,3,,3.19,9.57
+13,electric vehicle,3,,3.19,9.57
+13,agricultural,3,,3.19,9.57
+13,greenhouse,2,True,8.49,16.98
+13,global,2,True,6.42,12.84
+13,reduction,2,True,4.51,9.02
+13,zero,2,True,3.64,7.28
+13,radiation,2,,3.19,6.38
+13,obesity epidemic,2,,3.19,6.38
+13,unep,2,,3.19,6.38
+13,millennium development goals,2,,3.19,6.38
+13,greenpeace,2,,3.19,6.38
+13,overfishing,2,,3.19,6.38
+13,wwf,2,,3.19,6.38
+13,overpopulation,2,,3.19,6.38
+13,biosphere,2,,3.19,6.38
+13,natural disasters,2,,3.19,6.38
+13,obesity,2,,3.19,6.38
+13,antarctica,2,,3.19,6.38
+13,flooding,2,,3.19,6.38
+13,urbanization,2,,3.19,6.38
+13,tropics,2,,3.19,6.38
+13,droughts,2,,3.19,6.38
+13,affordable housing,2,,3.19,6.38
+13,stem cell,2,,3.19,6.38
+13,humankind,2,,3.19,6.38
+13,globalisation,2,,3.19,6.38
+13,hotter,2,,3.19,6.38
+13,northern hemisphere,2,,3.19,6.38
+13,bird flu,2,,3.19,6.38
+13,refrigerant,2,,3.19,6.38
+13,nitrous oxide,2,,3.19,6.38
+13,cosmic rays,2,,3.19,6.38
+13,helium,2,,3.19,6.38
+13,ethylene,2,,3.19,6.38
+13,phytoplankton,2,,3.19,6.38
+13,magma,2,,3.19,6.38
+13,nutrient,2,,3.19,6.38
+13,carcinogen,2,,3.19,6.38
+13,reducing,2,,3.19,6.38
+13,green,2,,3.19,6.38
+13,ash,2,,3.19,6.38
+13,metals,2,,3.19,6.38
+13,cer,2,,3.19,6.38
+13,clean,2,,3.19,6.38
+13,solar photovoltaic,2,,3.19,6.38
+13,wind turbines,2,,3.19,6.38
+13,hydroelectric,2,,3.19,6.38
+13,hydro electric,2,,3.19,6.38
+13,strategic arms reduction treaty,2,,3.19,6.38
+13,halt uranium enrichment,2,,3.19,6.38
+13,diesel fuel,2,,3.19,6.38
+13,hydrocarbons,2,,3.19,6.38
+13,gas guzzlers,2,,3.19,6.38
+13,iea,2,,3.19,6.38
+13,diesel engines,2,,3.19,6.38
+13,retrofits,2,,3.19,6.38
+13,retrofit,2,,3.19,6.38
+13,retrofitting,2,,3.19,6.38
+13,reforestation,2,,3.19,6.38
+13,contamination,2,,3.19,6.38
+13,asbestos,2,,3.19,6.38
+13,poverty,2,,3.19,6.38
+13,oil sands,2,,3.19,6.38
+13,incineration,2,,3.19,6.38
+13,crude oil,2,,3.19,6.38
+13,reduce,2,,3.19,6.38
+13,earth hour,2,,3.19,6.38
+13,energy saving,2,,3.19,6.38
+13,sequestration,2,,3.19,6.38
+13,coalbed methane,2,,3.19,6.38
+13,soils,2,,3.19,6.38
+13,shale gas,2,,3.19,6.38
+13,hydrology,2,,3.19,6.38
+13,treaty,2,,3.19,6.38
+13,lisbon treaty,2,,3.19,6.38
+13,apec,2,,3.19,6.38
+13,de boer,2,,3.19,6.38
+13,wto,2,,3.19,6.38
+13,diesels,2,,3.19,6.38
+13,ev,2,,3.19,6.38
+13,chromium,2,,3.19,6.38
+13,warm,2,,3.19,6.38
+13,cold,2,,3.19,6.38
+13,chilly,2,,3.19,6.38
+13,temperatures,2,,3.19,6.38
+13,cooler,2,,3.19,6.38
+13,heating,2,,3.19,6.38
+13,cooling,2,,3.19,6.38
+13,wetter,2,,3.19,6.38
+13,chill,2,,3.19,6.38
+13,ice age,2,,3.19,6.38
+13,tropical,2,,3.19,6.38
+13,composites,2,,3.19,6.38
+13,cellulose,2,,3.19,6.38
+13,##mw,2,,3.19,6.38
+13,pcbs,2,,3.19,6.38
+13,hazardous substances,2,,3.19,6.38
+13,sediment,2,,3.19,6.38
+13,nitrates,2,,3.19,6.38
+13,odors,2,,3.19,6.38
+13,toxin,2,,3.19,6.38
+13,dust particles,2,,3.19,6.38
+13,bacteria,2,,3.19,6.38
+13,secondhand smoke,2,,3.19,6.38
+13,cigarette smoke,2,,3.19,6.38
+13,sulfuric acid,2,,3.19,6.38
+13,radon,2,,3.19,6.38
+13,organics,2,,3.19,6.38
+13,pesticide,2,,3.19,6.38
+13,environmental quality,2,,3.19,6.38
+13,ultraviolet radiation,2,,3.19,6.38
+13,volcanic eruptions,2,,3.19,6.38
+13,ocean currents,2,,3.19,6.38
+13,phthalates,2,,3.19,6.38
+13,###mw,2,,3.19,6.38
+13,megawatt,2,,3.19,6.38
+13,e.on,2,,3.19,6.38
+13,electric vehicles,2,,3.19,6.38
+13,nrel,2,,3.19,6.38
+13,kilowatt hour,2,,3.19,6.38
+13,doe,2,,3.19,6.38
+13,electric utilities,2,,3.19,6.38
+13,propane,2,,3.19,6.38
+13,kwh,2,,3.19,6.38
+13,environmentally,2,,3.19,6.38
+13,compostable,2,,3.19,6.38
+13,recyclable,2,,3.19,6.38
+13,tco,2,,3.19,6.38
+13,datacentre,2,,3.19,6.38
+13,consumption,2,,3.19,6.38
+13,recycled materials,2,,3.19,6.38
+13,carpooling,2,,3.19,6.38
+13,socially responsible,2,,3.19,6.38
+13,calorie intake,2,,3.19,6.38
+13,reusing,2,,3.19,6.38
+13,light bulbs,2,,3.19,6.38
+13,salt intake,2,,3.19,6.38
+13,usage,2,,3.19,6.38
+13,biotech,2,,3.19,6.38
+13,biotechnology,2,,3.19,6.38
+13,agri,2,,3.19,6.38
+13,genetically modified crops,2,,3.19,6.38
+13,sugarcane,2,,3.19,6.38
+13,innovation,2,,3.19,6.38
+13,conserve,2,,3.19,6.38
+13,climate warming,1,True,16.45,16.45
+13,global climate,1,True,14.22,14.22
+13,co2 emission,1,True,12.52,12.52
+13,gas emissions,1,True,10.55,10.55
+13,carbon conversion,1,True,9.53,9.53
+13,capture,1,True,8.6,8.6
+13,co2 reduction,1,True,8.17,8.17
+13,effects climate,1,True,7.91,7.91
+13,carbon removal,1,True,7.04,7.04
+13,carbon reduction,1,True,6.9,6.9
+13,dioxide,1,True,6.64,6.64
+13,dioxide emissions,1,True,6.49,6.49
+13,global change,1,True,6.45,6.45
+13,adaptation,1,True,6.32,6.32
+13,co2 capture,1,True,6.3,6.3
+13,co2 injection,1,True,6.27,6.27
+13,co2 storage,1,True,6.12,6.12
+13,sea level,1,True,6.09,6.09
+13,reduction co2,1,True,6.05,6.05
+13,ccs,1,True,6.05,6.05
+13,dry reforming,1,True,5.75,5.75
+13,climate policy,1,True,5.66,5.66
+13,sea,1,True,5.41,5.41
+13,marine,1,True,5.35,5.35
+13,emissions trading,1,True,4.81,4.81
+13,dioxide emission,1,True,4.65,4.65
+13,anthropogenic,1,True,4.62,4.62
+13,salt tolerant,1,True,4.53,4.53
+13,tolerant,1,True,4.46,4.46
+13,environmental impact,1,True,4.31,4.31
+13,trading,1,True,4.24,4.24
+13,cap trade,1,True,4.23,4.23
+13,conversion,1,True,4.17,4.17
+13,co2 removal,1,True,4.15,4.15
+13,coastal,1,True,4.14,4.14
+13,flood,1,True,4.13,4.13
+13,amine,1,True,4.13,4.13
+13,crop improvement,1,True,4.05,4.05
+13,ch4,1,True,4.04,4.04
+13,photoreduction,1,True,4.02,4.02
+13,co2 laser,1,True,3.91,3.91
+13,anthropogenic climate,1,True,3.9,3.9
+13,reduce co2,1,True,3.81,3.81
+13,paris agreement,1,True,3.71,3.71
+13,ch,1,True,3.71,3.71
+13,capture storage,1,True,3.68,3.68
+13,11c,1,True,3.68,3.68
+13,oil recovery,1,True,3.66,3.66
+13,injection,1,True,3.63,3.63
+13,reforming,1,True,3.62,3.62
+13,change impacts,1,True,3.57,3.57
+13,storage,1,True,3.44,3.44
+13,paris,1,True,3.41,3.41
+13,laser,1,True,3.41,3.41
+13,gas emission,1,True,3.4,3.4
+13,hydrogenation,1,True,3.39,3.39
+13,photocatalytic reduction,1,True,3.37,3.37
+13,looping,1,True,3.3,3.3
+13,water resources,1,True,3.24,3.24
+13,emission scanning,1,True,3.2,3.2
+13,carbonation,1,True,3.19,3.19
+13,tariffs,1,,3.19,3.19
+13,subsidies,1,,3.19,3.19
+13,an inconvenient truth,1,,3.19,3.19
+13,poverty eradication,1,,3.19,3.19
+13,rainforests,1,,3.19,3.19
+13,pandemics,1,,3.19,3.19
+13,mdgs,1,,3.19,3.19
+13,severe weather,1,,3.19,3.19
+13,planet,1,,3.19,3.19
+13,polar bears,1,,3.19,3.19
+13,manmade,1,,3.19,3.19
+13,identity theft,1,,3.19,3.19
+13,swine flu,1,,3.19,3.19
+13,strong winds,1,,3.19,3.19
+13,cell phones,1,,3.19,3.19
+13,wildfires,1,,3.19,3.19
+13,floods,1,,3.19,3.19
+13,lung cancer,1,,3.19,3.19
+13,antibiotic resistance,1,,3.19,3.19
+13,forest fires,1,,3.19,3.19
+13,surging,1,,3.19,3.19
+13,deniers,1,,3.19,3.19
+13,ignoring,1,,3.19,3.19
+13,breast cancer,1,,3.19,3.19
+13,nitric oxide,1,,3.19,3.19
+13,respiration,1,,3.19,3.19
+13,byproducts,1,,3.19,3.19
+13,nutrients,1,,3.19,3.19
+13,naturally occurring,1,,3.19,3.19
+13,neutrons,1,,3.19,3.19
+13,sugars,1,,3.19,3.19
+13,earth crust,1,,3.19,3.19
+13,fructose,1,,3.19,3.19
+13,oxygen,1,,3.19,3.19
+13,preservative,1,,3.19,3.19
+13,achievable,1,,3.19,3.19
+13,halving,1,,3.19,3.19
+13,achieving,1,,3.19,3.19
+13,mineral,1,,3.19,3.19
+13,iron,1,,3.19,3.19
+13,cap,1,,3.19,3.19
+13,elk,1,,3.19,3.19
+13,thermal,1,,3.19,3.19
+13,paint,1,,3.19,3.19
+13,silicon,1,,3.19,3.19
+13,metal,1,,3.19,3.19
+13,scrap,1,,3.19,3.19
+13,flat,1,,3.19,3.19
+13,aluminium,1,,3.19,3.19
+13,forge,1,,3.19,3.19
+13,lime,1,,3.19,3.19
+13,thin,1,,3.19,3.19
+13,ez,1,,3.19,3.19
+13,cycle,1,,3.19,3.19
+13,dynamic,1,,3.19,3.19
+13,c##,1,,3.19,3.19
+13,liquid,1,,3.19,3.19
+13,micro,1,,3.19,3.19
+13,import tariffs,1,,3.19,3.19
+13,cloud computing,1,,3.19,3.19
+13,agriculture,1,,3.19,3.19
+13,diversification,1,,3.19,3.19
+13,ecotourism,1,,3.19,3.19
+13,atomic weapons,1,,3.19,3.19
+13,intergovernmental panel,1,,3.19,3.19
+13,fissile material,1,,3.19,3.19
+13,suspend uranium enrichment,1,,3.19,3.19
+13,nuclear weapons,1,,3.19,3.19
+13,suspend enrichment,1,,3.19,3.19
+13,uranium enrichment,1,,3.19,3.19
+13,arable land,1,,3.19,3.19
+13,rare earths,1,,3.19,3.19
+13,sewage,1,,3.19,3.19
+13,litter,1,,3.19,3.19
+13,water quality,1,,3.19,3.19
+13,oil spill,1,,3.19,3.19
+13,corruption,1,,3.19,3.19
+13,piracy,1,,3.19,3.19
+13,cleaner,1,,3.19,3.19
+13,dumping,1,,3.19,3.19
+13,hazardous,1,,3.19,3.19
+13,exposure,1,,3.19,3.19
+13,garbage,1,,3.19,3.19
+13,accidents,1,,3.19,3.19
+13,drinking,1,,3.19,3.19
+13,spill,1,,3.19,3.19
+13,drowning,1,,3.19,3.19
+13,fatigue,1,,3.19,3.19
+13,smoking,1,,3.19,3.19
+13,clean up,1,,3.19,3.19
+13,clean water,1,,3.19,3.19
+13,tuberculosis,1,,3.19,3.19
+13,doping,1,,3.19,3.19
+13,traffic,1,,3.19,3.19
+13,speeding,1,,3.19,3.19
+13,liability,1,,3.19,3.19
+13,oilsands,1,,3.19,3.19
+13,liquefied natural gas,1,,3.19,3.19
+13,ease congestion,1,,3.19,3.19
+13,reductions,1,,3.19,3.19
+13,rangeland,1,,3.19,3.19
+13,remote sensing,1,,3.19,3.19
+13,tillage,1,,3.19,3.19
+13,wildlife habitat,1,,3.19,3.19
+13,tree planting,1,,3.19,3.19
+13,cropland,1,,3.19,3.19
+13,watersheds,1,,3.19,3.19
+13,shale,1,,3.19,3.19
+13,natural resources conservation,1,,3.19,3.19
+13,conservation easements,1,,3.19,3.19
+13,futuregen,1,,3.19,3.19
+13,forestry,1,,3.19,3.19
+13,un framework convention,1,,3.19,3.19
+13,treaties,1,,3.19,3.19
+13,accord,1,,3.19,3.19
+13,non proliferation treaty,1,,3.19,3.19
+13,framework convention,1,,3.19,3.19
+13,world trade organisation,1,,3.19,3.19
+13,g8,1,,3.19,3.19
+13,accords,1,,3.19,3.19
+13,rome statute,1,,3.19,3.19
+13,pact,1,,3.19,3.19
+13,non proliferation,1,,3.19,3.19
+13,stephane dion,1,,3.19,3.19
+13,npt,1,,3.19,3.19
+13,treaty npt,1,,3.19,3.19
+13,doha round,1,,3.19,3.19
+13,apec summit,1,,3.19,3.19
+13,nuclear nonproliferation treaty,1,,3.19,3.19
+13,multilateral,1,,3.19,3.19
+13,peace treaty,1,,3.19,3.19
+13,trade organization,1,,3.19,3.19
+13,start treaty,1,,3.19,3.19
+13,partnership agreement,1,,3.19,3.19
+13,softwood lumber,1,,3.19,3.19
+13,commercial whaling,1,,3.19,3.19
+13,kevin rudd,1,,3.19,3.19
+13,multilateralism,1,,3.19,3.19
+13,geneva conventions,1,,3.19,3.19
+13,protocol,1,,3.19,3.19
+13,nafta,1,,3.19,3.19
+13,g8 summit,1,,3.19,3.19
+13,kim beazley,1,,3.19,3.19
+13,mr rudd,1,,3.19,3.19
+13,nuclear non proliferation,1,,3.19,3.19
+13,united nations,1,,3.19,3.19
+13,economic cooperation forum,1,,3.19,3.19
+13,predecessor george w.,1,,3.19,3.19
+13,action plan,1,,3.19,3.19
+13,un,1,,3.19,3.19
+13,oecd,1,,3.19,3.19
+13,george w,1,,3.19,3.19
+13,disarmament,1,,3.19,3.19
+13,nuclear disarmament,1,,3.19,3.19
+13,pulp mill,1,,3.19,3.19
+13,voc,1,,3.19,3.19
+13,diesel powered,1,,3.19,3.19
+13,diesel engine,1,,3.19,3.19
+13,cru,1,,3.19,3.19
+13,governance,1,,3.19,3.19
+13,forests,1,,3.19,3.19
+13,natural resources defense,1,,3.19,3.19
+13,atmospheric research,1,,3.19,3.19
+13,commodity,1,,3.19,3.19
+13,warms,1,,3.19,3.19
+13,warmed,1,,3.19,3.19
+13,changing,1,,3.19,3.19
+13,icy,1,,3.19,3.19
+13,shifting,1,,3.19,3.19
+13,freezing,1,,3.19,3.19
+13,cool,1,,3.19,3.19
+13,colder,1,,3.19,3.19
+13,dry,1,,3.19,3.19
+13,warmest,1,,3.19,3.19
+13,opening,1,,3.19,3.19
+13,slow,1,,3.19,3.19
+13,rainy,1,,3.19,3.19
+13,thawing,1,,3.19,3.19
+13,hot humid,1,,3.19,3.19
+13,drier,1,,3.19,3.19
+13,frozen,1,,3.19,3.19
+13,wet,1,,3.19,3.19
+13,crowded,1,,3.19,3.19
+13,slowing,1,,3.19,3.19
+13,melt,1,,3.19,3.19
+13,shrinking,1,,3.19,3.19
+13,hunger,1,,3.19,3.19
+13,shifts,1,,3.19,3.19
+13,cools,1,,3.19,3.19
+13,toasty,1,,3.19,3.19
+13,snowfall,1,,3.19,3.19
+13,ice,1,,3.19,3.19
+13,mother nature,1,,3.19,3.19
+13,recession,1,,3.19,3.19
+13,cooler temperatures,1,,3.19,3.19
+13,heat,1,,3.19,3.19
+13,slowdown,1,,3.19,3.19
+13,blowing,1,,3.19,3.19
+13,sleeping,1,,3.19,3.19
+13,meltdown,1,,3.19,3.19
+13,shaping,1,,3.19,3.19
+13,sliding,1,,3.19,3.19
+13,keeping,1,,3.19,3.19
+13,burning,1,,3.19,3.19
+13,harsh,1,,3.19,3.19
+13,shaking,1,,3.19,3.19
+13,sinking,1,,3.19,3.19
+13,thaw,1,,3.19,3.19
+13,tsunami,1,,3.19,3.19
+13,lignite,1,,3.19,3.19
+13,boilers,1,,3.19,3.19
+13,incinerator,1,,3.19,3.19
+13,rps,1,,3.19,3.19
+13,biosolids,1,,3.19,3.19
+13,sediments,1,,3.19,3.19
+13,waterways,1,,3.19,3.19
+13,silt,1,,3.19,3.19
+13,raw sewage,1,,3.19,3.19
+13,particles,1,,3.19,3.19
+13,landfills,1,,3.19,3.19
+13,allergens,1,,3.19,3.19
+13,discharges,1,,3.19,3.19
+13,hydrocarbon,1,,3.19,3.19
+13,manure,1,,3.19,3.19
+13,anhydrous ammonia,1,,3.19,3.19
+13,fracking,1,,3.19,3.19
+13,debris,1,,3.19,3.19
+13,marcellus shale,1,,3.19,3.19
+13,traffic congestion,1,,3.19,3.19
+13,respiratory illnesses,1,,3.19,3.19
+13,passive smoking,1,,3.19,3.19
+13,respiratory diseases,1,,3.19,3.19
+13,lung diseases,1,,3.19,3.19
+13,respiratory illness,1,,3.19,3.19
+13,lung association,1,,3.19,3.19
+13,urban sprawl,1,,3.19,3.19
+13,lung disease,1,,3.19,3.19
+13,cigarette smoking,1,,3.19,3.19
+13,industrial revolution,1,,3.19,3.19
+13,humans,1,,3.19,3.19
+13,iberdrola,1,,3.19,3.19
+13,vestas,1,,3.19,3.19
+13,turbines,1,,3.19,3.19
+13,gamesa,1,,3.19,3.19
+13,rwe,1,,3.19,3.19
+13,mw,1,,3.19,3.19
+13,megawatts mw,1,,3.19,3.19
+13,turbine,1,,3.19,3.19
+13,mwh,1,,3.19,3.19
+13,masdar,1,,3.19,3.19
+13,sempra,1,,3.19,3.19
+13,vattenfall,1,,3.19,3.19
+13,sunpower,1,,3.19,3.19
+13,nrg energy,1,,3.19,3.19
+13,cpv,1,,3.19,3.19
+13,energy doe,1,,3.19,3.19
+13,power,1,,3.19,3.19
+13,minerals,1,,3.19,3.19
+13,resources,1,,3.19,3.19
+13,mineral resources,1,,3.19,3.19
+13,electric power,1,,3.19,3.19
+13,energies,1,,3.19,3.19
+13,exploration,1,,3.19,3.19
+13,utility,1,,3.19,3.19
+13,natural resources,1,,3.19,3.19
+13,commerce,1,,3.19,3.19
+13,mining,1,,3.19,3.19
+13,public utility,1,,3.19,3.19
+13,telecom,1,,3.19,3.19
+13,energy regulatory commission,1,,3.19,3.19
+13,electric,1,,3.19,3.19
+13,bodman,1,,3.19,3.19
+13,xcel energy,1,,3.19,3.19
+13,uranium,1,,3.19,3.19
+13,infrastructure,1,,3.19,3.19
+13,bg group,1,,3.19,3.19
+13,national grid,1,,3.19,3.19
+13,power plant,1,,3.19,3.19
+13,reliant energy,1,,3.19,3.19
+13,nuclear power,1,,3.19,3.19
+13,secretary steven chu,1,,3.19,3.19
+13,transportation,1,,3.19,3.19
+13,recycled,1,,3.19,3.19
+13,cost,1,,3.19,3.19
+13,leed certified,1,,3.19,3.19
+13,efficiencies,1,,3.19,3.19
+13,recycles,1,,3.19,3.19
+13,leed certification,1,,3.19,3.19
+13,costs,1,,3.19,3.19
+13,recyclable materials,1,,3.19,3.19
+13,noxious,1,,3.19,3.19
+13,carcinogenic,1,,3.19,3.19
+13,clean water act,1,,3.19,3.19
+13,superfund site,1,,3.19,3.19
+13,perchlorate,1,,3.19,3.19
+13,toxicity,1,,3.19,3.19
+13,manganese,1,,3.19,3.19
+13,scrubbers,1,,3.19,3.19
+13,smokestack,1,,3.19,3.19
+13,tritium,1,,3.19,3.19
+13,iodine,1,,3.19,3.19
+13,radioactivity,1,,3.19,3.19
+13,formaldehyde,1,,3.19,3.19
+13,grains,1,,3.19,3.19
+13,plastics,1,,3.19,3.19
+13,commodities,1,,3.19,3.19
+13,dairy,1,,3.19,3.19
+13,refining,1,,3.19,3.19
+13,grain,1,,3.19,3.19
+13,gmos,1,,3.19,3.19
+13,farming,1,,3.19,3.19
+13,packaging,1,,3.19,3.19
+13,soybeans,1,,3.19,3.19
+13,gmo,1,,3.19,3.19
+13,pacific ethanol,1,,3.19,3.19
+13,lithium ion,1,,3.19,3.19
+13,cng,1,,3.19,3.19
+13,hybrid,1,,3.19,3.19
+13,lithium ion batteries,1,,3.19,3.19
+13,lithium ion battery,1,,3.19,3.19
+13,better place,1,,3.19,3.19
+13,methanol,1,,3.19,3.19
+13,solar cells,1,,3.19,3.19
+13,chevy volt,1,,3.19,3.19
+13,compressed natural,1,,3.19,3.19
+13,volt,1,,3.19,3.19
+13,chevrolet volt,1,,3.19,3.19
+13,commercialization,1,,3.19,3.19
+13,flex fuel,1,,3.19,3.19
+13,climatic conditions,1,,3.19,3.19
+13,climactic,1,,3.19,3.19
+13,salinity,1,,3.19,3.19
+13,climates,1,,3.19,3.19
+13,meteorological,1,,3.19,3.19
+13,oceanic,1,,3.19,3.19
+13,glacial,1,,3.19,3.19
+13,topography,1,,3.19,3.19
+13,tectonic,1,,3.19,3.19
+13,socio,1,,3.19,3.19
+13,geologic,1,,3.19,3.19
+13,phenomena,1,,3.19,3.19
+13,latitudes,1,,3.19,3.19
+13,cataclysmic,1,,3.19,3.19
+13,geological,1,,3.19,3.19
+13,planetary,1,,3.19,3.19
+13,natural calamities,1,,3.19,3.19
+13,geopolitical,1,,3.19,3.19
+13,wind shear,1,,3.19,3.19
+13,monsoon,1,,3.19,3.19
+13,polar,1,,3.19,3.19
+13,temperate,1,,3.19,3.19
+13,geopolitics,1,,3.19,3.19
+13,cataclysm,1,,3.19,3.19
+13,socio cultural,1,,3.19,3.19
+13,physiological,1,,3.19,3.19
+13,epoch,1,,3.19,3.19
+13,dynamics,1,,3.19,3.19
+13,monsoons,1,,3.19,3.19
+13,dryness,1,,3.19,3.19
+13,volcanic activity,1,,3.19,3.19
+13,sociological,1,,3.19,3.19
+13,species,1,,3.19,3.19
+13,altitude,1,,3.19,3.19
+13,rainfall,1,,3.19,3.19
+13,fauna,1,,3.19,3.19
+13,humidity,1,,3.19,3.19
+13,precipitation,1,,3.19,3.19
+13,arid,1,,3.19,3.19
+13,fertilization,1,,3.19,3.19
+13,deformation,1,,3.19,3.19
+13,cyclones,1,,3.19,3.19
+13,extinction,1,,3.19,3.19
+13,degree celsius,1,,3.19,3.19
+13,gravity,1,,3.19,3.19
+13,extremes,1,,3.19,3.19
+13,microbial,1,,3.19,3.19
+13,datacenters,1,,3.19,3.19
+13,roi,1,,3.19,3.19
+13,supply chains,1,,3.19,3.19
+13,fleets,1,,3.19,3.19
+13,calorie,1,,3.19,3.19
+13,datacenter,1,,3.19,3.19
+13,energy efficient,1,,3.19,3.19
+13,energy star,1,,3.19,3.19
+13,mileage,1,,3.19,3.19
+13,sugar cane,1,,3.19,3.19
+13,corn,1,,3.19,3.19
+13,soy,1,,3.19,3.19
+13,sorghum,1,,3.19,3.19
+13,palm oil,1,,3.19,3.19
+13,organic,1,,3.19,3.19
+13,sugar beet,1,,3.19,3.19
+13,emerging economies,1,,3.19,3.19
+13,industrialized,1,,3.19,3.19
+13,steelmakers,1,,3.19,3.19
+13,nations,1,,3.19,3.19
+13,economies,1,,3.19,3.19
+13,isps,1,,3.19,3.19
+13,chipmakers,1,,3.19,3.19
+13,veto wielding,1,,3.19,3.19
+13,g##,1,,3.19,3.19
+13,manufacturers,1,,3.19,3.19
+13,carmakers,1,,3.19,3.19
+13,bric countries,1,,3.19,3.19
+13,oems,1,,3.19,3.19
+13,handset manufacturers,1,,3.19,3.19
+13,recyclers,1,,3.19,3.19
+13,blocs,1,,3.19,3.19
+13,g7,1,,3.19,3.19
+13,handset makers,1,,3.19,3.19
+13,wireless carriers,1,,3.19,3.19
+13,automakers,1,,3.19,3.19
+13,lcds,1,,3.19,3.19
+13,tpp,1,,3.19,3.19
+13,slash,1,,3.19,3.19
+13,stabilize,1,,3.19,3.19
+13,alleviate poverty,1,,3.19,3.19
+13,mitigate,1,,3.19,3.19
+13,halve,1,,3.19,3.19
+13,revitalize,1,,3.19,3.19
+13,stimulate,1,,3.19,3.19
+13,incentivize,1,,3.19,3.19
+13,curb,1,,3.19,3.19

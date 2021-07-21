@@ -1,0 +1,1907 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+10,immigration,43,True,9.18,394.74
+10,migrants,43,True,4.8,206.4
+10,immigrants,43,,4.42,190.06
+10,immigrant,40,True,4.42,176.8
+10,migrant,38,True,5.48,208.24
+10,refugee,34,True,5.32,180.88
+10,refugees,34,,4.42,150.28
+10,illegal immigrants,31,,4.42,137.02
+10,discrimination,30,True,7.65,229.5
+10,racism,29,,4.42,128.18
+10,asylum seekers,23,True,5.59,128.57
+10,deportees,22,,4.42,97.24
+10,affirmative action,21,True,8.34,175.14
+10,illegal migrants,21,,4.42,92.82
+10,asylum,20,True,10.86,217.2
+10,inequality,20,True,6.95,139.0
+10,citizenship,20,,4.42,88.4
+10,deportations,20,,4.42,88.4
+10,equality,20,,4.42,88.4
+10,inequalities,19,True,11.73,222.87
+10,migration,19,True,10.19,193.60999999999999
+10,undocumented,19,True,7.41,140.79
+10,racial,19,True,6.89,130.91
+10,immigrate,19,,4.42,83.98
+10,minorities,19,,4.42,83.98
+10,gender,19,,4.42,83.98
+10,migrant workers,18,True,11.63,209.34
+10,racial discrimination,18,True,7.71,138.78
+10,illegal immigrant,18,,4.42,79.56
+10,deported,18,,4.42,79.56
+10,asylum seeker,18,,4.42,79.56
+10,poverty,18,,4.42,79.56
+10,disparities,17,True,18.43,313.31
+10,segregation,17,True,5.09,86.53
+10,undocumented immigrants,17,,4.42,75.14
+10,inequities,16,True,7.71,123.36
+10,injustice,16,True,5.34,85.44
+10,illegals,16,,4.42,70.72
+10,immigration reform,16,,4.42,70.72
+10,inequity,15,True,4.97,74.55
+10,undocumented workers,15,,4.42,66.3
+10,illegal aliens,15,,4.42,66.3
+10,illegal alien,15,,4.42,66.3
+10,deport,15,,4.42,66.3
+10,emigrants,14,,4.42,61.879999999999995
+10,deportation,14,,4.42,61.879999999999995
+10,deporting,14,,4.42,61.879999999999995
+10,refugee status,14,,4.42,61.879999999999995
+10,detention,13,,4.42,57.46
+10,granted asylum,13,,4.42,57.46
+10,injustices,13,,4.42,57.46
+10,racial prejudice,13,,4.42,57.46
+10,emigration,12,True,5.81,69.72
+10,foreigners,12,,4.42,53.04
+10,illegal immigration,12,,4.42,53.04
+10,blacks,12,,4.42,53.04
+10,permanent residency,12,,4.42,53.04
+10,racial segregation,12,,4.42,53.04
+10,gender discrimination,12,,4.42,53.04
+10,sexism,12,,4.42,53.04
+10,resettlement,12,,4.42,53.04
+10,civil rights,12,,4.42,53.04
+10,prejudice,12,,4.42,53.04
+10,persecution,12,,4.42,53.04
+10,remittances,11,True,9.6,105.6
+10,disparity,11,True,9.11,100.21
+10,mexicans,11,,4.42,48.62
+10,detainees,11,,4.42,48.62
+10,visas,11,,4.42,48.62
+10,amnesty,11,,4.42,48.62
+10,unequal,11,,4.42,48.62
+10,marginalization,11,,4.42,48.62
+10,unfairness,11,,4.42,48.62
+10,gender bias,11,,4.42,48.62
+10,resettle,11,,4.42,48.62
+10,bigotry,11,,4.42,48.62
+10,racial bias,11,,4.42,48.62
+10,prisoners,10,,4.42,44.2
+10,farmworkers,10,,4.42,44.2
+10,laborers,10,,4.42,44.2
+10,racial profiling,10,,4.42,44.2
+10,population,10,,4.42,44.2
+10,deprivation,10,,4.42,44.2
+10,underdevelopment,10,,4.42,44.2
+10,displaced persons,10,,4.42,44.2
+10,refugees fleeing,10,,4.42,44.2
+10,homophobia,10,,4.42,44.2
+10,bullying,10,,4.42,44.2
+10,discriminatory,10,,4.42,44.2
+10,bangladeshis,9,,4.42,39.78
+10,emigrate,9,,4.42,39.78
+10,visa,9,,4.42,39.78
+10,human rights,9,,4.42,39.78
+10,gender equality,9,,4.42,39.78
+10,oppression,9,,4.42,39.78
+10,bias,9,,4.42,39.78
+10,bank,8,True,6.26,50.08
+10,banking,8,True,5.3,42.4
+10,socioeconomic,8,True,5.06,40.48
+10,latinos,8,,4.42,35.36
+10,criminals,8,,4.42,35.36
+10,evacuees,8,,4.42,35.36
+10,smugglers,8,,4.42,35.36
+10,human trafficking,8,,4.42,35.36
+10,expatriates,8,,4.42,35.36
+10,refugee camps,8,,4.42,35.36
+10,inequitable,8,,4.42,35.36
+10,backwardness,8,,4.42,35.36
+10,racial divide,8,,4.42,35.36
+10,disenfranchisement,8,,4.42,35.36
+10,genocide,8,,4.42,35.36
+10,sudanese refugees,8,,4.42,35.36
+10,resettled,8,,4.42,35.36
+10,internally displaced persons,8,,4.42,35.36
+10,racist,8,,4.42,35.36
+10,hatred,8,,4.42,35.36
+10,slavery,8,,4.42,35.36
+10,diversity,8,,4.42,35.36
+10,apartheid,8,,4.42,35.36
+10,racial equality,8,,4.42,35.36
+10,lender,8,,4.42,35.36
+10,lending,8,,4.42,35.36
+10,mortgage,8,,4.42,35.36
+10,banks,7,True,4.9,34.300000000000004
+10,hispanics,7,,4.42,30.939999999999998
+10,families,7,,4.42,30.939999999999998
+10,gays,7,,4.42,30.939999999999998
+10,homelands,7,,4.42,30.939999999999998
+10,immigrating,7,,4.42,30.939999999999998
+10,uninsured,7,,4.42,30.939999999999998
+10,migrant worker,7,,4.42,30.939999999999998
+10,widening gap,7,,4.42,30.939999999999998
+10,imbalance,7,,4.42,30.939999999999998
+10,social ills,7,,4.42,30.939999999999998
+10,distortions,7,,4.42,30.939999999999998
+10,divisiveness,7,,4.42,30.939999999999998
+10,religious intolerance,7,,4.42,30.939999999999998
+10,unhcr,7,,4.42,30.939999999999998
+10,un refugee,7,,4.42,30.939999999999998
+10,homelessness,7,,4.42,30.939999999999998
+10,gay marriage,7,,4.42,30.939999999999998
+10,anti semitism,7,,4.42,30.939999999999998
+10,racial tension,7,,4.42,30.939999999999998
+10,stereotyping,7,,4.42,30.939999999999998
+10,racial tensions,7,,4.42,30.939999999999998
+10,hate crimes,7,,4.42,30.939999999999998
+10,harassment,7,,4.42,30.939999999999998
+10,prejudices,7,,4.42,30.939999999999998
+10,ethnicity,7,,4.42,30.939999999999998
+10,victimization,7,,4.42,30.939999999999998
+10,ethnic minorities,7,,4.42,30.939999999999998
+10,religious persecution,7,,4.42,30.939999999999998
+10,biases,7,,4.42,30.939999999999998
+10,nationals,7,,4.42,30.939999999999998
+10,borrowers,7,,4.42,30.939999999999998
+10,guatemalans,6,,4.42,26.52
+10,victims,6,,4.42,26.52
+10,haitians,6,,4.42,26.52
+10,displaced,6,,4.42,26.52
+10,ethnic,6,,4.42,26.52
+10,expats,6,,4.42,26.52
+10,immigrated,6,,4.42,26.52
+10,consular,6,,4.42,26.52
+10,border,6,,4.42,26.52
+10,naturalization,6,,4.42,26.52
+10,employment,6,,4.42,26.52
+10,passport,6,,4.42,26.52
+10,tourist visa,6,,4.42,26.52
+10,educational attainment,6,,4.42,26.52
+10,imbalances,6,,4.42,26.52
+10,infant mortality,6,,4.42,26.52
+10,nots,6,,4.42,26.52
+10,repression,6,,4.42,26.52
+10,socio economic,6,,4.42,26.52
+10,underfunding,6,,4.42,26.52
+10,dropout rates,6,,4.42,26.52
+10,refugee agency,6,,4.42,26.52
+10,orphans,6,,4.42,26.52
+10,refugees unhcr,6,,4.42,26.52
+10,diaspora,6,,4.42,26.52
+10,transgender,6,,4.42,26.52
+10,ignorance,6,,4.42,26.52
+10,somalis,6,,4.42,26.52
+10,repatriation,6,,4.42,26.52
+10,terror suspects,6,,4.42,26.52
+10,gaps,6,,4.42,26.52
+10,inefficiencies,6,,4.42,26.52
+10,differences,6,,4.42,26.52
+10,contradictions,6,,4.42,26.52
+10,divide,6,,4.42,26.52
+10,inadequacies,6,,4.42,26.52
+10,discrepancies,6,,4.42,26.52
+10,convicts,6,,4.42,26.52
+10,interracial,6,,4.42,26.52
+10,unjust,6,,4.42,26.52
+10,emigrating,6,,4.42,26.52
+10,stateless,6,,4.42,26.52
+10,justice,5,True,5.89,29.45
+10,inmates,5,,4.42,22.1
+10,employers,5,,4.42,22.1
+10,terrorists,5,,4.42,22.1
+10,latino,5,,4.42,22.1
+10,border patrol,5,,4.42,22.1
+10,legal aid,5,,4.42,22.1
+10,terrorism,5,,4.42,22.1
+10,religious,5,,4.42,22.1
+10,ofws,5,,4.42,22.1
+10,women,5,,4.42,22.1
+10,homeless,5,,4.42,22.1
+10,advocacy,5,,4.42,22.1
+10,humanitarian,5,,4.42,22.1
+10,environmental degradation,5,,4.42,22.1
+10,globalization,5,,4.42,22.1
+10,illiteracy,5,,4.42,22.1
+10,maternal mortality,5,,4.42,22.1
+10,poorer,5,,4.42,22.1
+10,internally displaced,5,,4.42,22.1
+10,disability,5,,4.42,22.1
+10,exiles,5,,4.42,22.1
+10,domestic violence,5,,4.42,22.1
+10,abortion,5,,4.42,22.1
+10,racists,5,,4.42,22.1
+10,intolerance,5,,4.42,22.1
+10,sexuality,5,,4.42,22.1
+10,internally displaced persons idps,5,,4.42,22.1
+10,discriminated,5,,4.42,22.1
+10,discriminated against,5,,4.42,22.1
+10,discriminate,5,,4.42,22.1
+10,discriminates,5,,4.42,22.1
+10,illegally,5,,4.42,22.1
+10,lawbreakers,5,,4.42,22.1
+10,expulsions,5,,4.42,22.1
+10,fairer,5,,4.42,22.1
+10,gypsies,5,,4.42,22.1
+10,arrivals,5,,4.42,22.1
+10,jim crow,5,,4.42,22.1
+10,naacp,5,,4.42,22.1
+10,abuses,5,,4.42,22.1
+10,unskilled,5,,4.42,22.1
+10,repatriated,5,,4.42,22.1
+10,bankers,5,,4.42,22.1
+10,loan,5,,4.42,22.1
+10,credit,5,,4.42,22.1
+10,lenders,5,,4.42,22.1
+10,mortgages,5,,4.42,22.1
+10,equal,4,True,8.3,33.2
+10,financial,4,True,8.27,33.08
+10,subprime,4,True,4.62,18.48
+10,reunification,4,True,4.6,18.4
+10,businesses,4,,4.42,17.68
+10,workers,4,,4.42,17.68
+10,natives,4,,4.42,17.68
+10,tourists,4,,4.42,17.68
+10,offenders,4,,4.42,17.68
+10,uscis,4,,4.42,17.68
+10,ice,4,,4.42,17.68
+10,e verify,4,,4.42,17.68
+10,worker,4,,4.42,17.68
+10,traffickers,4,,4.42,17.68
+10,farmworker,4,,4.42,17.68
+10,multicultural,4,,4.42,17.68
+10,interfaith,4,,4.42,17.68
+10,literacy,4,,4.42,17.68
+10,cultural,4,,4.42,17.68
+10,polarization,4,,4.42,17.68
+10,extreme poverty,4,,4.42,17.68
+10,eradicate poverty,4,,4.42,17.68
+10,societal,4,,4.42,17.68
+10,meritocracy,4,,4.42,17.68
+10,regressive,4,,4.42,17.68
+10,urbanization,4,,4.42,17.68
+10,subjugation,4,,4.42,17.68
+10,tribalism,4,,4.42,17.68
+10,islamophobia,4,,4.42,17.68
+10,elitism,4,,4.42,17.68
+10,dropout rate,4,,4.42,17.68
+10,liberalism,4,,4.42,17.68
+10,idp,4,,4.42,17.68
+10,violence against,4,,4.42,17.68
+10,lesbian,4,,4.42,17.68
+10,equal rights,4,,4.42,17.68
+10,la raza,4,,4.42,17.68
+10,dream act,4,,4.42,17.68
+10,violence,4,,4.42,17.68
+10,rape,4,,4.42,17.68
+10,racial hatred,4,,4.42,17.68
+10,political correctness,4,,4.42,17.68
+10,abuse,4,,4.42,17.68
+10,feminist,4,,4.42,17.68
+10,obesity,4,,4.42,17.68
+10,civil rights movement,4,,4.42,17.68
+10,hypocrisy,4,,4.42,17.68
+10,idps,4,,4.42,17.68
+10,guterres,4,,4.42,17.68
+10,sexual harassment,4,,4.42,17.68
+10,discriminating,4,,4.42,17.68
+10,equal employment opportunity,4,,4.42,17.68
+10,unfair,4,,4.42,17.68
+10,eeoc,4,,4.42,17.68
+10,title vii,4,,4.42,17.68
+10,felons,4,,4.42,17.68
+10,expulsion,4,,4.42,17.68
+10,incarceration,4,,4.42,17.68
+10,detaining,4,,4.42,17.68
+10,extradition,4,,4.42,17.68
+10,foreclosures,4,,4.42,17.68
+10,gap,4,,4.42,17.68
+10,disincentives,4,,4.42,17.68
+10,rifts,4,,4.42,17.68
+10,inefficiency,4,,4.42,17.68
+10,socioeconomic status,4,,4.42,17.68
+10,ideological differences,4,,4.42,17.68
+10,drug smugglers,4,,4.42,17.68
+10,deserters,4,,4.42,17.68
+10,border patrol agents,4,,4.42,17.68
+10,overstaying,4,,4.42,17.68
+10,jails,4,,4.42,17.68
+10,mistreatment,4,,4.42,17.68
+10,racially,4,,4.42,17.68
+10,brutality,4,,4.42,17.68
+10,racially charged,4,,4.42,17.68
+10,colonialism,4,,4.42,17.68
+10,powerlessness,4,,4.42,17.68
+10,insensitivity,4,,4.42,17.68
+10,equitable distribution,4,,4.42,17.68
+10,disadvantages,4,,4.42,17.68
+10,shortcomings,4,,4.42,17.68
+10,emigrated,4,,4.42,17.68
+10,extradite,4,,4.42,17.68
+10,incarcerated,4,,4.42,17.68
+10,unemployment,4,,4.42,17.68
+10,expatriate,4,,4.42,17.68
+10,dichotomy,4,,4.42,17.68
+10,banker,4,,4.42,17.68
+10,bofa,4,,4.42,17.68
+10,microfinance,4,,4.42,17.68
+10,financial institutions,4,,4.42,17.68
+10,caste,4,,4.42,17.68
+10,multiracial,4,,4.42,17.68
+10,loans,4,,4.42,17.68
+10,mortgage lenders,4,,4.42,17.68
+10,teenagers,3,,4.42,13.26
+10,students,3,,4.42,13.26
+10,graduates,3,,4.42,13.26
+10,activists,3,,4.42,13.26
+10,same sex,3,,4.42,13.26
+10,cyclists,3,,4.42,13.26
+10,civilians,3,,4.42,13.26
+10,people,3,,4.42,13.26
+10,home affairs,3,,4.42,13.26
+10,ins,3,,4.42,13.26
+10,foreign affairs,3,,4.42,13.26
+10,asio,3,,4.42,13.26
+10,passports,3,,4.42,13.26
+10,mr ruddock,3,,4.42,13.26
+10,parole,3,,4.42,13.26
+10,legal,3,,4.42,13.26
+10,trafficking,3,,4.42,13.26
+10,h 1b,3,,4.42,13.26
+10,survivors,3,,4.42,13.26
+10,nurses,3,,4.42,13.26
+10,cubans,3,,4.42,13.26
+10,makeshift camps,3,,4.42,13.26
+10,job seekers,3,,4.42,13.26
+10,elderly,3,,4.42,13.26
+10,children,3,,4.42,13.26
+10,child,3,,4.42,13.26
+10,youth,3,,4.42,13.26
+10,child welfare,3,,4.42,13.26
+10,education,3,,4.42,13.26
+10,bilingual,3,,4.42,13.26
+10,ngo,3,,4.42,13.26
+10,family,3,,4.42,13.26
+10,adoption,3,,4.42,13.26
+10,social cohesion,3,,4.42,13.26
+10,joblessness,3,,4.42,13.26
+10,abject poverty,3,,4.42,13.26
+10,capitalism,3,,4.42,13.26
+10,insecurity,3,,4.42,13.26
+10,socialism,3,,4.42,13.26
+10,alienation,3,,4.42,13.26
+10,globalisation,3,,4.42,13.26
+10,politicization,3,,4.42,13.26
+10,wealth,3,,4.42,13.26
+10,refugee camp,3,,4.42,13.26
+10,red cross icrc,3,,4.42,13.26
+10,child abuse,3,,4.42,13.26
+10,aids,3,,4.42,13.26
+10,torture,3,,4.42,13.26
+10,iom,3,,4.42,13.26
+10,hispanic,3,,4.42,13.26
+10,lgbt,3,,4.42,13.26
+10,homosexuality,3,,4.42,13.26
+10,xenophobia,3,,4.42,13.26
+10,corruption,3,,4.42,13.26
+10,multiculturalism,3,,4.42,13.26
+10,tolerance,3,,4.42,13.26
+10,politics,3,,4.42,13.26
+10,sectarianism,3,,4.42,13.26
+10,prostitution,3,,4.42,13.26
+10,greed,3,,4.42,13.26
+10,religion,3,,4.42,13.26
+10,homophobic,3,,4.42,13.26
+10,racially motivated,3,,4.42,13.26
+10,misogyny,3,,4.42,13.26
+10,hate speech,3,,4.42,13.26
+10,palestinian refugees,3,,4.42,13.26
+10,displacement,3,,4.42,13.26
+10,convicted felons,3,,4.42,13.26
+10,ex convicts,3,,4.42,13.26
+10,welfare recipients,3,,4.42,13.26
+10,detentions,3,,4.42,13.26
+10,indefinite detention,3,,4.42,13.26
+10,jailing,3,,4.42,13.26
+10,assimilation,3,,4.42,13.26
+10,atrocities,3,,4.42,13.26
+10,non tariff barriers,3,,4.42,13.26
+10,aids epidemic,3,,4.42,13.26
+10,tensions,3,,4.42,13.26
+10,ills,3,,4.42,13.26
+10,mistrust,3,,4.42,13.26
+10,hiv aids,3,,4.42,13.26
+10,problems,3,,4.42,13.26
+10,infiltrators,3,,4.42,13.26
+10,fugitives,3,,4.42,13.26
+10,smuggler,3,,4.42,13.26
+10,suspected terrorists,3,,4.42,13.26
+10,pilgrims,3,,4.42,13.26
+10,drug traffickers,3,,4.42,13.26
+10,sri lankans,3,,4.42,13.26
+10,romanians,3,,4.42,13.26
+10,sexually harassed,3,,4.42,13.26
+10,civil rights act,3,,4.42,13.26
+10,desegregation,3,,4.42,13.26
+10,nepotism,3,,4.42,13.26
+10,lynching,3,,4.42,13.26
+10,cronyism,3,,4.42,13.26
+10,misconduct,3,,4.42,13.26
+10,whites,3,,4.42,13.26
+10,prosecutorial misconduct,3,,4.42,13.26
+10,voting rights act,3,,4.42,13.26
+10,hostility,3,,4.42,13.26
+10,fairness,3,,4.42,13.26
+10,empowerment,3,,4.42,13.26
+10,lesbians,3,,4.42,13.26
+10,gay,3,,4.42,13.26
+10,constitutional,3,,4.42,13.26
+10,inhumanity,3,,4.42,13.26
+10,wrongs,3,,4.42,13.26
+10,oppressed,3,,4.42,13.26
+10,travesty,3,,4.42,13.26
+10,cruelty,3,,4.42,13.26
+10,resentment,3,,4.42,13.26
+10,selfishness,3,,4.42,13.26
+10,apathy,3,,4.42,13.26
+10,hardship,3,,4.42,13.26
+10,oppressive,3,,4.42,13.26
+10,imbalanced,3,,4.42,13.26
+10,equitable,3,,4.42,13.26
+10,equitably,3,,4.42,13.26
+10,disadvantage,3,,4.42,13.26
+10,failings,3,,4.42,13.26
+10,resentments,3,,4.42,13.26
+10,guantanamo prisoners,3,,4.42,13.26
+10,gurkhas,3,,4.42,13.26
+10,detainee,3,,4.42,13.26
+10,prisoner,3,,4.42,13.26
+10,dual citizenship,3,,4.42,13.26
+10,repatriate,3,,4.42,13.26
+10,jews,3,,4.42,13.26
+10,expel,3,,4.42,13.26
+10,arrestees,3,,4.42,13.26
+10,citizens,3,,4.42,13.26
+10,infant mortality rate,3,,4.42,13.26
+10,inconsistencies,3,,4.42,13.26
+10,discrepancy,3,,4.42,13.26
+10,inadequacy,3,,4.42,13.26
+10,philosophical differences,3,,4.42,13.26
+10,misperceptions,3,,4.42,13.26
+10,hsbc holdings,3,,4.42,13.26
+10,depositors,3,,4.42,13.26
+10,mortgage lender,3,,4.42,13.26
+10,commercial banking,3,,4.42,13.26
+10,fdic,3,,4.42,13.26
+10,bankers association,3,,4.42,13.26
+10,citi,3,,4.42,13.26
+10,deposits,3,,4.42,13.26
+10,wealth management,3,,4.42,13.26
+10,leasing,3,,4.42,13.26
+10,extradition proceedings,3,,4.42,13.26
+10,extradition request,3,,4.42,13.26
+10,detained,3,,4.42,13.26
+10,detain,3,,4.42,13.26
+10,finance,3,,4.42,13.26
+10,credit card,3,,4.42,13.26
+10,underwriting,3,,4.42,13.26
+10,commercial real estate,3,,4.42,13.26
+10,title ix,3,,4.42,13.26
+10,sexist,3,,4.42,13.26
+10,improprieties,3,,4.42,13.26
+10,malfeasance,3,,4.42,13.26
+10,impropriety,3,,4.42,13.26
+10,ethnicities,3,,4.42,13.26
+10,demographics,3,,4.42,13.26
+10,misunderstanding,3,,4.42,13.26
+10,biracial,3,,4.42,13.26
+10,aliens,3,,4.42,13.26
+10,secure communities,3,,4.42,13.26
+10,social,2,True,7.37,14.74
+10,inclusion,2,True,6.5,13.0
+10,crisis,2,True,6.0,12.0
+10,securities,2,True,5.8,11.6
+10,integration,2,True,5.51,11.02
+10,economic,2,True,4.47,8.94
+10,renters,2,,4.42,8.84
+10,smokers,2,,4.42,8.84
+10,travellers,2,,4.42,8.84
+10,youths,2,,4.42,8.84
+10,applicants,2,,4.42,8.84
+10,politicians,2,,4.42,8.84
+10,countries,2,,4.42,8.84
+10,latinas,2,,4.42,8.84
+10,firms,2,,4.42,8.84
+10,candidates,2,,4.42,8.84
+10,taxpayers,2,,4.42,8.84
+10,puerto ricans,2,,4.42,8.84
+10,individuals,2,,4.42,8.84
+10,prisons,2,,4.42,8.84
+10,fingerprinted,2,,4.42,8.84
+10,electoral,2,,4.42,8.84
+10,child protection,2,,4.42,8.84
+10,juvenile justice,2,,4.42,8.84
+10,passengers,2,,4.42,8.84
+10,demonstrators,2,,4.42,8.84
+10,commuters,2,,4.42,8.84
+10,villagers,2,,4.42,8.84
+10,relatives,2,,4.42,8.84
+10,bulgarians,2,,4.42,8.84
+10,peacekeepers,2,,4.42,8.84
+10,residents,2,,4.42,8.84
+10,missionary,2,,4.42,8.84
+10,carers,2,,4.42,8.84
+10,educational,2,,4.42,8.84
+10,catholic charities,2,,4.42,8.84
+10,pastoral,2,,4.42,8.84
+10,second language,2,,4.42,8.84
+10,indigenous,2,,4.42,8.84
+10,compassion,2,,4.42,8.84
+10,animal welfare,2,,4.42,8.84
+10,aid,2,,4.42,8.84
+10,maternal,2,,4.42,8.84
+10,solidarity,2,,4.42,8.84
+10,caregiver,2,,4.42,8.84
+10,wetlands,2,,4.42,8.84
+10,underclass,2,,4.42,8.84
+10,affluence,2,,4.42,8.84
+10,egalitarian,2,,4.42,8.84
+10,overpopulation,2,,4.42,8.84
+10,budget deficits,2,,4.42,8.84
+10,incomes,2,,4.42,8.84
+10,alleviate poverty,2,,4.42,8.84
+10,life expectancy,2,,4.42,8.84
+10,stagnation,2,,4.42,8.84
+10,poverty eradication,2,,4.42,8.84
+10,paradox,2,,4.42,8.84
+10,relief,2,,4.42,8.84
+10,sexual assault,2,,4.42,8.84
+10,peace,2,,4.42,8.84
+10,red cross,2,,4.42,8.84
+10,amnesty international,2,,4.42,8.84
+10,transitional,2,,4.42,8.84
+10,chicano,2,,4.42,8.84
+10,unemployed,2,,4.42,8.84
+10,fathers,2,,4.42,8.84
+10,censorship,2,,4.42,8.84
+10,rhetoric,2,,4.42,8.84
+10,bigots,2,,4.42,8.84
+10,criticism,2,,4.42,8.84
+10,protest,2,,4.42,8.84
+10,kkk,2,,4.42,8.84
+10,terror,2,,4.42,8.84
+10,unicef,2,,4.42,8.84
+10,representation,2,,4.42,8.84
+10,neglect,2,,4.42,8.84
+10,gender identity,2,,4.42,8.84
+10,fraud,2,,4.42,8.84
+10,folks,2,,4.42,8.84
+10,sex offenders,2,,4.42,8.84
+10,convicted sex offenders,2,,4.42,8.84
+10,identity theft,2,,4.42,8.84
+10,affordable housing,2,,4.42,8.84
+10,homeowners,2,,4.42,8.84
+10,evictions,2,,4.42,8.84
+10,massacres,2,,4.42,8.84
+10,internment,2,,4.42,8.84
+10,criminalization,2,,4.42,8.84
+10,crimes,2,,4.42,8.84
+10,ethnic tensions,2,,4.42,8.84
+10,poorest,2,,4.42,8.84
+10,malnutrition,2,,4.42,8.84
+10,teenage pregnancy,2,,4.42,8.84
+10,ethnic minority,2,,4.42,8.84
+10,lampedusa,2,,4.42,8.84
+10,tax evaders,2,,4.42,8.84
+10,segregated,2,,4.42,8.84
+10,racial slurs,2,,4.42,8.84
+10,slurs,2,,4.42,8.84
+10,marriage equality,2,,4.42,8.84
+10,marriage,2,,4.42,8.84
+10,rights,2,,4.42,8.84
+10,prop 8,2,,4.42,8.84
+10,aclu,2,,4.42,8.84
+10,sex couples,2,,4.42,8.84
+10,civil liberties,2,,4.42,8.84
+10,gay couples,2,,4.42,8.84
+10,freedom,2,,4.42,8.84
+10,prop. 8,2,,4.42,8.84
+10,proposition 8,2,,4.42,8.84
+10,sex marriage,2,,4.42,8.84
+10,civil unions,2,,4.42,8.84
+10,marry,2,,4.42,8.84
+10,democracy,2,,4.42,8.84
+10,higher education,2,,4.42,8.84
+10,american civil liberties,2,,4.42,8.84
+10,barbarity,2,,4.42,8.84
+10,barbarism,2,,4.42,8.84
+10,tyranny,2,,4.42,8.84
+10,atrocity,2,,4.42,8.84
+10,betrayal,2,,4.42,8.84
+10,sufferings,2,,4.42,8.84
+10,unjustly,2,,4.42,8.84
+10,oppressors,2,,4.42,8.84
+10,evils,2,,4.42,8.84
+10,ugliness,2,,4.42,8.84
+10,indifference,2,,4.42,8.84
+10,perversion,2,,4.42,8.84
+10,indignities,2,,4.42,8.84
+10,miseries,2,,4.42,8.84
+10,wronged,2,,4.42,8.84
+10,imperialism,2,,4.42,8.84
+10,misrule,2,,4.42,8.84
+10,stupidity,2,,4.42,8.84
+10,callousness,2,,4.42,8.84
+10,plight,2,,4.42,8.84
+10,stratified,2,,4.42,8.84
+10,asymmetry,2,,4.42,8.84
+10,advantaged,2,,4.42,8.84
+10,unfairly,2,,4.42,8.84
+10,sexes,2,,4.42,8.84
+10,patriarchal,2,,4.42,8.84
+10,disproportionately,2,,4.42,8.84
+10,grievances,2,,4.42,8.84
+10,hardships,2,,4.42,8.84
+10,rights abuses,2,,4.42,8.84
+10,absurdities,2,,4.42,8.84
+10,imperfections,2,,4.42,8.84
+10,philip ruddock,2,,4.42,8.84
+10,nauru,2,,4.42,8.84
+10,mr downer,2,,4.42,8.84
+10,school leavers,2,,4.42,8.84
+10,guantanamo detainees,2,,4.42,8.84
+10,mps,2,,4.42,8.84
+10,claimants,2,,4.42,8.84
+10,opposition leader tony,2,,4.42,8.84
+10,centrelink,2,,4.42,8.84
+10,holidaymakers,2,,4.42,8.84
+10,mr blunkett,2,,4.42,8.84
+10,ms gillard,2,,4.42,8.84
+10,mr rudd,2,,4.42,8.84
+10,prime minister julia gillard,2,,4.42,8.84
+10,david blunkett,2,,4.42,8.84
+10,juvenile offenders,2,,4.42,8.84
+10,naturalized,2,,4.42,8.84
+10,flee,2,,4.42,8.84
+10,arranged marriages,2,,4.42,8.84
+10,birthrate,2,,4.42,8.84
+10,migrate,2,,4.42,8.84
+10,persecuted,2,,4.42,8.84
+10,returnees,2,,4.42,8.84
+10,parolees,2,,4.42,8.84
+10,destitution,2,,4.42,8.84
+10,demography,2,,4.42,8.84
+10,emancipation,2,,4.42,8.84
+10,schengen,2,,4.42,8.84
+10,migrations,2,,4.42,8.84
+10,seafarers,2,,4.42,8.84
+10,nepalis,2,,4.42,8.84
+10,destitute,2,,4.42,8.84
+10,filipinos,2,,4.42,8.84
+10,peasants,2,,4.42,8.84
+10,migratory,2,,4.42,8.84
+10,ilo,2,,4.42,8.84
+10,economic policy,2,,4.42,8.84
+10,monetary policy,2,,4.42,8.84
+10,hunger,2,,4.42,8.84
+10,inflation,2,,4.42,8.84
+10,hiv prevalence,2,,4.42,8.84
+10,recession,2,,4.42,8.84
+10,mortality,2,,4.42,8.84
+10,deficiencies,2,,4.42,8.84
+10,shortfalls,2,,4.42,8.84
+10,loopholes,2,,4.42,8.84
+10,flaws,2,,4.42,8.84
+10,unfunded mandates,2,,4.42,8.84
+10,unintended consequences,2,,4.42,8.84
+10,overcrowding,2,,4.42,8.84
+10,anomalies,2,,4.42,8.84
+10,shortcoming,2,,4.42,8.84
+10,unfunded liability,2,,4.42,8.84
+10,savings bank,2,,4.42,8.84
+10,bancshares,2,,4.42,8.84
+10,citibank,2,,4.42,8.84
+10,hsbc,2,,4.42,8.84
+10,america nyse bac,2,,4.42,8.84
+10,retail banking,2,,4.42,8.84
+10,branches,2,,4.42,8.84
+10,home loans,2,,4.42,8.84
+10,lloyds tsb,2,,4.42,8.84
+10,fiserv,2,,4.42,8.84
+10,private banking,2,,4.42,8.84
+10,atms,2,,4.42,8.84
+10,federal deposit insurance,2,,4.42,8.84
+10,countrywide,2,,4.42,8.84
+10,merchants,2,,4.42,8.84
+10,extradited,2,,4.42,8.84
+10,arrest,2,,4.42,8.84
+10,imprisonment,2,,4.42,8.84
+10,imprisoned,2,,4.42,8.84
+10,extradition treaty,2,,4.42,8.84
+10,custody,2,,4.42,8.84
+10,behind bars,2,,4.42,8.84
+10,rearrested,2,,4.42,8.84
+10,jail,2,,4.42,8.84
+10,prison,2,,4.42,8.84
+10,paroled,2,,4.42,8.84
+10,fugitive,2,,4.42,8.84
+10,exile,2,,4.42,8.84
+10,expelled,2,,4.42,8.84
+10,laborer,2,,4.42,8.84
+10,farmers,2,,4.42,8.84
+10,financial services,2,,4.42,8.84
+10,brokerage,2,,4.42,8.84
+10,investment,2,,4.42,8.84
+10,credit unions,2,,4.42,8.84
+10,retail,2,,4.42,8.84
+10,real estate,2,,4.42,8.84
+10,currency,2,,4.42,8.84
+10,payday lending,2,,4.42,8.84
+10,overdraft,2,,4.42,8.84
+10,payroll,2,,4.42,8.84
+10,home loan,2,,4.42,8.84
+10,payday loan,2,,4.42,8.84
+10,male counterparts,2,,4.42,8.84
+10,sexual misconduct,2,,4.42,8.84
+10,glass ceiling,2,,4.42,8.84
+10,sexual abuse,2,,4.42,8.84
+10,malpractice,2,,4.42,8.84
+10,sexual orientation,2,,4.42,8.84
+10,wrongdoing,2,,4.42,8.84
+10,predatory lending,2,,4.42,8.84
+10,favoritism,2,,4.42,8.84
+10,snobbery,2,,4.42,8.84
+10,dishonesty,2,,4.42,8.84
+10,stereotypes,2,,4.42,8.84
+10,feminism,2,,4.42,8.84
+10,judicial activism,2,,4.42,8.84
+10,condescension,2,,4.42,8.84
+10,mismatch,2,,4.42,8.84
+10,chasm,2,,4.42,8.84
+10,determinants,2,,4.42,8.84
+10,rift,2,,4.42,8.84
+10,outcomes,2,,4.42,8.84
+10,fissures,2,,4.42,8.84
+10,distrust,2,,4.42,8.84
+10,jesse jackson,2,,4.42,8.84
+10,sharpton,2,,4.42,8.84
+10,segregationist,2,,4.42,8.84
+10,animosity,2,,4.42,8.84
+10,dr. martin luther,2,,4.42,8.84
+10,rev. al sharpton,2,,4.42,8.84
+10,disconnect,2,,4.42,8.84
+10,martin luther king,2,,4.42,8.84
+10,antagonism,2,,4.42,8.84
+10,rev. martin luther,2,,4.42,8.84
+10,black history month,2,,4.42,8.84
+10,al sharpton,2,,4.42,8.84
+10,civil rights division,2,,4.42,8.84
+10,mlk,2,,4.42,8.84
+10,thurgood marshall,2,,4.42,8.84
+10,negro,2,,4.42,8.84
+10,roe v. wade,2,,4.42,8.84
+10,arizonans,2,,4.42,8.84
+10,crooks,2,,4.42,8.84
+10,russell pearce,2,,4.42,8.84
+10,child molesters,2,,4.42,8.84
+10,arpaio,2,,4.42,8.84
+10,liberals,2,,4.42,8.84
+10,financing,2,,4.42,8.84
+10,subprime lending,2,,4.42,8.84
+10,borrowing,2,,4.42,8.84
+10,foreclosure,2,,4.42,8.84
+10,securitization,2,,4.42,8.84
+10,ge capital,2,,4.42,8.84
+10,debt,2,,4.42,8.84
+10,liquidity,2,,4.42,8.84
+10,subprime mortgage,2,,4.42,8.84
+10,subprime loans,2,,4.42,8.84
+10,delinquencies,2,,4.42,8.84
+10,refinancing,2,,4.42,8.84
+10,talf,2,,4.42,8.84
+10,cmbs,2,,4.42,8.84
+10,sub prime,2,,4.42,8.84
+10,fha,2,,4.42,8.84
+10,subprime borrowers,2,,4.42,8.84
+10,subprime mortgages,2,,4.42,8.84
+10,demographic,2,,4.42,8.84
+10,political,2,,4.42,8.84
+10,absurdity,2,,4.42,8.84
+10,irrationality,2,,4.42,8.84
+10,fallacy,2,,4.42,8.84
+10,entitlement,2,,4.42,8.84
+10,inconsistency,2,,4.42,8.84
+10,salvadoran,2,,4.42,8.84
+10,arellano,2,,4.42,8.84
+10,pew hispanic center,2,,4.42,8.84
+10,mexican,2,,4.42,8.84
+10,sex offender,2,,4.42,8.84
+10,border patrol agent,2,,4.42,8.84
+10,negative,2,,4.42,8.84
+10,issuers,2,,4.42,8.84
+10,hedge funds,2,,4.42,8.84
+10,financials,2,,4.42,8.84
+10,medicaid,1,True,31.96,31.96
+10,social justice,1,True,29.78,29.78
+10,financial crisis,1,True,29.59,29.59
+10,social integration,1,True,24.68,24.68
+10,social inclusion,1,True,21.53,21.53
+10,social mobility,1,True,14.79,14.79
+10,health disparities,1,True,14.08,14.08
+10,social inequality,1,True,13.44,13.44
+10,financial stability,1,True,13.34,13.34
+10,social stratification,1,True,12.2,12.2
+10,social inequalities,1,True,11.89,11.89
+10,health inequalities,1,True,11.24,11.24
+10,students autism,1,True,11.14,11.14
+10,equal opportunity,1,True,10.33,10.33
+10,financial crises,1,True,9.36,9.36
+10,remittance,1,True,9.27,9.27
+10,medicare medicaid,1,True,8.48,8.48
+10,economic inequality,1,True,8.36,8.36
+10,inclusive,1,True,7.96,7.96
+10,health equity,1,True,7.82,7.82
+10,international migration,1,True,7.6,7.6
+10,upward mobility,1,True,7.54,7.54
+10,stratification,1,True,7.26,7.26
+10,migration flows,1,True,7.16,7.16
+10,money laundering,1,True,7.14,7.14
+10,age discrimination,1,True,6.96,6.96
+10,laundering,1,True,6.78,6.78
+10,foreign workers,1,True,6.73,6.73
+10,international development,1,True,6.44,6.44
+10,global financial,1,True,6.42,6.42
+10,affirmative,1,True,6.4,6.4
+10,basel,1,True,6.28,6.28
+10,trade,1,True,6.21,6.21
+10,forced migration,1,True,6.16,6.16
+10,international trade,1,True,6.13,6.13
+10,return migration,1,True,6.08,6.08
+10,upward,1,True,6.03,6.03
+10,inequalities health,1,True,5.95,5.95
+10,migration policy,1,True,5.92,5.92
+10,americans disabilities,1,True,5.86,5.86
+10,medicare,1,True,5.83,5.83
+10,bank stability,1,True,5.8,5.8
+10,medicaid services,1,True,5.79,5.79
+10,immigration policy,1,True,5.73,5.73
+10,immigration status,1,True,5.61,5.61
+10,disabilities act,1,True,5.58,5.58
+10,centers medicare,1,True,5.36,5.36
+10,migration policies,1,True,5.34,5.34
+10,racial disparities,1,True,5.21,5.21
+10,disabilities,1,True,5.01,5.01
+10,bank failure,1,True,4.96,4.96
+10,labour migration,1,True,4.96,4.96
+10,macroprudential,1,True,4.96,4.96
+10,labor migration,1,True,4.91,4.91
+10,mobility,1,True,4.86,4.86
+10,health inequities,1,True,4.82,4.82
+10,financial regulation,1,True,4.79,4.79
+10,equity,1,True,4.69,4.69
+10,trading,1,True,4.68,4.68
+10,ethnic disparities,1,True,4.57,4.57
+10,health,1,True,4.46,4.46
+10,households,1,,4.42,4.42
+10,teens,1,,4.42,4.42
+10,nonprofits,1,,4.42,4.42
+10,retirees,1,,4.42,4.42
+10,newcomers,1,,4.42,4.42
+10,dominicans,1,,4.42,4.42
+10,customs,1,,4.42,4.42
+10,homeland security,1,,4.42,4.42
+10,probation,1,,4.42,4.42
+10,cbsa,1,,4.42,4.42
+10,criminal justice,1,,4.42,4.42
+10,internal security,1,,4.42,4.42
+10,corrections,1,,4.42,4.42
+10,criminal,1,,4.42,4.42
+10,cbp,1,,4.42,4.42
+10,constitutional affairs,1,,4.42,4.42
+10,counterterrorism,1,,4.42,4.42
+10,homeland security dhs,1,,4.42,4.42
+10,border protection,1,,4.42,4.42
+10,narcotics,1,,4.42,4.42
+10,child support,1,,4.42,4.42
+10,counter terrorism,1,,4.42,4.42
+10,judicial,1,,4.42,4.42
+10,policing,1,,4.42,4.42
+10,border security,1,,4.42,4.42
+10,intelligence,1,,4.42,4.42
+10,inland revenue,1,,4.42,4.42
+10,journalists,1,,4.42,4.42
+10,fishermen,1,,4.42,4.42
+10,hostages,1,,4.42,4.42
+10,attackers,1,,4.42,4.42
+10,protesters,1,,4.42,4.42
+10,locals,1,,4.42,4.42
+10,pensioners,1,,4.42,4.42
+10,businessmen,1,,4.42,4.42
+10,patients,1,,4.42,4.42
+10,athletes,1,,4.42,4.42
+10,hikers,1,,4.42,4.42
+10,child care,1,,4.42,4.42
+10,welfare,1,,4.42,4.42
+10,educators,1,,4.42,4.42
+10,childcare,1,,4.42,4.42
+10,early childhood,1,,4.42,4.42
+10,rural,1,,4.42,4.42
+10,head start,1,,4.42,4.42
+10,volunteer,1,,4.42,4.42
+10,social welfare,1,,4.42,4.42
+10,teacher,1,,4.42,4.42
+10,friendship,1,,4.42,4.42
+10,teaching,1,,4.42,4.42
+10,caregivers,1,,4.42,4.42
+10,legal defense,1,,4.42,4.42
+10,caritas,1,,4.42,4.42
+10,voluntary,1,,4.42,4.42
+10,abroad,1,,4.42,4.42
+10,shelter,1,,4.42,4.42
+10,capitalist,1,,4.42,4.42
+10,redistribution,1,,4.42,4.42
+10,rampant corruption,1,,4.42,4.42
+10,criminality,1,,4.42,4.42
+10,militarism,1,,4.42,4.42
+10,prosperity,1,,4.42,4.42
+10,authoritarianism,1,,4.42,4.42
+10,interdependence,1,,4.42,4.42
+10,deficits,1,,4.42,4.42
+10,materialism,1,,4.42,4.42
+10,mental health,1,,4.42,4.42
+10,childrens,1,,4.42,4.42
+10,orphan,1,,4.42,4.42
+10,suicide prevention,1,,4.42,4.42
+10,ecumenical,1,,4.42,4.42
+10,lost boys,1,,4.42,4.42
+10,war crimes,1,,4.42,4.42
+10,activist,1,,4.42,4.42
+10,hmong,1,,4.42,4.42
+10,death penalty,1,,4.42,4.42
+10,civil liberties union,1,,4.42,4.42
+10,latina,1,,4.42,4.42
+10,minority,1,,4.42,4.42
+10,native,1,,4.42,4.42
+10,clergy,1,,4.42,4.42
+10,jewish,1,,4.42,4.42
+10,victim,1,,4.42,4.42
+10,teen,1,,4.42,4.42
+10,job,1,,4.42,4.42
+10,patriotism,1,,4.42,4.42
+10,dissent,1,,4.42,4.42
+10,hate,1,,4.42,4.42
+10,hateful,1,,4.42,4.42
+10,anti semitic,1,,4.42,4.42
+10,fascism,1,,4.42,4.42
+10,outrage,1,,4.42,4.42
+10,zionism,1,,4.42,4.42
+10,anti americanism,1,,4.42,4.42
+10,morality,1,,4.42,4.42
+10,boycott,1,,4.42,4.42
+10,vandalism,1,,4.42,4.42
+10,ocha,1,,4.42,4.42
+10,icrc,1,,4.42,4.42
+10,un,1,,4.42,4.42
+10,temporary shelters,1,,4.42,4.42
+10,unrwa,1,,4.42,4.42
+10,united nations,1,,4.42,4.42
+10,humanitarian affairs,1,,4.42,4.42
+10,wfp,1,,4.42,4.42
+10,humanitarian affairs ocha,1,,4.42,4.42
+10,humanitarian aid,1,,4.42,4.42
+10,red crescent,1,,4.42,4.42
+10,humanitarian assistance,1,,4.42,4.42
+10,darfur,1,,4.42,4.42
+10,human rights watch,1,,4.42,4.42
+10,hrw,1,,4.42,4.42
+10,oxfam,1,,4.42,4.42
+10,msf,1,,4.42,4.42
+10,emergency relief,1,,4.42,4.42
+10,mercy corps,1,,4.42,4.42
+10,doctors without borders,1,,4.42,4.42
+10,bribery,1,,4.42,4.42
+10,abusive,1,,4.42,4.42
+10,illegal,1,,4.42,4.42
+10,religious minorities,1,,4.42,4.42
+10,cheating,1,,4.42,4.42
+10,complaints,1,,4.42,4.42
+10,condemns,1,,4.42,4.42
+10,pregnant women,1,,4.42,4.42
+10,motorists,1,,4.42,4.42
+10,those,1,,4.42,4.42
+10,they,1,,4.42,4.42
+10,fewer,1,,4.42,4.42
+10,drivers,1,,4.42,4.42
+10,thousands,1,,4.42,4.42
+10,hundreds,1,,4.42,4.42
+10,callers,1,,4.42,4.42
+10,parishioners,1,,4.42,4.42
+10,schoolchildren,1,,4.42,4.42
+10,tens,1,,4.42,4.42
+10,cell phones,1,,4.42,4.42
+10,youngsters,1,,4.42,4.42
+10,voters,1,,4.42,4.42
+10,adoptions,1,,4.42,4.42
+10,prosecutions,1,,4.42,4.42
+10,removals,1,,4.42,4.42
+10,ethnic cleansing,1,,4.42,4.42
+10,concentration camps,1,,4.42,4.42
+10,extrajudicial killings,1,,4.42,4.42
+10,roundups,1,,4.42,4.42
+10,disappearances,1,,4.42,4.42
+10,arrests,1,,4.42,4.42
+10,killings,1,,4.42,4.42
+10,tribunals,1,,4.42,4.42
+10,abductions,1,,4.42,4.42
+10,troop withdrawals,1,,4.42,4.42
+10,troop deployment,1,,4.42,4.42
+10,pardons,1,,4.42,4.42
+10,invasions,1,,4.42,4.42
+10,inhumane treatment,1,,4.42,4.42
+10,assassinations,1,,4.42,4.42
+10,demolitions,1,,4.42,4.42
+10,military tribunals,1,,4.42,4.42
+10,criminal prosecutions,1,,4.42,4.42
+10,bloodshed,1,,4.42,4.42
+10,arbitrary arrests,1,,4.42,4.42
+10,dismissals,1,,4.42,4.42
+10,obesity epidemic,1,,4.42,4.42
+10,smuggling,1,,4.42,4.42
+10,militants,1,,4.42,4.42
+10,porous border,1,,4.42,4.42
+10,islamic militants,1,,4.42,4.42
+10,border crossings,1,,4.42,4.42
+10,trafficked,1,,4.42,4.42
+10,tunisians,1,,4.42,4.42
+10,fishing boats,1,,4.42,4.42
+10,poachers,1,,4.42,4.42
+10,territorial waters,1,,4.42,4.42
+10,trawlers,1,,4.42,4.42
+10,canary islands,1,,4.42,4.42
+10,borders,1,,4.42,4.42
+10,chechens,1,,4.42,4.42
+10,treated unfairly,1,,4.42,4.42
+10,racial slur,1,,4.42,4.42
+10,negroes,1,,4.42,4.42
+10,voter intimidation,1,,4.42,4.42
+10,intimidation,1,,4.42,4.42
+10,glbt,1,,4.42,4.42
+10,lesbian gay bisexual,1,,4.42,4.42
+10,common cause,1,,4.42,4.42
+10,human rights campaign,1,,4.42,4.42
+10,dignity,1,,4.42,4.42
+10,log cabin republicans,1,,4.42,4.42
+10,lambda legal,1,,4.42,4.42
+10,reform,1,,4.42,4.42
+10,hrc,1,,4.42,4.42
+10,anti defamation league,1,,4.42,4.42
+10,voting rights,1,,4.42,4.42
+10,queer,1,,4.42,4.42
+10,stonewall,1,,4.42,4.42
+10,civil society,1,,4.42,4.42
+10,gay lesbian bisexual,1,,4.42,4.42
+10,gay lesbian,1,,4.42,4.42
+10,charter schools,1,,4.42,4.42
+10,coalition,1,,4.42,4.42
+10,campaign,1,,4.42,4.42
+10,naral pro choice,1,,4.42,4.42
+10,coalition against,1,,4.42,4.42
+10,transgendered,1,,4.42,4.42
+10,homosexual,1,,4.42,4.42
+10,adl,1,,4.42,4.42
+10,accountability,1,,4.42,4.42
+10,pride,1,,4.42,4.42
+10,glaad,1,,4.42,4.42
+10,lesbian couples,1,,4.42,4.42
+10,respect,1,,4.42,4.42
+10,pensions,1,,4.42,4.42
+10,anguish,1,,4.42,4.42
+10,humiliation,1,,4.42,4.42
+10,wickedness,1,,4.42,4.42
+10,oppressor,1,,4.42,4.42
+10,shame,1,,4.42,4.42
+10,unspeakable,1,,4.42,4.42
+10,inhuman,1,,4.42,4.42
+10,cowardice,1,,4.42,4.42
+10,hopelessness,1,,4.42,4.42
+10,despair,1,,4.42,4.42
+10,conscience,1,,4.42,4.42
+10,immorality,1,,4.42,4.42
+10,heinous crime,1,,4.42,4.42
+10,misery,1,,4.42,4.42
+10,shameful,1,,4.42,4.42
+10,disrespect,1,,4.42,4.42
+10,disgrace,1,,4.42,4.42
+10,helplessness,1,,4.42,4.42
+10,abomination,1,,4.42,4.42
+10,revulsion,1,,4.42,4.42
+10,dishonor,1,,4.42,4.42
+10,extremism,1,,4.42,4.42
+10,unbalanced,1,,4.42,4.42
+10,uneven,1,,4.42,4.42
+10,inferior,1,,4.42,4.42
+10,disproportionate,1,,4.42,4.42
+10,skewed,1,,4.42,4.42
+10,inefficient,1,,4.42,4.42
+10,inadequate,1,,4.42,4.42
+10,uncompetitive,1,,4.42,4.42
+10,poor,1,,4.42,4.42
+10,zero sum,1,,4.42,4.42
+10,equal footing,1,,4.42,4.42
+10,proportional,1,,4.42,4.42
+10,interdependent,1,,4.42,4.42
+10,inflexible,1,,4.42,4.42
+10,exclusionary,1,,4.42,4.42
+10,homogenous,1,,4.42,4.42
+10,distorts,1,,4.42,4.42
+10,arbitrary,1,,4.42,4.42
+10,proportionately,1,,4.42,4.42
+10,marginalized,1,,4.42,4.42
+10,preferential,1,,4.42,4.42
+10,subservient,1,,4.42,4.42
+10,wealthier,1,,4.42,4.42
+10,intolerable,1,,4.42,4.42
+10,globalized,1,,4.42,4.42
+10,adversarial,1,,4.42,4.42
+10,homogeneous,1,,4.42,4.42
+10,disparate,1,,4.42,4.42
+10,undemocratic,1,,4.42,4.42
+10,exploitative,1,,4.42,4.42
+10,anachronistic,1,,4.42,4.42
+10,asymmetric,1,,4.42,4.42
+10,asymmetrical,1,,4.42,4.42
+10,wrongdoings,1,,4.42,4.42
+10,atrocities committed,1,,4.42,4.42
+10,humiliations,1,,4.42,4.42
+10,misdeeds,1,,4.42,4.42
+10,outrages,1,,4.42,4.42
+10,sins,1,,4.42,4.42
+10,excesses,1,,4.42,4.42
+10,horrors,1,,4.42,4.42
+10,tragedies,1,,4.42,4.42
+10,heinous crimes,1,,4.42,4.42
+10,transgressions,1,,4.42,4.42
+10,pathologies,1,,4.42,4.42
+10,traumas,1,,4.42,4.42
+10,frustrations,1,,4.42,4.42
+10,ordeals,1,,4.42,4.42
+10,indigenous peoples,1,,4.42,4.42
+10,misfortunes,1,,4.42,4.42
+10,adversities,1,,4.42,4.42
+10,inaccuracies,1,,4.42,4.42
+10,aborigines,1,,4.42,4.42
+10,australians,1,,4.42,4.42
+10,guantanamo bay detainees,1,,4.42,4.42
+10,tamils,1,,4.42,4.42
+10,alexander downer,1,,4.42,4.42
+10,backbenchers,1,,4.42,4.42
+10,remarry,1,,4.42,4.42
+10,assimilate,1,,4.42,4.42
+10,childless,1,,4.42,4.42
+10,enroll,1,,4.42,4.42
+10,residency,1,,4.42,4.42
+10,marrying,1,,4.42,4.42
+10,married,1,,4.42,4.42
+10,nationality,1,,4.42,4.42
+10,migrated,1,,4.42,4.42
+10,enlist,1,,4.42,4.42
+10,residing,1,,4.42,4.42
+10,born,1,,4.42,4.42
+10,commit suicide,1,,4.42,4.42
+10,doctorates,1,,4.42,4.42
+10,living,1,,4.42,4.42
+10,fertility treatments,1,,4.42,4.42
+10,adoptive parents,1,,4.42,4.42
+10,employable,1,,4.42,4.42
+10,relocate,1,,4.42,4.42
+10,marriages,1,,4.42,4.42
+10,uproot,1,,4.42,4.42
+10,infertile,1,,4.42,4.42
+10,greener pastures,1,,4.42,4.42
+10,organ donors,1,,4.42,4.42
+10,adoptive,1,,4.42,4.42
+10,educated,1,,4.42,4.42
+10,escapees,1,,4.42,4.42
+10,defectors,1,,4.42,4.42
+10,ethiopians,1,,4.42,4.42
+10,captives,1,,4.42,4.42
+10,torturers,1,,4.42,4.42
+10,soldiers,1,,4.42,4.42
+10,abductees,1,,4.42,4.42
+10,brain drain,1,,4.42,4.42
+10,exodus,1,,4.42,4.42
+10,births,1,,4.42,4.42
+10,colonization,1,,4.42,4.42
+10,outflow,1,,4.42,4.42
+10,mass exodus,1,,4.42,4.42
+10,inflow,1,,4.42,4.42
+10,fertility,1,,4.42,4.42
+10,conscription,1,,4.42,4.42
+10,ghettos,1,,4.42,4.42
+10,exportation,1,,4.42,4.42
+10,influx,1,,4.42,4.42
+10,industrialization,1,,4.42,4.42
+10,radicalization,1,,4.42,4.42
+10,divorces,1,,4.42,4.42
+10,occupied territories,1,,4.42,4.42
+10,demographers,1,,4.42,4.42
+10,unwanted pregnancies,1,,4.42,4.42
+10,catholicism,1,,4.42,4.42
+10,tourist arrivals,1,,4.42,4.42
+10,settlers,1,,4.42,4.42
+10,inhabitants,1,,4.42,4.42
+10,priests,1,,4.42,4.42
+10,descendants,1,,4.42,4.42
+10,ancestors,1,,4.42,4.42
+10,colonists,1,,4.42,4.42
+10,descendents,1,,4.42,4.42
+10,missionaries,1,,4.42,4.42
+10,colonizers,1,,4.42,4.42
+10,catholics,1,,4.42,4.42
+10,forefathers,1,,4.42,4.42
+10,travelers,1,,4.42,4.42
+10,ancestral,1,,4.42,4.42
+10,homeland,1,,4.42,4.42
+10,slaves,1,,4.42,4.42
+10,poles,1,,4.42,4.42
+10,seamen,1,,4.42,4.42
+10,nomads,1,,4.42,4.42
+10,forebears,1,,4.42,4.42
+10,spaniards,1,,4.42,4.42
+10,motherland,1,,4.42,4.42
+10,moslems,1,,4.42,4.42
+10,documentation,1,,4.42,4.42
+10,migrating,1,,4.42,4.42
+10,implementation,1,,4.42,4.42
+10,productivity,1,,4.42,4.42
+10,biodiversity,1,,4.42,4.42
+10,traveller,1,,4.42,4.42
+10,data protection,1,,4.42,4.42
+10,disaster management,1,,4.42,4.42
+10,disaster recovery,1,,4.42,4.42
+10,deployment,1,,4.42,4.42
+10,ageing,1,,4.42,4.42
+10,social affairs,1,,4.42,4.42
+10,transition,1,,4.42,4.42
+10,coordination,1,,4.42,4.42
+10,statistical,1,,4.42,4.42
+10,unified communications,1,,4.42,4.42
+10,identity,1,,4.42,4.42
+10,monitoring,1,,4.42,4.42
+10,transformation,1,,4.42,4.42
+10,statistics,1,,4.42,4.42
+10,verification,1,,4.42,4.42
+10,elections,1,,4.42,4.42
+10,ip telephony,1,,4.42,4.42
+10,fisheries,1,,4.42,4.42
+10,visitor,1,,4.42,4.42
+10,civil protection,1,,4.42,4.42
+10,drought,1,,4.42,4.42
+10,crime,1,,4.42,4.42
+10,malaria,1,,4.42,4.42
+10,tuberculosis,1,,4.42,4.42
+10,blindness,1,,4.42,4.42
+10,pollution,1,,4.42,4.42
+10,poverty alleviation,1,,4.42,4.42
+10,survival,1,,4.42,4.42
+10,climate,1,,4.42,4.42
+10,addiction,1,,4.42,4.42
+10,piracy,1,,4.42,4.42
+10,millennium development goals,1,,4.42,4.42
+10,fear,1,,4.42,4.42
+10,conflict,1,,4.42,4.42
+10,climate change,1,,4.42,4.42
+10,tackling,1,,4.42,4.42
+10,violent crime,1,,4.42,4.42
+10,budget shortfalls,1,,4.42,4.42
+10,impediments,1,,4.42,4.42
+10,burdens,1,,4.42,4.42
+10,ambiguities,1,,4.42,4.42
+10,complexities,1,,4.42,4.42
+10,weaknesses,1,,4.42,4.42
+10,misconceptions,1,,4.42,4.42
+10,shortfall,1,,4.42,4.42
+10,bancorp,1,,4.42,4.42
+10,bancorp.,1,,4.42,4.42
+10,mercantile,1,,4.42,4.42
+10,bancshares inc.,1,,4.42,4.42
+10,bank na,1,,4.42,4.42
+10,credit union,1,,4.42,4.42
+10,standard chartered bank,1,,4.42,4.42
+10,cnb,1,,4.42,4.42
+10,bankshares,1,,4.42,4.42
+10,branch,1,,4.42,4.42
+10,wells fargo,1,,4.42,4.42
+10,central bank,1,,4.42,4.42
+10,barclays,1,,4.42,4.42
+10,provident,1,,4.42,4.42
+10,federal savings,1,,4.42,4.42
+10,jpmorgan chase,1,,4.42,4.42
+10,jp morgan chase,1,,4.42,4.42
+10,banco,1,,4.42,4.42
+10,toronto dominion,1,,4.42,4.42
+10,pnc,1,,4.42,4.42
+10,ccb,1,,4.42,4.42
+10,standard chartered,1,,4.42,4.42
+10,guaranty,1,,4.42,4.42
+10,trust,1,,4.42,4.42
+10,wachovia,1,,4.42,4.42
+10,suntrust,1,,4.42,4.42
+10,keycorp,1,,4.42,4.42
+10,keybank,1,,4.42,4.42
+10,merrill lynch,1,,4.42,4.42
+10,monetary authority,1,,4.42,4.42
+10,washington mutual,1,,4.42,4.42
+10,zions,1,,4.42,4.42
+10,federal reserve,1,,4.42,4.42
+10,comerica,1,,4.42,4.42
+10,sovereign,1,,4.42,4.42
+10,suntrust banks inc.,1,,4.42,4.42
+10,monetary policy committee,1,,4.42,4.42
+10,reserve bank,1,,4.42,4.42
+10,mbna,1,,4.42,4.42
+10,international monetary fund,1,,4.42,4.42
+10,fnb,1,,4.42,4.42
+10,pnb,1,,4.42,4.42
+10,fifth third,1,,4.42,4.42
+10,citigroup,1,,4.42,4.42
+10,anz,1,,4.42,4.42
+10,icici bank,1,,4.42,4.42
+10,td banknorth,1,,4.42,4.42
+10,scb,1,,4.42,4.42
+10,fifth third bancorp,1,,4.42,4.42
+10,interest rates,1,,4.42,4.42
+10,synovus,1,,4.42,4.42
+10,imf,1,,4.42,4.42
+10,qnb,1,,4.42,4.42
+10,boe,1,,4.42,4.42
+10,automated teller machines,1,,4.42,4.42
+10,idb,1,,4.42,4.42
+10,eviction,1,,4.42,4.42
+10,clemency,1,,4.42,4.42
+10,prosecution,1,,4.42,4.42
+10,arrest warrants,1,,4.42,4.42
+10,sentencing,1,,4.42,4.42
+10,sentence,1,,4.42,4.42
+10,arrest warrant,1,,4.42,4.42
+10,disbarment,1,,4.42,4.42
+10,conviction,1,,4.42,4.42
+10,resentencing,1,,4.42,4.42
+10,evacuation,1,,4.42,4.42
+10,remand,1,,4.42,4.42
+10,jailed,1,,4.42,4.42
+10,freed,1,,4.42,4.42
+10,apprehended,1,,4.42,4.42
+10,convicted,1,,4.42,4.42
+10,prosecuted,1,,4.42,4.42
+10,arrested,1,,4.42,4.42
+10,pardoned,1,,4.42,4.42
+10,absconded,1,,4.42,4.42
+10,awaiting extradition,1,,4.42,4.42
+10,sentenced,1,,4.42,4.42
+10,interrogated,1,,4.42,4.42
+10,reunited,1,,4.42,4.42
+10,own recognizance,1,,4.42,4.42
+10,evicted,1,,4.42,4.42
+10,protective custody,1,,4.42,4.42
+10,overstayed,1,,4.42,4.42
+10,smuggled,1,,4.42,4.42
+10,quarantined,1,,4.42,4.42
+10,lam,1,,4.42,4.42
+10,exiled,1,,4.42,4.42
+10,fled,1,,4.42,4.42
+10,tortured,1,,4.42,4.42
+10,absentia,1,,4.42,4.42
+10,maids,1,,4.42,4.42
+10,taxi drivers,1,,4.42,4.42
+10,han chinese,1,,4.42,4.42
+10,sweatshops,1,,4.42,4.42
+10,labor,1,,4.42,4.42
+10,singaporeans,1,,4.42,4.42
+10,jobseekers,1,,4.42,4.42
+10,beggars,1,,4.42,4.42
+10,tibetans,1,,4.42,4.42
+10,bahrainis,1,,4.42,4.42
+10,emiratis,1,,4.42,4.42
+10,mothers,1,,4.42,4.42
+10,cambodians,1,,4.42,4.42
+10,slum dwellers,1,,4.42,4.42
+10,uighurs,1,,4.42,4.42
+10,conscripts,1,,4.42,4.42
+10,malaysians,1,,4.42,4.42
+10,sweatshop,1,,4.42,4.42
+10,factories,1,,4.42,4.42
+10,bangladeshi,1,,4.42,4.42
+10,investment banking,1,,4.42,4.42
+10,capital markets,1,,4.42,4.42
+10,business,1,,4.42,4.42
+10,accountancy,1,,4.42,4.42
+10,insurance,1,,4.42,4.42
+10,personal finance,1,,4.42,4.42
+10,telecommunications,1,,4.42,4.42
+10,sme,1,,4.42,4.42
+10,consumer,1,,4.42,4.42
+10,savings,1,,4.42,4.42
+10,checkfree,1,,4.42,4.42
+10,fixed income,1,,4.42,4.42
+10,information technology,1,,4.42,4.42
+10,basel ii,1,,4.42,4.42
+10,telecoms,1,,4.42,4.42
+10,corporate governance,1,,4.42,4.42
+10,overdraft fees,1,,4.42,4.42
+10,card issuer,1,,4.42,4.42
+10,telecommunication,1,,4.42,4.42
+10,accounting,1,,4.42,4.42
+10,telco,1,,4.42,4.42
+10,credit cards,1,,4.42,4.42
+10,supervision,1,,4.42,4.42
+10,institutional,1,,4.42,4.42
+10,atm,1,,4.42,4.42
+10,deposit,1,,4.42,4.42
+10,auditing,1,,4.42,4.42
+10,healthcare,1,,4.42,4.42
+10,bbva,1,,4.42,4.42
+10,account,1,,4.42,4.42
+10,consumer protection,1,,4.42,4.42
+10,agribusiness,1,,4.42,4.42
+10,telecom,1,,4.42,4.42
+10,sbi,1,,4.42,4.42
+10,commercial,1,,4.42,4.42
+10,agricultural,1,,4.42,4.42
+10,payday lenders,1,,4.42,4.42
+10,emirates nbd,1,,4.42,4.42
+10,utilities,1,,4.42,4.42
+10,accounts,1,,4.42,4.42
+10,risk management,1,,4.42,4.42
+10,wrongful termination,1,,4.42,4.42
+10,spousal abuse,1,,4.42,4.42
+10,maltreatment,1,,4.42,4.42
+10,punitive damages,1,,4.42,4.42
+10,compensatory damages,1,,4.42,4.42
+10,violations,1,,4.42,4.42
+10,sexual exploitation,1,,4.42,4.42
+10,maternity leave,1,,4.42,4.42
+10,unfair dismissal,1,,4.42,4.42
+10,lawsuit,1,,4.42,4.42
+10,workplace,1,,4.42,4.42
+10,sexual molestation,1,,4.42,4.42
+10,negligence,1,,4.42,4.42
+10,misrepresentation,1,,4.42,4.42
+10,grievance,1,,4.42,4.42
+10,fgm,1,,4.42,4.42
+10,malpractices,1,,4.42,4.42
+10,animus,1,,4.42,4.42
+10,merit,1,,4.42,4.42
+10,females,1,,4.42,4.42
+10,negative stereotypes,1,,4.42,4.42
+10,inferiority,1,,4.42,4.42
+10,sexual dysfunction,1,,4.42,4.42
+10,female,1,,4.42,4.42
+10,demeaning,1,,4.42,4.42
+10,biased,1,,4.42,4.42
+10,divergence,1,,4.42,4.42
+10,differentials,1,,4.42,4.42
+10,premature births,1,,4.42,4.42
+10,maternal deaths,1,,4.42,4.42
+10,difference,1,,4.42,4.42
+10,commonalities,1,,4.42,4.42
+10,chronic diseases,1,,4.42,4.42
+10,distinctions,1,,4.42,4.42
+10,gulf,1,,4.42,4.42
+10,schism,1,,4.42,4.42
+10,divides,1,,4.42,4.42
+10,rev. jeremiah wright,1,,4.42,4.42
+10,barack obama,1,,4.42,4.42
+10,partisanship,1,,4.42,4.42
+10,black,1,,4.42,4.42
+10,melting pot,1,,4.42,4.42
+10,divisive,1,,4.42,4.42
+10,bitterness,1,,4.42,4.42
+10,deeply divided,1,,4.42,4.42
+10,blackness,1,,4.42,4.42
+10,geraldine ferraro,1,,4.42,4.42
+10,cultural diversity,1,,4.42,4.42
+10,deep seated,1,,4.42,4.42
+10,generational,1,,4.42,4.42
+10,fissure,1,,4.42,4.42
+10,rosa parks,1,,4.42,4.42
+10,freedom riders,1,,4.42,4.42
+10,anti apartheid,1,,4.42,4.42
+10,colored people,1,,4.42,4.42
+10,coretta scott king,1,,4.42,4.42
+10,first amendment,1,,4.42,4.42
+10,nonviolent,1,,4.42,4.42
+10,black panther,1,,4.42,4.42
+10,malcolm x,1,,4.42,4.42
+10,ku klux klan,1,,4.42,4.42
+10,rev. jesse,1,,4.42,4.42
+10,activism,1,,4.42,4.42
+10,constitutional protections,1,,4.42,4.42
+10,selma,1,,4.42,4.42
+10,jackie robinson,1,,4.42,4.42
+10,klan,1,,4.42,4.42
+10,juneteenth,1,,4.42,4.42
+10,nonviolence,1,,4.42,4.42
+10,frederick douglass,1,,4.42,4.42
+10,emancipation proclamation,1,,4.42,4.42
+10,white supremacist,1,,4.42,4.42
+10,abolitionist,1,,4.42,4.42
+10,vietnam war,1,,4.42,4.42
+10,cesar chavez,1,,4.42,4.42
+10,mccarthyism,1,,4.42,4.42
+10,tuskegee airmen,1,,4.42,4.42
+10,sclc,1,,4.42,4.42
+10,acorn,1,,4.42,4.42
+10,harvey milk,1,,4.42,4.42
+10,pro democracy,1,,4.42,4.42
+10,jena six,1,,4.42,4.42
+10,lyndon johnson,1,,4.42,4.42
+10,congressional black caucus,1,,4.42,4.42
+10,civil disobedience,1,,4.42,4.42
+10,freedoms,1,,4.42,4.42
+10,liberty,1,,4.42,4.42
+10,lou dobbs,1,,4.42,4.42
+10,democrats,1,,4.42,4.42
+10,tancredo,1,,4.42,4.42
+10,tom tancredo,1,,4.42,4.42
+10,tea partiers,1,,4.42,4.42
+10,muslims,1,,4.42,4.42
+10,socialized medicine,1,,4.42,4.42
+10,obamacare,1,,4.42,4.42
+10,taxpaying,1,,4.42,4.42
+10,law abiding,1,,4.42,4.42
+10,morons,1,,4.42,4.42
+10,republicans,1,,4.42,4.42
+10,h 1b visas,1,,4.42,4.42
+10,scofflaws,1,,4.42,4.42
+10,pro lifers,1,,4.42,4.42
+10,libertarians,1,,4.42,4.42
+10,pakistanis,1,,4.42,4.42
+10,rednecks,1,,4.42,4.42
+10,bankrupting,1,,4.42,4.42
+10,lunatics,1,,4.42,4.42
+10,idiots,1,,4.42,4.42
+10,trespassers,1,,4.42,4.42
+10,cornyn,1,,4.42,4.42
+10,student loan,1,,4.42,4.42
+10,mortgage origination,1,,4.42,4.42
+10,mortgage brokers,1,,4.42,4.42
+10,housing,1,,4.42,4.42
+10,originations,1,,4.42,4.42
+10,loan origination,1,,4.42,4.42
+10,loan defaults,1,,4.42,4.42
+10,servicing,1,,4.42,4.42
+10,lend,1,,4.42,4.42
+10,borrower,1,,4.42,4.42
+10,asset,1,,4.42,4.42
+10,franchising,1,,4.42,4.42
+10,gmac,1,,4.42,4.42
+10,overdrafts,1,,4.42,4.42
+10,refinancings,1,,4.42,4.42
+10,sba,1,,4.42,4.42
+10,investments,1,,4.42,4.42
+10,funding,1,,4.42,4.42
+10,disbursements,1,,4.42,4.42
+10,residential,1,,4.42,4.42
+10,homeownership,1,,4.42,4.42
+10,ge money,1,,4.42,4.42
+10,loan modification,1,,4.42,4.42
+10,payday loans,1,,4.42,4.42
+10,repossessions,1,,4.42,4.42
+10,mfi,1,,4.42,4.42
+10,npls,1,,4.42,4.42
+10,socio,1,,4.42,4.42
+10,sociological,1,,4.42,4.42
+10,psychosocial,1,,4.42,4.42
+10,economically disadvantaged,1,,4.42,4.42
+10,socio cultural,1,,4.42,4.42
+10,academic achievement,1,,4.42,4.42
+10,ethnic backgrounds,1,,4.42,4.42
+10,subgroups,1,,4.42,4.42
+10,hispanic whites,1,,4.42,4.42
+10,demographic trends,1,,4.42,4.42
+10,strata,1,,4.42,4.42
+10,marital status,1,,4.42,4.42
+10,demographically,1,,4.42,4.42
+10,geographic,1,,4.42,4.42
+10,prevalence,1,,4.42,4.42
+10,geographical,1,,4.42,4.42
+10,populations,1,,4.42,4.42
+10,subgroup,1,,4.42,4.42
+10,epidemiological,1,,4.42,4.42
+10,educationally,1,,4.42,4.42
+10,geography,1,,4.42,4.42
+10,english proficiency,1,,4.42,4.42
+10,demographer,1,,4.42,4.42
+10,attainment,1,,4.42,4.42
+10,backgrounds,1,,4.42,4.42
+10,culturally diverse,1,,4.42,4.42
+10,ecological,1,,4.42,4.42
+10,caucasians,1,,4.42,4.42
+10,ideological,1,,4.42,4.42
+10,ethnically diverse,1,,4.42,4.42
+10,urban,1,,4.42,4.42
+10,disadvantaged,1,,4.42,4.42
+10,society,1,,4.42,4.42
+10,genders,1,,4.42,4.42
+10,changing demographics,1,,4.42,4.42
+10,sat scores,1,,4.42,4.42
+10,incidence,1,,4.42,4.42
+10,castes,1,,4.42,4.42
+10,parental involvement,1,,4.42,4.42
+10,incompetence,1,,4.42,4.42
+10,grossly unfair,1,,4.42,4.42
+10,profiteering,1,,4.42,4.42
+10,folly,1,,4.42,4.42
+10,arrogance,1,,4.42,4.42
+10,cynicism,1,,4.42,4.42
+10,illegality,1,,4.42,4.42
+10,mismanagement,1,,4.42,4.42
+10,meanness,1,,4.42,4.42
+10,harshness,1,,4.42,4.42
+10,irregularity,1,,4.42,4.42
+10,irregularities,1,,4.42,4.42
+10,fundamentally flawed,1,,4.42,4.42
+10,duplicity,1,,4.42,4.42
+10,vagueness,1,,4.42,4.42
+10,unhappiness,1,,4.42,4.42
+10,moral hazard,1,,4.42,4.42
+10,subjectivity,1,,4.42,4.42
+10,disunity,1,,4.42,4.42
+10,clarence thomas,1,,4.42,4.42
+10,eugenics,1,,4.42,4.42
+10,feminists,1,,4.42,4.42
+10,politically correct,1,,4.42,4.42
+10,homosexuals,1,,4.42,4.42
+10,federalism,1,,4.42,4.42
+10,voter id,1,,4.42,4.42
+10,inclusiveness,1,,4.42,4.42
+10,unconstitutional,1,,4.42,4.42
+10,judge alito,1,,4.42,4.42
+10,nclb,1,,4.42,4.42
+10,alito,1,,4.42,4.42
+10,legalized abortion,1,,4.42,4.42
+10,admissions,1,,4.42,4.42
+10,apartheid regime,1,,4.42,4.42
+10,doma,1,,4.42,4.42
+10,partial birth,1,,4.42,4.42
+10,constitutionality,1,,4.42,4.42
+10,obcs,1,,4.42,4.42
+10,supreme court,1,,4.42,4.42
+10,liberal,1,,4.42,4.42
+10,policies,1,,4.42,4.42
+10,intercollegiate athletics,1,,4.42,4.42
+10,constitutional amendment,1,,4.42,4.42
+10,fairness doctrine,1,,4.42,4.42
+10,progressives,1,,4.42,4.42
+10,quotas,1,,4.42,4.42
+10,unionization,1,,4.42,4.42
+10,judge sotomayor,1,,4.42,4.42
+10,imprisoning,1,,4.42,4.42
+10,expelling,1,,4.42,4.42
+10,persecuting,1,,4.42,4.42
+10,repatriating,1,,4.42,4.42
+10,arresting,1,,4.42,4.42
+10,imprison,1,,4.42,4.42
+10,evicting,1,,4.42,4.42
+10,incarcerate,1,,4.42,4.42
+10,evacuating,1,,4.42,4.42
+10,vaccinating,1,,4.42,4.42
+10,indicting,1,,4.42,4.42
+10,interrogating,1,,4.42,4.42
+10,demonizing,1,,4.42,4.42
+10,convicting,1,,4.42,4.42
+10,torturing,1,,4.42,4.42
+10,marginalizing,1,,4.42,4.42
+10,slaughtering,1,,4.42,4.42
+10,criminalizing,1,,4.42,4.42
+10,apprehending,1,,4.42,4.42
+10,guantanamo,1,,4.42,4.42
+10,victimizing,1,,4.42,4.42
+10,guantanamo bay,1,,4.42,4.42
+10,detains,1,,4.42,4.42
+10,assassinating,1,,4.42,4.42
+10,guantánamo bay,1,,4.42,4.42
+10,pardoning,1,,4.42,4.42
+10,prosecuting,1,,4.42,4.42
+10,uprooting,1,,4.42,4.42
+10,guantanamo bay detention,1,,4.42,4.42
+10,relocating,1,,4.42,4.42
+10,parolee,1,,4.42,4.42
+10,convicted sex offender,1,,4.42,4.42
+10,ex convict,1,,4.42,4.42
+10,el salvador,1,,4.42,4.42
+10,nanny,1,,4.42,4.42
+10,housekeeper,1,,4.42,4.42
+10,foreigner,1,,4.42,4.42
+10,citizen,1,,4.42,4.42
+10,guatemalan,1,,4.42,4.42
+10,ex con,1,,4.42,4.42
+10,rapist,1,,4.42,4.42
+10,felon,1,,4.42,4.42
+10,aguilar,1,,4.42,4.42
+10,trafficker,1,,4.42,4.42
+10,registered sex offender,1,,4.42,4.42
+10,carranza,1,,4.42,4.42
+10,godinez,1,,4.42,4.42
+10,mp,1,,4.42,4.42
+10,policewoman,1,,4.42,4.42
+10,guantanamo detainee,1,,4.42,4.42
+10,taxi driver,1,,4.42,4.42
+10,pensioner,1,,4.42,4.42
+10,backpacker,1,,4.42,4.42
+10,haneef,1,,4.42,4.42
+10,somalian,1,,4.42,4.42
+10,kurd,1,,4.42,4.42
+10,mr straw,1,,4.42,4.42
+10,opposition leader,1,,4.42,4.42
+10,parliamentarian,1,,4.42,4.42
+10,dr haneef,1,,4.42,4.42
+10,parliamentary,1,,4.42,4.42
+10,parliament,1,,4.42,4.42
+10,labour,1,,4.42,4.42
+10,carer,1,,4.42,4.42
+10,liberal mp,1,,4.42,4.42
+10,expat,1,,4.42,4.42
+10,kevin rudd,1,,4.42,4.42
+10,mr beazley,1,,4.42,4.42
+10,gillard,1,,4.42,4.42
+10,problem,1,,4.42,4.42
+10,misperception,1,,4.42,4.42
+10,dysfunction,1,,4.42,4.42
+10,misconception,1,,4.42,4.42
+10,differential,1,,4.42,4.42
+10,systemic,1,,4.42,4.42
+10,contradiction,1,,4.42,4.42
+10,sexual,1,,4.42,4.42
+10,violent,1,,4.42,4.42
+10,moral,1,,4.42,4.42
+10,redistricting,1,,4.42,4.42
+10,height,1,,4.42,4.42
+10,white supremacists,1,,4.42,4.42
+10,threat,1,,4.42,4.42
+10,perceptions,1,,4.42,4.42
+10,deadly,1,,4.42,4.42
+10,controversy,1,,4.42,4.42
+10,voter,1,,4.42,4.42
+10,shootings,1,,4.42,4.42
+10,threats,1,,4.42,4.42
+10,legalization,1,,4.42,4.42
+10,schip,1,,4.42,4.42
+10,registered sex offenders,1,,4.42,4.42
+10,gov. jan brewer,1,,4.42,4.42
+10,nogales,1,,4.42,4.42
+10,language learners,1,,4.42,4.42
+10,drunken drivers,1,,4.42,4.42
+10,drug cartels,1,,4.42,4.42
+10,hondurans,1,,4.42,4.42
+10,californians,1,,4.42,4.42
+10,sheriff joe arpaio,1,,4.42,4.42
+10,coyotes,1,,4.42,4.42
+10,zimbabweans,1,,4.42,4.42
+10,lulac,1,,4.42,4.42
+10,mexican drug cartels,1,,4.42,4.42
+10,gov. janet napolitano,1,,4.42,4.42
+10,unmarried couples,1,,4.42,4.42
+10,insurers,1,,4.42,4.42
+10,sellers,1,,4.42,4.42
+10,regulators,1,,4.42,4.42
+10,brokers,1,,4.42,4.42
+10,retailers,1,,4.42,4.42
+10,small,1,,4.42,4.42
+10,thrifts,1,,4.42,4.42
+10,landlords,1,,4.42,4.42
+10,smith,1,,4.42,4.42
+10,exporters,1,,4.42,4.42
+10,williams,1,,4.42,4.42
+10,merchant,1,,4.42,4.42
+10,systemically important,1,,4.42,4.42
+10,anderson,1,,4.42,4.42
+10,waters,1,,4.42,4.42
+10,darling,1,,4.42,4.42
+10,taylor,1,,4.42,4.42
+10,nelms,1,,4.42,4.42
+10,riggs,1,,4.42,4.42
+10,tucker,1,,4.42,4.42
+10,wells,1,,4.42,4.42
+10,bair,1,,4.42,4.42
+10,towns,1,,4.42,4.42
+10,mfis,1,,4.42,4.42
+10,herring,1,,4.42,4.42
+10,tcf,1,,4.42,4.42
+10,flowers,1,,4.42,4.42
+10,jenkins,1,,4.42,4.42
+10,wilson,1,,4.42,4.42
+10,lloyds,1,,4.42,4.42
+10,turner,1,,4.42,4.42
+10,biddle,1,,4.42,4.42
+10,cooper,1,,4.42,4.42
+10,smaller,1,,4.42,4.42
+10,simmons,1,,4.42,4.42
+10,lowman,1,,4.42,4.42
+10,collins,1,,4.42,4.42
+10,holloway,1,,4.42,4.42
+10,institutions,1,,4.42,4.42
+10,peoples,1,,4.42,4.42
+10,robinson,1,,4.42,4.42
+10,freeman,1,,4.42,4.42
+10,hunter,1,,4.42,4.42
+10,hester,1,,4.42,4.42
+10,willis,1,,4.42,4.42
+10,agencies,1,,4.42,4.42
+10,homebuilders,1,,4.42,4.42
+10,atkins,1,,4.42,4.42
+10,hines,1,,4.42,4.42
+10,haynes,1,,4.42,4.42
+10,poole,1,,4.42,4.42
+10,harris,1,,4.42,4.42
+10,matthews,1,,4.42,4.42
+10,carmakers,1,,4.42,4.42
+10,brown,1,,4.42,4.42
+10,fannie freddie,1,,4.42,4.42
+10,subprime mortgage crisis,1,,4.42,4.42
+10,subprime lenders,1,,4.42,4.42
+10,bailout,1,,4.42,4.42
+10,cdos,1,,4.42,4.42
+10,rmbs,1,,4.42,4.42
+10,securitized,1,,4.42,4.42
+10,deflation,1,,4.42,4.42
+10,backed securities,1,,4.42,4.42
+10,collateralized debt obligations,1,,4.42,4.42
+10,sovereign debt,1,,4.42,4.42
+10,defaults,1,,4.42,4.42
+10,derivatives,1,,4.42,4.42
+10,fannie mae freddie mac,1,,4.42,4.42
+10,mortgage defaults,1,,4.42,4.42
+10,credit crunch,1,,4.42,4.42
+10,slowdown,1,,4.42,4.42
+10,turmoil,1,,4.42,4.42
+10,cdo,1,,4.42,4.42
+10,ikb,1,,4.42,4.42
+10,slump,1,,4.42,4.42
+10,mortgage servicers,1,,4.42,4.42
+10,wamu,1,,4.42,4.42
+10,bankruptcy,1,,4.42,4.42
+10,abcp,1,,4.42,4.42
+10,securitizations,1,,4.42,4.42
+10,losses,1,,4.42,4.42
+10,hedge fund,1,,4.42,4.42
+10,aig,1,,4.42,4.42
+10,gses,1,,4.42,4.42
+10,structured,1,,4.42,4.42
+10,scandal,1,,4.42,4.42
+10,risk,1,,4.42,4.42
+10,lehman,1,,4.42,4.42
+10,arms,1,,4.42,4.42
+10,default,1,,4.42,4.42
+10,buyout,1,,4.42,4.42
+10,writedowns,1,,4.42,4.42
+10,meltdown,1,,4.42,4.42
+10,credit default swaps,1,,4.42,4.42
+10,housing bubble,1,,4.42,4.42
+10,structured finance,1,,4.42,4.42
+10,hamp,1,,4.42,4.42
+10,downgrades,1,,4.42,4.42
+10,volatility,1,,4.42,4.42
+10,distressed,1,,4.42,4.42
+10,alt,1,,4.42,4.42
+10,write downs,1,,4.42,4.42
+10,sivs,1,,4.42,4.42
+10,catastrophe,1,,4.42,4.42
+10,stocks fall,1,,4.42,4.42
+10,rescap,1,,4.42,4.42
+10,worst,1,,4.42,4.42
+10,dodd frank,1,,4.42,4.42
+10,spreads,1,,4.42,4.42
+10,default swap,1,,4.42,4.42
+10,mbs,1,,4.42,4.42

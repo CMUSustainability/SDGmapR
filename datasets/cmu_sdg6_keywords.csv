@@ -1,0 +1,1258 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+6,sewage,70,True,6.63,464.09999999999997
+6,wastewater,69,True,39.04,2693.7599999999998
+6,groundwater,57,True,9.81,559.1700000000001
+6,water,52,True,13.48,700.96
+6,drainage,51,,3.35,170.85
+6,sewer,48,True,4.63,222.24
+6,sewerage,40,,3.35,134.0
+6,effluent,39,True,9.46,368.94000000000005
+6,stormwater,34,True,4.67,158.78
+6,wastewater treatment,33,True,11.03,363.98999999999995
+6,irrigation,33,True,10.4,343.2
+6,sewage treatment,33,True,10.23,337.59000000000003
+6,landfill,32,,3.35,107.2
+6,raw sewage,31,,3.35,103.85000000000001
+6,reservoir,30,,3.35,100.5
+6,contaminants,29,True,3.81,110.49
+6,arsenic,28,True,5.29,148.12
+6,waterworks,28,,3.35,93.8
+6,contaminated soil,27,,3.35,90.45
+6,aquifer,26,,3.35,87.10000000000001
+6,septic systems,26,,3.35,87.10000000000001
+6,septic tanks,26,,3.35,87.10000000000001
+6,sanitary sewer,25,,3.35,83.75
+6,pollution,24,True,5.81,139.44
+6,potable water,24,True,3.79,90.96000000000001
+6,stormwater runoff,24,,3.35,80.4
+6,chlorine,24,,3.35,80.4
+6,pollutants,24,,3.35,80.4
+6,water quality,23,True,21.35,491.05
+6,contamination,23,True,8.45,194.35
+6,septic,23,,3.35,77.05
+6,aquifers,23,,3.35,77.05
+6,storm drains,22,,3.35,73.7
+6,pesticides,22,,3.35,73.7
+6,sediment,21,,3.35,70.35000000000001
+6,nitrates,21,,3.35,70.35000000000001
+6,sanitary,20,True,3.77,75.4
+6,biosolids,20,,3.35,67.0
+6,water mains,20,,3.35,67.0
+6,lagoons,20,,3.35,67.0
+6,hazardous waste,20,,3.35,67.0
+6,water supply,19,True,8.12,154.27999999999997
+6,sludge,19,True,4.27,81.13
+6,septic tank,19,,3.35,63.65
+6,desalination,18,True,17.76,319.68
+6,sanitation,18,True,13.3,239.4
+6,waste,18,True,3.48,62.64
+6,wetlands,18,,3.35,60.300000000000004
+6,pollutant,18,,3.35,60.300000000000004
+6,hazardous chemicals,18,,3.35,60.300000000000004
+6,polluted,17,True,3.73,63.41
+6,reverse osmosis,17,,3.35,56.95
+6,watershed,17,,3.35,56.95
+6,sewers,17,,3.35,56.95
+6,reservoirs,17,,3.35,56.95
+6,fire hydrants,17,,3.35,56.95
+6,waterways,17,,3.35,56.95
+6,rainwater,17,,3.35,56.95
+6,dams,17,,3.35,56.95
+6,toxic chemicals,17,,3.35,56.95
+6,contaminant,16,True,4.23,67.68
+6,waste disposal,16,,3.35,53.6
+6,phosphorus,16,,3.35,53.6
+6,phosphorous,16,,3.35,53.6
+6,toxins,16,,3.35,53.6
+6,contaminated,15,True,6.19,92.85000000000001
+6,water works,15,,3.35,50.25
+6,watersheds,15,,3.35,50.25
+6,silt,15,,3.35,50.25
+6,seepage,15,,3.35,50.25
+6,chloride,15,,3.35,50.25
+6,pcbs,15,,3.35,50.25
+6,bacteria,15,,3.35,50.25
+6,solid waste,14,,3.35,46.9
+6,solid waste management,14,,3.35,46.9
+6,public works,14,,3.35,46.9
+6,desalination plant,14,,3.35,46.9
+6,filtration,14,,3.35,46.9
+6,dredging,14,,3.35,46.9
+6,toxic waste,14,,3.35,46.9
+6,hydrants,14,,3.35,46.9
+6,nitrate,14,,3.35,46.9
+6,landfills,14,,3.35,46.9
+6,dioxins,14,,3.35,46.9
+6,toxic substances,14,,3.35,46.9
+6,solvents,14,,3.35,46.9
+6,toxic,14,,3.35,46.9
+6,water resources,13,True,5.49,71.37
+6,fluoride,13,True,4.65,60.45
+6,reclamation,13,,3.35,43.550000000000004
+6,dam,13,,3.35,43.550000000000004
+6,culverts,13,,3.35,43.550000000000004
+6,manure,13,,3.35,43.550000000000004
+6,ponds,13,,3.35,43.550000000000004
+6,toxin,13,,3.35,43.550000000000004
+6,benzene,13,,3.35,43.550000000000004
+6,hydrogen sulfide,13,,3.35,43.550000000000004
+6,deq,12,,3.35,40.2
+6,garbage,12,,3.35,40.2
+6,drains,12,,3.35,40.2
+6,aqueduct,12,,3.35,40.2
+6,storage tanks,12,,3.35,40.2
+6,perchlorate,12,,3.35,40.2
+6,wetland,12,,3.35,40.2
+6,methane,12,,3.35,40.2
+6,tritium,12,,3.35,40.2
+6,nitrogen,12,,3.35,40.2
+6,ammonia,12,,3.35,40.2
+6,pesticide,12,,3.35,40.2
+6,harmful chemicals,12,,3.35,40.2
+6,volatile organic compounds,12,,3.35,40.2
+6,chemicals,12,,3.35,40.2
+6,trace amounts,12,,3.35,40.2
+6,particulates,12,,3.35,40.2
+6,chromium,12,,3.35,40.2
+6,pfoa,12,,3.35,40.2
+6,dioxin,12,,3.35,40.2
+6,water conservation,11,,3.35,36.85
+6,flood control,11,,3.35,36.85
+6,floodplain,11,,3.35,36.85
+6,seawater,11,,3.35,36.85
+6,wells,11,,3.35,36.85
+6,estuary,11,,3.35,36.85
+6,waterline,11,,3.35,36.85
+6,tailings,11,,3.35,36.85
+6,leaching,11,,3.35,36.85
+6,compost,11,,3.35,36.85
+6,composting,11,,3.35,36.85
+6,municipal,11,,3.35,36.85
+6,hazardous substances,11,,3.35,36.85
+6,carcinogens,11,,3.35,36.85
+6,vocs,11,,3.35,36.85
+6,mercury,11,,3.35,36.85
+6,radioactive material,11,,3.35,36.85
+6,radioactive,11,,3.35,36.85
+6,disinfection,10,True,5.08,50.8
+6,public works director,10,,3.35,33.5
+6,electricity,10,,3.35,33.5
+6,garbage disposal,10,,3.35,33.5
+6,wasa,10,,3.35,33.5
+6,soils,10,,3.35,33.5
+6,gutters,10,,3.35,33.5
+6,subdivision,10,,3.35,33.5
+6,brine,10,,3.35,33.5
+6,radioactivity,10,,3.35,33.5
+6,toxicity,10,,3.35,33.5
+6,hazardous materials,10,,3.35,33.5
+6,coal ash,10,,3.35,33.5
+6,utilities,9,,3.35,30.150000000000002
+6,utility,9,,3.35,30.150000000000002
+6,clean water,9,,3.35,30.150000000000002
+6,waste management,9,,3.35,30.150000000000002
+6,lagoon,9,,3.35,30.150000000000002
+6,canal,9,,3.35,30.150000000000002
+6,freshwater,9,,3.35,30.150000000000002
+6,river basin,9,,3.35,30.150000000000002
+6,basin,9,,3.35,30.150000000000002
+6,culvert,9,,3.35,30.150000000000002
+6,flood plain,9,,3.35,30.150000000000002
+6,impurities,9,,3.35,30.150000000000002
+6,vapors,9,,3.35,30.150000000000002
+6,residues,9,,3.35,30.150000000000002
+6,carcinogen,9,,3.35,30.150000000000002
+6,toxic fumes,9,,3.35,30.150000000000002
+6,radioactive waste,9,,3.35,30.150000000000002
+6,chemical,9,,3.35,30.150000000000002
+6,curbside recycling,8,,3.35,26.8
+6,incinerator,8,,3.35,26.8
+6,salinity,8,,3.35,26.8
+6,estuaries,8,,3.35,26.8
+6,solids,8,,3.35,26.8
+6,biogas,8,,3.35,26.8
+6,recycling,8,,3.35,26.8
+6,incinerators,8,,3.35,26.8
+6,e. coli bacteria,8,,3.35,26.8
+6,sediments,8,,3.35,26.8
+6,radioactive materials,8,,3.35,26.8
+6,tce,8,,3.35,26.8
+6,asbestos,8,,3.35,26.8
+6,phthalates,8,,3.35,26.8
+6,public utilities,7,,3.35,23.45
+6,public utility,7,,3.35,23.45
+6,allied waste,7,,3.35,23.45
+6,disposal,7,,3.35,23.45
+6,environmental protection,7,,3.35,23.45
+6,veolia,7,,3.35,23.45
+6,environmental,7,,3.35,23.45
+6,dep,7,,3.35,23.45
+6,cooling towers,7,,3.35,23.45
+6,soil,7,,3.35,23.45
+6,rivers,7,,3.35,23.45
+6,lakes,7,,3.35,23.45
+6,radiation,7,,3.35,23.45
+6,catchment,7,,3.35,23.45
+6,irrigate,7,,3.35,23.45
+6,lake,7,,3.35,23.45
+6,retaining walls,7,,3.35,23.45
+6,sinkholes,7,,3.35,23.45
+6,clean water act,7,,3.35,23.45
+6,tributary,7,,3.35,23.45
+6,selenium,7,,3.35,23.45
+6,zoning,7,,3.35,23.45
+6,substances,7,,3.35,23.45
+6,e. coli,7,,3.35,23.45
+6,hazardous material,7,,3.35,23.45
+6,creek,7,,3.35,23.45
+6,topsoil,7,,3.35,23.45
+6,gravel pit,7,,3.35,23.45
+6,carbon monoxide,7,,3.35,23.45
+6,carcinogenic,7,,3.35,23.45
+6,cadmium,7,,3.35,23.45
+6,canals,7,,3.35,23.45
+6,riparian,6,True,3.4,20.4
+6,gallons,6,,3.35,20.1
+6,code enforcement,6,,3.35,20.1
+6,flooding,6,,3.35,20.1
+6,irrigators,6,,3.35,20.1
+6,roads,6,,3.35,20.1
+6,basins,6,,3.35,20.1
+6,tributaries,6,,3.35,20.1
+6,manholes,6,,3.35,20.1
+6,garbage pickup,6,,3.35,20.1
+6,gasification,6,,3.35,20.1
+6,mains,6,,3.35,20.1
+6,pathogens,6,,3.35,20.1
+6,organic compounds,6,,3.35,20.1
+6,radon,6,,3.35,20.1
+6,contaminating,6,,3.35,20.1
+6,potentially harmful,6,,3.35,20.1
+6,gases,6,,3.35,20.1
+6,particulate matter,6,,3.35,20.1
+6,superfund site,6,,3.35,20.1
+6,creeks,6,,3.35,20.1
+6,retention pond,6,,3.35,20.1
+6,salts,6,,3.35,20.1
+6,formaldehyde,6,,3.35,20.1
+6,air pollution,6,,3.35,20.1
+6,bottled water,5,True,4.82,24.1
+6,dpw,5,,3.35,16.75
+6,environmental quality,5,,3.35,16.75
+6,fertilizer,5,,3.35,16.75
+6,overflows,5,,3.35,16.75
+6,debris,5,,3.35,16.75
+6,gas,5,,3.35,16.75
+6,conservation,5,,3.35,16.75
+6,thames water,5,,3.35,16.75
+6,hydro,5,,3.35,16.75
+6,hydrant,5,,3.35,16.75
+6,headwaters,5,,3.35,16.75
+6,irrigated,5,,3.35,16.75
+6,highways,5,,3.35,16.75
+6,soil erosion,5,,3.35,16.75
+6,subsidence,5,,3.35,16.75
+6,slurry,5,,3.35,16.75
+6,wastes,5,,3.35,16.75
+6,ratepayers,5,,3.35,16.75
+6,water purification,5,,3.35,16.75
+6,purification,5,,3.35,16.75
+6,hydropower,5,,3.35,16.75
+6,selectmen,5,,3.35,16.75
+6,greenway,5,,3.35,16.75
+6,drip irrigation,5,,3.35,16.75
+6,faucets,5,,3.35,16.75
+6,harmful bacteria,5,,3.35,16.75
+6,allergens,5,,3.35,16.75
+6,contaminate,5,,3.35,16.75
+6,bacterial,5,,3.35,16.75
+6,byproducts,5,,3.35,16.75
+6,chemical compounds,5,,3.35,16.75
+6,salmonella,5,,3.35,16.75
+6,algae,5,,3.35,16.75
+6,melamine,5,,3.35,16.75
+6,ppb,5,,3.35,16.75
+6,snowmelt,5,,3.35,16.75
+6,cyanide,5,,3.35,16.75
+6,iodine,5,,3.35,16.75
+6,carbon dioxide,5,,3.35,16.75
+6,cesium,5,,3.35,16.75
+6,radioactive iodine,5,,3.35,16.75
+6,fishery,5,,3.35,16.75
+6,cubic yards,5,,3.35,16.75
+6,incineration,5,,3.35,16.75
+6,subdivisions,5,,3.35,16.75
+6,driveways,5,,3.35,16.75
+6,sprinkler system,5,,3.35,16.75
+6,fumes,5,,3.35,16.75
+6,gasses,5,,3.35,16.75
+6,piping,5,,3.35,16.75
+6,bpa,5,,3.35,16.75
+6,bisphenol,5,,3.35,16.75
+6,plumbing,5,,3.35,16.75
+6,hygiene,4,True,4.79,19.16
+6,river,4,True,3.84,15.36
+6,remediation,4,True,3.38,13.52
+6,animal control,4,,3.35,13.4
+6,severn trent,4,,3.35,13.4
+6,plant,4,,3.35,13.4
+6,cleaning,4,,3.35,13.4
+6,trash,4,,3.35,13.4
+6,pumps,4,,3.35,13.4
+6,electric power,4,,3.35,13.4
+6,swimming pool,4,,3.35,13.4
+6,fracking,4,,3.35,13.4
+6,geothermal,4,,3.35,13.4
+6,roadwork,4,,3.35,13.4
+6,electrical,4,,3.35,13.4
+6,drainage ditch,4,,3.35,13.4
+6,nutrient,4,,3.35,13.4
+6,municipality,4,,3.35,13.4
+6,substations,4,,3.35,13.4
+6,cogeneration,4,,3.35,13.4
+6,hydroelectric,4,,3.35,13.4
+6,biomass,4,,3.35,13.4
+6,covanta,4,,3.35,13.4
+6,boilers,4,,3.35,13.4
+6,power plant,4,,3.35,13.4
+6,bottling,4,,3.35,13.4
+6,latrines,4,,3.35,13.4
+6,toilets,4,,3.35,13.4
+6,purified,4,,3.35,13.4
+6,purifying,4,,3.35,13.4
+6,microorganisms,4,,3.35,13.4
+6,micro organisms,4,,3.35,13.4
+6,odors,4,,3.35,13.4
+6,pathogen,4,,3.35,13.4
+6,hazardous,4,,3.35,13.4
+6,allergen,4,,3.35,13.4
+6,riverbed,4,,3.35,13.4
+6,flood plains,4,,3.35,13.4
+6,drain,4,,3.35,13.4
+6,manhole,4,,3.35,13.4
+6,fisheries,4,,3.35,13.4
+6,landscaping,4,,3.35,13.4
+6,decontamination,4,,3.35,13.4
+6,depleted uranium,4,,3.35,13.4
+6,polluting,4,,3.35,13.4
+6,sprinkler systems,4,,3.35,13.4
+6,sprinklers,4,,3.35,13.4
+6,pipes,4,,3.35,13.4
+6,streetscape,4,,3.35,13.4
+6,zoning ordinances,4,,3.35,13.4
+6,vegetation,4,,3.35,13.4
+6,sulfur dioxide,4,,3.35,13.4
+6,acids,4,,3.35,13.4
+6,ozone,4,,3.35,13.4
+6,mercury emissions,4,,3.35,13.4
+6,poisons,4,,3.35,13.4
+6,harmful,4,,3.35,13.4
+6,pollute,4,,3.35,13.4
+6,dumpster,4,,3.35,13.4
+6,drinking,3,True,10.2,30.599999999999998
+6,waters,3,True,4.6,13.799999999999999
+6,toilet,3,True,3.89,11.67
+6,rubbish,3,,3.35,10.05
+6,runoff,3,,3.35,10.05
+6,dumping,3,,3.35,10.05
+6,electric,3,,3.35,10.05
+6,river watershed,3,,3.35,10.05
+6,salt,3,,3.35,10.05
+6,ecology,3,,3.35,10.05
+6,cooling,3,,3.35,10.05
+6,hydrology,3,,3.35,10.05
+6,murray darling basin,3,,3.35,10.05
+6,biodiversity,3,,3.35,10.05
+6,levee,3,,3.35,10.05
+6,asphalt,3,,3.35,10.05
+6,spillway,3,,3.35,10.05
+6,repairs,3,,3.35,10.05
+6,repaving,3,,3.35,10.05
+6,retaining wall,3,,3.35,10.05
+6,mechanical,3,,3.35,10.05
+6,discharges,3,,3.35,10.05
+6,weir,3,,3.35,10.05
+6,rural development,3,,3.35,10.05
+6,ratepayer,3,,3.35,10.05
+6,transco,3,,3.35,10.05
+6,transmission,3,,3.35,10.05
+6,transformers,3,,3.35,10.05
+6,trash pickup,3,,3.35,10.05
+6,township supervisor,3,,3.35,10.05
+6,selectman,3,,3.35,10.05
+6,drinkable,3,,3.35,10.05
+6,hygienic,3,,3.35,10.05
+6,cholera,3,,3.35,10.05
+6,germs,3,,3.35,10.05
+6,particles,3,,3.35,10.05
+6,e.coli,3,,3.35,10.05
+6,cleanup,3,,3.35,10.05
+6,emissions,3,,3.35,10.05
+6,moisture,3,,3.35,10.05
+6,subsurface,3,,3.35,10.05
+6,magma,3,,3.35,10.05
+6,manganese,3,,3.35,10.05
+6,naturally occurring,3,,3.35,10.05
+6,acid,3,,3.35,10.05
+6,concentrations,3,,3.35,10.05
+6,floodwater,3,,3.35,10.05
+6,mud,3,,3.35,10.05
+6,floodwaters,3,,3.35,10.05
+6,muck,3,,3.35,10.05
+6,quarries,3,,3.35,10.05
+6,substation,3,,3.35,10.05
+6,agricultural,3,,3.35,10.05
+6,composted,3,,3.35,10.05
+6,recyclables,3,,3.35,10.05
+6,recycle,3,,3.35,10.05
+6,quarry,3,,3.35,10.05
+6,haulers,3,,3.35,10.05
+6,dump,3,,3.35,10.05
+6,portable classrooms,3,,3.35,10.05
+6,duplexes,3,,3.35,10.05
+6,unincorporated areas,3,,3.35,10.05
+6,conservancy,3,,3.35,10.05
+6,wildlife habitat,3,,3.35,10.05
+6,waterway,3,,3.35,10.05
+6,disinfectants,3,,3.35,10.05
+6,disinfecting,3,,3.35,10.05
+6,noxious,3,,3.35,10.05
+6,alkaline,3,,3.35,10.05
+6,purify,3,,3.35,10.05
+6,refrigeration,3,,3.35,10.05
+6,faucet,3,,3.35,10.05
+6,detergents,3,,3.35,10.05
+6,algae blooms,3,,3.35,10.05
+6,secondhand smoke,3,,3.35,10.05
+6,additives,3,,3.35,10.05
+6,environmental protection agency,3,,3.35,10.05
+6,water heater,3,,3.35,10.05
+6,cigarette smoke,3,,3.35,10.05
+6,marsh,3,,3.35,10.05
+6,dredge,3,,3.35,10.05
+6,restoration,2,True,9.77,19.54
+6,aquatic,2,True,3.5,7.0
+6,ecosystems,2,True,3.47,6.94
+6,facilities,2,,3.35,6.7
+6,cip,2,,3.35,6.7
+6,pud,2,,3.35,6.7
+6,planning,2,,3.35,6.7
+6,maintenance,2,,3.35,6.7
+6,facility,2,,3.35,6.7
+6,aqua,2,,3.35,6.7
+6,power,2,,3.35,6.7
+6,h2o,2,,3.35,6.7
+6,pump,2,,3.35,6.7
+6,drought,2,,3.35,6.7
+6,natural gas,2,,3.35,6.7
+6,natural resource,2,,3.35,6.7
+6,ecological,2,,3.35,6.7
+6,hydrologist,2,,3.35,6.7
+6,paving,2,,3.35,6.7
+6,improvement,2,,3.35,6.7
+6,beautification,2,,3.35,6.7
+6,mdot,2,,3.35,6.7
+6,geotechnical,2,,3.35,6.7
+6,resurfacing,2,,3.35,6.7
+6,leach,2,,3.35,6.7
+6,parking authority,2,,3.35,6.7
+6,metro rail,2,,3.35,6.7
+6,mayor,2,,3.35,6.7
+6,electrification,2,,3.35,6.7
+6,telecommunication,2,,3.35,6.7
+6,transport,2,,3.35,6.7
+6,redevelopment,2,,3.35,6.7
+6,bottling plant,2,,3.35,6.7
+6,environmental remediation,2,,3.35,6.7
+6,aldermen,2,,3.35,6.7
+6,annexations,2,,3.35,6.7
+6,township,2,,3.35,6.7
+6,property owners,2,,3.35,6.7
+6,excavating,2,,3.35,6.7
+6,water borne diseases,2,,3.35,6.7
+6,waterborne diseases,2,,3.35,6.7
+6,mosquito nets,2,,3.35,6.7
+6,arable land,2,,3.35,6.7
+6,paved roads,2,,3.35,6.7
+6,hydro electric,2,,3.35,6.7
+6,supply,2,,3.35,6.7
+6,generators,2,,3.35,6.7
+6,portable toilets,2,,3.35,6.7
+6,cusecs,2,,3.35,6.7
+6,supplies,2,,3.35,6.7
+6,diesel generators,2,,3.35,6.7
+6,affordable housing,2,,3.35,6.7
+6,organisms,2,,3.35,6.7
+6,microbes,2,,3.35,6.7
+6,prions,2,,3.35,6.7
+6,zebra mussels,2,,3.35,6.7
+6,tainted,2,,3.35,6.7
+6,poisoning,2,,3.35,6.7
+6,listeria,2,,3.35,6.7
+6,traces,2,,3.35,6.7
+6,residue,2,,3.35,6.7
+6,soluble,2,,3.35,6.7
+6,snowpack,2,,3.35,6.7
+6,lake lanier,2,,3.35,6.7
+6,farmland,2,,3.35,6.7
+6,preservative,2,,3.35,6.7
+6,smelly,2,,3.35,6.7
+6,flood waters,2,,3.35,6.7
+6,horticulture,2,,3.35,6.7
+6,agriculture,2,,3.35,6.7
+6,livestock,2,,3.35,6.7
+6,farming,2,,3.35,6.7
+6,farmers,2,,3.35,6.7
+6,dairy,2,,3.35,6.7
+6,forests,2,,3.35,6.7
+6,rainfall,2,,3.35,6.7
+6,aquaculture,2,,3.35,6.7
+6,mulch,2,,3.35,6.7
+6,excavated,2,,3.35,6.7
+6,brownfield,2,,3.35,6.7
+6,gravel,2,,3.35,6.7
+6,wood chips,2,,3.35,6.7
+6,decontaminated,2,,3.35,6.7
+6,garbage dump,2,,3.35,6.7
+6,recycler,2,,3.35,6.7
+6,recyclable materials,2,,3.35,6.7
+6,pest control,2,,3.35,6.7
+6,residences,2,,3.35,6.7
+6,dwellings,2,,3.35,6.7
+6,patios,2,,3.35,6.7
+6,condos,2,,3.35,6.7
+6,condominiums,2,,3.35,6.7
+6,easements,2,,3.35,6.7
+6,easement,2,,3.35,6.7
+6,comprehensive plan,2,,3.35,6.7
+6,electric cooperative,2,,3.35,6.7
+6,mirant,2,,3.35,6.7
+6,pipeline,2,,3.35,6.7
+6,park,2,,3.35,6.7
+6,cemetery,2,,3.35,6.7
+6,boat ramp,2,,3.35,6.7
+6,pond,2,,3.35,6.7
+6,railroad,2,,3.35,6.7
+6,bleach,2,,3.35,6.7
+6,disinfectant,2,,3.35,6.7
+6,anhydrous ammonia,2,,3.35,6.7
+6,detergent,2,,3.35,6.7
+6,ph,2,,3.35,6.7
+6,poisonous,2,,3.35,6.7
+6,mtbe,2,,3.35,6.7
+6,distillation,2,,3.35,6.7
+6,compressed air,2,,3.35,6.7
+6,detoxification,2,,3.35,6.7
+6,fermentation,2,,3.35,6.7
+6,scrubbers,2,,3.35,6.7
+6,refrigerant,2,,3.35,6.7
+6,heat exchanger,2,,3.35,6.7
+6,saline,2,,3.35,6.7
+6,compressor,2,,3.35,6.7
+6,separator,2,,3.35,6.7
+6,oxidation,2,,3.35,6.7
+6,compressors,2,,3.35,6.7
+6,filters,2,,3.35,6.7
+6,filter,2,,3.35,6.7
+6,ventilation,2,,3.35,6.7
+6,sanitizing,2,,3.35,6.7
+6,dryers,2,,3.35,6.7
+6,vacuum,2,,3.35,6.7
+6,particulate,2,,3.35,6.7
+6,air conditioning,2,,3.35,6.7
+6,disinfect,2,,3.35,6.7
+6,fluids,2,,3.35,6.7
+6,glaciers,2,,3.35,6.7
+6,geologic,2,,3.35,6.7
+6,invasive species,2,,3.35,6.7
+6,weeds,2,,3.35,6.7
+6,acid rain,2,,3.35,6.7
+6,organics,2,,3.35,6.7
+6,feedlot,2,,3.35,6.7
+6,gmos,2,,3.35,6.7
+6,boat ramps,2,,3.35,6.7
+6,zoning ordinance,2,,3.35,6.7
+6,zba,2,,3.35,6.7
+6,potentially hazardous,2,,3.35,6.7
+6,carbon dioxide co2,2,,3.35,6.7
+6,agent orange,2,,3.35,6.7
+6,nitrogen oxides,2,,3.35,6.7
+6,sprinkler,2,,3.35,6.7
+6,pipe,2,,3.35,6.7
+6,driveway,2,,3.35,6.7
+6,fire hydrant,2,,3.35,6.7
+6,homeowner,2,,3.35,6.7
+6,animal shelter,2,,3.35,6.7
+6,wind farm,2,,3.35,6.7
+6,cleaners,2,,3.35,6.7
+6,soot,2,,3.35,6.7
+6,epa,2,,3.35,6.7
+6,microbiology,2,,3.35,6.7
+6,additive,2,,3.35,6.7
+6,bacterium,2,,3.35,6.7
+6,mussels,2,,3.35,6.7
+6,shorelines,2,,3.35,6.7
+6,shoreline,2,,3.35,6.7
+6,micrograms,2,,3.35,6.7
+6,birth defects,2,,3.35,6.7
+6,nontoxic,2,,3.35,6.7
+6,boating,2,,3.35,6.7
+6,boaters,2,,3.35,6.7
+6,docks,2,,3.35,6.7
+6,wildlife,2,,3.35,6.7
+6,fishing,2,,3.35,6.7
+6,nutrients,2,,3.35,6.7
+6,sidewalks,2,,3.35,6.7
+6,manhole covers,2,,3.35,6.7
+6,streetlights,2,,3.35,6.7
+6,roadways,2,,3.35,6.7
+6,potholes,2,,3.35,6.7
+6,roadway,2,,3.35,6.7
+6,riverbanks,2,,3.35,6.7
+6,pipelines,2,,3.35,6.7
+6,whale,2,,3.35,6.7
+6,ash,2,,3.35,6.7
+6,dikes,2,,3.35,6.7
+6,water management,1,True,21.99,21.99
+6,waste water,1,True,16.75,16.75
+6,activated sludge,1,True,15.57,15.57
+6,water pollution,1,True,14.62,14.62
+6,wastewaters,1,True,14.36,14.36
+6,water treatment,1,True,13.17,13.17
+6,contaminated water,1,True,12.31,12.31
+6,drinking water,1,True,11.18,11.18
+6,polluted water,1,True,8.41,8.41
+6,water contamination,1,True,8.33,8.33
+6,waste waters,1,True,7.54,7.54
+6,effluents,1,True,7.3,7.3
+6,water scarcity,1,True,7.25,7.25
+6,treatment,1,True,7.13,7.13
+6,water saving,1,True,7.12,7.12
+6,water productivity,1,True,7.09,7.09
+6,resources management,1,True,6.7,6.7
+6,water resource,1,True,6.51,6.51
+6,irrigation management,1,True,6.18,6.18
+6,water framework,1,True,6.17,6.17
+6,rehabilitation,1,True,5.95,5.95
+6,scarcity,1,True,5.94,5.94
+6,framework directive,1,True,5.91,5.91
+6,treatment plant,1,True,5.89,5.89
+6,activated,1,True,5.87,5.87
+6,bottled,1,True,5.71,5.71
+6,ground water,1,True,5.56,5.56
+6,constructed wetlands,1,True,5.4,5.4
+6,groundwater contamination,1,True,5.23,5.23
+6,constructed wetland,1,True,5.13,5.13
+6,groundwater quality,1,True,4.99,4.99
+6,soil groundwater,1,True,4.97,4.97
+6,contaminated groundwater,1,True,4.75,4.75
+6,treatment plants,1,True,4.65,4.65
+6,potable,1,True,4.51,4.51
+6,sequencing batch,1,True,4.49,4.49
+6,point source,1,True,4.43,4.43
+6,water distribution,1,True,4.4,4.4
+6,deficit irrigation,1,True,4.29,4.29
+6,management,1,True,4.26,4.26
+6,water allocation,1,True,4.22,4.22
+6,irrigation scheduling,1,True,4.18,4.18
+6,management water,1,True,4.18,4.18
+6,source pollution,1,True,4.18,4.18
+6,coagulation,1,True,4.12,4.12
+6,water disinfection,1,True,4.06,4.06
+6,rainfed,1,True,4.04,4.04
+6,supply systems,1,True,3.86,3.86
+6,groundwater pollution,1,True,3.79,3.79
+6,harvesting,1,True,3.74,3.74
+6,water desalination,1,True,3.72,3.72
+6,non point,1,True,3.68,3.68
+6,contamination water,1,True,3.64,3.64
+6,seawater desalination,1,True,3.6,3.6
+6,quality monitoring,1,True,3.59,3.59
+6,fluorosis,1,True,3.57,3.57
+6,transboundary,1,True,3.51,3.51
+6,removal,1,True,3.5,3.5
+6,constructed,1,True,3.46,3.46
+6,tmdl,1,True,3.39,3.39
+6,rainwater harvesting,1,True,3.35,3.35
+6,land use,1,,3.35,3.35
+6,bpw,1,,3.35,3.35
+6,pumping,1,,3.35,3.35
+6,refinery,1,,3.35,3.35
+6,fuel,1,,3.35,3.35
+6,flow,1,,3.35,3.35
+6,energy,1,,3.35,3.35
+6,fire,1,,3.35,3.35
+6,air quality,1,,3.35,3.35
+6,flood,1,,3.35,3.35
+6,soil moisture,1,,3.35,3.35
+6,geological,1,,3.35,3.35
+6,flood prone,1,,3.35,3.35
+6,mitigation,1,,3.35,3.35
+6,dike,1,,3.35,3.35
+6,construction,1,,3.35,3.35
+6,engineer,1,,3.35,3.35
+6,downstream,1,,3.35,3.35
+6,housing authority,1,,3.35,3.35
+6,dwp,1,,3.35,3.35
+6,light rail,1,,3.35,3.35
+6,rapid transit,1,,3.35,3.35
+6,jea,1,,3.35,3.35
+6,metropolitan,1,,3.35,3.35
+6,leakages,1,,3.35,3.35
+6,cuc,1,,3.35,3.35
+6,psc,1,,3.35,3.35
+6,electric co.,1,,3.35,3.35
+6,pepco,1,,3.35,3.35
+6,urban development,1,,3.35,3.35
+6,civil service,1,,3.35,3.35
+6,power generation,1,,3.35,3.35
+6,millage,1,,3.35,3.35
+6,town administrator,1,,3.35,3.35
+6,snow removal,1,,3.35,3.35
+6,community preservation,1,,3.35,3.35
+6,town meeting,1,,3.35,3.35
+6,councilors,1,,3.35,3.35
+6,odot,1,,3.35,3.35
+6,vdot,1,,3.35,3.35
+6,splost,1,,3.35,3.35
+6,town clerk,1,,3.35,3.35
+6,commuter rail,1,,3.35,3.35
+6,assessors,1,,3.35,3.35
+6,redevelopment agency,1,,3.35,3.35
+6,millage rate,1,,3.35,3.35
+6,fire dept.,1,,3.35,3.35
+6,basic necessities,1,,3.35,3.35
+6,boreholes,1,,3.35,3.35
+6,food rations,1,,3.35,3.35
+6,liters,1,,3.35,3.35
+6,kerosene,1,,3.35,3.35
+6,villages,1,,3.35,3.35
+6,nourishment,1,,3.35,3.35
+6,foodstuffs,1,,3.35,3.35
+6,temporary shelters,1,,3.35,3.35
+6,infrastructural,1,,3.35,3.35
+6,infections,1,,3.35,3.35
+6,infection,1,,3.35,3.35
+6,problems,1,,3.35,3.35
+6,leaks,1,,3.35,3.35
+6,anthrax,1,,3.35,3.35
+6,spillage,1,,3.35,3.35
+6,antibiotic resistance,1,,3.35,3.35
+6,shortages,1,,3.35,3.35
+6,sampling,1,,3.35,3.35
+6,testing,1,,3.35,3.35
+6,mold,1,,3.35,3.35
+6,exposure,1,,3.35,3.35
+6,problem,1,,3.35,3.35
+6,dangers,1,,3.35,3.35
+6,violations,1,,3.35,3.35
+6,borne illness,1,,3.35,3.35
+6,floods,1,,3.35,3.35
+6,leak,1,,3.35,3.35
+6,cfs,1,,3.35,3.35
+6,biosphere,1,,3.35,3.35
+6,lake okeechobee,1,,3.35,3.35
+6,antimony,1,,3.35,3.35
+6,acidic,1,,3.35,3.35
+6,cholesterol,1,,3.35,3.35
+6,ppm,1,,3.35,3.35
+6,caffeine,1,,3.35,3.35
+6,measles,1,,3.35,3.35
+6,phosphate,1,,3.35,3.35
+6,potassium,1,,3.35,3.35
+6,rabies,1,,3.35,3.35
+6,feces,1,,3.35,3.35
+6,filth,1,,3.35,3.35
+6,excrement,1,,3.35,3.35
+6,faeces,1,,3.35,3.35
+6,overflowed,1,,3.35,3.35
+6,stench,1,,3.35,3.35
+6,overflow,1,,3.35,3.35
+6,foul odor,1,,3.35,3.35
+6,cesspool,1,,3.35,3.35
+6,puddles,1,,3.35,3.35
+6,stinky,1,,3.35,3.35
+6,flooded,1,,3.35,3.35
+6,heavy rains,1,,3.35,3.35
+6,municipalities,1,,3.35,3.35
+6,coal fired,1,,3.35,3.35
+6,aluminum smelter,1,,3.35,3.35
+6,hydroelectric dams,1,,3.35,3.35
+6,pwd,1,,3.35,3.35
+6,cooperatives,1,,3.35,3.35
+6,resource management,1,,3.35,3.35
+6,paddy,1,,3.35,3.35
+6,natural resources conservation,1,,3.35,3.35
+6,rural,1,,3.35,3.35
+6,crops,1,,3.35,3.35
+6,fertilizers,1,,3.35,3.35
+6,landscape,1,,3.35,3.35
+6,nrcs,1,,3.35,3.35
+6,cooperative,1,,3.35,3.35
+6,agri,1,,3.35,3.35
+6,tillage,1,,3.35,3.35
+6,indus,1,,3.35,3.35
+6,ag,1,,3.35,3.35
+6,vegetable,1,,3.35,3.35
+6,engineers,1,,3.35,3.35
+6,forestry,1,,3.35,3.35
+6,remediate,1,,3.35,3.35
+6,unexploded ordnance,1,,3.35,3.35
+6,excavation,1,,3.35,3.35
+6,superfund,1,,3.35,3.35
+6,munitions,1,,3.35,3.35
+6,dirt,1,,3.35,3.35
+6,crematorium,1,,3.35,3.35
+6,disposing,1,,3.35,3.35
+6,quarrying,1,,3.35,3.35
+6,environmentally sound,1,,3.35,3.35
+6,siting,1,,3.35,3.35
+6,dispose,1,,3.35,3.35
+6,reprocessing,1,,3.35,3.35
+6,recycling bins,1,,3.35,3.35
+6,litter,1,,3.35,3.35
+6,recyclers,1,,3.35,3.35
+6,recyclable,1,,3.35,3.35
+6,environmentally,1,,3.35,3.35
+6,homes,1,,3.35,3.35
+6,apartment complexes,1,,3.35,3.35
+6,tax increment financing,1,,3.35,3.35
+6,smart growth,1,,3.35,3.35
+6,gas pipeline,1,,3.35,3.35
+6,nuclear power,1,,3.35,3.35
+6,power grid,1,,3.35,3.35
+6,waterfront,1,,3.35,3.35
+6,revitalization,1,,3.35,3.35
+6,mill creek,1,,3.35,3.35
+6,furnace,1,,3.35,3.35
+6,mobil,1,,3.35,3.35
+6,village,1,,3.35,3.35
+6,fountain,1,,3.35,3.35
+6,riverwalk,1,,3.35,3.35
+6,riverfront park,1,,3.35,3.35
+6,pub,1,,3.35,3.35
+6,arboretum,1,,3.35,3.35
+6,susquehanna river,1,,3.35,3.35
+6,sulfuric acid,1,,3.35,3.35
+6,hydrogen peroxide,1,,3.35,3.35
+6,vapor,1,,3.35,3.35
+6,sulfur,1,,3.35,3.35
+6,odorless,1,,3.35,3.35
+6,insecticide,1,,3.35,3.35
+6,diesel fuel,1,,3.35,3.35
+6,poison,1,,3.35,3.35
+6,antifreeze,1,,3.35,3.35
+6,urea,1,,3.35,3.35
+6,liquid,1,,3.35,3.35
+6,methanol,1,,3.35,3.35
+6,baking soda,1,,3.35,3.35
+6,coolant,1,,3.35,3.35
+6,solar thermal,1,,3.35,3.35
+6,evaporation,1,,3.35,3.35
+6,lime,1,,3.35,3.35
+6,kilowatt,1,,3.35,3.35
+6,ro,1,,3.35,3.35
+6,fluoridation,1,,3.35,3.35
+6,rinsing,1,,3.35,3.35
+6,saltwater,1,,3.35,3.35
+6,detox,1,,3.35,3.35
+6,bio diesel,1,,3.35,3.35
+6,hvac,1,,3.35,3.35
+6,pall,1,,3.35,3.35
+6,membranes,1,,3.35,3.35
+6,filtering,1,,3.35,3.35
+6,membrane,1,,3.35,3.35
+6,coatings,1,,3.35,3.35
+6,blowers,1,,3.35,3.35
+6,extrusion,1,,3.35,3.35
+6,valves,1,,3.35,3.35
+6,coating,1,,3.35,3.35
+6,nozzles,1,,3.35,3.35
+6,suction,1,,3.35,3.35
+6,combustion,1,,3.35,3.35
+6,boiler,1,,3.35,3.35
+6,adhesives,1,,3.35,3.35
+6,sealant,1,,3.35,3.35
+6,hydraulic,1,,3.35,3.35
+6,dispensers,1,,3.35,3.35
+6,tubing,1,,3.35,3.35
+6,resins,1,,3.35,3.35
+6,lubrication,1,,3.35,3.35
+6,reagent,1,,3.35,3.35
+6,coolers,1,,3.35,3.35
+6,cropland,1,,3.35,3.35
+6,farmlands,1,,3.35,3.35
+6,wells drilled,1,,3.35,3.35
+6,rock formations,1,,3.35,3.35
+6,catchment areas,1,,3.35,3.35
+6,lowlands,1,,3.35,3.35
+6,shale,1,,3.35,3.35
+6,coalbed methane,1,,3.35,3.35
+6,geologically,1,,3.35,3.35
+6,hydrocarbons,1,,3.35,3.35
+6,environmentally sensitive,1,,3.35,3.35
+6,urban sprawl,1,,3.35,3.35
+6,berms,1,,3.35,3.35
+6,inlets,1,,3.35,3.35
+6,traffic congestion,1,,3.35,3.35
+6,sprawl,1,,3.35,3.35
+6,environmental impacts,1,,3.35,3.35
+6,berm,1,,3.35,3.35
+6,habitat,1,,3.35,3.35
+6,biodiesel,1,,3.35,3.35
+6,silage,1,,3.35,3.35
+6,herbicides,1,,3.35,3.35
+6,hydraulic fracturing,1,,3.35,3.35
+6,gypsum,1,,3.35,3.35
+6,raw milk,1,,3.35,3.35
+6,reuse,1,,3.35,3.35
+6,homeowners,1,,3.35,3.35
+6,townhouses,1,,3.35,3.35
+6,propane tank,1,,3.35,3.35
+6,carport,1,,3.35,3.35
+6,concrete slab,1,,3.35,3.35
+6,tub,1,,3.35,3.35
+6,hose,1,,3.35,3.35
+6,bathtub,1,,3.35,3.35
+6,chimney,1,,3.35,3.35
+6,garden hose,1,,3.35,3.35
+6,sinkhole,1,,3.35,3.35
+6,meth lab,1,,3.35,3.35
+6,backhoe,1,,3.35,3.35
+6,carwash,1,,3.35,3.35
+6,creek bed,1,,3.35,3.35
+6,garage,1,,3.35,3.35
+6,dishwasher,1,,3.35,3.35
+6,washer,1,,3.35,3.35
+6,plumber,1,,3.35,3.35
+6,municipal airport,1,,3.35,3.35
+6,ethanol,1,,3.35,3.35
+6,renewables,1,,3.35,3.35
+6,supercenter,1,,3.35,3.35
+6,crematory,1,,3.35,3.35
+6,farms,1,,3.35,3.35
+6,airport,1,,3.35,3.35
+6,curbside,1,,3.35,3.35
+6,correctional facility,1,,3.35,3.35
+6,towing,1,,3.35,3.35
+6,plastics,1,,3.35,3.35
+6,fuels,1,,3.35,3.35
+6,greenhouse gases,1,,3.35,3.35
+6,nitrogen oxide,1,,3.35,3.35
+6,carbon dioxide emissions,1,,3.35,3.35
+6,greenhouse gas,1,,3.35,3.35
+6,co2,1,,3.35,3.35
+6,greenhouse gas emissions,1,,3.35,3.35
+6,smog,1,,3.35,3.35
+6,nox,1,,3.35,3.35
+6,heat trapping gases,1,,3.35,3.35
+6,greenhouse emissions,1,,3.35,3.35
+6,polluters,1,,3.35,3.35
+6,aerosols,1,,3.35,3.35
+6,emission,1,,3.35,3.35
+6,smokestacks,1,,3.35,3.35
+6,ghg emissions,1,,3.35,3.35
+6,carbon emissions,1,,3.35,3.35
+6,polluter,1,,3.35,3.35
+6,co2 emissions,1,,3.35,3.35
+6,water vapor,1,,3.35,3.35
+6,dust particles,1,,3.35,3.35
+6,clean air,1,,3.35,3.35
+6,greenhouse gas emission,1,,3.35,3.35
+6,solar powered,1,,3.35,3.35
+6,equipments,1,,3.35,3.35
+6,equipment,1,,3.35,3.35
+6,toiletries,1,,3.35,3.35
+6,pharmaceuticals,1,,3.35,3.35
+6,surgical instruments,1,,3.35,3.35
+6,diagnostics,1,,3.35,3.35
+6,kidney dialysis,1,,3.35,3.35
+6,washing machines,1,,3.35,3.35
+6,anti bacterial,1,,3.35,3.35
+6,surgical,1,,3.35,3.35
+6,kits,1,,3.35,3.35
+6,hydration,1,,3.35,3.35
+6,x ray machines,1,,3.35,3.35
+6,toothbrushes,1,,3.35,3.35
+6,sterilizing,1,,3.35,3.35
+6,dialysis,1,,3.35,3.35
+6,ventilators,1,,3.35,3.35
+6,laundry detergent,1,,3.35,3.35
+6,tents,1,,3.35,3.35
+6,refrigerators,1,,3.35,3.35
+6,prefabricated,1,,3.35,3.35
+6,hand sanitizer,1,,3.35,3.35
+6,tarpaulins,1,,3.35,3.35
+6,manufactures,1,,3.35,3.35
+6,medical,1,,3.35,3.35
+6,diagnostic,1,,3.35,3.35
+6,washing,1,,3.35,3.35
+6,reagents,1,,3.35,3.35
+6,biomedical,1,,3.35,3.35
+6,infectious diseases,1,,3.35,3.35
+6,medicines,1,,3.35,3.35
+6,orphanages,1,,3.35,3.35
+6,hematology,1,,3.35,3.35
+6,photovoltaic,1,,3.35,3.35
+6,respirators,1,,3.35,3.35
+6,hemodialysis,1,,3.35,3.35
+6,air conditioners,1,,3.35,3.35
+6,water heaters,1,,3.35,3.35
+6,microbiologist,1,,3.35,3.35
+6,blankets,1,,3.35,3.35
+6,zoning board,1,,3.35,3.35
+6,handicapped accessible,1,,3.35,3.35
+6,handicap accessible,1,,3.35,3.35
+6,county,1,,3.35,3.35
+6,zoning commission,1,,3.35,3.35
+6,carbonate,1,,3.35,3.35
+6,reef,1,,3.35,3.35
+6,silica,1,,3.35,3.35
+6,pyrite,1,,3.35,3.35
+6,sulphide,1,,3.35,3.35
+6,seafloor,1,,3.35,3.35
+6,permafrost,1,,3.35,3.35
+6,reefs,1,,3.35,3.35
+6,plankton,1,,3.35,3.35
+6,geochemical,1,,3.35,3.35
+6,phytoplankton,1,,3.35,3.35
+6,coral,1,,3.35,3.35
+6,pilings,1,,3.35,3.35
+6,ocean currents,1,,3.35,3.35
+6,outcrop,1,,3.35,3.35
+6,millisieverts,1,,3.35,3.35
+6,radiation exposure,1,,3.35,3.35
+6,polonium,1,,3.35,3.35
+6,chernobyl,1,,3.35,3.35
+6,aspartame,1,,3.35,3.35
+6,chernobyl disaster,1,,3.35,3.35
+6,toxicologist,1,,3.35,3.35
+6,laundry,1,,3.35,3.35
+6,inspection,1,,3.35,3.35
+6,veterinary,1,,3.35,3.35
+6,health,1,,3.35,3.35
+6,welding,1,,3.35,3.35
+6,unsanitary,1,,3.35,3.35
+6,csd,1,,3.35,3.35
+6,fire protection,1,,3.35,3.35
+6,machinery,1,,3.35,3.35
+6,heating,1,,3.35,3.35
+6,postal,1,,3.35,3.35
+6,drug store,1,,3.35,3.35
+6,swine,1,,3.35,3.35
+6,pest,1,,3.35,3.35
+6,cleanliness,1,,3.35,3.35
+6,poultry,1,,3.35,3.35
+6,janitorial,1,,3.35,3.35
+6,container,1,,3.35,3.35
+6,bulk,1,,3.35,3.35
+6,quality control,1,,3.35,3.35
+6,contracting,1,,3.35,3.35
+6,fruit,1,,3.35,3.35
+6,grain,1,,3.35,3.35
+6,architectural,1,,3.35,3.35
+6,acme,1,,3.35,3.35
+6,respiratory,1,,3.35,3.35
+6,tire,1,,3.35,3.35
+6,sodium,1,,3.35,3.35
+6,pce,1,,3.35,3.35
+6,aerojet,1,,3.35,3.35
+6,infant formula,1,,3.35,3.35
+6,tceq,1,,3.35,3.35
+6,flammable,1,,3.35,3.35
+6,hazards,1,,3.35,3.35
+6,nanomaterials,1,,3.35,3.35
+6,marinas,1,,3.35,3.35
+6,boat,1,,3.35,3.35
+6,trails,1,,3.35,3.35
+6,preservation,1,,3.35,3.35
+6,marina,1,,3.35,3.35
+6,historic preservation,1,,3.35,3.35
+6,scenic,1,,3.35,3.35
+6,ports,1,,3.35,3.35
+6,coastal,1,,3.35,3.35
+6,erie canal,1,,3.35,3.35
+6,sailing,1,,3.35,3.35
+6,cruising,1,,3.35,3.35
+6,natural resources,1,,3.35,3.35
+6,parks,1,,3.35,3.35
+6,maritime,1,,3.35,3.35
+6,landmarks,1,,3.35,3.35
+6,yacht,1,,3.35,3.35
+6,ferries,1,,3.35,3.35
+6,great lakes,1,,3.35,3.35
+6,cultural heritage,1,,3.35,3.35
+6,dunes,1,,3.35,3.35
+6,monuments,1,,3.35,3.35
+6,yachting,1,,3.35,3.35
+6,rail,1,,3.35,3.35
+6,cruise line,1,,3.35,3.35
+6,maritime museum,1,,3.35,3.35
+6,beaches,1,,3.35,3.35
+6,transportation,1,,3.35,3.35
+6,museums,1,,3.35,3.35
+6,paddle,1,,3.35,3.35
+6,piers,1,,3.35,3.35
+6,cruises,1,,3.35,3.35
+6,pontoon,1,,3.35,3.35
+6,boater,1,,3.35,3.35
+6,archaeology,1,,3.35,3.35
+6,rowing,1,,3.35,3.35
+6,tourist,1,,3.35,3.35
+6,canoe,1,,3.35,3.35
+6,seaway,1,,3.35,3.35
+6,chesapeake bay,1,,3.35,3.35
+6,spores,1,,3.35,3.35
+6,bloodstream,1,,3.35,3.35
+6,parasites,1,,3.35,3.35
+6,fatty acids,1,,3.35,3.35
+6,fats,1,,3.35,3.35
+6,mucus,1,,3.35,3.35
+6,immune cells,1,,3.35,3.35
+6,odor,1,,3.35,3.35
+6,parasite,1,,3.35,3.35
+6,gastrointestinal tract,1,,3.35,3.35
+6,cytokines,1,,3.35,3.35
+6,preservatives,1,,3.35,3.35
+6,trans fats,1,,3.35,3.35
+6,sunscreens,1,,3.35,3.35
+6,harmful effects,1,,3.35,3.35
+6,nicotine,1,,3.35,3.35
+6,biodegradable,1,,3.35,3.35
+6,trans fat,1,,3.35,3.35
+6,processed foods,1,,3.35,3.35
+6,phosphates,1,,3.35,3.35
+6,flame retardant,1,,3.35,3.35
+6,voc,1,,3.35,3.35
+6,deet,1,,3.35,3.35
+6,alleys,1,,3.35,3.35
+6,basements,1,,3.35,3.35
+6,alleyways,1,,3.35,3.35
+6,ditches,1,,3.35,3.35
+6,bike paths,1,,3.35,3.35
+6,city,1,,3.35,3.35
+6,streets,1,,3.35,3.35
+6,tunnels,1,,3.35,3.35
+6,underpass,1,,3.35,3.35
+6,slums,1,,3.35,3.35
+6,townships,1,,3.35,3.35
+6,pavements,1,,3.35,3.35
+6,ducts,1,,3.35,3.35
+6,neighborhoods,1,,3.35,3.35
+6,footpaths,1,,3.35,3.35
+6,plumbers,1,,3.35,3.35
+6,urban renewal,1,,3.35,3.35
+6,bike lanes,1,,3.35,3.35
+6,thoroughfares,1,,3.35,3.35
+6,expressway,1,,3.35,3.35
+6,swimming pools,1,,3.35,3.35
+6,comer,1,,3.35,3.35
+6,bogan,1,,3.35,3.35
+6,snook,1,,3.35,3.35
+6,salmon,1,,3.35,3.35
+6,coon,1,,3.35,3.35
+6,mallard,1,,3.35,3.35
+6,roe,1,,3.35,3.35
+6,trout,1,,3.35,3.35
+6,charters,1,,3.35,3.35
+6,brunton,1,,3.35,3.35
+6,bowen,1,,3.35,3.35
+6,squire,1,,3.35,3.35
+6,creationism,1,,3.35,3.35
+6,gorman,1,,3.35,3.35
+6,mccloud,1,,3.35,3.35
+6,hackett,1,,3.35,3.35
+6,cove,1,,3.35,3.35
+6,broughton,1,,3.35,3.35
+6,harkness,1,,3.35,3.35
+6,muir,1,,3.35,3.35
+6,shark,1,,3.35,3.35
+6,colwell,1,,3.35,3.35
+6,gibbon,1,,3.35,3.35
+6,mckibben,1,,3.35,3.35
+6,thwaites,1,,3.35,3.35
+6,fisherman,1,,3.35,3.35
+6,swordfish,1,,3.35,3.35
+6,dingle,1,,3.35,3.35
+6,bluefin tuna,1,,3.35,3.35
+6,dunstan,1,,3.35,3.35
+6,lowther,1,,3.35,3.35
+6,redden,1,,3.35,3.35
+6,gunns,1,,3.35,3.35
+6,savage,1,,3.35,3.35
+6,greenhouse,1,,3.35,3.35
+6,burd,1,,3.35,3.35
+6,leech,1,,3.35,3.35
+6,hanlon,1,,3.35,3.35
+6,paddling,1,,3.35,3.35
+6,bluewater,1,,3.35,3.35
+6,buckland,1,,3.35,3.35
+6,attwood,1,,3.35,3.35
+6,slack,1,,3.35,3.35
+6,great barrier reef,1,,3.35,3.35
+6,massey,1,,3.35,3.35
+6,fish,1,,3.35,3.35
+6,hewett,1,,3.35,3.35
+6,wightman,1,,3.35,3.35
+6,coates,1,,3.35,3.35
+6,magill,1,,3.35,3.35
+6,nature,1,,3.35,3.35
+6,newby,1,,3.35,3.35
+6,cummins,1,,3.35,3.35
+6,beckwith,1,,3.35,3.35
+6,couch,1,,3.35,3.35
+6,rundle,1,,3.35,3.35
+6,slade,1,,3.35,3.35
+6,rainforest,1,,3.35,3.35
+6,abbott,1,,3.35,3.35
+6,derwent,1,,3.35,3.35
+6,marlow,1,,3.35,3.35
+6,overfishing,1,,3.35,3.35
+6,edmondson,1,,3.35,3.35
+6,bass,1,,3.35,3.35
+6,mcintyre,1,,3.35,3.35
+6,rees,1,,3.35,3.35
+6,hornsby,1,,3.35,3.35
+6,seafood,1,,3.35,3.35
+6,crane,1,,3.35,3.35
+6,oceans,1,,3.35,3.35
+6,stroud,1,,3.35,3.35
+6,cookson,1,,3.35,3.35
+6,csiro,1,,3.35,3.35
+6,japanese whaling,1,,3.35,3.35
+6,sand,1,,3.35,3.35
+6,dredged,1,,3.35,3.35
+6,boulders,1,,3.35,3.35
+6,embankments,1,,3.35,3.35
+6,marshland,1,,3.35,3.35
+6,limestone,1,,3.35,3.35
+6,marshes,1,,3.35,3.35
+6,dust,1,,3.35,3.35
+6,compacted,1,,3.35,3.35
+6,sandy,1,,3.35,3.35
+6,mangroves,1,,3.35,3.35
+6,moss,1,,3.35,3.35
+6,marshy,1,,3.35,3.35
+6,heavy rainfall,1,,3.35,3.35
+6,fiber optic cables,1,,3.35,3.35
+6,utility poles,1,,3.35,3.35
+6,repave,1,,3.35,3.35
+6,fiber optic cable,1,,3.35,3.35
+6,transformer,1,,3.35,3.35
+6,viaduct,1,,3.35,3.35
+6,fiber optic,1,,3.35,3.35
+6,electrical grid,1,,3.35,3.35
+6,power outages,1,,3.35,3.35
+6,repaved,1,,3.35,3.35
+6,pavement,1,,3.35,3.35
+6,roadworks,1,,3.35,3.35
+6,outages,1,,3.35,3.35
+6,levees,1,,3.35,3.35
+6,goo,1,,3.35,3.35
+6,grease,1,,3.35,3.35
+6,slime,1,,3.35,3.35
+6,methane gas,1,,3.35,3.35
+6,oily,1,,3.35,3.35
+6,slag,1,,3.35,3.35
+6,spill,1,,3.35,3.35
+6,gooey,1,,3.35,3.35

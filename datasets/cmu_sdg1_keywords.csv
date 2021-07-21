@@ -1,0 +1,2284 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+1,poverty,35,True,21.04,736.4
+1,pension,23,True,9.71,223.33
+1,unemployment,23,True,8.65,198.95000000000002
+1,pensions,22,True,2.88,63.36
+1,incomes,19,,2.23,42.37
+1,employment,18,True,6.52,117.35999999999999
+1,unemployed,18,True,3.44,61.92
+1,jobless,17,,2.23,37.91
+1,insurance,16,True,7.13,114.08
+1,homelessness,16,True,2.72,43.52
+1,retirement,16,True,2.66,42.56
+1,inequality,15,True,7.17,107.55
+1,inequalities,15,True,2.72,40.800000000000004
+1,annuity,15,,2.23,33.45
+1,retirees,15,,2.23,33.45
+1,welfare,14,True,11.53,161.42
+1,pensioners,14,,2.23,31.22
+1,insurers,14,,2.23,31.22
+1,wages,14,,2.23,31.22
+1,elderly,14,,2.23,31.22
+1,uninsured,13,True,6.26,81.38
+1,homeless,13,True,3.16,41.08
+1,socio economic,13,,2.23,28.99
+1,premiums,13,,2.23,28.99
+1,disability,12,True,3.04,36.480000000000004
+1,extreme poverty,12,,2.23,26.759999999999998
+1,infant mortality,12,,2.23,26.759999999999998
+1,joblessness,12,,2.23,26.759999999999998
+1,insurer,12,,2.23,26.759999999999998
+1,racism,11,True,2.82,31.02
+1,deprivation,11,True,2.29,25.19
+1,underdevelopment,11,,2.23,24.53
+1,poorer,11,,2.23,24.53
+1,economic,10,True,4.72,47.199999999999996
+1,gender,10,,2.23,22.3
+1,illiteracy,10,,2.23,22.3
+1,abject poverty,10,,2.23,22.3
+1,environmental degradation,10,,2.23,22.3
+1,marginalization,10,,2.23,22.3
+1,equality,10,,2.23,22.3
+1,retiree,10,,2.23,22.3
+1,employer,10,,2.23,22.3
+1,wage,10,,2.23,22.3
+1,salaries,10,,2.23,22.3
+1,employers,10,,2.23,22.3
+1,mental health,10,,2.23,22.3
+1,foreclosures,10,,2.23,22.3
+1,health care,10,,2.23,22.3
+1,flood,9,True,2.25,20.25
+1,hunger,9,,2.23,20.07
+1,discrimination,9,,2.23,20.07
+1,hiv aids,9,,2.23,20.07
+1,socioeconomic,9,,2.23,20.07
+1,poorest,9,,2.23,20.07
+1,maternal mortality,9,,2.23,20.07
+1,educational attainment,9,,2.23,20.07
+1,inflation,9,,2.23,20.07
+1,alleviate poverty,9,,2.23,20.07
+1,recession,9,,2.23,20.07
+1,backwardness,9,,2.23,20.07
+1,social ills,9,,2.23,20.07
+1,minorities,9,,2.23,20.07
+1,benefits,9,,2.23,20.07
+1,housing,9,,2.23,20.07
+1,payroll,9,,2.23,20.07
+1,affordable housing,9,,2.23,20.07
+1,unemployment rate,9,,2.23,20.07
+1,payrolls,9,,2.23,20.07
+1,jobless claims,9,,2.23,20.07
+1,economists,9,,2.23,20.07
+1,reinsurance,9,,2.23,20.07
+1,social security,8,True,11.47,91.76
+1,disasters,8,True,3.35,26.8
+1,health,8,True,2.33,18.64
+1,population,8,,2.23,17.84
+1,eradicate poverty,8,,2.23,17.84
+1,poverty eradication,8,,2.23,17.84
+1,disparities,8,,2.23,17.84
+1,infant mortality rate,8,,2.23,17.84
+1,injustice,8,,2.23,17.84
+1,hiv prevalence,8,,2.23,17.84
+1,destitution,8,,2.23,17.84
+1,insecurity,8,,2.23,17.84
+1,gender equality,8,,2.23,17.84
+1,poverty stricken,8,,2.23,17.84
+1,education,8,,2.23,17.84
+1,tribalism,8,,2.23,17.84
+1,pers,8,,2.23,17.84
+1,salary,8,,2.23,17.84
+1,actuarial,8,,2.23,17.84
+1,actuaries,8,,2.23,17.84
+1,mutual fund,8,,2.23,17.84
+1,jobless rate,8,,2.23,17.84
+1,welfare recipients,8,,2.23,17.84
+1,economy,8,,2.23,17.84
+1,life expectancy,8,,2.23,17.84
+1,flooding,8,,2.23,17.84
+1,families,8,,2.23,17.84
+1,taxes,8,,2.23,17.84
+1,floods,8,,2.23,17.84
+1,underwriting,8,,2.23,17.84
+1,cigna,8,,2.23,17.84
+1,disaster,7,True,3.68,25.76
+1,empowerment,7,True,2.3,16.099999999999998
+1,beneficiaries,7,True,2.24,15.680000000000001
+1,globalization,7,,2.23,15.61
+1,drought,7,,2.23,15.61
+1,aids,7,,2.23,15.61
+1,malnutrition,7,,2.23,15.61
+1,dropout rate,7,,2.23,15.61
+1,domestic violence,7,,2.23,15.61
+1,urbanization,7,,2.23,15.61
+1,social cohesion,7,,2.23,15.61
+1,superannuation,7,,2.23,15.61
+1,employee benefits,7,,2.23,15.61
+1,workers compensation,7,,2.23,15.61
+1,annuities,7,,2.23,15.61
+1,erisa,7,,2.23,15.61
+1,mutual funds,7,,2.23,15.61
+1,axa,7,,2.23,15.61
+1,mortgage,7,,2.23,15.61
+1,needy,7,,2.23,15.61
+1,disabled,7,,2.23,15.61
+1,rates,7,,2.23,15.61
+1,baby boomers,7,,2.23,15.61
+1,oppression,7,,2.23,15.61
+1,carers,7,,2.23,15.61
+1,healthcare,7,,2.23,15.61
+1,destitute,7,,2.23,15.61
+1,catastrophe,7,,2.23,15.61
+1,tornado,7,,2.23,15.61
+1,insurance premiums,7,,2.23,15.61
+1,social,6,True,7.51,45.06
+1,poor,6,True,6.52,39.12
+1,low income,6,True,4.29,25.740000000000002
+1,disadvantaged,6,True,2.4,14.399999999999999
+1,poverty alleviation,6,,2.23,13.379999999999999
+1,dropout rates,6,,2.23,13.379999999999999
+1,inequities,6,,2.23,13.379999999999999
+1,employability,6,,2.23,13.379999999999999
+1,pension fund,6,,2.23,13.379999999999999
+1,pension schemes,6,,2.23,13.379999999999999
+1,retirement system,6,,2.23,13.379999999999999
+1,compensation,6,,2.23,13.379999999999999
+1,life insurance,6,,2.23,13.379999999999999
+1,actuary,6,,2.23,13.379999999999999
+1,long term care,6,,2.23,13.379999999999999
+1,policyholders,6,,2.23,13.379999999999999
+1,policyholder,6,,2.23,13.379999999999999
+1,hsa,6,,2.23,13.379999999999999
+1,liability,6,,2.23,13.379999999999999
+1,job,6,,2.23,13.379999999999999
+1,job seekers,6,,2.23,13.379999999999999
+1,productivity,6,,2.23,13.379999999999999
+1,childcare,6,,2.23,13.379999999999999
+1,hourly wages,6,,2.23,13.379999999999999
+1,underemployed,6,,2.23,13.379999999999999
+1,impoverished,6,,2.23,13.379999999999999
+1,orphans,6,,2.23,13.379999999999999
+1,oppressed,6,,2.23,13.379999999999999
+1,shelter,6,,2.23,13.379999999999999
+1,workers,6,,2.23,13.379999999999999
+1,unequal,6,,2.23,13.379999999999999
+1,earthquake,6,,2.23,13.379999999999999
+1,quake,6,,2.23,13.379999999999999
+1,tsunami,6,,2.23,13.379999999999999
+1,landslide,6,,2.23,13.379999999999999
+1,hurricane,6,,2.23,13.379999999999999
+1,hsas,6,,2.23,13.379999999999999
+1,medicare,6,,2.23,13.379999999999999
+1,food pantry,6,,2.23,13.379999999999999
+1,child support,5,True,2.65,13.25
+1,reimbursement,5,True,2.63,13.149999999999999
+1,bullying,5,,2.23,11.15
+1,obesity,5,,2.23,11.15
+1,literacy,5,,2.23,11.15
+1,inequity,5,,2.23,11.15
+1,racial,5,,2.23,11.15
+1,teenage pregnancy,5,,2.23,11.15
+1,neglect,5,,2.23,11.15
+1,prostitution,5,,2.23,11.15
+1,mortality,5,,2.23,11.15
+1,violent crime,5,,2.23,11.15
+1,societal,5,,2.23,11.15
+1,prosperity,5,,2.23,11.15
+1,demographic,5,,2.23,11.15
+1,economically disadvantaged,5,,2.23,11.15
+1,landless,5,,2.23,11.15
+1,governance,5,,2.23,11.15
+1,ethnic minorities,5,,2.23,11.15
+1,tax,5,,2.23,11.15
+1,kiwisaver,5,,2.23,11.15
+1,civil service,5,,2.23,11.15
+1,k,5,,2.23,11.15
+1,unfunded liability,5,,2.23,11.15
+1,asset allocation,5,,2.23,11.15
+1,variable annuities,5,,2.23,11.15
+1,iras,5,,2.23,11.15
+1,variable annuity,5,,2.23,11.15
+1,employee,5,,2.23,11.15
+1,seasonally adjusted,5,,2.23,11.15
+1,minimum wage,5,,2.23,11.15
+1,underprivileged,5,,2.23,11.15
+1,basic necessities,5,,2.23,11.15
+1,underclass,5,,2.23,11.15
+1,rents,5,,2.23,11.15
+1,tuition,5,,2.23,11.15
+1,prices,5,,2.23,11.15
+1,household incomes,5,,2.23,11.15
+1,economies,5,,2.23,11.15
+1,seniors,5,,2.23,11.15
+1,renters,5,,2.23,11.15
+1,aarp,5,,2.23,11.15
+1,senior citizens,5,,2.23,11.15
+1,immigrants,5,,2.23,11.15
+1,savers,5,,2.23,11.15
+1,nurses,5,,2.23,11.15
+1,racial discrimination,5,,2.23,11.15
+1,segregation,5,,2.23,11.15
+1,inequitable,5,,2.23,11.15
+1,affluence,5,,2.23,11.15
+1,repression,5,,2.23,11.15
+1,stagnation,5,,2.23,11.15
+1,hopelessness,5,,2.23,11.15
+1,mental illness,5,,2.23,11.15
+1,autism,5,,2.23,11.15
+1,charitable,5,,2.23,11.15
+1,relief,5,,2.23,11.15
+1,worker,5,,2.23,11.15
+1,typhoon,5,,2.23,11.15
+1,cyclone,5,,2.23,11.15
+1,bird flu,5,,2.23,11.15
+1,storm,5,,2.23,11.15
+1,insured,5,,2.23,11.15
+1,deductibles,5,,2.23,11.15
+1,medicare advantage,5,,2.23,11.15
+1,hmo,5,,2.23,11.15
+1,casualty insurance,5,,2.23,11.15
+1,tricare,5,,2.23,11.15
+1,indemnity,5,,2.23,11.15
+1,pensioner,5,,2.23,11.15
+1,medicaid,5,,2.23,11.15
+1,vulnerable,4,True,3.42,13.68
+1,security,4,True,2.9,11.6
+1,violence,4,,2.23,8.92
+1,globalisation,4,,2.23,8.92
+1,malaria,4,,2.23,8.92
+1,anti semitism,4,,2.23,8.92
+1,maternal,4,,2.23,8.92
+1,economic policy,4,,2.23,8.92
+1,millennium development goals,4,,2.23,8.92
+1,upliftment,4,,2.23,8.92
+1,socioeconomic status,4,,2.23,8.92
+1,cultural,4,,2.23,8.92
+1,tertiary education,4,,2.23,8.92
+1,ethnicity,4,,2.23,8.92
+1,decentralization,4,,2.23,8.92
+1,equitable,4,,2.23,8.92
+1,mutual,4,,2.23,8.92
+1,roth ira,4,,2.23,8.92
+1,nest eggs,4,,2.23,8.92
+1,fidelity,4,,2.23,8.92
+1,unions,4,,2.23,8.92
+1,ifas,4,,2.23,8.92
+1,labor,4,,2.23,8.92
+1,jobseekers,4,,2.23,8.92
+1,legal aid,4,,2.23,8.92
+1,juvenile justice,4,,2.23,8.92
+1,migrant,4,,2.23,8.92
+1,average hourly,4,,2.23,8.92
+1,malnourished,4,,2.23,8.92
+1,squalor,4,,2.23,8.92
+1,widows,4,,2.23,8.92
+1,slum dwellers,4,,2.23,8.92
+1,indigent,4,,2.23,8.92
+1,marginalized,4,,2.23,8.92
+1,starvation,4,,2.23,8.92
+1,displaced,4,,2.23,8.92
+1,soup kitchens,4,,2.23,8.92
+1,desperate,4,,2.23,8.92
+1,refugee,4,,2.23,8.92
+1,migrants,4,,2.23,8.92
+1,microcredit,4,,2.23,8.92
+1,jobless benefits,4,,2.23,8.92
+1,birthrate,4,,2.23,8.92
+1,gdp,4,,2.23,8.92
+1,foreclosure,4,,2.23,8.92
+1,median,4,,2.23,8.92
+1,median household,4,,2.23,8.92
+1,remittances,4,,2.23,8.92
+1,inventories,4,,2.23,8.92
+1,disposable income,4,,2.23,8.92
+1,census,4,,2.23,8.92
+1,employees,4,,2.23,8.92
+1,taxpayers,4,,2.23,8.92
+1,caregivers,4,,2.23,8.92
+1,boomers,4,,2.23,8.92
+1,fixed incomes,4,,2.23,8.92
+1,transgender,4,,2.23,8.92
+1,households,4,,2.23,8.92
+1,subsidies,4,,2.23,8.92
+1,injustices,4,,2.23,8.92
+1,unfairness,4,,2.23,8.92
+1,alienation,4,,2.23,8.92
+1,rampant corruption,4,,2.23,8.92
+1,budget deficits,4,,2.23,8.92
+1,psychiatric,4,,2.23,8.92
+1,mentally ill,4,,2.23,8.92
+1,substance abuse,4,,2.23,8.92
+1,developmentally disabled,4,,2.23,8.92
+1,dementia,4,,2.23,8.92
+1,demographics,4,,2.23,8.92
+1,disproportionately,4,,2.23,8.92
+1,savings,4,,2.23,8.92
+1,metlife,4,,2.23,8.92
+1,aid,4,,2.23,8.92
+1,disabilities,4,,2.23,8.92
+1,developmental disabilities,4,,2.23,8.92
+1,charity,4,,2.23,8.92
+1,antivirus,4,,2.23,8.92
+1,#.# magnitude earthquake,4,,2.23,8.92
+1,mudslide,4,,2.23,8.92
+1,disaster relief,4,,2.23,8.92
+1,devastating floods,4,,2.23,8.92
+1,natural disasters,4,,2.23,8.92
+1,flash floods,4,,2.23,8.92
+1,flash flood,4,,2.23,8.92
+1,tornados,4,,2.23,8.92
+1,costs,4,,2.23,8.92
+1,deductible,4,,2.23,8.92
+1,insurances,4,,2.23,8.92
+1,reinsurers,4,,2.23,8.92
+1,unitedhealthcare,4,,2.23,8.92
+1,immigrant,4,,2.23,8.92
+1,food stamps,4,,2.23,8.92
+1,underinsured,4,,2.23,8.92
+1,healthy families,4,,2.23,8.92
+1,medicaid recipients,4,,2.23,8.92
+1,homeless shelter,4,,2.23,8.92
+1,homeless shelters,4,,2.23,8.92
+1,catholic charities,4,,2.23,8.92
+1,salvation army,4,,2.23,8.92
+1,food pantries,4,,2.23,8.92
+1,income earners,4,,2.23,8.92
+1,paychecks,4,,2.23,8.92
+1,deductions,4,,2.23,8.92
+1,cola,4,,2.23,8.92
+1,sub saharan africa,4,,2.23,8.92
+1,aegon,4,,2.23,8.92
+1,social welfare,3,True,13.3,39.900000000000006
+1,income,3,True,5.6,16.799999999999997
+1,policy,3,True,5.51,16.53
+1,urban,3,True,4.74,14.22
+1,exclusion,3,True,4.67,14.01
+1,policies,3,True,4.5,13.5
+1,redistribution,3,True,3.4,10.2
+1,vulnerability,3,True,3.24,9.72
+1,people,3,True,2.82,8.459999999999999
+1,seismic,3,True,2.51,7.529999999999999
+1,corruption,3,,2.23,6.6899999999999995
+1,terrorism,3,,2.23,6.6899999999999995
+1,crisis,3,,2.23,6.6899999999999995
+1,crime,3,,2.23,6.6899999999999995
+1,rape,3,,2.23,6.6899999999999995
+1,violence against,3,,2.23,6.6899999999999995
+1,wealth,3,,2.23,6.6899999999999995
+1,aids epidemic,3,,2.23,6.6899999999999995
+1,child abuse,3,,2.23,6.6899999999999995
+1,capitalism,3,,2.23,6.6899999999999995
+1,socio,3,,2.23,6.6899999999999995
+1,mdgs,3,,2.23,6.6899999999999995
+1,macroeconomic stability,3,,2.23,6.6899999999999995
+1,industrialization,3,,2.23,6.6899999999999995
+1,attainment,3,,2.23,6.6899999999999995
+1,emancipation,3,,2.23,6.6899999999999995
+1,ecological,3,,2.23,6.6899999999999995
+1,psychosocial,3,,2.23,6.6899999999999995
+1,political,3,,2.23,6.6899999999999995
+1,society,3,,2.23,6.6899999999999995
+1,democratization,3,,2.23,6.6899999999999995
+1,ethnic minority,3,,2.23,6.6899999999999995
+1,internally displaced persons,3,,2.23,6.6899999999999995
+1,wellbeing,3,,2.23,6.6899999999999995
+1,personnel,3,,2.23,6.6899999999999995
+1,remuneration,3,,2.23,6.6899999999999995
+1,payouts,3,,2.23,6.6899999999999995
+1,pbgc,3,,2.23,6.6899999999999995
+1,workforce,3,,2.23,6.6899999999999995
+1,industrial relations,3,,2.23,6.6899999999999995
+1,human resources,3,,2.23,6.6899999999999995
+1,jobs,3,,2.23,6.6899999999999995
+1,ilo,3,,2.23,6.6899999999999995
+1,child care,3,,2.23,6.6899999999999995
+1,employable,3,,2.23,6.6899999999999995
+1,manufacturing,3,,2.23,6.6899999999999995
+1,labor statistics,3,,2.23,6.6899999999999995
+1,gainful employment,3,,2.23,6.6899999999999995
+1,real estate,3,,2.23,6.6899999999999995
+1,orphanages,3,,2.23,6.6899999999999995
+1,undernourished,3,,2.23,6.6899999999999995
+1,illiterate,3,,2.23,6.6899999999999995
+1,slums,3,,2.23,6.6899999999999995
+1,orphanage,3,,2.23,6.6899999999999995
+1,refugee camps,3,,2.23,6.6899999999999995
+1,neediest,3,,2.23,6.6899999999999995
+1,hungry,3,,2.23,6.6899999999999995
+1,internally displaced,3,,2.23,6.6899999999999995
+1,disenfranchised,3,,2.23,6.6899999999999995
+1,deprived,3,,2.23,6.6899999999999995
+1,gasoline prices,3,,2.23,6.6899999999999995
+1,output,3,,2.23,6.6899999999999995
+1,foreclosure filings,3,,2.23,6.6899999999999995
+1,enrollment,3,,2.23,6.6899999999999995
+1,deflation,3,,2.23,6.6899999999999995
+1,industrial production,3,,2.23,6.6899999999999995
+1,layoffs,3,,2.23,6.6899999999999995
+1,gross domestic product,3,,2.23,6.6899999999999995
+1,gas prices,3,,2.23,6.6899999999999995
+1,residents,3,,2.23,6.6899999999999995
+1,tenants,3,,2.23,6.6899999999999995
+1,veterans,3,,2.23,6.6899999999999995
+1,commuters,3,,2.23,6.6899999999999995
+1,members,3,,2.23,6.6899999999999995
+1,parents,3,,2.23,6.6899999999999995
+1,salaried workers,3,,2.23,6.6899999999999995
+1,patients,3,,2.23,6.6899999999999995
+1,retired,3,,2.23,6.6899999999999995
+1,dependents,3,,2.23,6.6899999999999995
+1,grandparents,3,,2.23,6.6899999999999995
+1,gender discrimination,3,,2.23,6.6899999999999995
+1,gender bias,3,,2.23,6.6899999999999995
+1,prejudice,3,,2.23,6.6899999999999995
+1,affirmative action,3,,2.23,6.6899999999999995
+1,sexism,3,,2.23,6.6899999999999995
+1,religious intolerance,3,,2.23,6.6899999999999995
+1,victimization,3,,2.23,6.6899999999999995
+1,human trafficking,3,,2.23,6.6899999999999995
+1,persecution,3,,2.23,6.6899999999999995
+1,disposable incomes,3,,2.23,6.6899999999999995
+1,exports,3,,2.23,6.6899999999999995
+1,profits,3,,2.23,6.6899999999999995
+1,yields,3,,2.23,6.6899999999999995
+1,polarization,3,,2.23,6.6899999999999995
+1,disenfranchisement,3,,2.23,6.6899999999999995
+1,subjugation,3,,2.23,6.6899999999999995
+1,recidivism,3,,2.23,6.6899999999999995
+1,homeownership,3,,2.23,6.6899999999999995
+1,housing affordability,3,,2.23,6.6899999999999995
+1,wage earners,3,,2.23,6.6899999999999995
+1,teen pregnancy,3,,2.23,6.6899999999999995
+1,behavioral health,3,,2.23,6.6899999999999995
+1,suicide prevention,3,,2.23,6.6899999999999995
+1,medical,3,,2.23,6.6899999999999995
+1,maternity,3,,2.23,6.6899999999999995
+1,schizophrenia,3,,2.23,6.6899999999999995
+1,sexual assault,3,,2.23,6.6899999999999995
+1,hospitals,3,,2.23,6.6899999999999995
+1,veterans affairs,3,,2.23,6.6899999999999995
+1,mentally disabled,3,,2.23,6.6899999999999995
+1,hispanic whites,3,,2.23,6.6899999999999995
+1,educationally,3,,2.23,6.6899999999999995
+1,demographer,3,,2.23,6.6899999999999995
+1,aging,3,,2.23,6.6899999999999995
+1,wealth management,3,,2.23,6.6899999999999995
+1,nest egg,3,,2.23,6.6899999999999995
+1,tiaa cref,3,,2.23,6.6899999999999995
+1,prudential,3,,2.23,6.6899999999999995
+1,enslavement,3,,2.23,6.6899999999999995
+1,civil strife,3,,2.23,6.6899999999999995
+1,misrule,3,,2.23,6.6899999999999995
+1,exploitation,3,,2.23,6.6899999999999995
+1,desertification,3,,2.23,6.6899999999999995
+1,sectarianism,3,,2.23,6.6899999999999995
+1,sufferings,3,,2.23,6.6899999999999995
+1,subsistence,3,,2.23,6.6899999999999995
+1,ageing,3,,2.23,6.6899999999999995
+1,special needs,3,,2.23,6.6899999999999995
+1,childrens,3,,2.23,6.6899999999999995
+1,malware,3,,2.23,6.6899999999999995
+1,encryption,3,,2.23,6.6899999999999995
+1,firewall,3,,2.23,6.6899999999999995
+1,sanitation,3,,2.23,6.6899999999999995
+1,water borne diseases,3,,2.23,6.6899999999999995
+1,earthquakes,3,,2.23,6.6899999999999995
+1,quakes,3,,2.23,6.6899999999999995
+1,#.# magnitude quake,3,,2.23,6.6899999999999995
+1,devastating earthquake,3,,2.23,6.6899999999999995
+1,tsunamis,3,,2.23,6.6899999999999995
+1,disaster management,3,,2.23,6.6899999999999995
+1,tidal waves,3,,2.23,6.6899999999999995
+1,landslides,3,,2.23,6.6899999999999995
+1,mudslides,3,,2.23,6.6899999999999995
+1,oil spill,3,,2.23,6.6899999999999995
+1,emergencies,3,,2.23,6.6899999999999995
+1,typhoons,3,,2.23,6.6899999999999995
+1,disaster preparedness,3,,2.23,6.6899999999999995
+1,storms,3,,2.23,6.6899999999999995
+1,cyclone nargis,3,,2.23,6.6899999999999995
+1,tornadoes,3,,2.23,6.6899999999999995
+1,calamity,3,,2.23,6.6899999999999995
+1,fees,3,,2.23,6.6899999999999995
+1,insures,3,,2.23,6.6899999999999995
+1,expenses,3,,2.23,6.6899999999999995
+1,copayments,3,,2.23,6.6899999999999995
+1,insuring,3,,2.23,6.6899999999999995
+1,hmos,3,,2.23,6.6899999999999995
+1,casualty,3,,2.23,6.6899999999999995
+1,medicare medicaid,3,,2.23,6.6899999999999995
+1,casualty insurer,3,,2.23,6.6899999999999995
+1,self employed,3,,2.23,6.6899999999999995
+1,laid,3,,2.23,6.6899999999999995
+1,obese,3,,2.23,6.6899999999999995
+1,college grads,3,,2.23,6.6899999999999995
+1,wealthy,3,,2.23,6.6899999999999995
+1,youths,3,,2.23,6.6899999999999995
+1,workers comp,3,,2.23,6.6899999999999995
+1,schip,3,,2.23,6.6899999999999995
+1,tenncare,3,,2.23,6.6899999999999995
+1,obamacare,3,,2.23,6.6899999999999995
+1,chip,3,,2.23,6.6899999999999995
+1,scottish widows,3,,2.23,6.6899999999999995
+1,isas,3,,2.23,6.6899999999999995
+1,friends provident,3,,2.23,6.6899999999999995
+1,financial services,3,,2.23,6.6899999999999995
+1,civil servants,3,,2.23,6.6899999999999995
+1,interfaith,3,,2.23,6.6899999999999995
+1,soup kitchen,3,,2.23,6.6899999999999995
+1,caring,3,,2.23,6.6899999999999995
+1,cares,3,,2.23,6.6899999999999995
+1,humanitarian,3,,2.23,6.6899999999999995
+1,crime prevention,3,,2.23,6.6899999999999995
+1,meals,3,,2.23,6.6899999999999995
+1,inmate,3,,2.23,6.6899999999999995
+1,tragedy,3,,2.23,6.6899999999999995
+1,coordination,3,,2.23,6.6899999999999995
+1,flood ravaged,3,,2.23,6.6899999999999995
+1,swine flu,3,,2.23,6.6899999999999995
+1,charities,3,,2.23,6.6899999999999995
+1,hourly wage,3,,2.23,6.6899999999999995
+1,eitc,3,,2.23,6.6899999999999995
+1,wealthier,3,,2.23,6.6899999999999995
+1,affluent,3,,2.23,6.6899999999999995
+1,paycheck,3,,2.23,6.6899999999999995
+1,mortgage repayments,3,,2.23,6.6899999999999995
+1,pell grant,3,,2.23,6.6899999999999995
+1,language learners,3,,2.23,6.6899999999999995
+1,life assurance,3,,2.23,6.6899999999999995
+1,aviva,3,,2.23,6.6899999999999995
+1,allstate,3,,2.23,6.6899999999999995
+1,assurance,3,,2.23,6.6899999999999995
+1,casualty insurers,3,,2.23,6.6899999999999995
+1,vulnerabilities,2,True,3.26,6.52
+1,rights,2,True,2.82,5.64
+1,safety,2,True,2.66,5.32
+1,expenditures,2,True,2.45,4.9
+1,family,2,True,2.38,4.76
+1,slavery,2,,2.23,4.46
+1,tuberculosis,2,,2.23,4.46
+1,hatred,2,,2.23,4.46
+1,abuse,2,,2.23,4.46
+1,climate,2,,2.23,4.46
+1,liberalism,2,,2.23,4.46
+1,addiction,2,,2.23,4.46
+1,genocide,2,,2.23,4.46
+1,trafficking,2,,2.23,4.46
+1,infrastructural,2,,2.23,4.46
+1,socio cultural,2,,2.23,4.46
+1,demography,2,,2.23,4.46
+1,sociological,2,,2.23,4.46
+1,civil society,2,,2.23,4.46
+1,macro economic,2,,2.23,4.46
+1,caste,2,,2.23,4.46
+1,ethnic,2,,2.23,4.46
+1,strata,2,,2.23,4.46
+1,ethnicities,2,,2.23,4.46
+1,castes,2,,2.23,4.46
+1,betterment,2,,2.23,4.46
+1,uplift,2,,2.23,4.46
+1,ethnic backgrounds,2,,2.23,4.46
+1,macroeconomic,2,,2.23,4.46
+1,public employees retirement,2,,2.23,4.46
+1,ppf,2,,2.23,4.46
+1,property tax,2,,2.23,4.46
+1,canada pension plan,2,,2.23,4.46
+1,investment,2,,2.23,4.46
+1,pension benefit guaranty,2,,2.23,4.46
+1,budget,2,,2.23,4.46
+1,lump sum,2,,2.23,4.46
+1,solvency,2,,2.23,4.46
+1,privatization,2,,2.23,4.46
+1,finances,2,,2.23,4.46
+1,accounts,2,,2.23,4.46
+1,succession,2,,2.23,4.46
+1,asset,2,,2.23,4.46
+1,fiduciary,2,,2.23,4.46
+1,investment management,2,,2.23,4.46
+1,workforce development,2,,2.23,4.46
+1,economic development,2,,2.23,4.46
+1,higher education,2,,2.23,4.46
+1,hiring,2,,2.23,4.46
+1,employment relations,2,,2.23,4.46
+1,skills,2,,2.23,4.46
+1,career,2,,2.23,4.46
+1,job seeker,2,,2.23,4.46
+1,administrative,2,,2.23,4.46
+1,commerce,2,,2.23,4.46
+1,tourism,2,,2.23,4.46
+1,economic opportunity,2,,2.23,4.46
+1,industrial,2,,2.23,4.46
+1,equal employment opportunity,2,,2.23,4.46
+1,apprenticeships,2,,2.23,4.46
+1,economic growth,2,,2.23,4.46
+1,penniless,2,,2.23,4.46
+1,orphaned,2,,2.23,4.46
+1,downtrodden,2,,2.23,4.46
+1,orphan,2,,2.23,4.46
+1,uneducated,2,,2.23,4.46
+1,refugees,2,,2.23,4.46
+1,fatherless,2,,2.23,4.46
+1,voiceless,2,,2.23,4.46
+1,slum,2,,2.23,4.46
+1,squalid,2,,2.23,4.46
+1,enslaved,2,,2.23,4.46
+1,food rations,2,,2.23,4.46
+1,shantytowns,2,,2.23,4.46
+1,peasants,2,,2.23,4.46
+1,neglected,2,,2.23,4.46
+1,underdeveloped,2,,2.23,4.46
+1,makeshift camps,2,,2.23,4.46
+1,economists predict,2,,2.23,4.46
+1,consumer confidence,2,,2.23,4.46
+1,bond yields,2,,2.23,4.46
+1,confidence,2,,2.23,4.46
+1,insolvencies,2,,2.23,4.46
+1,gasoline,2,,2.23,4.46
+1,rainfall,2,,2.23,4.46
+1,cpi,2,,2.23,4.46
+1,economically,2,,2.23,4.46
+1,great recession,2,,2.23,4.46
+1,mortgage rates,2,,2.23,4.46
+1,suicide,2,,2.23,4.46
+1,identity theft,2,,2.23,4.46
+1,unrevised,2,,2.23,4.46
+1,homeowners,2,,2.23,4.46
+1,spouses,2,,2.23,4.46
+1,landowners,2,,2.23,4.46
+1,graduates,2,,2.23,4.46
+1,businesses,2,,2.23,4.46
+1,smokers,2,,2.23,4.46
+1,teachers,2,,2.23,4.46
+1,students,2,,2.23,4.46
+1,autoworkers,2,,2.23,4.46
+1,machinists,2,,2.23,4.46
+1,drivers,2,,2.23,4.46
+1,nonprofits,2,,2.23,4.46
+1,borrowers,2,,2.23,4.46
+1,holders,2,,2.23,4.46
+1,motorists,2,,2.23,4.46
+1,discriminatory,2,,2.23,4.46
+1,harassment,2,,2.23,4.46
+1,discriminated,2,,2.23,4.46
+1,stereotyping,2,,2.23,4.46
+1,discriminated against,2,,2.23,4.46
+1,torture,2,,2.23,4.46
+1,homophobia,2,,2.23,4.46
+1,discriminates,2,,2.23,4.46
+1,representation,2,,2.23,4.46
+1,intolerance,2,,2.23,4.46
+1,bias,2,,2.23,4.46
+1,islamophobia,2,,2.23,4.46
+1,human rights,2,,2.23,4.46
+1,hate crimes,2,,2.23,4.46
+1,prejudices,2,,2.23,4.46
+1,consumer price,2,,2.23,4.46
+1,y y,2,,2.23,4.46
+1,retail sales,2,,2.23,4.46
+1,stockpiles,2,,2.23,4.46
+1,spending,2,,2.23,4.46
+1,economists polled,2,,2.23,4.46
+1,factories,2,,2.23,4.46
+1,shipments,2,,2.23,4.46
+1,monetary policy,2,,2.23,4.46
+1,disparity,2,,2.23,4.46
+1,widening gap,2,,2.23,4.46
+1,imbalance,2,,2.23,4.46
+1,imbalances,2,,2.23,4.46
+1,nots,2,,2.23,4.46
+1,meritocracy,2,,2.23,4.46
+1,racial divide,2,,2.23,4.46
+1,racial segregation,2,,2.23,4.46
+1,regressive,2,,2.23,4.46
+1,politicization,2,,2.23,4.46
+1,criminality,2,,2.23,4.46
+1,underfunding,2,,2.23,4.46
+1,distortions,2,,2.23,4.46
+1,authoritarianism,2,,2.23,4.46
+1,interdependence,2,,2.23,4.46
+1,deficits,2,,2.23,4.46
+1,dropouts,2,,2.23,4.46
+1,incarceration,2,,2.23,4.46
+1,disaffection,2,,2.23,4.46
+1,gross domestic,2,,2.23,4.46
+1,mental illnesses,2,,2.23,4.46
+1,psychiatrists,2,,2.23,4.46
+1,heath care,2,,2.23,4.46
+1,psychologists,2,,2.23,4.46
+1,heath,2,,2.23,4.46
+1,psychiatry,2,,2.23,4.46
+1,psychological,2,,2.23,4.46
+1,counseling,2,,2.23,4.46
+1,nami,2,,2.23,4.46
+1,eating disorders,2,,2.23,4.46
+1,outpatient,2,,2.23,4.46
+1,nursing homes,2,,2.23,4.46
+1,learning disabilities,2,,2.23,4.46
+1,alcoholism,2,,2.23,4.46
+1,mental,2,,2.23,4.46
+1,outpatient clinics,2,,2.23,4.46
+1,probation,2,,2.23,4.46
+1,nhs,2,,2.23,4.46
+1,behavioral,2,,2.23,4.46
+1,academic achievement,2,,2.23,4.46
+1,subgroups,2,,2.23,4.46
+1,demographic trends,2,,2.23,4.46
+1,marital status,2,,2.23,4.46
+1,prevalence,2,,2.23,4.46
+1,english proficiency,2,,2.23,4.46
+1,determinants,2,,2.23,4.46
+1,advantaged,2,,2.23,4.46
+1,culturally diverse,2,,2.23,4.46
+1,outcomes,2,,2.23,4.46
+1,sat scores,2,,2.23,4.46
+1,incidence,2,,2.23,4.46
+1,parental involvement,2,,2.23,4.46
+1,retire,2,,2.23,4.46
+1,nursing home,2,,2.23,4.46
+1,retiring,2,,2.23,4.46
+1,wellness,2,,2.23,4.46
+1,care,2,,2.23,4.46
+1,rrsp,2,,2.23,4.46
+1,powerlessness,2,,2.23,4.46
+1,disunity,2,,2.23,4.46
+1,degradation,2,,2.23,4.46
+1,institutionalization,2,,2.23,4.46
+1,instability,2,,2.23,4.46
+1,indigenous peoples,2,,2.23,4.46
+1,displacement,2,,2.23,4.46
+1,nationalism,2,,2.23,4.46
+1,radicalism,2,,2.23,4.46
+1,separatism,2,,2.23,4.46
+1,assimilation,2,,2.23,4.46
+1,xenophobia,2,,2.23,4.46
+1,humiliation,2,,2.23,4.46
+1,isolation,2,,2.23,4.46
+1,pluralism,2,,2.23,4.46
+1,hardship,2,,2.23,4.46
+1,misery,2,,2.23,4.46
+1,despair,2,,2.23,4.46
+1,ghettos,2,,2.23,4.46
+1,hardships,2,,2.23,4.46
+1,desolation,2,,2.23,4.46
+1,tyranny,2,,2.23,4.46
+1,lawlessness,2,,2.23,4.46
+1,inhumanity,2,,2.23,4.46
+1,devolution,2,,2.23,4.46
+1,child welfare,2,,2.23,4.46
+1,social work,2,,2.23,4.46
+1,rehabilitation,2,,2.23,4.46
+1,human services,2,,2.23,4.46
+1,assistance,2,,2.23,4.46
+1,protection,2,,2.23,4.46
+1,youth,2,,2.23,4.46
+1,veterinary,2,,2.23,4.46
+1,voluntary,2,,2.23,4.46
+1,child,2,,2.23,4.46
+1,child protection,2,,2.23,4.46
+1,nursing,2,,2.23,4.46
+1,protective services,2,,2.23,4.46
+1,solidarity,2,,2.23,4.46
+1,threat,2,,2.23,4.46
+1,mitigation,2,,2.23,4.46
+1,trusted,2,,2.23,4.46
+1,symantec,2,,2.23,4.46
+1,secure,2,,2.23,4.46
+1,access control,2,,2.23,4.46
+1,identity,2,,2.23,4.46
+1,resilience,2,,2.23,4.46
+1,authentication,2,,2.23,4.46
+1,identity management,2,,2.23,4.46
+1,ssl vpn,2,,2.23,4.46
+1,kaspersky,2,,2.23,4.46
+1,mdg,2,,2.23,4.46
+1,hiv aids prevention,2,,2.23,4.46
+1,sustainable,2,,2.23,4.46
+1,ldcs,2,,2.23,4.46
+1,dalits,2,,2.23,4.46
+1,zambians,2,,2.23,4.46
+1,unfpa,2,,2.23,4.46
+1,racial equality,2,,2.23,4.46
+1,communal harmony,2,,2.23,4.46
+1,development programme undp,2,,2.23,4.46
+1,temblor,2,,2.23,4.46
+1,aftershock,2,,2.23,4.46
+1,earthquake measuring,2,,2.23,4.46
+1,tsunami waves,2,,2.23,4.46
+1,magnitude,2,,2.23,4.46
+1,explosion,2,,2.23,4.46
+1,geological,2,,2.23,4.46
+1,wildfire,2,,2.23,4.46
+1,rebuild,2,,2.23,4.46
+1,plane crash,2,,2.23,4.46
+1,volcanic eruption,2,,2.23,4.46
+1,civil defense,2,,2.23,4.46
+1,bombing,2,,2.23,4.46
+1,volcano,2,,2.23,4.46
+1,windstorm,2,,2.23,4.46
+1,emergency response,2,,2.23,4.46
+1,civil defence,2,,2.23,4.46
+1,pacific tsunami warning,2,,2.23,4.46
+1,winter storm,2,,2.23,4.46
+1,haitian earthquake,2,,2.23,4.46
+1,emergency management,2,,2.23,4.46
+1,earthquake ravaged,2,,2.23,4.46
+1,cyclone yasi,2,,2.23,4.46
+1,discounts,2,,2.23,4.46
+1,bonuses,2,,2.23,4.46
+1,enrollees,2,,2.23,4.46
+1,insure,2,,2.23,4.46
+1,incentives,2,,2.23,4.46
+1,excise tax,2,,2.23,4.46
+1,qbe,2,,2.23,4.46
+1,depressed,2,,2.23,4.46
+1,older,2,,2.23,4.46
+1,entrepreneurs,2,,2.23,4.46
+1,unskilled,2,,2.23,4.46
+1,jailed,2,,2.23,4.46
+1,sacked,2,,2.23,4.46
+1,farmers,2,,2.23,4.46
+1,teenage,2,,2.23,4.46
+1,childless,2,,2.23,4.46
+1,trade unions,2,,2.23,4.46
+1,educated,2,,2.23,4.46
+1,slackers,2,,2.23,4.46
+1,pregnant,2,,2.23,4.46
+1,troubled,2,,2.23,4.46
+1,teenagers,2,,2.23,4.46
+1,medi cal,2,,2.23,4.46
+1,managed care,2,,2.23,4.46
+1,malpractice insurance,2,,2.23,4.46
+1,prescription drug,2,,2.23,4.46
+1,medical malpractice,2,,2.23,4.46
+1,medicare prescription,2,,2.23,4.46
+1,flood insurance,2,,2.23,4.46
+1,chronically ill,2,,2.23,4.46
+1,primary care,2,,2.23,4.46
+1,hispanics,2,,2.23,4.46
+1,aetna,2,,2.23,4.46
+1,healthy,2,,2.23,4.46
+1,labour,2,,2.23,4.46
+1,tuc,2,,2.23,4.46
+1,finance,2,,2.23,4.46
+1,age concern,2,,2.23,4.46
+1,entitlements,2,,2.23,4.46
+1,defence,2,,2.23,4.46
+1,labour party,2,,2.23,4.46
+1,rescue mission,2,,2.23,4.46
+1,independent living,2,,2.23,4.46
+1,good samaritan,2,,2.23,4.46
+1,children,2,,2.23,4.46
+1,helping hands,2,,2.23,4.46
+1,shelters,2,,2.23,4.46
+1,open door,2,,2.23,4.46
+1,ywca,2,,2.23,4.46
+1,sex offender,2,,2.23,4.46
+1,neighborhoods,2,,2.23,4.46
+1,community outreach,2,,2.23,4.46
+1,victim,2,,2.23,4.46
+1,outreach,2,,2.23,4.46
+1,compassion,2,,2.23,4.46
+1,epilepsy,2,,2.23,4.46
+1,panhandling,2,,2.23,4.46
+1,animal shelter,2,,2.23,4.46
+1,lgbt,2,,2.23,4.46
+1,emergency,2,,2.23,4.46
+1,katrina,2,,2.23,4.46
+1,emergency preparedness,2,,2.23,4.46
+1,calamities,2,,2.23,4.46
+1,hurricane katrina,2,,2.23,4.46
+1,devastation,2,,2.23,4.46
+1,ike,2,,2.23,4.46
+1,accident,2,,2.23,4.46
+1,hurricane isabel,2,,2.23,4.46
+1,hurricane rita,2,,2.23,4.46
+1,hurricane ike,2,,2.23,4.46
+1,competitiveness,2,,2.23,4.46
+1,self esteem,2,,2.23,4.46
+1,civic engagement,2,,2.23,4.46
+1,thrift shop,2,,2.23,4.46
+1,generous,2,,2.23,4.46
+1,second harvest,2,,2.23,4.46
+1,donations,2,,2.23,4.46
+1,pantries,2,,2.23,4.46
+1,homebound,2,,2.23,4.46
+1,wealthiest americans,2,,2.23,4.46
+1,filers,2,,2.23,4.46
+1,wealthiest,2,,2.23,4.46
+1,earned income tax,2,,2.23,4.46
+1,social security recipients,2,,2.23,4.46
+1,surtax,2,,2.23,4.46
+1,taxable income,2,,2.23,4.46
+1,tuitions,2,,2.23,4.46
+1,pell grants,2,,2.23,4.46
+1,surviving spouse,2,,2.23,4.46
+1,veba,2,,2.23,4.46
+1,underserved communities,2,,2.23,4.46
+1,underserved,2,,2.23,4.46
+1,head start,2,,2.23,4.46
+1,humanitarian assistance,2,,2.23,4.46
+1,hospital,2,,2.23,4.46
+1,physicians,2,,2.23,4.46
+1,dental,2,,2.23,4.46
+1,physician,2,,2.23,4.46
+1,immunization,2,,2.23,4.46
+1,preventive medicine,2,,2.23,4.46
+1,obstetrics,2,,2.23,4.46
+1,diabetes,2,,2.23,4.46
+1,health organization,2,,2.23,4.46
+1,maternal deaths,2,,2.23,4.46
+1,famine,2,,2.23,4.46
+1,arable land,2,,2.23,4.46
+1,unicef,2,,2.23,4.46
+1,unctad,2,,2.23,4.46
+1,cholera outbreak,2,,2.23,4.46
+1,mums,2,,2.23,4.46
+1,widow,2,,2.23,4.46
+1,motorist,2,,2.23,4.46
+1,deferred compensation,2,,2.23,4.46
+1,bancassurance,2,,2.23,4.46
+1,unum,2,,2.23,4.46
+1,genworth,2,,2.23,4.46
+1,massmutual,2,,2.23,4.46
+1,coverages,2,,2.23,4.46
+1,allianz,2,,2.23,4.46
+1,ltc,2,,2.23,4.46
+1,broker dealers,2,,2.23,4.46
+1,usaa,2,,2.23,4.46
+1,putnam investments,2,,2.23,4.46
+1,underwriters,2,,2.23,4.46
+1,takaful,2,,2.23,4.46
+1,risk management,2,,2.23,4.46
+1,chartis,2,,2.23,4.46
+1,am best,2,,2.23,4.46
+1,blue cross,2,,2.23,4.46
+1,geico,2,,2.23,4.46
+1,financial,2,,2.23,4.46
+1,waves,2,,2.23,4.46
+1,cyclones,2,,2.23,4.46
+1,pay,2,,2.23,4.46
+1,shootings,2,,2.23,4.46
+1,economist,2,,2.23,4.46
+1,strategic,2,,2.23,4.46
+1,chief economist,2,,2.23,4.46
+1,underrepresented,2,,2.23,4.46
+1,counter terrorism,2,,2.23,4.46
+1,policing,2,,2.23,4.46
+1,hourly,2,,2.23,4.46
+1,shortages,2,,2.23,4.46
+1,floodwaters,2,,2.23,4.46
+1,heavy rains,2,,2.23,4.46
+1,wildfires,2,,2.23,4.46
+1,rains,2,,2.23,4.46
+1,heavy rain,2,,2.23,4.46
+1,social protection,1,True,14.25,14.25
+1,health insurance,1,True,13.82,13.82
+1,social policy,1,True,8.77,8.77
+1,social investment,1,True,8.54,8.54
+1,safety net,1,True,8.48,8.48
+1,social exclusion,1,True,7.36,7.36
+1,retrenchment,1,True,6.99,6.99
+1,access,1,True,6.57,6.57
+1,developing countries,1,True,6.55,6.55
+1,poverty line,1,True,6.45,6.45
+1,social policies,1,True,6.1,6.1
+1,lorenz,1,True,5.76,5.76
+1,economic resources,1,True,5.65,5.65
+1,water,1,True,5.45,5.45
+1,unemployment insurance,1,True,5.43,5.43
+1,gini,1,True,5.36,5.36
+1,tanf,1,True,5.22,5.22
+1,pension plan,1,True,5.04,5.04
+1,welfare reform,1,True,4.93,4.93
+1,family policy,1,True,4.9,4.9
+1,telecommunication,1,True,4.56,4.56
+1,public pension,1,True,4.52,4.52
+1,gini coefficient,1,True,4.41,4.41
+1,national health,1,True,3.72,3.72
+1,property rights,1,True,3.63,3.63
+1,pro,1,True,3.53,3.53
+1,rats,1,True,3.44,3.44
+1,pension reform,1,True,3.39,3.39
+1,welfare work,1,True,3.38,3.38
+1,land,1,True,3.28,3.28
+1,defined contribution,1,True,3.24,3.24
+1,poverty rates,1,True,3.22,3.22
+1,restitution,1,True,3.21,3.21
+1,pigs,1,True,3.12,3.12
+1,marxist,1,True,2.96,2.96
+1,social vulnerability,1,True,2.89,2.89
+1,extreme,1,True,2.88,2.88
+1,economic status,1,True,2.86,2.86
+1,older people,1,True,2.85,2.85
+1,bank,1,True,2.7,2.7
+1,masonry,1,True,2.66,2.66
+1,shelf,1,True,2.64,2.64
+1,developing country,1,True,2.57,2.57
+1,portability,1,True,2.55,2.55
+1,social rights,1,True,2.53,2.53
+1,developing,1,True,2.44,2.44
+1,countries,1,True,2.42,2.42
+1,revolution,1,True,2.4,2.4
+1,ethanol,1,True,2.35,2.35
+1,ui,1,True,2.3,2.3
+1,spectrum,1,True,2.27,2.27
+1,city,1,True,2.23,2.23
+1,blindness,1,,2.23,2.23
+1,politics,1,,2.23,2.23
+1,pollution,1,,2.23,2.23
+1,greed,1,,2.23,2.23
+1,terror,1,,2.23,2.23
+1,survival,1,,2.23,2.23
+1,piracy,1,,2.23,2.23
+1,fear,1,,2.23,2.23
+1,conflict,1,,2.23,2.23
+1,climate change,1,,2.23,2.23
+1,tackling,1,,2.23,2.23
+1,agrarian,1,,2.23,2.23
+1,developmental,1,,2.23,2.23
+1,potentials,1,,2.23,2.23
+1,attitudinal,1,,2.23,2.23
+1,geo political,1,,2.23,2.23
+1,sectoral,1,,2.23,2.23
+1,ict,1,,2.23,2.23
+1,bilateral relations,1,,2.23,2.23
+1,bilateral cooperation,1,,2.23,2.23
+1,irrespective,1,,2.23,2.23
+1,bilateral ties,1,,2.23,2.23
+1,internally displaced persons idps,1,,2.23,2.23
+1,qualitative,1,,2.23,2.23
+1,employees retirement system,1,,2.23,2.23
+1,debt,1,,2.23,2.23
+1,statutory,1,,2.23,2.23
+1,valuation,1,,2.23,2.23
+1,epf,1,,2.23,2.23
+1,fiduciaries,1,,2.23,2.23
+1,bankruptcy,1,,2.23,2.23
+1,tenant,1,,2.23,2.23
+1,asbestos,1,,2.23,2.23
+1,manpower,1,,2.23,2.23
+1,human resource,1,,2.23,2.23
+1,workforce investment,1,,2.23,2.23
+1,workplace,1,,2.23,2.23
+1,staffing,1,,2.23,2.23
+1,recruitment,1,,2.23,2.23
+1,immigration,1,,2.23,2.23
+1,small business,1,,2.23,2.23
+1,careers,1,,2.23,2.23
+1,vacancies,1,,2.23,2.23
+1,dol,1,,2.23,2.23
+1,ombudsman,1,,2.23,2.23
+1,job fair,1,,2.23,2.23
+1,starving,1,,2.23,2.23
+1,beggars,1,,2.23,2.23
+1,beggar,1,,2.23,2.23
+1,helpless,1,,2.23,2.23
+1,hopeless,1,,2.23,2.23
+1,clothe,1,,2.23,2.23
+1,infirm,1,,2.23,2.23
+1,dispossessed,1,,2.23,2.23
+1,displaced persons,1,,2.23,2.23
+1,marooned,1,,2.23,2.23
+1,debilitated,1,,2.23,2.23
+1,traumatized,1,,2.23,2.23
+1,succor,1,,2.23,2.23
+1,dilapidated,1,,2.23,2.23
+1,starve,1,,2.23,2.23
+1,defenseless,1,,2.23,2.23
+1,desolate,1,,2.23,2.23
+1,begging,1,,2.23,2.23
+1,bedraggled,1,,2.23,2.23
+1,migrant workers,1,,2.23,2.23
+1,meager,1,,2.23,2.23
+1,wretched,1,,2.23,2.23
+1,widowed,1,,2.23,2.23
+1,decrepit,1,,2.23,2.23
+1,bedridden,1,,2.23,2.23
+1,starved,1,,2.23,2.23
+1,shacks,1,,2.23,2.23
+1,emigrants,1,,2.23,2.23
+1,emaciated,1,,2.23,2.23
+1,livelihood,1,,2.23,2.23
+1,barren,1,,2.23,2.23
+1,insecure,1,,2.23,2.23
+1,voter turnout,1,,2.23,2.23
+1,turnout,1,,2.23,2.23
+1,temperatures,1,,2.23,2.23
+1,stress,1,,2.23,2.23
+1,unadjusted,1,,2.23,2.23
+1,purchasing managers index,1,,2.23,2.23
+1,pmi,1,,2.23,2.23
+1,reservists,1,,2.23,2.23
+1,customers,1,,2.23,2.23
+1,clients,1,,2.23,2.23
+1,folks,1,,2.23,2.23
+1,consumers,1,,2.23,2.23
+1,individuals,1,,2.23,2.23
+1,educators,1,,2.23,2.23
+1,investors,1,,2.23,2.23
+1,golfers,1,,2.23,2.23
+1,travelers,1,,2.23,2.23
+1,owners,1,,2.23,2.23
+1,evacuees,1,,2.23,2.23
+1,creditors,1,,2.23,2.23
+1,hikers,1,,2.23,2.23
+1,steelworkers,1,,2.23,2.23
+1,patrons,1,,2.23,2.23
+1,bowlers,1,,2.23,2.23
+1,newcomers,1,,2.23,2.23
+1,musicians,1,,2.23,2.23
+1,providers,1,,2.23,2.23
+1,bondholders,1,,2.23,2.23
+1,guests,1,,2.23,2.23
+1,locals,1,,2.23,2.23
+1,buyers,1,,2.23,2.23
+1,severance packages,1,,2.23,2.23
+1,organizations,1,,2.23,2.23
+1,executives,1,,2.23,2.23
+1,cyclists,1,,2.23,2.23
+1,discriminate,1,,2.23,2.23
+1,bigotry,1,,2.23,2.23
+1,racist,1,,2.23,2.23
+1,homosexuality,1,,2.23,2.23
+1,sexual harassment,1,,2.23,2.23
+1,gay marriage,1,,2.23,2.23
+1,discriminating,1,,2.23,2.23
+1,bribery,1,,2.23,2.23
+1,abusive,1,,2.23,2.23
+1,racial profiling,1,,2.23,2.23
+1,censorship,1,,2.23,2.23
+1,ignorance,1,,2.23,2.23
+1,sexuality,1,,2.23,2.23
+1,racial bias,1,,2.23,2.23
+1,illegal,1,,2.23,2.23
+1,religious minorities,1,,2.23,2.23
+1,cheating,1,,2.23,2.23
+1,unfair,1,,2.23,2.23
+1,diversity,1,,2.23,2.23
+1,gays,1,,2.23,2.23
+1,eeoc,1,,2.23,2.23
+1,title vii,1,,2.23,2.23
+1,gender identity,1,,2.23,2.23
+1,protest,1,,2.23,2.23
+1,complaints,1,,2.23,2.23
+1,fraud,1,,2.23,2.23
+1,condemns,1,,2.23,2.23
+1,criticism,1,,2.23,2.23
+1,hate speech,1,,2.23,2.23
+1,upwardly revised,1,,2.23,2.23
+1,m m,1,,2.23,2.23
+1,downwardly revised,1,,2.23,2.23
+1,statistical office,1,,2.23,2.23
+1,% y y,1,,2.23,2.23
+1,consumption,1,,2.23,2.23
+1,consumer confidence index,1,,2.23,2.23
+1,slowest pace,1,,2.23,2.23
+1,durable goods,1,,2.23,2.23
+1,manufactured goods,1,,2.23,2.23
+1,statistics,1,,2.23,2.23
+1,#.#pc,1,,2.23,2.23
+1,consumer,1,,2.23,2.23
+1,soybeans,1,,2.23,2.23
+1,excludes volatile,1,,2.23,2.23
+1,median forecast,1,,2.23,2.23
+1,ppi,1,,2.23,2.23
+1,ism manufacturing,1,,2.23,2.23
+1,budgets,1,,2.23,2.23
+1,producer price index,1,,2.23,2.23
+1,heating oil,1,,2.23,2.23
+1,durable goods orders,1,,2.23,2.23
+1,nonfarm payrolls,1,,2.23,2.23
+1,revised upward,1,,2.23,2.23
+1,yoy,1,,2.23,2.23
+1,price index,1,,2.23,2.23
+1,retail,1,,2.23,2.23
+1,+#.# %,1,,2.23,2.23
+1,capitalist,1,,2.23,2.23
+1,socialism,1,,2.23,2.23
+1,egalitarian,1,,2.23,2.23
+1,overpopulation,1,,2.23,2.23
+1,militarism,1,,2.23,2.23
+1,divisiveness,1,,2.23,2.23
+1,elitism,1,,2.23,2.23
+1,materialism,1,,2.23,2.23
+1,paradox,1,,2.23,2.23
+1,deepening recession,1,,2.23,2.23
+1,housing slump,1,,2.23,2.23
+1,unsold homes,1,,2.23,2.23
+1,mortgage defaults,1,,2.23,2.23
+1,deepest recession,1,,2.23,2.23
+1,bankruptcies,1,,2.23,2.23
+1,recessions,1,,2.23,2.23
+1,interest rates,1,,2.23,2.23
+1,stagflation,1,,2.23,2.23
+1,delinquencies,1,,2.23,2.23
+1,inflationary pressures,1,,2.23,2.23
+1,inflation pressures,1,,2.23,2.23
+1,emigration,1,,2.23,2.23
+1,malaise,1,,2.23,2.23
+1,zandi,1,,2.23,2.23
+1,delinquency,1,,2.23,2.23
+1,depression,1,,2.23,2.23
+1,stubbornly,1,,2.23,2.23
+1,borrowing costs,1,,2.23,2.23
+1,pessimism,1,,2.23,2.23
+1,indebtedness,1,,2.23,2.23
+1,repossessions,1,,2.23,2.23
+1,midterm election,1,,2.23,2.23
+1,suicides,1,,2.23,2.23
+1,unpopularity,1,,2.23,2.23
+1,budget shortfalls,1,,2.23,2.23
+1,absenteeism,1,,2.23,2.23
+1,great depression,1,,2.23,2.23
+1,mental disorders,1,,2.23,2.23
+1,palliative care,1,,2.23,2.23
+1,criminal justice,1,,2.23,2.23
+1,counselling,1,,2.23,2.23
+1,chemical dependency,1,,2.23,2.23
+1,psychiatrist,1,,2.23,2.23
+1,ptsd,1,,2.23,2.23
+1,breast cancer,1,,2.23,2.23
+1,post traumatic stress,1,,2.23,2.23
+1,clinicians,1,,2.23,2.23
+1,autistic,1,,2.23,2.23
+1,some,1,,2.23,2.23
+1,correctional,1,,2.23,2.23
+1,therapists,1,,2.23,2.23
+1,bereavement,1,,2.23,2.23
+1,pregnant women,1,,2.23,2.23
+1,mental retardation,1,,2.23,2.23
+1,anxiety disorders,1,,2.23,2.23
+1,inpatient,1,,2.23,2.23
+1,counselors,1,,2.23,2.23
+1,geriatric,1,,2.23,2.23
+1,advocates,1,,2.23,2.23
+1,psychiatric disorders,1,,2.23,2.23
+1,hospice,1,,2.23,2.23
+1,bipolar disorder,1,,2.23,2.23
+1,psychotherapy,1,,2.23,2.23
+1,relatives,1,,2.23,2.23
+1,personality disorder,1,,2.23,2.23
+1,doctors,1,,2.23,2.23
+1,addictions,1,,2.23,2.23
+1,caseworkers,1,,2.23,2.23
+1,adolescent,1,,2.23,2.23
+1,demographically,1,,2.23,2.23
+1,geographic,1,,2.23,2.23
+1,geographical,1,,2.23,2.23
+1,populations,1,,2.23,2.23
+1,subgroup,1,,2.23,2.23
+1,epidemiological,1,,2.23,2.23
+1,stratified,1,,2.23,2.23
+1,geography,1,,2.23,2.23
+1,educational,1,,2.23,2.23
+1,multiracial,1,,2.23,2.23
+1,backgrounds,1,,2.23,2.23
+1,caucasians,1,,2.23,2.23
+1,ideological,1,,2.23,2.23
+1,ethnically diverse,1,,2.23,2.23
+1,genders,1,,2.23,2.23
+1,changing demographics,1,,2.23,2.23
+1,assisted living,1,,2.23,2.23
+1,longevity,1,,2.23,2.23
+1,skilled nursing,1,,2.23,2.23
+1,retirements,1,,2.23,2.23
+1,lifelong learning,1,,2.23,2.23
+1,equity,1,,2.23,2.23
+1,vacation,1,,2.23,2.23
+1,ameriprise financial,1,,2.23,2.23
+1,learning,1,,2.23,2.23
+1,homes,1,,2.23,2.23
+1,wilshire,1,,2.23,2.23
+1,short term,1,,2.23,2.23
+1,investing,1,,2.23,2.23
+1,condominium,1,,2.23,2.23
+1,colonialism,1,,2.23,2.23
+1,marginalizing,1,,2.23,2.23
+1,hegemony,1,,2.23,2.23
+1,militarization,1,,2.23,2.23
+1,destabilization,1,,2.23,2.23
+1,ethnic cleansing,1,,2.23,2.23
+1,factionalism,1,,2.23,2.23
+1,inferiority,1,,2.23,2.23
+1,dehumanizing,1,,2.23,2.23
+1,criminalization,1,,2.23,2.23
+1,northerners,1,,2.23,2.23
+1,imperialism,1,,2.23,2.23
+1,disintegration,1,,2.23,2.23
+1,religious persecution,1,,2.23,2.23
+1,fragmentation,1,,2.23,2.23
+1,hostility,1,,2.23,2.23
+1,perpetuation,1,,2.23,2.23
+1,igbo,1,,2.23,2.23
+1,rebellions,1,,2.23,2.23
+1,institutionalized,1,,2.23,2.23
+1,vilification,1,,2.23,2.23
+1,indigenes,1,,2.23,2.23
+1,hegemonic,1,,2.23,2.23
+1,colonization,1,,2.23,2.23
+1,fundamentalism,1,,2.23,2.23
+1,religious extremism,1,,2.23,2.23
+1,psychological trauma,1,,2.23,2.23
+1,incapacity,1,,2.23,2.23
+1,antisocial behavior,1,,2.23,2.23
+1,decay,1,,2.23,2.23
+1,maltreatment,1,,2.23,2.23
+1,dysfunction,1,,2.23,2.23
+1,loneliness,1,,2.23,2.23
+1,disfigurement,1,,2.23,2.23
+1,inadequacy,1,,2.23,2.23
+1,scarcity,1,,2.23,2.23
+1,despotism,1,,2.23,2.23
+1,diminution,1,,2.23,2.23
+1,regeneration,1,,2.23,2.23
+1,coercion,1,,2.23,2.23
+1,brutality,1,,2.23,2.23
+1,cruelty,1,,2.23,2.23
+1,boredom,1,,2.23,2.23
+1,sleep deprivation,1,,2.23,2.23
+1,depravity,1,,2.23,2.23
+1,decadence,1,,2.23,2.23
+1,depriving,1,,2.23,2.23
+1,abandonment,1,,2.23,2.23
+1,social affairs,1,,2.23,2.23
+1,family welfare,1,,2.23,2.23
+1,advocacy,1,,2.23,2.23
+1,caseworker,1,,2.23,2.23
+1,religious affairs,1,,2.23,2.23
+1,affairs,1,,2.23,2.23
+1,federation,1,,2.23,2.23
+1,consumer affairs,1,,2.23,2.23
+1,associations,1,,2.23,2.23
+1,establishment,1,,2.23,2.23
+1,hostel,1,,2.23,2.23
+1,ngo,1,,2.23,2.23
+1,accommodation,1,,2.23,2.23
+1,womens,1,,2.23,2.23
+1,overseas,1,,2.23,2.23
+1,friendship,1,,2.23,2.23
+1,organisations,1,,2.23,2.23
+1,promotion,1,,2.23,2.23
+1,organisation,1,,2.23,2.23
+1,animal welfare,1,,2.23,2.23
+1,helpline,1,,2.23,2.23
+1,licensing,1,,2.23,2.23
+1,inspectorate,1,,2.23,2.23
+1,relief fund,1,,2.23,2.23
+1,religious,1,,2.23,2.23
+1,services,1,,2.23,2.23
+1,fisheries,1,,2.23,2.23
+1,scheme,1,,2.23,2.23
+1,wildlife conservation,1,,2.23,2.23
+1,cve,1,,2.23,2.23
+1,browser,1,,2.23,2.23
+1,ms##,1,,2.23,2.23
+1,secunia,1,,2.23,2.23
+1,document.write,1,,2.23,2.23
+1,dns,1,,2.23,2.23
+1,virus,1,,2.23,2.23
+1,configuration,1,,2.23,2.23
+1,ssh,1,,2.23,2.23
+1,denial,1,,2.23,2.23
+1,http,1,,2.23,2.23
+1,phishing,1,,2.23,2.23
+1,mapping,1,,2.23,2.23
+1,device,1,,2.23,2.23
+1,flaw,1,,2.23,2.23
+1,adobe reader,1,,2.23,2.23
+1,context,1,,2.23,2.23
+1,tcp ip,1,,2.23,2.23
+1,extensions,1,,2.23,2.23
+1,methodology,1,,2.23,2.23
+1,ios,1,,2.23,2.23
+1,php,1,,2.23,2.23
+1,capability,1,,2.23,2.23
+1,error,1,,2.23,2.23
+1,version #.#.#,1,,2.23,2.23
+1,compatibility,1,,2.23,2.23
+1,preferences,1,,2.23,2.23
+1,reputation,1,,2.23,2.23
+1,vectors,1,,2.23,2.23
+1,#.#.#,1,,2.23,2.23
+1,detection,1,,2.23,2.23
+1,ie,1,,2.23,2.23
+1,behavior,1,,2.23,2.23
+1,malicious code,1,,2.23,2.23
+1,application,1,,2.23,2.23
+1,object,1,,2.23,2.23
+1,structure,1,,2.23,2.23
+1,asp.net,1,,2.23,2.23
+1,firefox,1,,2.23,2.23
+1,tippingpoint,1,,2.23,2.23
+1,end/####,1,,2.23,2.23
+1,risk,1,,2.23,2.23
+1,validation,1,,2.23,2.23
+1,framework,1,,2.23,2.23
+1,critical,1,,2.23,2.23
+1,iis,1,,2.23,2.23
+1,visual basic,1,,2.23,2.23
+1,effectiveness,1,,2.23,2.23
+1,spyware,1,,2.23,2.23
+1,rootkit,1,,2.23,2.23
+1,availability,1,,2.23,2.23
+1,capabilities,1,,2.23,2.23
+1,spatial,1,,2.23,2.23
+1,plugin,1,,2.23,2.23
+1,dialog box,1,,2.23,2.23
+1,plugins,1,,2.23,2.23
+1,identifies,1,,2.23,2.23
+1,#.#.#.#,1,,2.23,2.23
+1,document,1,,2.23,2.23
+1,functionality,1,,2.23,2.23
+1,impacts,1,,2.23,2.23
+1,implications,1,,2.23,2.23
+1,ie7,1,,2.23,2.23
+1,behaviour,1,,2.23,2.23
+1,monitoring,1,,2.23,2.23
+1,websense,1,,2.23,2.23
+1,mozilla firefox,1,,2.23,2.23
+1,ie8,1,,2.23,2.23
+1,datafeed,1,,2.23,2.23
+1,mechanism,1,,2.23,2.23
+1,title,1,,2.23,2.23
+1,javascript,1,,2.23,2.23
+1,password,1,,2.23,2.23
+1,v#.#,1,,2.23,2.23
+1,microsoft sql server,1,,2.23,2.23
+1,equitable distribution,1,,2.23,2.23
+1,eradicate,1,,2.23,2.23
+1,decentralize,1,,2.23,2.23
+1,self sufficiency,1,,2.23,2.23
+1,empower,1,,2.23,2.23
+1,oppress,1,,2.23,2.23
+1,mobilize,1,,2.23,2.23
+1,institutionalize,1,,2.23,2.23
+1,eradicating,1,,2.23,2.23
+1,eradication,1,,2.23,2.23
+1,nrega,1,,2.23,2.23
+1,dfid,1,,2.23,2.23
+1,scourge,1,,2.23,2.23
+1,microfinance,1,,2.23,2.23
+1,root causes,1,,2.23,2.23
+1,redistribute,1,,2.23,2.23
+1,evangelization,1,,2.23,2.23
+1,equitably,1,,2.23,2.23
+1,redouble,1,,2.23,2.23
+1,achieve,1,,2.23,2.23
+1,attain,1,,2.23,2.23
+1,kikwete,1,,2.23,2.23
+1,inculcate,1,,2.23,2.23
+1,nepad,1,,2.23,2.23
+1,tremor,1,,2.23,2.23
+1,richter scale,1,,2.23,2.23
+1,aftershocks,1,,2.23,2.23
+1,seismic activity,1,,2.23,2.23
+1,quake epicenter,1,,2.23,2.23
+1,seismologists,1,,2.23,2.23
+1,usgs,1,,2.23,2.23
+1,tremors,1,,2.23,2.23
+1,fault,1,,2.23,2.23
+1,avalanche,1,,2.23,2.23
+1,geological survey,1,,2.23,2.23
+1,avalanches,1,,2.23,2.23
+1,sendai,1,,2.23,2.23
+1,bam,1,,2.23,2.23
+1,bomb,1,,2.23,2.23
+1,magnitudes,1,,2.23,2.23
+1,meteorology,1,,2.23,2.23
+1,fire,1,,2.23,2.23
+1,revenues,1,,2.23,2.23
+1,pretax,1,,2.23,2.23
+1,ppo,1,,2.23,2.23
+1,payments,1,,2.23,2.23
+1,provisions,1,,2.23,2.23
+1,deposits,1,,2.23,2.23
+1,premium,1,,2.23,2.23
+1,exclusions,1,,2.23,2.23
+1,same store,1,,2.23,2.23
+1,loans,1,,2.23,2.23
+1,sales,1,,2.23,2.23
+1,humana,1,,2.23,2.23
+1,interest,1,,2.23,2.23
+1,revenue,1,,2.23,2.23
+1,amounts,1,,2.23,2.23
+1,operating expenses,1,,2.23,2.23
+1,permits,1,,2.23,2.23
+1,membership,1,,2.23,2.23
+1,margins,1,,2.23,2.23
+1,contracts,1,,2.23,2.23
+1,disgruntled,1,,2.23,2.23
+1,laborer,1,,2.23,2.23
+1,skilled,1,,2.23,2.23
+1,angry,1,,2.23,2.23
+1,bored,1,,2.23,2.23
+1,temporary,1,,2.23,2.23
+1,younger,1,,2.23,2.23
+1,millions,1,,2.23,2.23
+1,convicted,1,,2.23,2.23
+1,frustrated,1,,2.23,2.23
+1,experienced,1,,2.23,2.23
+1,tired,1,,2.23,2.23
+1,electrician,1,,2.23,2.23
+1,busy,1,,2.23,2.23
+1,generation y,1,,2.23,2.23
+1,auto mechanic,1,,2.23,2.23
+1,married,1,,2.23,2.23
+1,businessmen,1,,2.23,2.23
+1,retraining,1,,2.23,2.23
+1,discontented,1,,2.23,2.23
+1,carpenter,1,,2.23,2.23
+1,apprentices,1,,2.23,2.23
+1,disappointed,1,,2.23,2.23
+1,middle aged,1,,2.23,2.23
+1,struggling,1,,2.23,2.23
+1,bricklayer,1,,2.23,2.23
+1,retrenched,1,,2.23,2.23
+1,medicare beneficiaries,1,,2.23,2.23
+1,kaiser family,1,,2.23,2.23
+1,prescription,1,,2.23,2.23
+1,sicker,1,,2.23,2.23
+1,pacificare,1,,2.23,2.23
+1,prescription medicines,1,,2.23,2.23
+1,congestion,1,,2.23,2.23
+1,coverage,1,,2.23,2.23
+1,illegal immigrants,1,,2.23,2.23
+1,infections,1,,2.23,2.23
+1,chronic illnesses,1,,2.23,2.23
+1,medical marijuana,1,,2.23,2.23
+1,affordable,1,,2.23,2.23
+1,medicare part,1,,2.23,2.23
+1,healthier,1,,2.23,2.23
+1,statewide,1,,2.23,2.23
+1,healthy kids,1,,2.23,2.23
+1,wellcare,1,,2.23,2.23
+1,undocumented immigrants,1,,2.23,2.23
+1,donut hole,1,,2.23,2.23
+1,rx,1,,2.23,2.23
+1,fewer,1,,2.23,2.23
+1,inland revenue,1,,2.23,2.23
+1,hmrc,1,,2.23,2.23
+1,constitutional affairs,1,,2.23,2.23
+1,peter hain,1,,2.23,2.23
+1,dwp,1,,2.23,2.23
+1,mr hain,1,,2.23,2.23
+1,treasury,1,,2.23,2.23
+1,royal mail,1,,2.23,2.23
+1,patricia hewitt,1,,2.23,2.23
+1,capita,1,,2.23,2.23
+1,harriet harman,1,,2.23,2.23
+1,mr blunkett,1,,2.23,2.23
+1,£ ###bn,1,,2.23,2.23
+1,exchequer,1,,2.23,2.23
+1,mod,1,,2.23,2.23
+1,£ 3bn,1,,2.23,2.23
+1,nao,1,,2.23,2.23
+1,transport,1,,2.23,2.23
+1,ofgem,1,,2.23,2.23
+1,blunkett,1,,2.23,2.23
+1,lord mandelson,1,,2.23,2.23
+1,labour mps,1,,2.23,2.23
+1,£ ##bn,1,,2.23,2.23
+1,ons,1,,2.23,2.23
+1,ed balls,1,,2.23,2.23
+1,david blunkett,1,,2.23,2.23
+1,lloyds tsb,1,,2.23,2.23
+1,michael gove,1,,2.23,2.23
+1,nhs trusts,1,,2.23,2.23
+1,£ 1bn,1,,2.23,2.23
+1,£ 2bn,1,,2.23,2.23
+1,mr straw,1,,2.23,2.23
+1,pcts,1,,2.23,2.23
+1,£ ##billion,1,,2.23,2.23
+1,george osborne,1,,2.23,2.23
+1,bt,1,,2.23,2.23
+1,chancellor alistair darling,1,,2.23,2.23
+1,unfair dismissal,1,,2.23,2.23
+1,amicus,1,,2.23,2.23
+1,northern rock,1,,2.23,2.23
+1,tfl,1,,2.23,2.23
+1,£ #.#bn,1,,2.23,2.23
+1,hm revenue,1,,2.23,2.23
+1,cgt,1,,2.23,2.23
+1,pre budget,1,,2.23,2.23
+1,common ground,1,,2.23,2.23
+1,runaways,1,,2.23,2.23
+1,abused,1,,2.23,2.23
+1,neighborhood,1,,2.23,2.23
+1,safe haven,1,,2.23,2.23
+1,downtown,1,,2.23,2.23
+1,animal control,1,,2.23,2.23
+1,feral cats,1,,2.23,2.23
+1,lesbian,1,,2.23,2.23
+1,skid row,1,,2.23,2.23
+1,animal care,1,,2.23,2.23
+1,rebuilding together,1,,2.23,2.23
+1,nonprofit,1,,2.23,2.23
+1,vagrants,1,,2.23,2.23
+1,drug addicts,1,,2.23,2.23
+1,adoption,1,,2.23,2.23
+1,refuge,1,,2.23,2.23
+1,housing authority,1,,2.23,2.23
+1,disaster recovery,1,,2.23,2.23
+1,preparedness,1,,2.23,2.23
+1,evacuation,1,,2.23,2.23
+1,rescue,1,,2.23,2.23
+1,emergency operations,1,,2.23,2.23
+1,response,1,,2.23,2.23
+1,incident,1,,2.23,2.23
+1,recovery,1,,2.23,2.23
+1,fema,1,,2.23,2.23
+1,first responders,1,,2.23,2.23
+1,trauma,1,,2.23,2.23
+1,emergency management agency,1,,2.23,2.23
+1,spill,1,,2.23,2.23
+1,hazards,1,,2.23,2.23
+1,rebuilding,1,,2.23,2.23
+1,coordinating,1,,2.23,2.23
+1,catastrophes,1,,2.23,2.23
+1,red cross,1,,2.23,2.23
+1,pandemic,1,,2.23,2.23
+1,aftermath,1,,2.23,2.23
+1,federal emergency management,1,,2.23,2.23
+1,panic,1,,2.23,2.23
+1,disaster declaration,1,,2.23,2.23
+1,civil protection,1,,2.23,2.23
+1,cohesion,1,,2.23,2.23
+1,multiculturalism,1,,2.23,2.23
+1,unity,1,,2.23,2.23
+1,inclusiveness,1,,2.23,2.23
+1,cultural diversity,1,,2.23,2.23
+1,nationhood,1,,2.23,2.23
+1,peoples,1,,2.23,2.23
+1,harmony,1,,2.23,2.23
+1,coherence,1,,2.23,2.23
+1,connectedness,1,,2.23,2.23
+1,peaceful coexistence,1,,2.23,2.23
+1,stability,1,,2.23,2.23
+1,democracy,1,,2.23,2.23
+1,coexistence,1,,2.23,2.23
+1,democratic,1,,2.23,2.23
+1,pluralistic,1,,2.23,2.23
+1,dynamism,1,,2.23,2.23
+1,multilateralism,1,,2.23,2.23
+1,structural reforms,1,,2.23,2.23
+1,morality,1,,2.23,2.23
+1,brotherhood,1,,2.23,2.23
+1,regionalism,1,,2.23,2.23
+1,biodiversity,1,,2.23,2.23
+1,secularism,1,,2.23,2.23
+1,individualism,1,,2.23,2.23
+1,communities,1,,2.23,2.23
+1,peace,1,,2.23,2.23
+1,cohesiveness,1,,2.23,2.23
+1,togetherness,1,,2.23,2.23
+1,environmental sustainability,1,,2.23,2.23
+1,modernity,1,,2.23,2.23
+1,morals,1,,2.23,2.23
+1,dignity,1,,2.23,2.23
+1,oneness,1,,2.23,2.23
+1,federalism,1,,2.23,2.23
+1,tolerance,1,,2.23,2.23
+1,extremism,1,,2.23,2.23
+1,rationality,1,,2.23,2.23
+1,livability,1,,2.23,2.23
+1,civilized society,1,,2.23,2.23
+1,interfaith dialogue,1,,2.23,2.23
+1,infrastructures,1,,2.23,2.23
+1,religions,1,,2.23,2.23
+1,societies,1,,2.23,2.23
+1,religious tolerance,1,,2.23,2.23
+1,religion,1,,2.23,2.23
+1,angel tree,1,,2.23,2.23
+1,humanity,1,,2.23,2.23
+1,donate,1,,2.23,2.23
+1,samaritan,1,,2.23,2.23
+1,gifts,1,,2.23,2.23
+1,pennies,1,,2.23,2.23
+1,cell phones,1,,2.23,2.23
+1,help,1,,2.23,2.23
+1,donated,1,,2.23,2.23
+1,charitable organizations,1,,2.23,2.23
+1,donation,1,,2.23,2.23
+1,hope,1,,2.23,2.23
+1,donors,1,,2.23,2.23
+1,reach out,1,,2.23,2.23
+1,fundraiser,1,,2.23,2.23
+1,lifeline,1,,2.23,2.23
+1,wish,1,,2.23,2.23
+1,gift,1,,2.23,2.23
+1,clothes,1,,2.23,2.23
+1,non profit,1,,2.23,2.23
+1,helping,1,,2.23,2.23
+1,kindness,1,,2.23,2.23
+1,tots,1,,2.23,2.23
+1,donor,1,,2.23,2.23
+1,missions,1,,2.23,2.23
+1,second harvest food,1,,2.23,2.23
+1,ronald mcdonald,1,,2.23,2.23
+1,eyeglasses,1,,2.23,2.23
+1,ministries,1,,2.23,2.23
+1,wishes,1,,2.23,2.23
+1,loaves,1,,2.23,2.23
+1,cheer,1,,2.23,2.23
+1,blessings,1,,2.23,2.23
+1,wives,1,,2.23,2.23
+1,needs,1,,2.23,2.23
+1,warm,1,,2.23,2.23
+1,earners,1,,2.23,2.23
+1,millionaires,1,,2.23,2.23
+1,taxpaying,1,,2.23,2.23
+1,laborers,1,,2.23,2.23
+1,salaried,1,,2.23,2.23
+1,married couples,1,,2.23,2.23
+1,housewives,1,,2.23,2.23
+1,salaried employees,1,,2.23,2.23
+1,public servants,1,,2.23,2.23
+1,tax payers,1,,2.23,2.23
+1,homemakers,1,,2.23,2.23
+1,unaffordable,1,,2.23,2.23
+1,taxed,1,,2.23,2.23
+1,breadwinner,1,,2.23,2.23
+1,hardworking,1,,2.23,2.23
+1,dairy farmers,1,,2.23,2.23
+1,billionaires,1,,2.23,2.23
+1,wage freeze,1,,2.23,2.23
+1,unmarried,1,,2.23,2.23
+1,deduction,1,,2.23,2.23
+1,subsidy,1,,2.23,2.23
+1,white collar,1,,2.23,2.23
+1,h 1b visas,1,,2.23,2.23
+1,achievers,1,,2.23,2.23
+1,schoolteachers,1,,2.23,2.23
+1,social security administration,1,,2.23,2.23
+1,e verify,1,,2.23,2.23
+1,entitlement,1,,2.23,2.23
+1,gi bill,1,,2.23,2.23
+1,spouse,1,,2.23,2.23
+1,irs,1,,2.23,2.23
+1,congressional budget office,1,,2.23,2.23
+1,cbo,1,,2.23,2.23
+1,ssn,1,,2.23,2.23
+1,identity thieves,1,,2.23,2.23
+1,credit card,1,,2.23,2.23
+1,debit card,1,,2.23,2.23
+1,affordable care act,1,,2.23,2.23
+1,nonpartisan congressional budget,1,,2.23,2.23
+1,supplemental security,1,,2.23,2.23
+1,immigration reform,1,,2.23,2.23
+1,single payer,1,,2.23,2.23
+1,centrelink,1,,2.23,2.23
+1,passwords,1,,2.23,2.23
+1,orszag,1,,2.23,2.23
+1,voter rolls,1,,2.23,2.23
+1,socialized medicine,1,,2.23,2.23
+1,tsp,1,,2.23,2.23
+1,homestead exemption,1,,2.23,2.23
+1,uncle sam,1,,2.23,2.23
+1,sickest,1,,2.23,2.23
+1,nutritious meals,1,,2.23,2.23
+1,humanitarian aid,1,,2.23,2.23
+1,liheap,1,,2.23,2.23
+1,preschools,1,,2.23,2.23
+1,cash strapped,1,,2.23,2.23
+1,prekindergarten,1,,2.23,2.23
+1,shortchange,1,,2.23,2.23
+1,schools,1,,2.23,2.23
+1,programs,1,,2.23,2.23
+1,shortchanging,1,,2.23,2.23
+1,generosity,1,,2.23,2.23
+1,pre kindergarten,1,,2.23,2.23
+1,preschool,1,,2.23,2.23
+1,vouchers,1,,2.23,2.23
+1,financially strapped,1,,2.23,2.23
+1,necessities,1,,2.23,2.23
+1,nutritious,1,,2.23,2.23
+1,hurricane ravaged,1,,2.23,2.23
+1,wfp,1,,2.23,2.23
+1,parochial schools,1,,2.23,2.23
+1,fiscally responsible,1,,2.23,2.23
+1,patient care,1,,2.23,2.23
+1,healthy living,1,,2.23,2.23
+1,pediatric,1,,2.23,2.23
+1,nutrition,1,,2.23,2.23
+1,reproductive health,1,,2.23,2.23
+1,pharmacy,1,,2.23,2.23
+1,patient safety,1,,2.23,2.23
+1,ob gyn,1,,2.23,2.23
+1,epidemiology,1,,2.23,2.23
+1,urology,1,,2.23,2.23
+1,primary care trust,1,,2.23,2.23
+1,clinical,1,,2.23,2.23
+1,oncology,1,,2.23,2.23
+1,cardiovascular,1,,2.23,2.23
+1,dph,1,,2.23,2.23
+1,environment,1,,2.23,2.23
+1,medical center,1,,2.23,2.23
+1,emergency medical,1,,2.23,2.23
+1,corrections,1,,2.23,2.23
+1,medicine,1,,2.23,2.23
+1,flu vaccination,1,,2.23,2.23
+1,emergency medicine,1,,2.23,2.23
+1,occupational health,1,,2.23,2.23
+1,public,1,,2.23,2.23
+1,informatics,1,,2.23,2.23
+1,communicable disease,1,,2.23,2.23
+1,cdc,1,,2.23,2.23
+1,diagnostic,1,,2.23,2.23
+1,fertility,1,,2.23,2.23
+1,surgical,1,,2.23,2.23
+1,ehealth,1,,2.23,2.23
+1,patient,1,,2.23,2.23
+1,radiology,1,,2.23,2.23
+1,pharmacies,1,,2.23,2.23
+1,clinic,1,,2.23,2.23
+1,dentistry,1,,2.23,2.23
+1,pharmacists,1,,2.23,2.23
+1,community,1,,2.23,2.23
+1,pediatrician,1,,2.23,2.23
+1,family physicians,1,,2.23,2.23
+1,preventive,1,,2.23,2.23
+1,food,1,,2.23,2.23
+1,immunizations,1,,2.23,2.23
+1,unaids,1,,2.23,2.23
+1,humanitarian crises,1,,2.23,2.23
+1,deforestation,1,,2.23,2.23
+1,actionaid,1,,2.23,2.23
+1,hiv infections,1,,2.23,2.23
+1,hiv infection,1,,2.23,2.23
+1,polio,1,,2.23,2.23
+1,fund unicef,1,,2.23,2.23
+1,humanitarian catastrophe,1,,2.23,2.23
+1,cholera epidemic,1,,2.23,2.23
+1,waterborne diseases,1,,2.23,2.23
+1,industrialized countries,1,,2.23,2.23
+1,unwanted pregnancies,1,,2.23,2.23
+1,united nations,1,,2.23,2.23
+1,maoist insurgency,1,,2.23,2.23
+1,chronic illness,1,,2.23,2.23
+1,health organisation who,1,,2.23,2.23
+1,oap,1,,2.23,2.23
+1,travellers,1,,2.23,2.23
+1,ex servicemen,1,,2.23,2.23
+1,mps,1,,2.23,2.23
+1,comrades,1,,2.23,2.23
+1,villagers,1,,2.23,2.23
+1,councillors,1,,2.23,2.23
+1,campaigners,1,,2.23,2.23
+1,landlords,1,,2.23,2.23
+1,victims,1,,2.23,2.23
+1,parliamentary,1,,2.23,2.23
+1,youngsters,1,,2.23,2.23
+1,householders,1,,2.23,2.23
+1,pupils,1,,2.23,2.23
+1,prisoners,1,,2.23,2.23
+1,passengers,1,,2.23,2.23
+1,aged,1,,2.23,2.23
+1,opposition,1,,2.23,2.23
+1,mp,1,,2.23,2.23
+1,hundreds,1,,2.23,2.23
+1,nuj,1,,2.23,2.23
+1,military families,1,,2.23,2.23
+1,bereaved families,1,,2.23,2.23
+1,fishermen,1,,2.23,2.23
+1,schoolchildren,1,,2.23,2.23
+1,councils,1,,2.23,2.23
+1,co operative,1,,2.23,2.23
+1,tasmanians,1,,2.23,2.23
+1,backbenchers,1,,2.23,2.23
+1,magistrates,1,,2.23,2.23
+1,britons,1,,2.23,2.23
+1,thousands,1,,2.23,2.23
+1,resident,1,,2.23,2.23
+1,homeowner,1,,2.23,2.23
+1,afscme,1,,2.23,2.23
+1,uaw,1,,2.23,2.23
+1,civilian,1,,2.23,2.23
+1,neighbor,1,,2.23,2.23
+1,united auto workers,1,,2.23,2.23
+1,machinist,1,,2.23,2.23
+1,legislative,1,,2.23,2.23
+1,postmaster,1,,2.23,2.23
+1,member,1,,2.23,2.23
+1,firefighter,1,,2.23,2.23
+1,trustee,1,,2.23,2.23
+1,husband,1,,2.23,2.23
+1,administrator,1,,2.23,2.23
+1,volunteer,1,,2.23,2.23
+1,legislator,1,,2.23,2.23
+1,betty,1,,2.23,2.23
+1,lois,1,,2.23,2.23
+1,caw,1,,2.23,2.23
+1,historian,1,,2.23,2.23
+1,clerk,1,,2.23,2.23
+1,pharmacist,1,,2.23,2.23
+1,marge,1,,2.23,2.23
+1,treasurer,1,,2.23,2.23
+1,businessman,1,,2.23,2.23
+1,taxpayer,1,,2.23,2.23
+1,airman,1,,2.23,2.23
+1,exec,1,,2.23,2.23
+1,veteran,1,,2.23,2.23
+1,cafeteria,1,,2.23,2.23
+1,chaplain,1,,2.23,2.23
+1,hilda,1,,2.23,2.23
+1,voter,1,,2.23,2.23
+1,grandmother,1,,2.23,2.23
+1,mortgages,1,,2.23,2.23
+1,tax advantaged,1,,2.23,2.23
+1,plain vanilla,1,,2.23,2.23
+1,fdic insured,1,,2.23,2.23
+1,ing,1,,2.23,2.23
+1,collateralized debt obligations,1,,2.23,2.23
+1,gilts,1,,2.23,2.23
+1,subprime mortgages,1,,2.23,2.23
+1,subprime loans,1,,2.23,2.23
+1,cdos,1,,2.23,2.23
+1,old mutual,1,,2.23,2.23
+1,mutual insurance,1,,2.23,2.23
+1,allstate insurance,1,,2.23,2.23
+1,ins,1,,2.23,2.23
+1,liberty mutual,1,,2.23,2.23
+1,farmers insurance,1,,2.23,2.23
+1,naic,1,,2.23,2.23
+1,reinsurer,1,,2.23,2.23
+1,brokerage,1,,2.23,2.23
+1,banking,1,,2.23,2.23
+1,chubb,1,,2.23,2.23
+1,financial institutions,1,,2.23,2.23
+1,munich re,1,,2.23,2.23
+1,adjusters,1,,2.23,2.23
+1,markel,1,,2.23,2.23
+1,adjuster,1,,2.23,2.23
+1,travel,1,,2.23,2.23
+1,progressive,1,,2.23,2.23
+1,swiss re,1,,2.23,2.23
+1,leasing,1,,2.23,2.23
+1,underwriter,1,,2.23,2.23
+1,blue shield,1,,2.23,2.23
+1,adjusted capitalization,1,,2.23,2.23
+1,automobile,1,,2.23,2.23
+1,warranty,1,,2.23,2.23
+1,tidal wave,1,,2.23,2.23
+1,indian ocean,1,,2.23,2.23
+1,tsunami ravaged,1,,2.23,2.23
+1,natural calamities,1,,2.23,2.23
+1,andaman,1,,2.23,2.23
+1,nias,1,,2.23,2.23
+1,hurricane wilma,1,,2.23,2.23
+1,monsoon,1,,2.23,2.23
+1,phuket,1,,2.23,2.23
+1,sumatra,1,,2.23,2.23
+1,hurricane ivan,1,,2.23,2.23
+1,aceh,1,,2.23,2.23
+1,hurricane charley,1,,2.23,2.23
+1,padang,1,,2.23,2.23
+1,hurricane dean,1,,2.23,2.23
+1,bushfire,1,,2.23,2.23
+1,hurricane frances,1,,2.23,2.23
+1,haiti,1,,2.23,2.23
+1,hurricanes,1,,2.23,2.23
+1,hurricanes katrina,1,,2.23,2.23
+1,gustav,1,,2.23,2.23
+1,tuvalu,1,,2.23,2.23
+1,hurricane gustav,1,,2.23,2.23
+1,reimbursements,1,,2.23,2.23
+1,levies,1,,2.23,2.23
+1,surcharge,1,,2.23,2.23
+1,tort reform,1,,2.23,2.23
+1,excise taxes,1,,2.23,2.23
+1,bills,1,,2.23,2.23
+1,membership dues,1,,2.23,2.23
+1,overpayments,1,,2.23,2.23
+1,surcharges,1,,2.23,2.23
+1,levy,1,,2.23,2.23
+1,fuel surcharges,1,,2.23,2.23
+1,stimulus,1,,2.23,2.23
+1,summary box,1,,2.23,2.23
+1,bogus,1,,2.23,2.23
+1,kidnapping,1,,2.23,2.23
+1,drunk,1,,2.23,2.23
+1,mth,1,,2.23,2.23
+1,drunken,1,,2.23,2.23
+1,divorce,1,,2.23,2.23
+1,slaying,1,,2.23,2.23
+1,oil prices,1,,2.23,2.23
+1,fleeing,1,,2.23,2.23
+1,wall st,1,,2.23,2.23
+1,bailout,1,,2.23,2.23
+1,murdered,1,,2.23,2.23
+1,modest,1,,2.23,2.23
+1,grieving,1,,2.23,2.23
+1,by jesse j.,1,,2.23,2.23
+1,murders,1,,2.23,2.23
+1,injured,1,,2.23,2.23
+1,casualties,1,,2.23,2.23
+1,roundup,1,,2.23,2.23
+1,deficit,1,,2.23,2.23
+1,ex,1,,2.23,2.23
+1,gov't,1,,2.23,2.23
+1,business,1,,2.23,2.23
+1,economic cooperation,1,,2.23,2.23
+1,joint economic,1,,2.23,2.23
+1,economics,1,,2.23,2.23
+1,monetary,1,,2.23,2.23
+1,entrepreneurship,1,,2.23,2.23
+1,economic outlook,1,,2.23,2.23
+1,fiscal,1,,2.23,2.23
+1,public policy,1,,2.23,2.23
+1,governmental,1,,2.23,2.23
+1,statistical,1,,2.23,2.23
+1,entrepreneurial,1,,2.23,2.23
+1,export,1,,2.23,2.23
+1,growth,1,,2.23,2.23
+1,development,1,,2.23,2.23
+1,economic recovery,1,,2.23,2.23
+1,economic advisers,1,,2.23,2.23
+1,oecd,1,,2.23,2.23
+1,private sector,1,,2.23,2.23
+1,diplomatic,1,,2.23,2.23
+1,sustainable development,1,,2.23,2.23
+1,progress,1,,2.23,2.23
+1,technological,1,,2.23,2.23
+1,thinktank,1,,2.23,2.23
+1,economics professor,1,,2.23,2.23
+1,indicators,1,,2.23,2.23
+1,innovation,1,,2.23,2.23
+1,corporate governance,1,,2.23,2.23
+1,policy studies,1,,2.23,2.23
+1,reform,1,,2.23,2.23
+1,economic forum,1,,2.23,2.23
+1,automotive industry,1,,2.23,2.23
+1,renewable energy,1,,2.23,2.23
+1,export oriented,1,,2.23,2.23
+1,research,1,,2.23,2.23
+1,agenda,1,,2.23,2.23
+1,brookings institution,1,,2.23,2.23
+1,planning,1,,2.23,2.23
+1,agricultural,1,,2.23,2.23
+1,biofuel,1,,2.23,2.23
+1,handicapped,1,,2.23,2.23
+1,intellectual disabilities,1,,2.23,2.23
+1,physically challenged,1,,2.23,2.23
+1,bursaries,1,,2.23,2.23
+1,vocational training,1,,2.23,2.23
+1,deserving,1,,2.23,2.23
+1,privileged,1,,2.23,2.23
+1,visually impaired,1,,2.23,2.23
+1,mentoring,1,,2.23,2.23
+1,minority,1,,2.23,2.23
+1,economically depressed,1,,2.23,2.23
+1,mentally handicapped,1,,2.23,2.23
+1,rural,1,,2.23,2.23
+1,vocational,1,,2.23,2.23
+1,subsidized,1,,2.23,2.23
+1,learners,1,,2.23,2.23
+1,scholarships,1,,2.23,2.23
+1,charitable causes,1,,2.23,2.23
+1,benefitting,1,,2.23,2.23
+1,mentally challenged,1,,2.23,2.23
+1,disadvantage,1,,2.23,2.23
+1,tutoring,1,,2.23,2.23
+1,stigmatized,1,,2.23,2.23
+1,school leavers,1,,2.23,2.23
+1,resourced,1,,2.23,2.23
+1,unbanked,1,,2.23,2.23
+1,intelligence,1,,2.23,2.23
+1,cyber security,1,,2.23,2.23
+1,counterterrorism,1,,2.23,2.23
+1,biometric,1,,2.23,2.23
+1,privacy,1,,2.23,2.23
+1,surveillance,1,,2.23,2.23
+1,secret service,1,,2.23,2.23
+1,auditing,1,,2.23,2.23
+1,compliance,1,,2.23,2.23
+1,biometrics,1,,2.23,2.23
+1,integrity,1,,2.23,2.23
+1,cybersecurity,1,,2.23,2.23
+1,investigative,1,,2.23,2.23
+1,cryptographic,1,,2.23,2.23
+1,data protection,1,,2.23,2.23
+1,pki,1,,2.23,2.23
+1,cryptography,1,,2.23,2.23
+1,homeland security,1,,2.23,2.23
+1,infrastructure,1,,2.23,2.23
+1,information technology,1,,2.23,2.23
+1,intrusion detection,1,,2.23,2.23
+1,internal security,1,,2.23,2.23
+1,perimeter,1,,2.23,2.23
+1,check point,1,,2.23,2.23
+1,defense,1,,2.23,2.23
+1,homeland,1,,2.23,2.23
+1,firewalls,1,,2.23,2.23
+1,inspection,1,,2.23,2.23
+1,rsa security,1,,2.23,2.23
+1,integration,1,,2.23,2.23
+1,service,1,,2.23,2.23
+1,mcafee,1,,2.23,2.23
+1,communication,1,,2.23,2.23
+1,safenet,1,,2.23,2.23
+1,anti corruption,1,,2.23,2.23
+1,cyber,1,,2.23,2.23
+1,kaspersky lab,1,,2.23,2.23
+1,law enforcement,1,,2.23,2.23
+1,sc magazine,1,,2.23,2.23
+1,security forces,1,,2.23,2.23
+1,wackenhut,1,,2.23,2.23
+1,f secure,1,,2.23,2.23
+1,nsa,1,,2.23,2.23
+1,unisys,1,,2.23,2.23
+1,cisf,1,,2.23,2.23
+1,cybercrime,1,,2.23,2.23
+1,military,1,,2.23,2.23
+1,information,1,,2.23,2.23
+1,connectivity,1,,2.23,2.23
+1,intelligence agency,1,,2.23,2.23
+1,guards,1,,2.23,2.23
+1,comodo,1,,2.23,2.23
+1,interoperability,1,,2.23,2.23
+1,technology,1,,2.23,2.23
+1,warfare,1,,2.23,2.23
+1,deployment,1,,2.23,2.23
+1,computing,1,,2.23,2.23
+1,sophos,1,,2.23,2.23
+1,verification,1,,2.23,2.23
+1,computer,1,,2.23,2.23
+1,vigilance,1,,2.23,2.23
+1,counterintelligence,1,,2.23,2.23
+1,strategy,1,,2.23,2.23
+1,civil liberties,1,,2.23,2.23
+1,sovereignty,1,,2.23,2.23
+1,settlements,1,,2.23,2.23
+1,institutional,1,,2.23,2.23
+1,manulife financial,1,,2.23,2.23
+1,manulife,1,,2.23,2.23
+1,assurant,1,,2.23,2.23
+1,pru,1,,2.23,2.23
+1,lic,1,,2.23,2.23
+1,fixed income,1,,2.23,2.23
+1,portfolios,1,,2.23,2.23
+1,aig,1,,2.23,2.23
+1,guaranteed,1,,2.23,2.23
+1,caremark,1,,2.23,2.23
+1,trustmark,1,,2.23,2.23
+1,transamerica,1,,2.23,2.23
+1,student loan,1,,2.23,2.23
+1,northwestern mutual,1,,2.23,2.23
+1,overtime,1,,2.23,2.23
+1,claims,1,,2.23,2.23
+1,unpaid wages,1,,2.23,2.23
+1,kidnappings,1,,2.23,2.23
+1,unionized,1,,2.23,2.23
+1,tariffs,1,,2.23,2.23
+1,airfares,1,,2.23,2.23
+1,underpaid,1,,2.23,2.23
+1,valuations,1,,2.23,2.23
+1,postsecondary education,1,,2.23,2.23
+1,educations,1,,2.23,2.23
+1,life expectancies,1,,2.23,2.23
+1,census bureau,1,,2.23,2.23
+1,per capita,1,,2.23,2.23
+1,prenatal care,1,,2.23,2.23
+1,standardized tests,1,,2.23,2.23
+1,preterm birth,1,,2.23,2.23
+1,broadband penetration,1,,2.23,2.23
+1,depressive symptoms,1,,2.23,2.23
+1,reading comprehension,1,,2.23,2.23
+1,occupations,1,,2.23,2.23
+1,schooling,1,,2.23,2.23
+1,index bmi,1,,2.23,2.23
+1,bachelor degrees,1,,2.23,2.23
+1,demographers,1,,2.23,2.23
+1,##th percentile,1,,2.23,2.23
+1,affordability,1,,2.23,2.23
+1,academically,1,,2.23,2.23
+1,childbearing,1,,2.23,2.23
+1,gaps,1,,2.23,2.23
+1,inefficiencies,1,,2.23,2.23
+1,differences,1,,2.23,2.23
+1,gap,1,,2.23,2.23
+1,disincentives,1,,2.23,2.23
+1,ethnic tensions,1,,2.23,2.23
+1,racial tensions,1,,2.23,2.23
+1,contradictions,1,,2.23,2.23
+1,divide,1,,2.23,2.23
+1,rifts,1,,2.23,2.23
+1,inadequacies,1,,2.23,2.23
+1,fairer,1,,2.23,2.23
+1,non tariff barriers,1,,2.23,2.23
+1,discrepancies,1,,2.23,2.23
+1,tensions,1,,2.23,2.23
+1,racial tension,1,,2.23,2.23
+1,inefficiency,1,,2.23,2.23
+1,ills,1,,2.23,2.23
+1,ideological differences,1,,2.23,2.23
+1,mistrust,1,,2.23,2.23
+1,obesity epidemic,1,,2.23,2.23
+1,problems,1,,2.23,2.23
+1,biases,1,,2.23,2.23
+1,racial prejudice,1,,2.23,2.23
+1,shantytown,1,,2.23,2.23
+1,ghetto,1,,2.23,2.23
+1,filth,1,,2.23,2.23
+1,servitude,1,,2.23,2.23
+1,malawians,1,,2.23,2.23
+1,miseries,1,,2.23,2.23
+1,africans,1,,2.23,2.23
+1,opulence,1,,2.23,2.23
+1,plight,1,,2.23,2.23
+1,drug abuse,1,,2.23,2.23
+1,truancy,1,,2.23,2.23
+1,meth,1,,2.23,2.23
+1,childhood obesity,1,,2.23,2.23
+1,smart growth,1,,2.23,2.23
+1,marriage,1,,2.23,2.23
+1,sex offenders,1,,2.23,2.23
+1,methamphetamine,1,,2.23,2.23
+1,death penalty,1,,2.23,2.23
+1,multiple sclerosis,1,,2.23,2.23
+1,accessibility,1,,2.23,2.23
+1,downtown eastside,1,,2.23,2.23
+1,volunteering,1,,2.23,2.23
+1,torrential rains,1,,2.23,2.23
+1,flash flooding,1,,2.23,2.23
+1,downpours,1,,2.23,2.23
+1,rainstorms,1,,2.23,2.23
+1,bombings,1,,2.23,2.23
+1,thunderstorms,1,,2.23,2.23
+1,severe weather,1,,2.23,2.23
+1,flood waters,1,,2.23,2.23
+1,heavy rainfall,1,,2.23,2.23
+1,torrential rain,1,,2.23,2.23
+1,fires,1,,2.23,2.23
+1,heavy downpours,1,,2.23,2.23
+1,unrest,1,,2.23,2.23
+1,monsoon rains,1,,2.23,2.23
+1,crashes,1,,2.23,2.23
+1,clashes,1,,2.23,2.23
+1,blasts,1,,2.23,2.23
+1,flooded,1,,2.23,2.23
+1,floodwater,1,,2.23,2.23
+1,riots,1,,2.23,2.23
+1,heatwave,1,,2.23,2.23
+1,deluge,1,,2.23,2.23
+1,twisters,1,,2.23,2.23
+1,strong winds,1,,2.23,2.23
+1,surging,1,,2.23,2.23
+1,inundating,1,,2.23,2.23
+1,flood prone,1,,2.23,2.23
+1,blizzards,1,,2.23,2.23
+1,cholera,1,,2.23,2.23
+1,snowfall,1,,2.23,2.23
+1,rain,1,,2.23,2.23
+1,droughts,1,,2.23,2.23
+1,drought stricken,1,,2.23,2.23
+1,crops,1,,2.23,2.23
+1,inundation,1,,2.23,2.23
+1,train derailment,1,,2.23,2.23
+1,attacks,1,,2.23,2.23
+1,severe,1,,2.23,2.23
+1,heavy snow,1,,2.23,2.23
+1,hailstorm,1,,2.23,2.23
+1,rainstorm,1,,2.23,2.23
+1,threatens,1,,2.23,2.23
+1,protests,1,,2.23,2.23
+1,delays,1,,2.23,2.23

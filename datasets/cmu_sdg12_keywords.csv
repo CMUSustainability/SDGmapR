@@ -1,0 +1,1479 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+12,recycling,69,True,67.0,4623.0
+12,waste,68,True,15.98,1086.64
+12,landfill,65,True,12.72,826.8000000000001
+12,recycle,56,True,41.98,2350.8799999999997
+12,recycled,45,True,13.23,595.35
+12,garbage,45,,3.57,160.65
+12,wastewater,39,,3.57,139.23
+12,composting,38,True,21.91,832.58
+12,trash,36,,3.57,128.51999999999998
+12,landfills,34,,3.57,121.38
+12,waste disposal,33,True,21.61,713.13
+12,hazardous waste,32,True,14.25,456.0
+12,recyclable materials,31,,3.57,110.67
+12,recyclable,30,True,5.21,156.3
+12,sustainable,28,True,9.42,263.76
+12,incineration,28,True,5.12,143.36
+12,compost,28,,3.57,99.96
+12,sewage,28,,3.57,99.96
+12,waste management,27,True,13.75,371.25
+12,disposal,27,True,8.77,236.79
+12,sustainability,27,True,4.42,119.34
+12,recyclables,27,,3.57,96.39
+12,eco,27,,3.57,96.39
+12,biosolids,27,,3.57,96.39
+12,biomass,26,,3.57,92.82
+12,solid waste,25,,3.57,89.25
+12,reuse,25,,3.57,89.25
+12,curbside recycling,25,,3.57,89.25
+12,environmental,24,True,6.31,151.44
+12,solid waste management,24,,3.57,85.67999999999999
+12,compostable,23,,3.57,82.11
+12,litter,22,,3.57,78.53999999999999
+12,rubbish,22,,3.57,78.53999999999999
+12,recycled materials,21,,3.57,74.97
+12,sludge,21,,3.57,74.97
+12,groundwater,21,,3.57,74.97
+12,greener,21,,3.57,74.97
+12,incinerator,20,True,4.82,96.4
+12,contaminated soil,20,,3.57,71.39999999999999
+12,recycler,19,,3.57,67.83
+12,recyclers,19,,3.57,67.83
+12,environmentally sound,19,,3.57,67.83
+12,effluent,19,,3.57,67.83
+12,recycling bins,18,,3.57,64.25999999999999
+12,composted,18,,3.57,64.25999999999999
+12,pollution,18,,3.57,64.25999999999999
+12,wastewater treatment,18,,3.57,64.25999999999999
+12,allied waste,17,,3.57,60.69
+12,recycling bin,17,,3.57,60.69
+12,bins,17,,3.57,60.69
+12,renewable,17,,3.57,60.69
+12,environmentally friendly,17,,3.57,60.69
+12,wastes,17,,3.57,60.69
+12,toxic waste,17,,3.57,60.69
+12,biodegradable,17,,3.57,60.69
+12,renewable energy,16,,3.57,57.12
+12,curbside,16,,3.57,57.12
+12,environmentally conscious,16,,3.57,57.12
+12,garbage disposal,16,,3.57,57.12
+12,sewer,16,,3.57,57.12
+12,radioactive waste,15,True,6.51,97.64999999999999
+12,recycles,15,,3.57,53.55
+12,haulers,15,,3.57,53.55
+12,incinerators,15,,3.57,53.55
+12,sewage treatment,15,,3.57,53.55
+12,stormwater,15,,3.57,53.55
+12,recycled plastic,15,,3.57,53.55
+12,eco conscious,15,,3.57,53.55
+12,greening,15,,3.57,53.55
+12,dump,14,,3.57,49.98
+12,environmentally responsible,14,,3.57,49.98
+12,coal ash,14,,3.57,49.98
+12,eco friendly,14,,3.57,49.98
+12,hazardous chemicals,14,,3.57,49.98
+12,environmentally,14,,3.57,49.98
+12,environmentally sustainable,14,,3.57,49.98
+12,conservation,14,,3.57,49.98
+12,organics,13,,3.57,46.41
+12,manure,13,,3.57,46.41
+12,reusable bags,13,,3.57,46.41
+12,carbon neutral,13,,3.57,46.41
+12,ecological,12,True,5.36,64.32000000000001
+12,plastics,12,,3.57,42.839999999999996
+12,aluminum cans,12,,3.57,42.839999999999996
+12,sanitation,12,,3.57,42.839999999999996
+12,covanta,12,,3.57,42.839999999999996
+12,trash pickup,12,,3.57,42.839999999999996
+12,dumpster,12,,3.57,42.839999999999996
+12,pollutants,12,,3.57,42.839999999999996
+12,toxic chemicals,12,,3.57,42.839999999999996
+12,raw sewage,12,,3.57,42.839999999999996
+12,wood chips,12,,3.57,42.839999999999996
+12,carbon footprint,12,,3.57,42.839999999999996
+12,scrap,11,True,4.11,45.21
+12,biofuels,11,,3.57,39.269999999999996
+12,tailings,11,,3.57,39.269999999999996
+12,garbage pickup,11,,3.57,39.269999999999996
+12,stormwater runoff,11,,3.57,39.269999999999996
+12,reusing,11,,3.57,39.269999999999996
+12,plastic bags,11,,3.57,39.269999999999996
+12,pollutant,11,,3.57,39.269999999999996
+12,biogas,11,,3.57,39.269999999999996
+12,greenest,11,,3.57,39.269999999999996
+12,ecologically,11,,3.57,39.269999999999996
+12,hazardous,10,True,6.04,60.4
+12,veolia,10,,3.57,35.699999999999996
+12,dumping,10,,3.57,35.699999999999996
+12,gasification,10,,3.57,35.699999999999996
+12,deq,10,,3.57,35.699999999999996
+12,septic systems,10,,3.57,35.699999999999996
+12,septic tanks,10,,3.57,35.699999999999996
+12,reusable,10,,3.57,35.699999999999996
+12,toxic substances,10,,3.57,35.699999999999996
+12,contaminants,10,,3.57,35.699999999999996
+12,polluting,10,,3.57,35.699999999999996
+12,hazardous materials,10,,3.57,35.699999999999996
+12,organic,10,,3.57,35.699999999999996
+12,environmental stewardship,10,,3.57,35.699999999999996
+12,ecology,10,,3.57,35.699999999999996
+12,green,9,True,3.71,33.39
+12,wrap,9,,3.57,32.129999999999995
+12,water,9,,3.57,32.129999999999995
+12,garbage dump,9,,3.57,32.129999999999995
+12,drainage,9,,3.57,32.129999999999995
+12,plastic bottles,9,,3.57,32.129999999999995
+12,dumpsters,9,,3.57,32.129999999999995
+12,hazardous substances,9,,3.57,32.129999999999995
+12,sediment,9,,3.57,32.129999999999995
+12,toxins,9,,3.57,32.129999999999995
+12,toxic,9,,3.57,32.129999999999995
+12,dioxins,9,,3.57,32.129999999999995
+12,sewerage,9,,3.57,32.129999999999995
+12,mulch,9,,3.57,32.129999999999995
+12,biofuel,9,,3.57,32.129999999999995
+12,environmental sustainability,9,,3.57,32.129999999999995
+12,sustainably,9,,3.57,32.129999999999995
+12,reduce carbon emissions,9,,3.57,32.129999999999995
+12,socially responsible,9,,3.57,32.129999999999995
+12,co2 emissions,9,,3.57,32.129999999999995
+12,environment,8,True,4.51,36.08
+12,container,8,,3.57,28.56
+12,clean,8,,3.57,28.56
+12,dispose,8,,3.57,28.56
+12,stewardship,8,,3.57,28.56
+12,plastic,8,,3.57,28.56
+12,energy efficiency,8,,3.57,28.56
+12,containers,8,,3.57,28.56
+12,water quality,8,,3.57,28.56
+12,biodiesel,8,,3.57,28.56
+12,harmful chemicals,8,,3.57,28.56
+12,storm drains,8,,3.57,28.56
+12,pcbs,8,,3.57,28.56
+12,trash cans,8,,3.57,28.56
+12,radioactive materials,8,,3.57,28.56
+12,solvents,8,,3.57,28.56
+12,contamination,8,,3.57,28.56
+12,polluted,8,,3.57,28.56
+12,locally grown,8,,3.57,28.56
+12,polystyrene,8,,3.57,28.56
+12,climate change,8,,3.57,28.56
+12,carbon footprints,8,,3.57,28.56
+12,reducing carbon emissions,8,,3.57,28.56
+12,carbon emissions,8,,3.57,28.56
+12,radioactive,7,True,3.8,26.599999999999998
+12,cleanup,7,,3.57,24.99
+12,cleaning,7,,3.57,24.99
+12,materials,7,,3.57,24.99
+12,refuse,7,,3.57,24.99
+12,superfund site,7,,3.57,24.99
+12,cubic yards,7,,3.57,24.99
+12,hazardous material,7,,3.57,24.99
+12,radioactive material,7,,3.57,24.99
+12,depleted uranium,7,,3.57,24.99
+12,contaminant,7,,3.57,24.99
+12,munitions,7,,3.57,24.99
+12,asbestos,7,,3.57,24.99
+12,dioxin,7,,3.57,24.99
+12,phosphorous,7,,3.57,24.99
+12,debris,7,,3.57,24.99
+12,public works,7,,3.57,24.99
+12,energy efficient,7,,3.57,24.99
+12,lagoons,7,,3.57,24.99
+12,biodiversity,7,,3.57,24.99
+12,leed certified,7,,3.57,24.99
+12,efficient,7,,3.57,24.99
+12,alternative fuels,7,,3.57,24.99
+12,emission reduction,7,,3.57,24.99
+12,chlorine,7,,3.57,24.99
+12,watershed,7,,3.57,24.99
+12,clean up,6,,3.57,21.419999999999998
+12,salvage,6,,3.57,21.419999999999998
+12,scrap metal,6,,3.57,21.419999999999998
+12,shred,6,,3.57,21.419999999999998
+12,renewables,6,,3.57,21.419999999999998
+12,cleaner,6,,3.57,21.419999999999998
+12,clean energy,6,,3.57,21.419999999999998
+12,animal control,6,,3.57,21.419999999999998
+12,septic tank,6,,3.57,21.419999999999998
+12,methane,6,,3.57,21.419999999999998
+12,silt,6,,3.57,21.419999999999998
+12,chemicals,6,,3.57,21.419999999999998
+12,storage tanks,6,,3.57,21.419999999999998
+12,septic,6,,3.57,21.419999999999998
+12,sanitary,6,,3.57,21.419999999999998
+12,bio diesel,6,,3.57,21.419999999999998
+12,carbon sequestration,6,,3.57,21.419999999999998
+12,styrofoam,6,,3.57,21.419999999999998
+12,nontoxic,6,,3.57,21.419999999999998
+12,arsenic,6,,3.57,21.419999999999998
+12,sustainable development,6,,3.57,21.419999999999998
+12,innovation,6,,3.57,21.419999999999998
+12,efficiency,6,,3.57,21.419999999999998
+12,leed,6,,3.57,21.419999999999998
+12,leed certification,6,,3.57,21.419999999999998
+12,environmentally sensitive,6,,3.57,21.419999999999998
+12,economical,6,,3.57,21.419999999999998
+12,innovative,6,,3.57,21.419999999999998
+12,aesthetically pleasing,6,,3.57,21.419999999999998
+12,affordable,6,,3.57,21.419999999999998
+12,environmentalism,6,,3.57,21.419999999999998
+12,conserving,6,,3.57,21.419999999999998
+12,water supply,6,,3.57,21.419999999999998
+12,aquifer,6,,3.57,21.419999999999998
+12,environmentalist,6,,3.57,21.419999999999998
+12,ecotourism,6,,3.57,21.419999999999998
+12,freight,5,,3.57,17.849999999999998
+12,bfi,5,,3.57,17.849999999999998
+12,gravel pit,5,,3.57,17.849999999999998
+12,sanitary sewer,5,,3.57,17.849999999999998
+12,reservoir,5,,3.57,17.849999999999998
+12,utilities,5,,3.57,17.849999999999998
+12,byproducts,5,,3.57,17.849999999999998
+12,topsoil,5,,3.57,17.849999999999998
+12,leaching,5,,3.57,17.849999999999998
+12,perchlorate,5,,3.57,17.849999999999998
+12,environmental quality,5,,3.57,17.849999999999998
+12,chemical,5,,3.57,17.849999999999998
+12,contaminated,5,,3.57,17.849999999999998
+12,trash bags,5,,3.57,17.849999999999998
+12,desalination,5,,3.57,17.849999999999998
+12,desalination plant,5,,3.57,17.849999999999998
+12,reused,5,,3.57,17.849999999999998
+12,cardboard,5,,3.57,17.849999999999998
+12,organic cotton,5,,3.57,17.849999999999998
+12,rainforest,5,,3.57,17.849999999999998
+12,gases,5,,3.57,17.849999999999998
+12,cooling towers,5,,3.57,17.849999999999998
+12,brownfield,5,,3.57,17.849999999999998
+12,climate action,5,,3.57,17.849999999999998
+12,climate,5,,3.57,17.849999999999998
+12,smart growth,5,,3.57,17.849999999999998
+12,ecosystem,5,,3.57,17.849999999999998
+12,land use,5,,3.57,17.849999999999998
+12,healthful,5,,3.57,17.849999999999998
+12,reduce greenhouse gas,5,,3.57,17.849999999999998
+12,solar panels,5,,3.57,17.849999999999998
+12,cfls,5,,3.57,17.849999999999998
+12,wetlands,5,,3.57,17.849999999999998
+12,irrigation,5,,3.57,17.849999999999998
+12,pest control,4,,3.57,14.28
+12,soil,4,,3.57,14.28
+12,dredging,4,,3.57,14.28
+12,animal shelter,4,,3.57,14.28
+12,unincorporated areas,4,,3.57,14.28
+12,dep,4,,3.57,14.28
+12,bag,4,,3.57,14.28
+12,dumps,4,,3.57,14.28
+12,mercury emissions,4,,3.57,14.28
+12,quarries,4,,3.57,14.28
+12,watersheds,4,,3.57,14.28
+12,decompose,4,,3.57,14.28
+12,volatile organic compounds,4,,3.57,14.28
+12,mercury,4,,3.57,14.28
+12,ash,4,,3.57,14.28
+12,tritium,4,,3.57,14.28
+12,particulates,4,,3.57,14.28
+12,air pollution,4,,3.57,14.28
+12,residues,4,,3.57,14.28
+12,piles,4,,3.57,14.28
+12,poop,4,,3.57,14.28
+12,smelly,4,,3.57,14.28
+12,potable water,4,,3.57,14.28
+12,crematorium,4,,3.57,14.28
+12,reprocessing,4,,3.57,14.28
+12,cogeneration,4,,3.57,14.28
+12,gardening,4,,3.57,14.28
+12,organic farming,4,,3.57,14.28
+12,gardeners,4,,3.57,14.28
+12,silage,4,,3.57,14.28
+12,paperboard,4,,3.57,14.28
+12,plastic containers,4,,3.57,14.28
+12,cans,4,,3.57,14.28
+12,receptacles,4,,3.57,14.28
+12,incinerated,4,,3.57,14.28
+12,fossil fuel,4,,3.57,14.28
+12,fossil fuels,4,,3.57,14.28
+12,coal fired,4,,3.57,14.28
+12,disposed,4,,3.57,14.28
+12,carbon dioxide emissions,4,,3.57,14.28
+12,pollute,4,,3.57,14.28
+12,polluter,4,,3.57,14.28
+12,pesticide,4,,3.57,14.28
+12,pesticides,4,,3.57,14.28
+12,usgbc,4,,3.57,14.28
+12,bioenergy,4,,3.57,14.28
+12,design,4,,3.57,14.28
+12,ethical,4,,3.57,14.28
+12,ghg emissions,4,,3.57,14.28
+12,global warming,4,,3.57,14.28
+12,zero emission,4,,3.57,14.28
+12,retrofit,4,,3.57,14.28
+12,solar powered,4,,3.57,14.28
+12,economically viable,4,,3.57,14.28
+12,competitively priced,4,,3.57,14.28
+12,greenhouse gas emissions,4,,3.57,14.28
+12,healthier,4,,3.57,14.28
+12,rainwater,4,,3.57,14.28
+12,solids,4,,3.57,14.28
+12,hauler,4,,3.57,14.28
+12,environmental protection,4,,3.57,14.28
+12,utility,4,,3.57,14.28
+12,soils,4,,3.57,14.28
+12,brine,4,,3.57,14.28
+12,socially conscious,4,,3.57,14.28
+12,phosphorus,4,,3.57,14.28
+12,environmental impacts,4,,3.57,14.28
+12,clean water,4,,3.57,14.28
+12,wildlife,4,,3.57,14.28
+12,fertilizer,4,,3.57,14.28
+12,reverse osmosis,4,,3.57,14.28
+12,aquifers,4,,3.57,14.28
+12,waterworks,4,,3.57,14.28
+12,tourism,3,True,14.25,42.75
+12,natural resource,3,True,11.78,35.339999999999996
+12,preservation,3,True,5.02,15.059999999999999
+12,tourist,3,True,4.33,12.99
+12,hotel,3,True,3.78,11.34
+12,csr,3,True,3.71,11.129999999999999
+12,packaging,3,,3.57,10.709999999999999
+12,landscaping,3,,3.57,10.709999999999999
+12,nuclear,3,,3.57,10.709999999999999
+12,towing,3,,3.57,10.709999999999999
+12,quarry,3,,3.57,10.709999999999999
+12,wind farm,3,,3.57,10.709999999999999
+12,plant,3,,3.57,10.709999999999999
+12,subdivision,3,,3.57,10.709999999999999
+12,facility,3,,3.57,10.709999999999999
+12,stuff,3,,3.57,10.709999999999999
+12,tree planting,3,,3.57,10.709999999999999
+12,waterways,3,,3.57,10.709999999999999
+12,carbon dioxide,3,,3.57,10.709999999999999
+12,superfund,3,,3.57,10.709999999999999
+12,flammable,3,,3.57,10.709999999999999
+12,radioactivity,3,,3.57,10.709999999999999
+12,energysolutions,3,,3.57,10.709999999999999
+12,garbage cans,3,,3.57,10.709999999999999
+12,garbage bags,3,,3.57,10.709999999999999
+12,trash bins,3,,3.57,10.709999999999999
+12,littering,3,,3.57,10.709999999999999
+12,dirt,3,,3.57,10.709999999999999
+12,disposing,3,,3.57,10.709999999999999
+12,disinfection,3,,3.57,10.709999999999999
+12,reclamation,3,,3.57,10.709999999999999
+12,municipal,3,,3.57,10.709999999999999
+12,vegetable garden,3,,3.57,10.709999999999999
+12,master gardener,3,,3.57,10.709999999999999
+12,fertilizing,3,,3.57,10.709999999999999
+12,garden,3,,3.57,10.709999999999999
+12,organic foods,3,,3.57,10.709999999999999
+12,nutrient rich,3,,3.57,10.709999999999999
+12,horticulture,3,,3.57,10.709999999999999
+12,discarded,3,,3.57,10.709999999999999
+12,pvc,3,,3.57,10.709999999999999
+12,carbon capture,3,,3.57,10.709999999999999
+12,decommissioning,3,,3.57,10.709999999999999
+12,coal,3,,3.57,10.709999999999999
+12,tar sands,3,,3.57,10.709999999999999
+12,sellafield,3,,3.57,10.709999999999999
+12,carcinogens,3,,3.57,10.709999999999999
+12,poisons,3,,3.57,10.709999999999999
+12,toxin,3,,3.57,10.709999999999999
+12,benzene,3,,3.57,10.709999999999999
+12,hydrogen sulfide,3,,3.57,10.709999999999999
+12,pfoa,3,,3.57,10.709999999999999
+12,reactors,3,,3.57,10.709999999999999
+12,nuclear reactors,3,,3.57,10.709999999999999
+12,ratepayers,3,,3.57,10.709999999999999
+12,corporate social responsibility,3,,3.57,10.709999999999999
+12,supply chain,3,,3.57,10.709999999999999
+12,entrepreneurship,3,,3.57,10.709999999999999
+12,carbon trust,3,,3.57,10.709999999999999
+12,alternative energy,3,,3.57,10.709999999999999
+12,continuous improvement,3,,3.57,10.709999999999999
+12,bio fuels,3,,3.57,10.709999999999999
+12,alternative,3,,3.57,10.709999999999999
+12,renewable fuels,3,,3.57,10.709999999999999
+12,walkable,3,,3.57,10.709999999999999
+12,code enforcement,3,,3.57,10.709999999999999
+12,junkyard,3,,3.57,10.709999999999999
+12,methane gas,3,,3.57,10.709999999999999
+12,carbon offsets,3,,3.57,10.709999999999999
+12,emissions,3,,3.57,10.709999999999999
+12,slurry,3,,3.57,10.709999999999999
+12,nitrate,3,,3.57,10.709999999999999
+12,chloride,3,,3.57,10.709999999999999
+12,ammonia,3,,3.57,10.709999999999999
+12,ethically,3,,3.57,10.709999999999999
+12,conserves,3,,3.57,10.709999999999999
+12,disposes,3,,3.57,10.709999999999999
+12,maintenance,3,,3.57,10.709999999999999
+12,farming,3,,3.57,10.709999999999999
+12,forests,3,,3.57,10.709999999999999
+12,wetland,3,,3.57,10.709999999999999
+12,planning,3,,3.57,10.709999999999999
+12,nitrogen,3,,3.57,10.709999999999999
+12,nitrates,3,,3.57,10.709999999999999
+12,refrigerant,3,,3.57,10.709999999999999
+12,public utilities,3,,3.57,10.709999999999999
+12,public works director,3,,3.57,10.709999999999999
+12,flood control,3,,3.57,10.709999999999999
+12,reducing greenhouse gas,3,,3.57,10.709999999999999
+12,filtration,3,,3.57,10.709999999999999
+12,reservoirs,3,,3.57,10.709999999999999
+12,resource management,2,True,8.55,17.1
+12,life cycle,2,True,6.22,12.44
+12,natural resources,2,True,4.19,8.38
+12,aluminum,2,,3.57,7.14
+12,concrete,2,,3.57,7.14
+12,fuels,2,,3.57,7.14
+12,fuel,2,,3.57,7.14
+12,ethanol,2,,3.57,7.14
+12,paving,2,,3.57,7.14
+12,storage,2,,3.57,7.14
+12,pest,2,,3.57,7.14
+12,material,2,,3.57,7.14
+12,landscape,2,,3.57,7.14
+12,power plant,2,,3.57,7.14
+12,feedlot,2,,3.57,7.14
+12,cleaners,2,,3.57,7.14
+12,supercenter,2,,3.57,7.14
+12,crematory,2,,3.57,7.14
+12,paint,2,,3.57,7.14
+12,bike,2,,3.57,7.14
+12,cell phone,2,,3.57,7.14
+12,healthy,2,,3.57,7.14
+12,cool,2,,3.57,7.14
+12,bikes,2,,3.57,7.14
+12,pick up,2,,3.57,7.14
+12,build,2,,3.57,7.14
+12,greenhouse gases,2,,3.57,7.14
+12,radiological,2,,3.57,7.14
+12,clean water act,2,,3.57,7.14
+12,epa,2,,3.57,7.14
+12,environmental remediation,2,,3.57,7.14
+12,junk,2,,3.57,7.14
+12,burning,2,,3.57,7.14
+12,graffiti,2,,3.57,7.14
+12,scavengers,2,,3.57,7.14
+12,yard,2,,3.57,7.14
+12,abandoned,2,,3.57,7.14
+12,demolition,2,,3.57,7.14
+12,parking,2,,3.57,7.14
+12,transit,2,,3.57,7.14
+12,money,2,,3.57,7.14
+12,vegetable gardens,2,,3.57,7.14
+12,greenhouse,2,,3.57,7.14
+12,horticultural,2,,3.57,7.14
+12,gardens,2,,3.57,7.14
+12,bags,2,,3.57,7.14
+12,repurposed,2,,3.57,7.14
+12,resins,2,,3.57,7.14
+12,resin,2,,3.57,7.14
+12,tote bags,2,,3.57,7.14
+12,h2o,2,,3.57,7.14
+12,disposable,2,,3.57,7.14
+12,bin,2,,3.57,7.14
+12,pallets,2,,3.57,7.14
+12,cigarette butts,2,,3.57,7.14
+12,pallet,2,,3.57,7.14
+12,carts,2,,3.57,7.14
+12,carpooling,2,,3.57,7.14
+12,cremation,2,,3.57,7.14
+12,decontamination,2,,3.57,7.14
+12,combustion,2,,3.57,7.14
+12,co2,2,,3.57,7.14
+12,fluoridation,2,,3.57,7.14
+12,depot,2,,3.57,7.14
+12,smokestack,2,,3.57,7.14
+12,contaminating,2,,3.57,7.14
+12,polluters,2,,3.57,7.14
+12,toxic fumes,2,,3.57,7.14
+12,vocs,2,,3.57,7.14
+12,carcinogenic,2,,3.57,7.14
+12,smelter,2,,3.57,7.14
+12,turbines,2,,3.57,7.14
+12,yucca mountain,2,,3.57,7.14
+12,refinery,2,,3.57,7.14
+12,scrubbers,2,,3.57,7.14
+12,wind farms,2,,3.57,7.14
+12,boilers,2,,3.57,7.14
+12,nuclear reactor,2,,3.57,7.14
+12,wind turbines,2,,3.57,7.14
+12,skateboard park,2,,3.57,7.14
+12,ratepayer,2,,3.57,7.14
+12,reactor,2,,3.57,7.14
+12,furnaces,2,,3.57,7.14
+12,diversity,2,,3.57,7.14
+12,leadership,2,,3.57,7.14
+12,global compact,2,,3.57,7.14
+12,cleantech,2,,3.57,7.14
+12,transformation,2,,3.57,7.14
+12,nanotechnology,2,,3.57,7.14
+12,architecture,2,,3.57,7.14
+12,excellence,2,,3.57,7.14
+12,fuel cell,2,,3.57,7.14
+12,smart grid,2,,3.57,7.14
+12,entrepreneurial,2,,3.57,7.14
+12,unep,2,,3.57,7.14
+12,cleaner burning,2,,3.57,7.14
+12,hydrogen powered,2,,3.57,7.14
+12,retrofitting,2,,3.57,7.14
+12,led lighting,2,,3.57,7.14
+12,carbon emission,2,,3.57,7.14
+12,cleanest,2,,3.57,7.14
+12,inexpensive,2,,3.57,7.14
+12,carbon,2,,3.57,7.14
+12,technologically advanced,2,,3.57,7.14
+12,retrofits,2,,3.57,7.14
+12,feedstocks,2,,3.57,7.14
+12,ink cartridges,2,,3.57,7.14
+12,rechargeable batteries,2,,3.57,7.14
+12,polypropylene,2,,3.57,7.14
+12,trucking,2,,3.57,7.14
+12,air quality,2,,3.57,7.14
+12,mud,2,,3.57,7.14
+12,cleanups,2,,3.57,7.14
+12,boxes,2,,3.57,7.14
+12,laundry,2,,3.57,7.14
+12,tow,2,,3.57,7.14
+12,excavated,2,,3.57,7.14
+12,sediments,2,,3.57,7.14
+12,tce,2,,3.57,7.14
+12,trace amounts,2,,3.57,7.14
+12,stylish,2,,3.57,7.14
+12,vegan,2,,3.57,7.14
+12,fashionable,2,,3.57,7.14
+12,bamboo,2,,3.57,7.14
+12,trendsetter,2,,3.57,7.14
+12,hybrid,2,,3.57,7.14
+12,planting trees,2,,3.57,7.14
+12,frugal,2,,3.57,7.14
+12,smelters,2,,3.57,7.14
+12,smelting,2,,3.57,7.14
+12,chromium,2,,3.57,7.14
+12,seawater,2,,3.57,7.14
+12,slag,2,,3.57,7.14
+12,vapors,2,,3.57,7.14
+12,fracking,2,,3.57,7.14
+12,algae,2,,3.57,7.14
+12,residue,2,,3.57,7.14
+12,cyanide,2,,3.57,7.14
+12,economically feasible,2,,3.57,7.14
+12,safe,2,,3.57,7.14
+12,fiscally responsible,2,,3.57,7.14
+12,responsibly,2,,3.57,7.14
+12,greenhouse emissions,2,,3.57,7.14
+12,affordable housing,2,,3.57,7.14
+12,best practices,2,,3.57,7.14
+12,biological,2,,3.57,7.14
+12,ecologist,2,,3.57,7.14
+12,ecosystems,2,,3.57,7.14
+12,nature,2,,3.57,7.14
+12,agricultural,2,,3.57,7.14
+12,biosphere,2,,3.57,7.14
+12,ecologists,2,,3.57,7.14
+12,restoration,2,,3.57,7.14
+12,archaeology,2,,3.57,7.14
+12,archaeological,2,,3.57,7.14
+12,forestry,2,,3.57,7.14
+12,habitats,2,,3.57,7.14
+12,nature conservancy,2,,3.57,7.14
+12,aquaculture,2,,3.57,7.14
+12,natural,2,,3.57,7.14
+12,endangered,2,,3.57,7.14
+12,geology,2,,3.57,7.14
+12,flora,2,,3.57,7.14
+12,invasive species,2,,3.57,7.14
+12,natural history,2,,3.57,7.14
+12,habitat,2,,3.57,7.14
+12,biology,2,,3.57,7.14
+12,revitalization,2,,3.57,7.14
+12,brownfields,2,,3.57,7.14
+12,comprehensive plan,2,,3.57,7.14
+12,cdbg,2,,3.57,7.14
+12,usable,2,,3.57,7.14
+12,visioning,2,,3.57,7.14
+12,useable,2,,3.57,7.14
+12,flower beds,2,,3.57,7.14
+12,rhubarb,2,,3.57,7.14
+12,fertilize,2,,3.57,7.14
+12,cornstarch,2,,3.57,7.14
+12,veggies,2,,3.57,7.14
+12,berries,2,,3.57,7.14
+12,sawdust,2,,3.57,7.14
+12,vegetables,2,,3.57,7.14
+12,sprouts,2,,3.57,7.14
+12,fresh herbs,2,,3.57,7.14
+12,leeks,2,,3.57,7.14
+12,asparagus,2,,3.57,7.14
+12,fertilized,2,,3.57,7.14
+12,bulbs,2,,3.57,7.14
+12,edible,2,,3.57,7.14
+12,anhydrous ammonia,2,,3.57,7.14
+12,shredder,2,,3.57,7.14
+12,luxury,2,,3.57,7.14
+12,dpw,2,,3.57,7.14
+12,water conservation,2,,3.57,7.14
+12,public utility,2,,3.57,7.14
+12,water resources,2,,3.57,7.14
+12,public lands,2,,3.57,7.14
+12,species,2,,3.57,7.14
+12,wildlife conservation,2,,3.57,7.14
+12,fisheries,2,,3.57,7.14
+12,unesco,2,,3.57,7.14
+12,conserve,2,,3.57,7.14
+12,environmentalists,2,,3.57,7.14
+12,bike lanes,2,,3.57,7.14
+12,leftovers,2,,3.57,7.14
+12,drains,2,,3.57,7.14
+12,gasses,2,,3.57,7.14
+12,overflows,2,,3.57,7.14
+12,sewers,2,,3.57,7.14
+12,water works,2,,3.57,7.14
+12,water mains,2,,3.57,7.14
+12,electricity,2,,3.57,7.14
+12,lagoon,2,,3.57,7.14
+12,severn trent,2,,3.57,7.14
+12,operational excellence,2,,3.57,7.14
+12,dow jones sustainability,2,,3.57,7.14
+12,coffee cups,2,,3.57,7.14
+12,lids,2,,3.57,7.14
+12,fire hydrants,2,,3.57,7.14
+12,resorts,2,,3.57,7.14
+12,hospitality,2,,3.57,7.14
+12,inns,2,,3.57,7.14
+12,restaurants,2,,3.57,7.14
+12,lodging,2,,3.57,7.14
+12,resort,2,,3.57,7.14
+12,villas,2,,3.57,7.14
+12,gallons,2,,3.57,7.14
+12,sustainable production,1,True,19.34,19.34
+12,vermicompost,1,True,17.01,17.01
+12,food preservation,1,True,16.41,16.41
+12,waste treatment,1,True,12.63,12.63
+12,tourism development,1,True,11.88,11.88
+12,environmental attitudes,1,True,10.24,10.24
+12,cycle analysis,1,True,10.16,10.16
+12,sustainability assessment,1,True,10.03,10.03
+12,nuclear waste,1,True,9.6,9.6
+12,circular economy,1,True,9.49,9.49
+12,food preservative,1,True,9.39,9.39
+12,lca,1,True,9.05,9.05
+12,preservative,1,True,8.32,8.32
+12,energy performance,1,True,8.14,8.14
+12,deinking,1,True,7.52,7.52
+12,sustainable building,1,True,7.47,7.47
+12,sustainable construction,1,True,7.39,7.39
+12,spent fuel,1,True,7.21,7.21
+12,waste incineration,1,True,7.18,7.18
+12,landfill leachate,1,True,7.0,7.0
+12,corporate social,1,True,6.88,6.88
+12,leachate,1,True,6.82,6.82
+12,repository,1,True,6.68,6.68
+12,agricultural waste,1,True,6.52,6.52
+12,legitimacy,1,True,6.44,6.44
+12,resource efficiency,1,True,6.28,6.28
+12,waste processing,1,True,6.27,6.27
+12,sustainable use,1,True,6.11,6.11
+12,tourism management,1,True,6.1,6.1
+12,sustainable consumption,1,True,5.92,5.92
+12,corporate responsibility,1,True,5.82,5.82
+12,resources management,1,True,5.59,5.59
+12,medical waste,1,True,5.39,5.39
+12,integrated reporting,1,True,5.31,5.31
+12,landfill gas,1,True,5.29,5.29
+12,pulsed electric,1,True,5.22,5.22
+12,corporate,1,True,5.19,5.19
+12,14001,1,True,5.16,5.16
+12,iso 14001,1,True,5.11,5.11
+12,lifecycle,1,True,5.01,5.01
+12,geological disposal,1,True,5.0,5.0
+12,stickies,1,True,5.0,5.0
+12,circular,1,True,4.9,4.9
+12,recycled paper,1,True,4.84,4.84
+12,reporting,1,True,4.68,4.68
+12,spent,1,True,4.6,4.6
+12,science environmental,1,True,4.59,4.59
+12,disassembly,1,True,4.58,4.58
+12,visitors,1,True,4.43,4.43
+12,waste energy,1,True,4.42,4.42
+12,spent nuclear,1,True,4.39,4.39
+12,social performance,1,True,4.38,4.38
+12,industrial waste,1,True,4.27,4.27
+12,responsibility,1,True,4.26,4.26
+12,level radioactive,1,True,4.26,4.26
+12,nuclear fuel,1,True,4.18,4.18
+12,buildings,1,True,4.15,4.15
+12,pef,1,True,4.07,4.07
+12,hotel industry,1,True,4.06,4.06
+12,weee,1,True,4.04,4.04
+12,environmental management,1,True,3.99,3.99
+12,food,1,True,3.91,3.91
+12,building,1,True,3.84,3.84
+12,cdm,1,True,3.82,3.82
+12,iso,1,True,3.75,3.75
+12,incentive,1,True,3.69,3.69
+12,literacy,1,True,3.65,3.65
+12,landfill cover,1,True,3.57,3.57
+12,insulation,1,,3.57,3.57
+12,flooring,1,,3.57,3.57
+12,metal,1,,3.57,3.57
+12,resource,1,,3.57,3.57
+12,metals,1,,3.57,3.57
+12,manufacturing,1,,3.57,3.57
+12,recovery,1,,3.57,3.57
+12,welding,1,,3.57,3.57
+12,composites,1,,3.57,3.57
+12,intermodal,1,,3.57,3.57
+12,energy,1,,3.57,3.57
+12,cemetery,1,,3.57,3.57
+12,municipal airport,1,,3.57,3.57
+12,farms,1,,3.57,3.57
+12,airport,1,,3.57,3.57
+12,correctional facility,1,,3.57,3.57
+12,donate,1,,3.57,3.57
+12,cell phones,1,,3.57,3.57
+12,reclaim,1,,3.57,3.57
+12,cares,1,,3.57,3.57
+12,renew,1,,3.57,3.57
+12,collect,1,,3.57,3.57
+12,save,1,,3.57,3.57
+12,connect,1,,3.57,3.57
+12,grow,1,,3.57,3.57
+12,organize,1,,3.57,3.57
+12,eat,1,,3.57,3.57
+12,adopt,1,,3.57,3.57
+12,celebrate,1,,3.57,3.57
+12,drop,1,,3.57,3.57
+12,swap,1,,3.57,3.57
+12,vote,1,,3.57,3.57
+12,summer reading,1,,3.57,3.57
+12,go,1,,3.57,3.57
+12,reads,1,,3.57,3.57
+12,wear,1,,3.57,3.57
+12,innovate,1,,3.57,3.57
+12,tots,1,,3.57,3.57
+12,move,1,,3.57,3.57
+12,kindness,1,,3.57,3.57
+12,fit,1,,3.57,3.57
+12,help,1,,3.57,3.57
+12,rebuild,1,,3.57,3.57
+12,meth labs,1,,3.57,3.57
+12,cargo containers,1,,3.57,3.57
+12,environmental protection agency,1,,3.57,3.57
+12,particulate,1,,3.57,3.57
+12,ordnance,1,,3.57,3.57
+12,trucks,1,,3.57,3.57
+12,bus,1,,3.57,3.57
+12,dump trucks,1,,3.57,3.57
+12,buses,1,,3.57,3.57
+12,shit,1,,3.57,3.57
+12,trees,1,,3.57,3.57
+12,taxes,1,,3.57,3.57
+12,digging,1,,3.57,3.57
+12,traffic,1,,3.57,3.57
+12,quarrying,1,,3.57,3.57
+12,siting,1,,3.57,3.57
+12,beekeeping,1,,3.57,3.57
+12,veggie,1,,3.57,3.57
+12,canning,1,,3.57,3.57
+12,handmade,1,,3.57,3.57
+12,donated,1,,3.57,3.57
+12,vinyl,1,,3.57,3.57
+12,transparent,1,,3.57,3.57
+12,absorbent,1,,3.57,3.57
+12,liquid,1,,3.57,3.57
+12,stolen,1,,3.57,3.57
+12,homemade,1,,3.57,3.57
+12,wet,1,,3.57,3.57
+12,printed,1,,3.57,3.57
+12,colorful,1,,3.57,3.57
+12,expensive,1,,3.57,3.57
+12,recovered,1,,3.57,3.57
+12,reclaimed,1,,3.57,3.57
+12,artwork,1,,3.57,3.57
+12,batteries,1,,3.57,3.57
+12,surplus,1,,3.57,3.57
+12,synthetic,1,,3.57,3.57
+12,imported,1,,3.57,3.57
+12,engineered,1,,3.57,3.57
+12,consumption,1,,3.57,3.57
+12,themed,1,,3.57,3.57
+12,made,1,,3.57,3.57
+12,sourced,1,,3.57,3.57
+12,canned goods,1,,3.57,3.57
+12,non perishable food,1,,3.57,3.57
+12,perishables,1,,3.57,3.57
+12,junk mail,1,,3.57,3.57
+12,shopping carts,1,,3.57,3.57
+12,food pantries,1,,3.57,3.57
+12,groceries,1,,3.57,3.57
+12,stray animals,1,,3.57,3.57
+12,pantries,1,,3.57,3.57
+12,food pantry,1,,3.57,3.57
+12,sterilization,1,,3.57,3.57
+12,irradiation,1,,3.57,3.57
+12,euthanasia,1,,3.57,3.57
+12,sequestration,1,,3.57,3.57
+12,chemical warfare,1,,3.57,3.57
+12,filth,1,,3.57,3.57
+12,agent orange,1,,3.57,3.57
+12,noxious,1,,3.57,3.57
+12,trafigura,1,,3.57,3.57
+12,acid rain,1,,3.57,3.57
+12,cesspool,1,,3.57,3.57
+12,spillage,1,,3.57,3.57
+12,abattoir,1,,3.57,3.57
+12,lng terminal,1,,3.57,3.57
+12,pulp mill,1,,3.57,3.57
+12,turbine,1,,3.57,3.57
+12,aluminum smelter,1,,3.57,3.57
+12,mill,1,,3.57,3.57
+12,furnace,1,,3.57,3.57
+12,slaughterhouse,1,,3.57,3.57
+12,primary care trust,1,,3.57,3.57
+12,pfi,1,,3.57,3.57
+12,mosque,1,,3.57,3.57
+12,abatement,1,,3.57,3.57
+12,racino,1,,3.57,3.57
+12,boiler,1,,3.57,3.57
+12,supply chain management,1,,3.57,3.57
+12,strategic planning,1,,3.57,3.57
+12,shared services,1,,3.57,3.57
+12,governance,1,,3.57,3.57
+12,customer experience,1,,3.57,3.57
+12,corporate governance,1,,3.57,3.57
+12,social responsibility,1,,3.57,3.57
+12,procurement,1,,3.57,3.57
+12,competitiveness,1,,3.57,3.57
+12,sourcing,1,,3.57,3.57
+12,strategic plan,1,,3.57,3.57
+12,compliance,1,,3.57,3.57
+12,chemistry,1,,3.57,3.57
+12,business,1,,3.57,3.57
+12,hybrid electric,1,,3.57,3.57
+12,hydrogen fuel,1,,3.57,3.57
+12,wood,1,,3.57,3.57
+12,kinder morgan,1,,3.57,3.57
+12,cemex,1,,3.57,3.57
+12,rural metro,1,,3.57,3.57
+12,sysco,1,,3.57,3.57
+12,nrg energy,1,,3.57,3.57
+12,lafarge,1,,3.57,3.57
+12,fedex,1,,3.57,3.57
+12,ups,1,,3.57,3.57
+12,calpine,1,,3.57,3.57
+12,mirant,1,,3.57,3.57
+12,pulte homes,1,,3.57,3.57
+12,united parcel service,1,,3.57,3.57
+12,johnson controls,1,,3.57,3.57
+12,reliant energy,1,,3.57,3.57
+12,chevron,1,,3.57,3.57
+12,coca cola enterprises,1,,3.57,3.57
+12,bnsf,1,,3.57,3.57
+12,exelon corp.,1,,3.57,3.57
+12,pepsi bottling group,1,,3.57,3.57
+12,holcim,1,,3.57,3.57
+12,airgas,1,,3.57,3.57
+12,nicor,1,,3.57,3.57
+12,dirty,1,,3.57,3.57
+12,clutter,1,,3.57,3.57
+12,drag,1,,3.57,3.57
+12,dust,1,,3.57,3.57
+12,sidewalk,1,,3.57,3.57
+12,bucket,1,,3.57,3.57
+12,trashy,1,,3.57,3.57
+12,noise,1,,3.57,3.57
+12,fat,1,,3.57,3.57
+12,cart,1,,3.57,3.57
+12,loose,1,,3.57,3.57
+12,weird,1,,3.57,3.57
+12,guns,1,,3.57,3.57
+12,garage,1,,3.57,3.57
+12,flag,1,,3.57,3.57
+12,bottle,1,,3.57,3.57
+12,poo,1,,3.57,3.57
+12,load,1,,3.57,3.57
+12,loads,1,,3.57,3.57
+12,luggage,1,,3.57,3.57
+12,rap,1,,3.57,3.57
+12,suck,1,,3.57,3.57
+12,mess,1,,3.57,3.57
+12,remediation,1,,3.57,3.57
+12,remediate,1,,3.57,3.57
+12,unexploded ordnance,1,,3.57,3.57
+12,excavation,1,,3.57,3.57
+12,gravel,1,,3.57,3.57
+12,radon,1,,3.57,3.57
+12,asphalt,1,,3.57,3.57
+12,decontaminated,1,,3.57,3.57
+12,enriched uranium,1,,3.57,3.57
+12,highly enriched uranium,1,,3.57,3.57
+12,plutonium,1,,3.57,3.57
+12,nuclear regulatory commission,1,,3.57,3.57
+12,spent fuel rods,1,,3.57,3.57
+12,uranium,1,,3.57,3.57
+12,low enriched uranium,1,,3.57,3.57
+12,fuel rods,1,,3.57,3.57
+12,yucca,1,,3.57,3.57
+12,nuke,1,,3.57,3.57
+12,uranium mining,1,,3.57,3.57
+12,nrc,1,,3.57,3.57
+12,enrich uranium,1,,3.57,3.57
+12,radiation,1,,3.57,3.57
+12,nuclear fuel rods,1,,3.57,3.57
+12,uranium ore,1,,3.57,3.57
+12,atomic,1,,3.57,3.57
+12,isotope,1,,3.57,3.57
+12,chernobyl,1,,3.57,3.57
+12,fissile material,1,,3.57,3.57
+12,hanford,1,,3.57,3.57
+12,radioactive iodine,1,,3.57,3.57
+12,nuclear weapons,1,,3.57,3.57
+12,chernobyl disaster,1,,3.57,3.57
+12,lignite,1,,3.57,3.57
+12,lng,1,,3.57,3.57
+12,cesium,1,,3.57,3.57
+12,nukes,1,,3.57,3.57
+12,uranium enrichment,1,,3.57,3.57
+12,grade plutonium,1,,3.57,3.57
+12,liquefied natural gas,1,,3.57,3.57
+12,luxurious,1,,3.57,3.57
+12,luxe,1,,3.57,3.57
+12,fairtrade,1,,3.57,3.57
+12,interiors,1,,3.57,3.57
+12,eye catching,1,,3.57,3.57
+12,trendy,1,,3.57,3.57
+12,hospitals,1,,3.57,3.57
+12,refineries,1,,3.57,3.57
+12,laboratories,1,,3.57,3.57
+12,slaughterhouses,1,,3.57,3.57
+12,plants,1,,3.57,3.57
+12,incandescent bulbs,1,,3.57,3.57
+12,muck,1,,3.57,3.57
+12,goo,1,,3.57,3.57
+12,grease,1,,3.57,3.57
+12,slime,1,,3.57,3.57
+12,floodwater,1,,3.57,3.57
+12,oily,1,,3.57,3.57
+12,soot,1,,3.57,3.57
+12,spill,1,,3.57,3.57
+12,floodwaters,1,,3.57,3.57
+12,gooey,1,,3.57,3.57
+12,commercially viable,1,,3.57,3.57
+12,equitable,1,,3.57,3.57
+12,safer,1,,3.57,3.57
+12,expeditious,1,,3.57,3.57
+12,livable,1,,3.57,3.57
+12,renewable energies,1,,3.57,3.57
+12,excavating,1,,3.57,3.57
+12,car wash,1,,3.57,3.57
+12,distributing,1,,3.57,3.57
+12,bulk,1,,3.57,3.57
+12,auto parts,1,,3.57,3.57
+12,tires,1,,3.57,3.57
+12,rental,1,,3.57,3.57
+12,tire,1,,3.57,3.57
+12,equipment,1,,3.57,3.57
+12,distribution,1,,3.57,3.57
+12,contracting,1,,3.57,3.57
+12,plumbing,1,,3.57,3.57
+12,leasing,1,,3.57,3.57
+12,mortuary,1,,3.57,3.57
+12,roofing,1,,3.57,3.57
+12,lumber,1,,3.57,3.57
+12,machinery,1,,3.57,3.57
+12,acquisition,1,,3.57,3.57
+12,funeral homes,1,,3.57,3.57
+12,self storage,1,,3.57,3.57
+12,tanker,1,,3.57,3.57
+12,slow food,1,,3.57,3.57
+12,collaborative,1,,3.57,3.57
+12,future,1,,3.57,3.57
+12,sustaining,1,,3.57,3.57
+12,innovators,1,,3.57,3.57
+12,transforming,1,,3.57,3.57
+12,urban,1,,3.57,3.57
+12,convergence,1,,3.57,3.57
+12,infrastructure,1,,3.57,3.57
+12,ipm,1,,3.57,3.57
+12,geological,1,,3.57,3.57
+12,cultural,1,,3.57,3.57
+12,technological,1,,3.57,3.57
+12,landscapes,1,,3.57,3.57
+12,botanical,1,,3.57,3.57
+12,mitigation,1,,3.57,3.57
+12,fishery,1,,3.57,3.57
+12,soil erosion,1,,3.57,3.57
+12,psychological,1,,3.57,3.57
+12,conservancy,1,,3.57,3.57
+12,tropical,1,,3.57,3.57
+12,agricultural sciences,1,,3.57,3.57
+12,aquatic,1,,3.57,3.57
+12,hydrology,1,,3.57,3.57
+12,geographic information,1,,3.57,3.57
+12,spiritual,1,,3.57,3.57
+12,reforestation,1,,3.57,3.57
+12,creation,1,,3.57,3.57
+12,autonomous,1,,3.57,3.57
+12,architectural,1,,3.57,3.57
+12,eco tourism,1,,3.57,3.57
+12,structural,1,,3.57,3.57
+12,cultural heritage,1,,3.57,3.57
+12,biologist,1,,3.57,3.57
+12,repurposing,1,,3.57,3.57
+12,retention,1,,3.57,3.57
+12,redevelopment,1,,3.57,3.57
+12,designing,1,,3.57,3.57
+12,historic preservation commission,1,,3.57,3.57
+12,leftover,1,,3.57,3.57
+12,disaster recovery,1,,3.57,3.57
+12,historic preservation,1,,3.57,3.57
+12,unused,1,,3.57,3.57
+12,standardization,1,,3.57,3.57
+12,readiness,1,,3.57,3.57
+12,regeneration,1,,3.57,3.57
+12,master plan,1,,3.57,3.57
+12,fernald,1,,3.57,3.57
+12,optimize,1,,3.57,3.57
+12,vegetable,1,,3.57,3.57
+12,perennials,1,,3.57,3.57
+12,seedlings,1,,3.57,3.57
+12,houseplants,1,,3.57,3.57
+12,seedling,1,,3.57,3.57
+12,weeds,1,,3.57,3.57
+12,moss,1,,3.57,3.57
+12,beets,1,,3.57,3.57
+12,master gardeners,1,,3.57,3.57
+12,radishes,1,,3.57,3.57
+12,annuals,1,,3.57,3.57
+12,fertilizers,1,,3.57,3.57
+12,cuttings,1,,3.57,3.57
+12,dandelions,1,,3.57,3.57
+12,hanging baskets,1,,3.57,3.57
+12,herbs,1,,3.57,3.57
+12,kale,1,,3.57,3.57
+12,shrubs,1,,3.57,3.57
+12,tubers,1,,3.57,3.57
+12,seaweed,1,,3.57,3.57
+12,sod,1,,3.57,3.57
+12,herbicides,1,,3.57,3.57
+12,fluoride,1,,3.57,3.57
+12,hydraulic fracturing,1,,3.57,3.57
+12,gypsum,1,,3.57,3.57
+12,raw milk,1,,3.57,3.57
+12,e. coli,1,,3.57,3.57
+12,gmos,1,,3.57,3.57
+12,manufacturer,1,,3.57,3.57
+12,supplier,1,,3.57,3.57
+12,distributor,1,,3.57,3.57
+12,importer,1,,3.57,3.57
+12,retailer,1,,3.57,3.57
+12,wholesaler,1,,3.57,3.57
+12,purveyor,1,,3.57,3.57
+12,electronics retailer,1,,3.57,3.57
+12,marketer,1,,3.57,3.57
+12,refiner,1,,3.57,3.57
+12,collector,1,,3.57,3.57
+12,crusher,1,,3.57,3.57
+12,dealer,1,,3.57,3.57
+12,foundry,1,,3.57,3.57
+12,shipper,1,,3.57,3.57
+12,installer,1,,3.57,3.57
+12,maker,1,,3.57,3.57
+12,provider,1,,3.57,3.57
+12,steelmaker,1,,3.57,3.57
+12,trucker,1,,3.57,3.57
+12,tax preparer,1,,3.57,3.57
+12,shredding,1,,3.57,3.57
+12,techno,1,,3.57,3.57
+12,solar,1,,3.57,3.57
+12,gaia,1,,3.57,3.57
+12,bio,1,,3.57,3.57
+12,energy saving,1,,3.57,3.57
+12,pure,1,,3.57,3.57
+12,intelligent,1,,3.57,3.57
+12,planet,1,,3.57,3.57
+12,xtreme,1,,3.57,3.57
+12,smart,1,,3.57,3.57
+12,friendly,1,,3.57,3.57
+12,micro,1,,3.57,3.57
+12,mini,1,,3.57,3.57
+12,aqua,1,,3.57,3.57
+12,hyper,1,,3.57,3.57
+12,virtual,1,,3.57,3.57
+12,concept,1,,3.57,3.57
+12,ultimate,1,,3.57,3.57
+12,lifestyle,1,,3.57,3.57
+12,agro,1,,3.57,3.57
+12,adventure,1,,3.57,3.57
+12,mother earth,1,,3.57,3.57
+12,emergency management,1,,3.57,3.57
+12,recreation,1,,3.57,3.57
+12,transportation,1,,3.57,3.57
+12,juvenile justice,1,,3.57,3.57
+12,developmental disabilities,1,,3.57,3.57
+12,economic development,1,,3.57,3.57
+12,public safety,1,,3.57,3.57
+12,emergency medical,1,,3.57,3.57
+12,commissioners,1,,3.57,3.57
+12,zoning,1,,3.57,3.57
+12,animal care,1,,3.57,3.57
+12,child support,1,,3.57,3.57
+12,parks recreation,1,,3.57,3.57
+12,juvenile court,1,,3.57,3.57
+12,fire rescue,1,,3.57,3.57
+12,motor vehicle,1,,3.57,3.57
+12,tceq,1,,3.57,3.57
+12,odot,1,,3.57,3.57
+12,administrator,1,,3.57,3.57
+12,metropolitan planning,1,,3.57,3.57
+12,clerk,1,,3.57,3.57
+12,biological diversity,1,,3.57,3.57
+12,iucn,1,,3.57,3.57
+12,fauna,1,,3.57,3.57
+12,endangered species,1,,3.57,3.57
+12,tropical forests,1,,3.57,3.57
+12,deforestation,1,,3.57,3.57
+12,desertification,1,,3.57,3.57
+12,rainforests,1,,3.57,3.57
+12,population,1,,3.57,3.57
+12,wwf,1,,3.57,3.57
+12,coral reefs,1,,3.57,3.57
+12,conservationists,1,,3.57,3.57
+12,animal welfare,1,,3.57,3.57
+12,wildlife conservation society,1,,3.57,3.57
+12,antarctic,1,,3.57,3.57
+12,oceanography,1,,3.57,3.57
+12,amphibians,1,,3.57,3.57
+12,unfccc,1,,3.57,3.57
+12,astronomy,1,,3.57,3.57
+12,bird species,1,,3.57,3.57
+12,climate change ipcc,1,,3.57,3.57
+12,fao,1,,3.57,3.57
+12,redd,1,,3.57,3.57
+12,tuberculosis,1,,3.57,3.57
+12,languages,1,,3.57,3.57
+12,adaptation,1,,3.57,3.57
+12,freshwater,1,,3.57,3.57
+12,conservationist,1,,3.57,3.57
+12,biotechnology,1,,3.57,3.57
+12,rspb,1,,3.57,3.57
+12,critically endangered,1,,3.57,3.57
+12,mangroves,1,,3.57,3.57
+12,thrifty,1,,3.57,3.57
+12,conscientious,1,,3.57,3.57
+12,discerning,1,,3.57,3.57
+12,civic minded,1,,3.57,3.57
+12,conscious,1,,3.57,3.57
+12,tech savvy,1,,3.57,3.57
+12,healthier lifestyle,1,,3.57,3.57
+12,gas guzzling,1,,3.57,3.57
+12,altruistic,1,,3.57,3.57
+12,lifestyles,1,,3.57,3.57
+12,trendsetters,1,,3.57,3.57
+12,downtown revitalization,1,,3.57,3.57
+12,annexations,1,,3.57,3.57
+12,annexation,1,,3.57,3.57
+12,citywide,1,,3.57,3.57
+12,snow removal,1,,3.57,3.57
+12,layaway,1,,3.57,3.57
+12,municipalities,1,,3.57,3.57
+12,countywide,1,,3.57,3.57
+12,regionalization,1,,3.57,3.57
+12,millage rate,1,,3.57,3.57
+12,millage,1,,3.57,3.57
+12,ordinance,1,,3.57,3.57
+12,ordinances,1,,3.57,3.57
+12,spay,1,,3.57,3.57
+12,metered,1,,3.57,3.57
+12,aldermen,1,,3.57,3.57
+12,splost,1,,3.57,3.57
+12,allegiant,1,,3.57,3.57
+12,neighborhood watch,1,,3.57,3.57
+12,residents,1,,3.57,3.57
+12,beautification,1,,3.57,3.57
+12,mayor,1,,3.57,3.57
+12,zoning ordinances,1,,3.57,3.57
+12,councilmember,1,,3.57,3.57
+12,housing authority,1,,3.57,3.57
+12,spay neuter,1,,3.57,3.57
+12,wasted,1,,3.57,3.57
+12,wasting,1,,3.57,3.57
+12,wasteful,1,,3.57,3.57
+12,discards,1,,3.57,3.57
+12,wastage,1,,3.57,3.57
+12,diverts,1,,3.57,3.57
+12,detritus,1,,3.57,3.57
+12,consumes,1,,3.57,3.57
+12,vast amounts,1,,3.57,3.57
+12,wasteland,1,,3.57,3.57
+12,unproductive,1,,3.57,3.57
+12,spends,1,,3.57,3.57
+12,byproduct,1,,3.57,3.57
+12,excrement,1,,3.57,3.57
+12,empties,1,,3.57,3.57
+12,scraps,1,,3.57,3.57
+12,accumulates,1,,3.57,3.57
+12,spews,1,,3.57,3.57
+12,inefficient,1,,3.57,3.57
+12,expended,1,,3.57,3.57
+12,suppliers,1,,3.57,3.57
+12,importers,1,,3.57,3.57
+12,distributors,1,,3.57,3.57
+12,retailers,1,,3.57,3.57
+12,collectors,1,,3.57,3.57
+12,manufacturers,1,,3.57,3.57
+12,pawn shops,1,,3.57,3.57
+12,dealers,1,,3.57,3.57
+12,grocers,1,,3.57,3.57
+12,merchants,1,,3.57,3.57
+12,steelmakers,1,,3.57,3.57
+12,catalytic converters,1,,3.57,3.57
+12,producers,1,,3.57,3.57
+12,millers,1,,3.57,3.57
+12,emitters,1,,3.57,3.57
+12,shippers,1,,3.57,3.57
+12,rohs,1,,3.57,3.57
+12,scavenging,1,,3.57,3.57
+12,installers,1,,3.57,3.57
+12,card issuers,1,,3.57,3.57
+12,fly tipping,1,,3.57,3.57
+12,foundries,1,,3.57,3.57
+12,jewelers,1,,3.57,3.57
+12,bottlers,1,,3.57,3.57
+12,growers,1,,3.57,3.57
+12,exporters,1,,3.57,3.57
+12,runoff,1,,3.57,3.57
+12,aqueduct,1,,3.57,3.57
+12,wasa,1,,3.57,3.57
+12,seepage,1,,3.57,3.57
+12,canal,1,,3.57,3.57
+12,flooding,1,,3.57,3.57
+12,pumping,1,,3.57,3.57
+12,pumps,1,,3.57,3.57
+12,livability,1,,3.57,3.57
+12,healthy lifestyles,1,,3.57,3.57
+12,poverty eradication,1,,3.57,3.57
+12,holistic approach,1,,3.57,3.57
+12,gender equality,1,,3.57,3.57
+12,civic engagement,1,,3.57,3.57
+12,wellness,1,,3.57,3.57
+12,wellbeing,1,,3.57,3.57
+12,volunteerism,1,,3.57,3.57
+12,guiding principles,1,,3.57,3.57
+12,initiatives,1,,3.57,3.57
+12,millennium development goals,1,,3.57,3.57
+12,technological innovation,1,,3.57,3.57
+12,philanthropy,1,,3.57,3.57
+12,operational efficiency,1,,3.57,3.57
+12,environmental degradation,1,,3.57,3.57
+12,poverty alleviation,1,,3.57,3.57
+12,equality,1,,3.57,3.57
+12,mdgs,1,,3.57,3.57
+12,social cohesion,1,,3.57,3.57
+12,bike racks,1,,3.57,3.57
+12,ashtrays,1,,3.57,3.57
+12,portable toilets,1,,3.57,3.57
+12,plastic bag,1,,3.57,3.57
+12,plastic cups,1,,3.57,3.57
+12,mailboxes,1,,3.57,3.57
+12,bottles,1,,3.57,3.57
+12,cardboard boxes,1,,3.57,3.57
+12,signage,1,,3.57,3.57
+12,parking lots,1,,3.57,3.57
+12,urinals,1,,3.57,3.57
+12,trays,1,,3.57,3.57
+12,toilets,1,,3.57,3.57
+12,beer cans,1,,3.57,3.57
+12,stickers,1,,3.57,3.57
+12,vending machines,1,,3.57,3.57
+12,parking spaces,1,,3.57,3.57
+12,backpacks,1,,3.57,3.57
+12,driveways,1,,3.57,3.57
+12,receptacle,1,,3.57,3.57
+12,beer bottles,1,,3.57,3.57
+12,fridges,1,,3.57,3.57
+12,bird feeders,1,,3.57,3.57
+12,trolleys,1,,3.57,3.57
+12,lockers,1,,3.57,3.57
+12,tins,1,,3.57,3.57
+12,bottled water,1,,3.57,3.57
+12,kettles,1,,3.57,3.57
+12,coolers,1,,3.57,3.57
+12,jugs,1,,3.57,3.57
+12,light bulbs,1,,3.57,3.57
+12,bollards,1,,3.57,3.57
+12,canisters,1,,3.57,3.57
+12,aesthetically,1,,3.57,3.57
+12,technologically,1,,3.57,3.57
+12,socially,1,,3.57,3.57
+12,economically,1,,3.57,3.57
+12,biologically,1,,3.57,3.57
+12,fiscally,1,,3.57,3.57
+12,morally,1,,3.57,3.57
+12,politically,1,,3.57,3.57
+12,culturally,1,,3.57,3.57
+12,architecturally,1,,3.57,3.57
+12,scientifically,1,,3.57,3.57
+12,commercially,1,,3.57,3.57
+12,mechanically,1,,3.57,3.57
+12,nutritionally,1,,3.57,3.57
+12,artistically,1,,3.57,3.57
+12,intrinsically,1,,3.57,3.57
+12,eminently,1,,3.57,3.57
+12,financially,1,,3.57,3.57
+12,medically,1,,3.57,3.57
+12,wildlife habitat,1,,3.57,3.57
+12,chemically,1,,3.57,3.57
+12,energy star,1,,3.57,3.57
+12,environmental design leed,1,,3.57,3.57
+12,convenient,1,,3.57,3.57
+12,paperless,1,,3.57,3.57
+12,user friendly,1,,3.57,3.57
+12,customer centric,1,,3.57,3.57
+12,safest,1,,3.57,3.57
+12,replanted,1,,3.57,3.57
+12,harvested,1,,3.57,3.57
+12,rinsed,1,,3.57,3.57
+12,trucked,1,,3.57,3.57
+12,compacted,1,,3.57,3.57
+12,processed,1,,3.57,3.57
+12,decomposing,1,,3.57,3.57
+12,disinfected,1,,3.57,3.57
+12,cleaned,1,,3.57,3.57
+12,lettuce,1,,3.57,3.57
+12,cooked,1,,3.57,3.57
+12,salad,1,,3.57,3.57
+12,reprocessed,1,,3.57,3.57
+12,potatoes,1,,3.57,3.57
+12,nutrients,1,,3.57,3.57
+12,sugar beets,1,,3.57,3.57
+12,greenery,1,,3.57,3.57
+12,decomposed,1,,3.57,3.57
+12,landscaped,1,,3.57,3.57
+12,broccoli,1,,3.57,3.57
+12,sterilized,1,,3.57,3.57
+12,hotels,1,,3.57,3.57
+12,boutique hotels,1,,3.57,3.57
+12,hoteliers,1,,3.57,3.57
+12,ihg,1,,3.57,3.57
+12,accor,1,,3.57,3.57
+12,hotelier,1,,3.57,3.57
+12,luxury hotels,1,,3.57,3.57
+12,intercontinental hotels group,1,,3.57,3.57
+12,travel,1,,3.57,3.57
+12,starwood,1,,3.57,3.57
+12,boutique hotel,1,,3.57,3.57
+12,suites,1,,3.57,3.57
+12,hilton worldwide,1,,3.57,3.57
+12,destinations,1,,3.57,3.57
+12,cruises,1,,3.57,3.57
+12,revpar,1,,3.57,3.57
+12,intercontinental,1,,3.57,3.57
+12,le meridien,1,,3.57,3.57
+12,properties,1,,3.57,3.57
+12,ramada,1,,3.57,3.57
+12,marriott,1,,3.57,3.57
+12,hotels resorts,1,,3.57,3.57
+12,mandarin oriental,1,,3.57,3.57
+12,hyatt,1,,3.57,3.57
+12,radisson,1,,3.57,3.57
+12,residences,1,,3.57,3.57
+12,sofitel,1,,3.57,3.57
+12,hilton hotels,1,,3.57,3.57
+12,hotels.com,1,,3.57,3.57
+12,vacations,1,,3.57,3.57
+12,casinos,1,,3.57,3.57
+12,sheraton,1,,3.57,3.57
+12,leisure travelers,1,,3.57,3.57
+12,motel,1,,3.57,3.57
+12,inn,1,,3.57,3.57
+12,starwood hotels,1,,3.57,3.57
+12,beach resort,1,,3.57,3.57
+12,travelodge,1,,3.57,3.57
+12,accommodation,1,,3.57,3.57
+12,restaurant,1,,3.57,3.57
+12,doubletree,1,,3.57,3.57
+12,leisure,1,,3.57,3.57
+12,destination,1,,3.57,3.57
+12,mice,1,,3.57,3.57
+12,crowne plaza,1,,3.57,3.57
+12,timeshare,1,,3.57,3.57
+12,travelport,1,,3.57,3.57
+12,pubs,1,,3.57,3.57
+12,starwood hotels &,1,,3.57,3.57
+12,spas,1,,3.57,3.57
+12,cinemas,1,,3.57,3.57
+12,days inn,1,,3.57,3.57
+12,guestrooms,1,,3.57,3.57
+12,wyndham,1,,3.57,3.57
+12,tourist destinations,1,,3.57,3.57
+12,occupancy,1,,3.57,3.57
+12,condominium,1,,3.57,3.57
+12,lodgings,1,,3.57,3.57
+12,brands,1,,3.57,3.57
+12,malls,1,,3.57,3.57
+12,gds,1,,3.57,3.57
+12,cottages,1,,3.57,3.57
+12,homes,1,,3.57,3.57
+12,rooms,1,,3.57,3.57
+12,expedia,1,,3.57,3.57
+12,holiday inn,1,,3.57,3.57
+12,vacation rentals,1,,3.57,3.57
+12,hotel rooms,1,,3.57,3.57
+12,resorts worldwide inc.,1,,3.57,3.57
+12,ritz carlton,1,,3.57,3.57
+12,holiday inn express,1,,3.57,3.57
+12,lodges,1,,3.57,3.57
+12,cruise line,1,,3.57,3.57
+12,golf resort,1,,3.57,3.57
+12,comfort inn,1,,3.57,3.57
+12,plaza hotel,1,,3.57,3.57
+12,shangri la,1,,3.57,3.57
+12,attractions,1,,3.57,3.57
+12,taj,1,,3.57,3.57
+12,potentially hazardous,1,,3.57,3.57
+12,substances,1,,3.57,3.57
+12,phthalates,1,,3.57,3.57
+12,cadmium,1,,3.57,3.57
+12,carcinogen,1,,3.57,3.57
+12,highly flammable,1,,3.57,3.57
+12,carbon monoxide,1,,3.57,3.57
+12,chemical compounds,1,,3.57,3.57
+12,potentially harmful,1,,3.57,3.57
+12,fumes,1,,3.57,3.57
+12,hazards,1,,3.57,3.57
+12,sulfur dioxide,1,,3.57,3.57
+12,formaldehyde,1,,3.57,3.57
+12,sulfuric acid,1,,3.57,3.57
+12,explosives,1,,3.57,3.57
+12,nanomaterials,1,,3.57,3.57
+12,additives,1,,3.57,3.57
+12,flame retardant,1,,3.57,3.57
+12,pathogens,1,,3.57,3.57
+12,facilities,1,,3.57,3.57
+12,cip,1,,3.57,3.57
+12,pud,1,,3.57,3.57
+12,bpw,1,,3.57,3.57
+12,breathable,1,,3.57,3.57
+12,polycarbonate,1,,3.57,3.57
+12,polyethylene,1,,3.57,3.57
+12,cellulose,1,,3.57,3.57
+12,rohs compliant,1,,3.57,3.57
+12,salable,1,,3.57,3.57
+12,water soluble,1,,3.57,3.57
+12,catchment,1,,3.57,3.57
+12,ponds,1,,3.57,3.57
+12,discharges,1,,3.57,3.57
+12,salinity,1,,3.57,3.57
+12,irrigate,1,,3.57,3.57
+12,nutrient,1,,3.57,3.57
+12,leach,1,,3.57,3.57
+12,weir,1,,3.57,3.57
+12,tributary,1,,3.57,3.57
+12,selenium,1,,3.57,3.57
+12,downstream,1,,3.57,3.57
+12,estuary,1,,3.57,3.57

@@ -41,16 +41,16 @@ of the `SDGmapR` package, we will assign an equal weight of 1.0 to every word if
 ```{r, echo=FALSE, example}
 library(knitr)
 sdg_table <- data.frame(
-  "Source" = c("[Core Elsevier](https://data.mendeley.com/datasets/87txkw7khs/1)", 
+  "Source" = c("[Core Elsevier (Work in Progress)](https://data.mendeley.com/datasets/87txkw7khs/1)", 
                "[Improved Elsevier Top 100](https://data.mendeley.com/datasets/9sxdykm8s4/2)", 
                "[SDSN](https://ap-unsdsn.org/regional-initiatives/universities-sdgs/)", 
-               "[University of Auckland](https://www.sdgmapping.auckland.ac.nz/)", "[University of Toronto](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/)"),
+               "[University of Auckland (Work in Progress)](https://www.sdgmapping.auckland.ac.nz/)", "[University of Toronto (Work in Progress)](https://data.utoronto.ca/sustainable-development-goals-sdg-report/sdg-report-appendix/)"),
   "Dataset" = c("`elsevier_keywords`",
              "`elsevier100_keywords`",
              "`sdsn_keywords`",
              "`auckland_keywords`",
              "`toronto_keywords`"),
-  "CSV" = c("", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords.csv)", "", ""),
+  "CSV" = c("[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier100_keywords.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords.csv)", "", ""),
   "SDG17" = c("No", "No", "Yes", "Yes", "Yes")
 )
 kable(sdg_table)
@@ -58,13 +58,18 @@ kable(sdg_table)
 
 ## Example SDGMapR Usage
 
+We can map to one SDG with the `count_sdg_keywords` function that adds up the
+weights of the keywords found. We can find the keywords for one SDG with the
+`tabulate_sdg_keywords` that returns the words as a vector, which we can view
+in the `tidy` format by applying `unnest()` to our result.
+
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
 library(SDGmapR)
 
 # Load first 100 #tidytuesday tweets
 tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
-  head(1000)
+  head(10000)
 
 # Map to SDG 1 using Improved Elsevier Top 100 Keywords
 tweets_sdg1 <- tweets %>%
@@ -73,30 +78,32 @@ tweets_sdg1 <- tweets %>%
   arrange(desc(sdg_1_weight)) %>%
   select(text, sdg_1_weight, sdg_1_words)
 
-# View SDG 1 mapping
-tweets_sdg1 %>%
-  select(text, sdg_1_weight, sdg_1_words)
-
 # View SDG 1 matched keywords
 tweets_sdg1 %>%
   unnest(sdg_1_words)
+```
 
-# View Top SDG 1 tweet
-tweets_sdg1 %>%
-  head(1) %>%
-  select(text) %>%
-  pull()
+We can map to a different set of keywords by adding an additional input into
+our function, using the `cmu250` (CMU Top 250 Keywords) dataset of SDG keywords instead of the default `elsevier1000` dataset of SDG keywords.
 
-# Map to SDG 1 using Elsevier Core keywords
+```{r}
+# Map to SDG 3 using Elsevier Core keywords
 tweets %>%
-  mutate(sdg_1_weight = count_sdg_keywords(text, 1, "elsevier")) %>%
-  select(text, sdg_1_weight) %>%
-  arrange(desc(sdg_1_weight))
+  mutate(sdg_weight = count_sdg_keywords(text, 3, "cmu250")) %>%
+  select(text, sdg_weight) %>%
+  arrange(desc(sdg_weight))
 
-# Map to all SDGs using Elsevier Top 100
-# tweets %>%
-#   mutate(sdg_total_weight = count_sdgs_keywords(text)) %>%
-#   select(text, sdg_total_weight)
+# Map to SDG 5 using Elsevier Core keywords
+tweets %>%
+  mutate(sdg_weight = count_sdg_keywords(text, 5, "cmu250")) %>%
+  select(text, sdg_weight) %>%
+  arrange(desc(sdg_weight))
+
+# Map to SDG 7 using Elsevier Core keywords
+tweets %>%
+  mutate(sdg_weight = count_sdg_keywords(text, 7, "cmu250")) %>%
+  select(text, sdg_weight) %>%
+  arrange(desc(sdg_weight))
 ```
 
 

@@ -1,0 +1,2447 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+9,manufacturing,34,True,17.76,603.84
+9,innovation,26,True,10.15,263.90000000000003
+9,technology,24,True,3.78,90.72
+9,nanotechnology,20,,3.46,69.2
+9,industries,18,True,7.57,136.26
+9,manufacturers,18,,3.46,62.28
+9,innovations,18,,3.46,62.28
+9,innovative,17,True,13.35,226.95
+9,fabrication,17,True,6.55,111.35
+9,manufacturer,17,,3.46,58.82
+9,components,16,,3.46,55.36
+9,electronics,16,,3.46,55.36
+9,industrial,15,True,15.46,231.9
+9,sustainable,15,True,9.42,141.3
+9,machinery,15,,3.46,51.9
+9,manufacture,14,True,4.68,65.52
+9,export,14,,3.46,48.44
+9,suppliers,14,,3.46,48.44
+9,infrastructure,13,True,18.16,236.08
+9,industry,13,True,13.66,177.58
+9,automation,13,True,4.38,56.94
+9,technological,13,True,4.24,55.120000000000005
+9,composites,13,,3.46,44.98
+9,equipment,13,,3.46,44.98
+9,technologies,13,,3.46,44.98
+9,products,12,,3.46,41.519999999999996
+9,design,12,,3.46,41.519999999999996
+9,renewable energy,12,,3.46,41.519999999999996
+9,factory,11,True,4.61,50.71
+9,automotive,11,,3.46,38.06
+9,welding,11,,3.46,38.06
+9,textile,11,,3.46,38.06
+9,exports,11,,3.46,38.06
+9,engineering,11,,3.46,38.06
+9,coatings,11,,3.46,38.06
+9,supply chain,11,,3.46,38.06
+9,makers,11,,3.46,38.06
+9,robotics,11,,3.46,38.06
+9,exporters,11,,3.46,38.06
+9,companies,11,,3.46,38.06
+9,manufactured,10,True,5.15,51.5
+9,robotic,10,True,4.54,45.4
+9,investment,10,True,3.97,39.7
+9,packaging,10,,3.46,34.6
+9,plastics,10,,3.46,34.6
+9,bioscience,10,,3.46,34.6
+9,computing,10,,3.46,34.6
+9,hi tech,10,,3.46,34.6
+9,entrepreneurship,10,,3.46,34.6
+9,innovators,10,,3.46,34.6
+9,telecommunications,9,True,4.87,43.83
+9,robot,9,True,3.61,32.49
+9,supplier,9,,3.46,31.14
+9,factories,9,,3.46,31.14
+9,polymer,9,,3.46,31.14
+9,systems,9,,3.46,31.14
+9,solutions,9,,3.46,31.14
+9,photonics,9,,3.46,31.14
+9,entrepreneurial,9,,3.46,31.14
+9,telecommunication,9,,3.46,31.14
+9,sustainability,9,,3.46,31.14
+9,innovator,9,,3.46,31.14
+9,wireless,9,,3.46,31.14
+9,broadband,8,True,4.94,39.52
+9,investments,8,True,3.61,28.88
+9,precision,8,,3.46,27.68
+9,foundry,8,,3.46,27.68
+9,component,8,,3.46,27.68
+9,designs,8,,3.46,27.68
+9,sensors,8,,3.46,27.68
+9,information technology,8,,3.46,27.68
+9,convergence,8,,3.46,27.68
+9,dealers,8,,3.46,27.68
+9,firms,8,,3.46,27.68
+9,inventors,8,,3.46,27.68
+9,ict,8,,3.46,27.68
+9,telephony,8,,3.46,27.68
+9,efficiency,8,,3.46,27.68
+9,telecom,8,,3.46,27.68
+9,innovate,8,,3.46,27.68
+9,robots,8,,3.46,27.68
+9,eco friendly,7,True,5.49,38.43
+9,materials,7,,3.46,24.22
+9,production,7,,3.46,24.22
+9,output,7,,3.46,24.22
+9,aerospace,7,,3.46,24.22
+9,logistics,7,,3.46,24.22
+9,aluminum,7,,3.46,24.22
+9,business,7,,3.46,24.22
+9,diversified,7,,3.46,24.22
+9,applied,7,,3.46,24.22
+9,automobile,7,,3.46,24.22
+9,devices,7,,3.46,24.22
+9,structures,7,,3.46,24.22
+9,biotechnology,7,,3.46,24.22
+9,technological innovation,7,,3.46,24.22
+9,incubator,7,,3.46,24.22
+9,distributors,7,,3.46,24.22
+9,retailers,7,,3.46,24.22
+9,importers,7,,3.46,24.22
+9,carmakers,7,,3.46,24.22
+9,smart grid,7,,3.46,24.22
+9,connectivity,7,,3.46,24.22
+9,telco,7,,3.46,24.22
+9,telecoms,7,,3.46,24.22
+9,portfolio,7,,3.46,24.22
+9,hedge funds,7,,3.46,24.22
+9,creativity,7,,3.46,24.22
+9,startups,7,,3.46,24.22
+9,wimax,7,,3.46,24.22
+9,voip,7,,3.46,24.22
+9,machining,6,True,8.63,51.78
+9,textiles,6,,3.46,20.759999999999998
+9,printing,6,,3.46,20.759999999999998
+9,metal,6,,3.46,20.759999999999998
+9,construction,6,,3.46,20.759999999999998
+9,furniture,6,,3.46,20.759999999999998
+9,tool,6,,3.46,20.759999999999998
+9,aftermarket,6,,3.46,20.759999999999998
+9,engineered,6,,3.46,20.759999999999998
+9,chemicals,6,,3.46,20.759999999999998
+9,diagnostics,6,,3.46,20.759999999999998
+9,optics,6,,3.46,20.759999999999998
+9,imaging,6,,3.46,20.759999999999998
+9,enterprises,6,,3.46,20.759999999999998
+9,biosciences,6,,3.46,20.759999999999998
+9,manufactures,6,,3.46,20.759999999999998
+9,subsidiary,6,,3.46,20.759999999999998
+9,computers,6,,3.46,20.759999999999998
+9,custom,6,,3.46,20.759999999999998
+9,chassis,6,,3.46,20.759999999999998
+9,modular,6,,3.46,20.759999999999998
+9,plant,6,,3.46,20.759999999999998
+9,imported,6,,3.46,20.759999999999998
+9,product,6,,3.46,20.759999999999998
+9,procurement,6,,3.46,20.759999999999998
+9,informatics,6,,3.46,20.759999999999998
+9,venture,6,,3.46,20.759999999999998
+9,innovation award,6,,3.46,20.759999999999998
+9,automakers,6,,3.46,20.759999999999998
+9,energy efficiency,6,,3.46,20.759999999999998
+9,development,6,,3.46,20.759999999999998
+9,initiatives,6,,3.46,20.759999999999998
+9,electro,6,,3.46,20.759999999999998
+9,imports,6,,3.46,20.759999999999998
+9,sectors,6,,3.46,20.759999999999998
+9,mutual funds,6,,3.46,20.759999999999998
+9,investing,6,,3.46,20.759999999999998
+9,cutting edge,6,,3.46,20.759999999999998
+9,excellence,6,,3.46,20.759999999999998
+9,##st century,6,,3.46,20.759999999999998
+9,visionary,6,,3.46,20.759999999999998
+9,entrepreneurs,6,,3.46,20.759999999999998
+9,collaborative,6,,3.46,20.759999999999998
+9,best practices,6,,3.46,20.759999999999998
+9,financing,5,True,4.97,24.849999999999998
+9,purchasing,5,,3.46,17.3
+9,aluminium,5,,3.46,17.3
+9,electrical,5,,3.46,17.3
+9,sourcing,5,,3.46,17.3
+9,semiconductors,5,,3.46,17.3
+9,concepts,5,,3.46,17.3
+9,labs,5,,3.46,17.3
+9,consulting,5,,3.46,17.3
+9,specialties,5,,3.46,17.3
+9,sensor,5,,3.46,17.3
+9,machines,5,,3.46,17.3
+9,processing,5,,3.46,17.3
+9,contractors,5,,3.46,17.3
+9,composite materials,5,,3.46,17.3
+9,commercialization,5,,3.46,17.3
+9,prototype,5,,3.46,17.3
+9,invests,5,,3.46,17.3
+9,shipments,5,,3.46,17.3
+9,advanced,5,,3.46,17.3
+9,biomedical,5,,3.46,17.3
+9,tech,5,,3.46,17.3
+9,communication,5,,3.46,17.3
+9,clean energy,5,,3.46,17.3
+9,simulation,5,,3.46,17.3
+9,mobility,5,,3.46,17.3
+9,distributor,5,,3.46,17.3
+9,manufacturers association,5,,3.46,17.3
+9,consumers,5,,3.46,17.3
+9,employers,5,,3.46,17.3
+9,businesses,5,,3.46,17.3
+9,producers,5,,3.46,17.3
+9,operators,5,,3.46,17.3
+9,providers,5,,3.46,17.3
+9,refiners,5,,3.46,17.3
+9,customers,5,,3.46,17.3
+9,resellers,5,,3.46,17.3
+9,projects,5,,3.46,17.3
+9,competitiveness,5,,3.46,17.3
+9,modernization,5,,3.46,17.3
+9,sme,5,,3.46,17.3
+9,service provider,5,,3.46,17.3
+9,ip telephony,5,,3.46,17.3
+9,sector,5,,3.46,17.3
+9,equity,5,,3.46,17.3
+9,growth,5,,3.46,17.3
+9,technological advancement,5,,3.46,17.3
+9,environmental sustainability,5,,3.46,17.3
+9,invention,5,,3.46,17.3
+9,pioneering,5,,3.46,17.3
+9,cleantech,5,,3.46,17.3
+9,excellence awards,5,,3.46,17.3
+9,ideas,5,,3.46,17.3
+9,creative,5,,3.46,17.3
+9,techno,5,,3.46,17.3
+9,economies,5,,3.46,17.3
+9,affordable,5,,3.46,17.3
+9,renewable,5,,3.46,17.3
+9,greener,5,,3.46,17.3
+9,biofuel,5,,3.46,17.3
+9,gadgets,5,,3.46,17.3
+9,futuristic,5,,3.46,17.3
+9,employment,4,True,9.41,37.64
+9,infrastructures,4,True,7.43,29.72
+9,industrialization,4,True,4.17,16.68
+9,pharmaceutical,4,True,3.71,14.84
+9,semiconductor,4,,3.46,13.84
+9,retail,4,,3.46,13.84
+9,metals,4,,3.46,13.84
+9,advanced materials,4,,3.46,13.84
+9,chemical,4,,3.46,13.84
+9,insulation,4,,3.46,13.84
+9,motors,4,,3.46,13.84
+9,rubber,4,,3.46,13.84
+9,auto,4,,3.46,13.84
+9,cement,4,,3.46,13.84
+9,concrete,4,,3.46,13.84
+9,shipbuilding,4,,3.46,13.84
+9,automotive industry,4,,3.46,13.84
+9,flooring,4,,3.46,13.84
+9,holdings,4,,3.46,13.84
+9,partners llc,4,,3.46,13.84
+9,laboratories,4,,3.46,13.84
+9,partners,4,,3.46,13.84
+9,services,4,,3.46,13.84
+9,controls,4,,3.46,13.84
+9,engines,4,,3.46,13.84
+9,biometrics,4,,3.46,13.84
+9,strategies,4,,3.46,13.84
+9,graphics,4,,3.46,13.84
+9,tools,4,,3.46,13.84
+9,life sciences,4,,3.46,13.84
+9,provider,4,,3.46,13.84
+9,supply,4,,3.46,13.84
+9,vacuum,4,,3.46,13.84
+9,ceramic,4,,3.46,13.84
+9,foam,4,,3.46,13.84
+9,extrusion,4,,3.46,13.84
+9,welded,4,,3.46,13.84
+9,interiors,4,,3.46,13.84
+9,smt,4,,3.46,13.84
+9,technical,4,,3.46,13.84
+9,accessories,4,,3.46,13.84
+9,import,4,,3.46,13.84
+9,product line,4,,3.46,13.84
+9,works,4,,3.46,13.84
+9,communications,4,,3.46,13.84
+9,ecosystem,4,,3.46,13.84
+9,alternative energy,4,,3.46,13.84
+9,produced,4,,3.46,13.84
+9,recycled,4,,3.46,13.84
+9,alloy,4,,3.46,13.84
+9,fasteners,4,,3.46,13.84
+9,oem,4,,3.46,13.84
+9,retailer,4,,3.46,13.84
+9,pneumatic,4,,3.46,13.84
+9,oems,4,,3.46,13.84
+9,dealer,4,,3.46,13.84
+9,vendor,4,,3.46,13.84
+9,customer satisfaction,4,,3.46,13.84
+9,mems,4,,3.46,13.84
+9,marketers,4,,3.46,13.84
+9,vendors,4,,3.46,13.84
+9,shippers,4,,3.46,13.84
+9,processors,4,,3.46,13.84
+9,purchasers,4,,3.46,13.84
+9,consumer electronics,4,,3.46,13.84
+9,traders,4,,3.46,13.84
+9,workers,4,,3.46,13.84
+9,executives,4,,3.46,13.84
+9,strategy,4,,3.46,13.84
+9,finance,4,,3.46,13.84
+9,renewables,4,,3.46,13.84
+9,electricity,4,,3.46,13.84
+9,climate change,4,,3.46,13.84
+9,economic growth,4,,3.46,13.84
+9,privatization,4,,3.46,13.84
+9,machine,4,,3.46,13.84
+9,fab,4,,3.46,13.84
+9,private equity,4,,3.46,13.84
+9,equities,4,,3.46,13.84
+9,mutual fund,4,,3.46,13.84
+9,brokerage,4,,3.46,13.84
+9,invest,4,,3.46,13.84
+9,investor,4,,3.46,13.84
+9,assets,4,,3.46,13.84
+9,economic,4,,3.46,13.84
+9,hedge fund,4,,3.46,13.84
+9,emerging markets,4,,3.46,13.84
+9,commodity,4,,3.46,13.84
+9,technological advancements,4,,3.46,13.84
+9,technological advances,4,,3.46,13.84
+9,innovating,4,,3.46,13.84
+9,technologists,4,,3.46,13.84
+9,diversification,4,,3.46,13.84
+9,nanotech,4,,3.46,13.84
+9,alternative fuels,4,,3.46,13.84
+9,entrepreneur,4,,3.46,13.84
+9,innovation awards,4,,3.46,13.84
+9,dsl,4,,3.46,13.84
+9,adsl,4,,3.46,13.84
+9,ngn,4,,3.46,13.84
+9,mbps,4,,3.46,13.84
+9,cable,4,,3.46,13.84
+9,telcos,4,,3.46,13.84
+9,internet service providers,4,,3.46,13.84
+9,vsat,4,,3.46,13.84
+9,petrochemical,4,,3.46,13.84
+9,recycling,4,,3.46,13.84
+9,wireline,4,,3.46,13.84
+9,cellular,4,,3.46,13.84
+9,supplies,4,,3.46,13.84
+9,energy efficient,4,,3.46,13.84
+9,irobot,4,,3.46,13.84
+9,transformer,4,,3.46,13.84
+9,artificial intelligence,4,,3.46,13.84
+9,eco,4,,3.46,13.84
+9,environmentally friendly,4,,3.46,13.84
+9,greening,4,,3.46,13.84
+9,biomass,4,,3.46,13.84
+9,biofuels,4,,3.46,13.84
+9,gizmos,4,,3.46,13.84
+9,technologically advanced,4,,3.46,13.84
+9,modern,4,,3.46,13.84
+9,profitability,4,,3.46,13.84
+9,miniaturized,4,,3.46,13.84
+9,gadget,4,,3.46,13.84
+9,prototyping,3,True,14.57,43.71
+9,internet,3,True,7.56,22.68
+9,cad cam,3,True,6.38,19.14
+9,emissions,3,True,5.34,16.02
+9,isp,3,True,3.69,11.07
+9,micro,3,True,3.5,10.5
+9,payrolls,3,,3.46,10.379999999999999
+9,composite,3,,3.46,10.379999999999999
+9,autos,3,,3.46,10.379999999999999
+9,capacity utilization,3,,3.46,10.379999999999999
+9,hardware,3,,3.46,10.379999999999999
+9,dynamics,3,,3.46,10.379999999999999
+9,privately held,3,,3.46,10.379999999999999
+9,resources,3,,3.46,10.379999999999999
+9,industries ltd.,3,,3.46,10.379999999999999
+9,networks,3,,3.46,10.379999999999999
+9,instruments,3,,3.46,10.379999999999999
+9,ventures,3,,3.46,10.379999999999999
+9,software,3,,3.46,10.379999999999999
+9,capital partners,3,,3.46,10.379999999999999
+9,pharmaceuticals,3,,3.46,10.379999999999999
+9,inc.,3,,3.46,10.379999999999999
+9,mechanical,3,,3.46,10.379999999999999
+9,sheet metal,3,,3.46,10.379999999999999
+9,tooling,3,,3.46,10.379999999999999
+9,roofing,3,,3.46,10.379999999999999
+9,machined,3,,3.46,10.379999999999999
+9,weld,3,,3.46,10.379999999999999
+9,instrumentation,3,,3.46,10.379999999999999
+9,ceramics,3,,3.46,10.379999999999999
+9,molding,3,,3.46,10.379999999999999
+9,lumber,3,,3.46,10.379999999999999
+9,accessory,3,,3.46,10.379999999999999
+9,shipment,3,,3.46,10.379999999999999
+9,fuel cell,3,,3.46,10.379999999999999
+9,raw materials,3,,3.46,10.379999999999999
+9,intellectual property,3,,3.46,10.379999999999999
+9,recalls,3,,3.46,10.379999999999999
+9,science,3,,3.46,10.379999999999999
+9,technology transfer,3,,3.46,10.379999999999999
+9,aeronautics,3,,3.46,10.379999999999999
+9,computer,3,,3.46,10.379999999999999
+9,drug discovery,3,,3.46,10.379999999999999
+9,microelectronics,3,,3.46,10.379999999999999
+9,genomics,3,,3.46,10.379999999999999
+9,exported,3,,3.46,10.379999999999999
+9,housings,3,,3.46,10.379999999999999
+9,miniature,3,,3.46,10.379999999999999
+9,carbon fiber,3,,3.46,10.379999999999999
+9,adhesives,3,,3.46,10.379999999999999
+9,actuators,3,,3.46,10.379999999999999
+9,federal mogul,3,,3.46,10.379999999999999
+9,insurers,3,,3.46,10.379999999999999
+9,designers,3,,3.46,10.379999999999999
+9,buyers,3,,3.46,10.379999999999999
+9,carriers,3,,3.46,10.379999999999999
+9,drivers,3,,3.46,10.379999999999999
+9,advertisers,3,,3.46,10.379999999999999
+9,lobbyists,3,,3.46,10.379999999999999
+9,exhibitors,3,,3.46,10.379999999999999
+9,businessmen,3,,3.46,10.379999999999999
+9,competitors,3,,3.46,10.379999999999999
+9,developers,3,,3.46,10.379999999999999
+9,agencies,3,,3.46,10.379999999999999
+9,unions,3,,3.46,10.379999999999999
+9,employees,3,,3.46,10.379999999999999
+9,small businesses,3,,3.46,10.379999999999999
+9,transport,3,,3.46,10.379999999999999
+9,environment,3,,3.46,10.379999999999999
+9,private sector,3,,3.46,10.379999999999999
+9,privatisation,3,,3.46,10.379999999999999
+9,shared services,3,,3.46,10.379999999999999
+9,sustainable development,3,,3.46,10.379999999999999
+9,capital markets,3,,3.46,10.379999999999999
+9,broadband network,3,,3.46,10.379999999999999
+9,shops,3,,3.46,10.379999999999999
+9,creations,3,,3.46,10.379999999999999
+9,mill,3,,3.46,10.379999999999999
+9,parts,3,,3.46,10.379999999999999
+9,market,3,,3.46,10.379999999999999
+9,trends,3,,3.46,10.379999999999999
+9,real estate,3,,3.46,10.379999999999999
+9,securities,3,,3.46,10.379999999999999
+9,venture capital,3,,3.46,10.379999999999999
+9,advisors,3,,3.46,10.379999999999999
+9,investment promotion,3,,3.46,10.379999999999999
+9,investors,3,,3.46,10.379999999999999
+9,wealth management,3,,3.46,10.379999999999999
+9,funds,3,,3.46,10.379999999999999
+9,banking,3,,3.46,10.379999999999999
+9,commodities,3,,3.46,10.379999999999999
+9,economic development,3,,3.46,10.379999999999999
+9,advisers,3,,3.46,10.379999999999999
+9,precious metals,3,,3.46,10.379999999999999
+9,asset allocation,3,,3.46,10.379999999999999
+9,foundries,3,,3.46,10.379999999999999
+9,steel,3,,3.46,10.379999999999999
+9,castings,3,,3.46,10.379999999999999
+9,fabrics,3,,3.46,10.379999999999999
+9,technological innovations,3,,3.46,10.379999999999999
+9,advancements,3,,3.46,10.379999999999999
+9,technological developments,3,,3.46,10.379999999999999
+9,ingenuity,3,,3.46,10.379999999999999
+9,breakthroughs,3,,3.46,10.379999999999999
+9,inventiveness,3,,3.46,10.379999999999999
+9,environmental stewardship,3,,3.46,10.379999999999999
+9,globalization,3,,3.46,10.379999999999999
+9,technologically,3,,3.46,10.379999999999999
+9,rapidly evolving,3,,3.46,10.379999999999999
+9,revolutionizing,3,,3.46,10.379999999999999
+9,advances,3,,3.46,10.379999999999999
+9,leadership,3,,3.46,10.379999999999999
+9,startup,3,,3.46,10.379999999999999
+9,transforming,3,,3.46,10.379999999999999
+9,quality,3,,3.46,10.379999999999999
+9,ftth,3,,3.46,10.379999999999999
+9,iptv,3,,3.46,10.379999999999999
+9,wireless broadband,3,,3.46,10.379999999999999
+9,fiber optic,3,,3.46,10.379999999999999
+9,fiber optic cable,3,,3.46,10.379999999999999
+9,umts,3,,3.46,10.379999999999999
+9,bandwidth,3,,3.46,10.379999999999999
+9,wi fi,3,,3.46,10.379999999999999
+9,agricultural,3,,3.46,10.379999999999999
+9,garment,3,,3.46,10.379999999999999
+9,building materials,3,,3.46,10.379999999999999
+9,petrochemicals,3,,3.46,10.379999999999999
+9,agribusiness,3,,3.46,10.379999999999999
+9,broadcasting,3,,3.46,10.379999999999999
+9,tra,3,,3.46,10.379999999999999
+9,refineries,3,,3.46,10.379999999999999
+9,corporations,3,,3.46,10.379999999999999
+9,intelligent,3,,3.46,10.379999999999999
+9,profitable,3,,3.46,10.379999999999999
+9,excellence award,3,,3.46,10.379999999999999
+9,electronic,3,,3.46,10.379999999999999
+9,showcases,3,,3.46,10.379999999999999
+9,designing,3,,3.46,10.379999999999999
+9,showcase,3,,3.46,10.379999999999999
+9,professionals,3,,3.46,10.379999999999999
+9,inventor,3,,3.46,10.379999999999999
+9,surgical,3,,3.46,10.379999999999999
+9,medium enterprises,3,,3.46,10.379999999999999
+9,agro,3,,3.46,10.379999999999999
+9,smes,3,,3.46,10.379999999999999
+9,agriculture,3,,3.46,10.379999999999999
+9,macroeconomic stability,3,,3.46,10.379999999999999
+9,environmentally sustainable,3,,3.46,10.379999999999999
+9,environmental,3,,3.46,10.379999999999999
+9,sustainably,3,,3.46,10.379999999999999
+9,environmentally conscious,3,,3.46,10.379999999999999
+9,environmentally responsible,3,,3.46,10.379999999999999
+9,environmentally sound,3,,3.46,10.379999999999999
+9,carbon neutral,3,,3.46,10.379999999999999
+9,eco conscious,3,,3.46,10.379999999999999
+9,sustaining,3,,3.46,10.379999999999999
+9,greenest,3,,3.46,10.379999999999999
+9,recycle,3,,3.46,10.379999999999999
+9,carbon footprint,3,,3.46,10.379999999999999
+9,capabilities,3,,3.46,10.379999999999999
+9,bio fuels,3,,3.46,10.379999999999999
+9,reseller,3,,3.46,10.379999999999999
+9,simulator,3,,3.46,10.379999999999999
+9,bionic,3,,3.46,10.379999999999999
+9,unmanned,3,,3.46,10.379999999999999
+9,3d,3,,3.46,10.379999999999999
+9,bots,3,,3.46,10.379999999999999
+9,alien,3,,3.46,10.379999999999999
+9,contraptions,3,,3.46,10.379999999999999
+9,execs,3,,3.46,10.379999999999999
+9,superhero,3,,3.46,10.379999999999999
+9,bot,3,,3.46,10.379999999999999
+9,zombies,3,,3.46,10.379999999999999
+9,cnc,2,True,8.49,16.98
+9,fabricated,2,True,5.96,11.92
+9,emission,2,True,4.91,9.82
+9,cladding,2,True,4.79,9.58
+9,retrofit,2,True,3.83,7.66
+9,sales,2,,3.46,6.92
+9,staffing,2,,3.46,6.92
+9,productivity,2,,3.46,6.92
+9,machinist,2,,3.46,6.92
+9,trucking,2,,3.46,6.92
+9,skf,2,,3.46,6.92
+9,footwear,2,,3.46,6.92
+9,beverage,2,,3.46,6.92
+9,therapeutics,2,,3.46,6.92
+9,honeywell,2,,3.46,6.92
+9,tec,2,,3.46,6.92
+9,systems integrator,2,,3.46,6.92
+9,analytics,2,,3.46,6.92
+9,system,2,,3.46,6.92
+9,holdings ltd.,2,,3.46,6.92
+9,corporation,2,,3.46,6.92
+9,integrator,2,,3.46,6.92
+9,consultants,2,,3.46,6.92
+9,fuels,2,,3.46,6.92
+9,bio,2,,3.46,6.92
+9,ingersoll rand,2,,3.46,6.92
+9,unisys,2,,3.46,6.92
+9,contracting,2,,3.46,6.92
+9,modules,2,,3.46,6.92
+9,constructors,2,,3.46,6.92
+9,plumbing,2,,3.46,6.92
+9,process,2,,3.46,6.92
+9,auto body,2,,3.46,6.92
+9,contractor,2,,3.46,6.92
+9,maintenance,2,,3.46,6.92
+9,cycles,2,,3.46,6.92
+9,metallurgical,2,,3.46,6.92
+9,medical device,2,,3.46,6.92
+9,made,2,,3.46,6.92
+9,specification,2,,3.46,6.92
+9,develops,2,,3.46,6.92
+9,standardization,2,,3.46,6.92
+9,types,2,,3.46,6.92
+9,announces acquisition,2,,3.46,6.92
+9,processes,2,,3.46,6.92
+9,material,2,,3.46,6.92
+9,shortages,2,,3.46,6.92
+9,batteries,2,,3.46,6.92
+9,co. ltd.,2,,3.46,6.92
+9,acquires,2,,3.46,6.92
+9,low cost,2,,3.46,6.92
+9,contract,2,,3.46,6.92
+9,quality control,2,,3.46,6.92
+9,electrical engineering,2,,3.46,6.92
+9,research,2,,3.46,6.92
+9,biotech,2,,3.46,6.92
+9,physics,2,,3.46,6.92
+9,computer science,2,,3.46,6.92
+9,chemical engineering,2,,3.46,6.92
+9,mechanical engineering,2,,3.46,6.92
+9,embedded systems,2,,3.46,6.92
+9,accelerator,2,,3.46,6.92
+9,developed,2,,3.46,6.92
+9,sold,2,,3.46,6.92
+9,stainless steel,2,,3.46,6.92
+9,molded,2,,3.46,6.92
+9,built,2,,3.46,6.92
+9,rohs compliant,2,,3.46,6.92
+9,iso ####:#### certified,2,,3.46,6.92
+9,lightweight,2,,3.46,6.92
+9,purchases,2,,3.46,6.92
+9,iso ####:####,2,,3.46,6.92
+9,®,2,,3.46,6.92
+9,recycled plastic,2,,3.46,6.92
+9,coating,2,,3.46,6.92
+9,deliveries,2,,3.46,6.92
+9,maker,2,,3.46,6.92
+9,electromechanical,2,,3.46,6.92
+9,by businesswire,2,,3.46,6.92
+9,device,2,,3.46,6.92
+9,automobile manufacturers,2,,3.46,6.92
+9,owners,2,,3.46,6.92
+9,broadcasters,2,,3.46,6.92
+9,semiconductor industry,2,,3.46,6.92
+9,wholesalers,2,,3.46,6.92
+9,merchants,2,,3.46,6.92
+9,dentists,2,,3.46,6.92
+9,consumer,2,,3.46,6.92
+9,steelmakers,2,,3.46,6.92
+9,landlords,2,,3.46,6.92
+9,governance,2,,3.46,6.92
+9,managed services,2,,3.46,6.92
+9,enterprise,2,,3.46,6.92
+9,implementation,2,,3.46,6.92
+9,cloud computing,2,,3.46,6.92
+9,buildings,2,,3.46,6.92
+9,power grid,2,,3.46,6.92
+9,architecture,2,,3.46,6.92
+9,integration,2,,3.46,6.92
+9,energy,2,,3.46,6.92
+9,infrastructural,2,,3.46,6.92
+9,deployment,2,,3.46,6.92
+9,utilities,2,,3.46,6.92
+9,studio,2,,3.46,6.92
+9,shop,2,,3.46,6.92
+9,warehouse,2,,3.46,6.92
+9,garage,2,,3.46,6.92
+9,store,2,,3.46,6.92
+9,monkey,2,,3.46,6.92
+9,brewery,2,,3.46,6.92
+9,fabric,2,,3.46,6.92
+9,acme,2,,3.46,6.92
+9,co.,2,,3.46,6.92
+9,generator,2,,3.46,6.92
+9,cube,2,,3.46,6.92
+9,forge,2,,3.46,6.92
+9,cosmic,2,,3.46,6.92
+9,consumer goods,2,,3.46,6.92
+9,zonal,2,,3.46,6.92
+9,sectoral,2,,3.46,6.92
+9,asset management,2,,3.46,6.92
+9,investment management,2,,3.46,6.92
+9,financial services,2,,3.46,6.92
+9,financial,2,,3.46,6.92
+9,capital,2,,3.46,6.92
+9,asset,2,,3.46,6.92
+9,institutional investors,2,,3.46,6.92
+9,investment advisors,2,,3.46,6.92
+9,mortgage,2,,3.46,6.92
+9,portfolio manager,2,,3.46,6.92
+9,property,2,,3.46,6.92
+9,trading,2,,3.46,6.92
+9,reits,2,,3.46,6.92
+9,wealth,2,,3.46,6.92
+9,leasing,2,,3.46,6.92
+9,opportunities fund,2,,3.46,6.92
+9,commercial real estate,2,,3.46,6.92
+9,small cap,2,,3.46,6.92
+9,reit,2,,3.46,6.92
+9,capital advisors,2,,3.46,6.92
+9,management,2,,3.46,6.92
+9,fiber,2,,3.46,6.92
+9,fibre,2,,3.46,6.92
+9,sonoco,2,,3.46,6.92
+9,appliance,2,,3.46,6.92
+9,blade,2,,3.46,6.92
+9,ppg industries,2,,3.46,6.92
+9,developments,2,,3.46,6.92
+9,llc,2,,3.46,6.92
+9,holdings ltd,2,,3.46,6.92
+9,portfolios,2,,3.46,6.92
+9,cos.,2,,3.46,6.92
+9,entities,2,,3.46,6.92
+9,group,2,,3.46,6.92
+9,operational excellence,2,,3.46,6.92
+9,inventions,2,,3.46,6.92
+9,advancement,2,,3.46,6.92
+9,miniaturization,2,,3.46,6.92
+9,scientific discoveries,2,,3.46,6.92
+9,expertise,2,,3.46,6.92
+9,accelerating,2,,3.46,6.92
+9,paradigm shift,2,,3.46,6.92
+9,reliability,2,,3.46,6.92
+9,transformation,2,,3.46,6.92
+9,globalisation,2,,3.46,6.92
+9,stem,2,,3.46,6.92
+9,customer experience,2,,3.46,6.92
+9,learning,2,,3.46,6.92
+9,mobile broadband,2,,3.46,6.92
+9,adsl2 +,2,,3.46,6.92
+9,broadband penetration,2,,3.46,6.92
+9,##mbps,2,,3.46,6.92
+9,cable modem,2,,3.46,6.92
+9,4g,2,,3.46,6.92
+9,fios,2,,3.46,6.92
+9,3g,2,,3.46,6.92
+9,lte,2,,3.46,6.92
+9,ipv6,2,,3.46,6.92
+9,gpon,2,,3.46,6.92
+9,mobile wimax,2,,3.46,6.92
+9,hspa,2,,3.46,6.92
+9,ethernet,2,,3.46,6.92
+9,###mbps,2,,3.46,6.92
+9,fiber optic network,2,,3.46,6.92
+9,isps,2,,3.46,6.92
+9,kbps,2,,3.46,6.92
+9,download speeds,2,,3.46,6.92
+9,backhaul,2,,3.46,6.92
+9,hsdpa,2,,3.46,6.92
+9,mvno,2,,3.46,6.92
+9,fiber optics,2,,3.46,6.92
+9,modems,2,,3.46,6.92
+9,wifi,2,,3.46,6.92
+9,modem,2,,3.46,6.92
+9,femtocell,2,,3.46,6.92
+9,wireless lan,2,,3.46,6.92
+9,alcatel lucent,2,,3.46,6.92
+9,commercial,2,,3.46,6.92
+9,aviation,2,,3.46,6.92
+9,agri,2,,3.46,6.92
+9,export oriented,2,,3.46,6.92
+9,commercial vehicle,2,,3.46,6.92
+9,telephone,2,,3.46,6.92
+9,telecom operators,2,,3.46,6.92
+9,gsm,2,,3.46,6.92
+9,interconnection,2,,3.46,6.92
+9,etisalat,2,,3.46,6.92
+9,bezeq,2,,3.46,6.92
+9,telecom regulatory authority,2,,3.46,6.92
+9,civil aviation,2,,3.46,6.92
+9,vsnl,2,,3.46,6.92
+9,nokia siemens networks,2,,3.46,6.92
+9,orascom telecom,2,,3.46,6.92
+9,ntc,2,,3.46,6.92
+9,ote,2,,3.46,6.92
+9,submarine cable,2,,3.46,6.92
+9,kddi,2,,3.46,6.92
+9,orascom,2,,3.46,6.92
+9,inventories,2,,3.46,6.92
+9,households,2,,3.46,6.92
+9,plants,2,,3.46,6.92
+9,foreigners,2,,3.46,6.92
+9,stockpiles,2,,3.46,6.92
+9,cooperatives,2,,3.46,6.92
+9,subsidies,2,,3.46,6.92
+9,refinery,2,,3.46,6.92
+9,consumption,2,,3.46,6.92
+9,breweries,2,,3.46,6.92
+9,unique,2,,3.46,6.92
+9,integrated,2,,3.46,6.92
+9,inspiring,2,,3.46,6.92
+9,efficient,2,,3.46,6.92
+9,dynamic,2,,3.46,6.92
+9,exciting,2,,3.46,6.92
+9,emerging,2,,3.46,6.92
+9,achievement awards,2,,3.46,6.92
+9,incentive,2,,3.46,6.92
+9,fastest growing,2,,3.46,6.92
+9,vertical,2,,3.46,6.92
+9,inventive,2,,3.46,6.92
+9,awards,2,,3.46,6.92
+9,automated,2,,3.46,6.92
+9,proprietary,2,,3.46,6.92
+9,concept,2,,3.46,6.92
+9,paradigm,2,,3.46,6.92
+9,insights,2,,3.46,6.92
+9,connections,2,,3.46,6.92
+9,dimensions,2,,3.46,6.92
+9,appliances,2,,3.46,6.92
+9,molds,2,,3.46,6.92
+9,powertrain,2,,3.46,6.92
+9,oe,2,,3.46,6.92
+9,soldering,2,,3.46,6.92
+9,sanding,2,,3.46,6.92
+9,hot rod,2,,3.46,6.92
+9,moldings,2,,3.46,6.92
+9,solidworks,2,,3.46,6.92
+9,tolerances,2,,3.46,6.92
+9,geometry,2,,3.46,6.92
+9,bearings,2,,3.46,6.92
+9,alloys,2,,3.46,6.92
+9,tubing,2,,3.46,6.92
+9,axles,2,,3.46,6.92
+9,fiberglass,2,,3.46,6.92
+9,tubular,2,,3.46,6.92
+9,titanium,2,,3.46,6.92
+9,mopar,2,,3.46,6.92
+9,fittings,2,,3.46,6.92
+9,winners,2,,3.46,6.92
+9,honorees,2,,3.46,6.92
+9,finalists,2,,3.46,6.92
+9,nonprofits,2,,3.46,6.92
+9,minds,2,,3.46,6.92
+9,future,2,,3.46,6.92
+9,thrive,2,,3.46,6.92
+9,railways,2,,3.46,6.92
+9,nitel,2,,3.46,6.92
+9,cdma,2,,3.46,6.92
+9,globacom,2,,3.46,6.92
+9,darpa,2,,3.46,6.92
+9,lego,2,,3.46,6.92
+9,animation,2,,3.46,6.92
+9,electric vehicle,2,,3.46,6.92
+9,virtual,2,,3.46,6.92
+9,handheld,2,,3.46,6.92
+9,foods,2,,3.46,6.92
+9,brands,2,,3.46,6.92
+9,platforms,2,,3.46,6.92
+9,beverages,2,,3.46,6.92
+9,exporting,2,,3.46,6.92
+9,boi,2,,3.46,6.92
+9,economy,2,,3.46,6.92
+9,multinationals,2,,3.46,6.92
+9,ficci,2,,3.46,6.92
+9,liberalization,2,,3.46,6.92
+9,macro economic,2,,3.46,6.92
+9,tourism,2,,3.46,6.92
+9,tariff,2,,3.46,6.92
+9,assocham,2,,3.46,6.92
+9,cii,2,,3.46,6.92
+9,structural reforms,2,,3.46,6.92
+9,stewardship,2,,3.46,6.92
+9,climate action,2,,3.46,6.92
+9,healthier,2,,3.46,6.92
+9,organic,2,,3.46,6.92
+9,bioenergy,2,,3.46,6.92
+9,conservation,2,,3.46,6.92
+9,environmentally,2,,3.46,6.92
+9,farming,2,,3.46,6.92
+9,locally grown,2,,3.46,6.92
+9,socially responsible,2,,3.46,6.92
+9,ecologically,2,,3.46,6.92
+9,carbon trust,2,,3.46,6.92
+9,carbon sequestration,2,,3.46,6.92
+9,reduce carbon emissions,2,,3.46,6.92
+9,composting,2,,3.46,6.92
+9,gadgetry,2,,3.46,6.92
+9,revolutionary,2,,3.46,6.92
+9,harnessing,2,,3.46,6.92
+9,revolutionize,2,,3.46,6.92
+9,digital imaging,2,,3.46,6.92
+9,multifunctional,2,,3.46,6.92
+9,groundbreaking,2,,3.46,6.92
+9,constantly evolving,2,,3.46,6.92
+9,solution,2,,3.46,6.92
+9,optimization,2,,3.46,6.92
+9,consultancy,2,,3.46,6.92
+9,partner program,2,,3.46,6.92
+9,operations,2,,3.46,6.92
+9,gold certified partner,2,,3.46,6.92
+9,cars,2,,3.46,6.92
+9,buying,2,,3.46,6.92
+9,diversified portfolio,2,,3.46,6.92
+9,value,2,,3.46,6.92
+9,promoting,2,,3.46,6.92
+9,selling,2,,3.46,6.92
+9,developing,2,,3.46,6.92
+9,upgrading,2,,3.46,6.92
+9,boosting,2,,3.46,6.92
+9,enhancing,2,,3.46,6.92
+9,success,2,,3.46,6.92
+9,reinvestment,2,,3.46,6.92
+9,producing,2,,3.46,6.92
+9,producer,2,,3.46,6.92
+9,distribution,2,,3.46,6.92
+9,marketing,2,,3.46,6.92
+9,fitted,2,,3.46,6.92
+9,cleaner burning,2,,3.46,6.92
+9,carbon footprints,2,,3.46,6.92
+9,zero emission,2,,3.46,6.92
+9,reducing carbon emissions,2,,3.46,6.92
+9,polluting,2,,3.46,6.92
+9,co2 emissions,2,,3.46,6.92
+9,hydrogen powered,2,,3.46,6.92
+9,biodiesel,2,,3.46,6.92
+9,carbon emissions,2,,3.46,6.92
+9,carbon dioxide emissions,2,,3.46,6.92
+9,reduce greenhouse gas,2,,3.46,6.92
+9,renewable fuels,2,,3.46,6.92
+9,solar powered,2,,3.46,6.92
+9,emission reduction,2,,3.46,6.92
+9,hydrogen fuel,2,,3.46,6.92
+9,carbon emission,2,,3.46,6.92
+9,greenhouse gas emissions,2,,3.46,6.92
+9,carbon,2,,3.46,6.92
+9,sophisticated,2,,3.46,6.92
+9,showcasing,2,,3.46,6.92
+9,specialized,2,,3.46,6.92
+9,augmented reality,2,,3.46,6.92
+9,telemedicine,2,,3.46,6.92
+9,networked,2,,3.46,6.92
+9,electrification,2,,3.46,6.92
+9,portable,2,,3.46,6.92
+9,ultrasonic,2,,3.46,6.92
+9,laser,2,,3.46,6.92
+9,mechanized,2,,3.46,6.92
+9,space station,2,,3.46,6.92
+9,contraption,2,,3.46,6.92
+9,gizmo,2,,3.46,6.92
+9,equipments,2,,3.46,6.92
+9,computerization,2,,3.46,6.92
+9,electronic gadgets,2,,3.46,6.92
+9,upgradation,2,,3.46,6.92
+9,clients,2,,3.46,6.92
+9,service providers,2,,3.46,6.92
+9,organisations,2,,3.46,6.92
+9,lenders,2,,3.46,6.92
+9,vars,2,,3.46,6.92
+9,organizations,2,,3.46,6.92
+9,countries,2,,3.46,6.92
+9,managers,2,,3.46,6.92
+9,bidders,2,,3.46,6.92
+9,brokers,2,,3.46,6.92
+9,users,2,,3.46,6.92
+9,stakeholders,2,,3.46,6.92
+9,ninja,2,,3.46,6.92
+9,android,2,,3.46,6.92
+9,godzilla,2,,3.46,6.92
+9,iron man,2,,3.46,6.92
+9,creature,2,,3.46,6.92
+9,transformers,2,,3.46,6.92
+9,wall e,2,,3.46,6.92
+9,mummy,2,,3.46,6.92
+9,kinect,2,,3.46,6.92
+9,sci fi,2,,3.46,6.92
+9,terminator salvation,2,,3.46,6.92
+9,humans,2,,3.46,6.92
+9,aliens,2,,3.46,6.92
+9,monsters,2,,3.46,6.92
+9,creatures,2,,3.46,6.92
+9,animated,2,,3.46,6.92
+9,volatility,2,,3.46,6.92
+9,outsourcing,2,,3.46,6.92
+9,naira,2,,3.46,6.92
+9,customer,2,,3.46,6.92
+9,contracts,2,,3.46,6.92
+9,b2b,2,,3.46,6.92
+9,firm,2,,3.46,6.92
+9,internet access,1,True,17.1,17.1
+9,microfabrication,1,True,14.99,14.99
+9,micromachining,1,True,13.23,13.23
+9,nanofabrication,1,True,13.1,13.1
+9,mobile users,1,True,11.72,11.72
+9,research development,1,True,11.48,11.48
+9,rapid prototyping,1,True,11.2,11.2
+9,access internet,1,True,10.95,10.95
+9,digital divide,1,True,10.15,10.15
+9,manufacturing technology,1,True,10.12,10.12
+9,infrastructure projects,1,True,9.43,9.43
+9,distributed control,1,True,9.28,9.28
+9,technological capabilities,1,True,9.13,9.13
+9,transport infrastructure,1,True,8.7,8.7
+9,transportation infrastructure,1,True,8.59,8.59
+9,web access,1,True,8.57,8.57
+9,new technologies,1,True,7.85,7.85
+9,new technology,1,True,7.74,7.74
+9,internet service,1,True,7.55,7.55
+9,product innovation,1,True,7.24,7.24
+9,reverse logistics,1,True,6.89,6.89
+9,process control,1,True,6.82,6.82
+9,laser cladding,1,True,6.41,6.41
+9,divide,1,True,6.38,6.38
+9,additive manufacturing,1,True,6.37,6.37
+9,industrial automation,1,True,6.32,6.32
+9,open innovation,1,True,6.17,6.17
+9,broadband access,1,True,6.08,6.08
+9,infrastructure systems,1,True,5.94,5.94
+9,innovation systems,1,True,5.85,5.85
+9,lean production,1,True,5.76,5.76
+9,stereolithography,1,True,5.76,5.76
+9,university industry,1,True,5.71,5.71
+9,access,1,True,5.65,5.65
+9,virtual prototyping,1,True,5.64,5.64
+9,web accessibility,1,True,5.63,5.63
+9,scada,1,True,5.48,5.48
+9,micromachined,1,True,5.36,5.36
+9,flexible manufacturing,1,True,5.29,5.29
+9,manufacturing technologies,1,True,5.18,5.18
+9,microfabricated,1,True,5.01,5.01
+9,industrial control,1,True,5.0,5.0
+9,industrial robot,1,True,4.96,4.96
+9,laser sintering,1,True,4.91,4.91
+9,edm,1,True,4.79,4.79
+9,discharge machining,1,True,4.73,4.73
+9,technological development,1,True,4.7,4.7
+9,cad,1,True,4.68,4.68
+9,additive,1,True,4.62,4.62
+9,selective laser,1,True,4.61,4.61
+9,micro fabrication,1,True,4.52,4.52
+9,access information,1,True,4.49,4.49
+9,energy conservation,1,True,4.46,4.46
+9,mixed model,1,True,4.33,4.33
+9,broadband wireless,1,True,4.14,4.14
+9,lean,1,True,4.14,4.14
+9,industrial robots,1,True,4.04,4.04
+9,advanced manufacturing,1,True,3.83,3.83
+9,industrial applications,1,True,3.66,3.66
+9,reverse,1,True,3.65,3.65
+9,road,1,True,3.46,3.46
+9,wind energy,1,,3.46,3.46
+9,retail sales,1,,3.46,3.46
+9,payroll,1,,3.46,3.46
+9,perkinelmer,1,,3.46,3.46
+9,imi,1,,3.46,3.46
+9,otcbb,1,,3.46,3.46
+9,wholly owned subsidiary,1,,3.46,3.46
+9,eti,1,,3.46,3.46
+9,otc bb,1,,3.46,3.46
+9,honeywell international,1,,3.46,3.46
+9,intergraph,1,,3.46,3.46
+9,cubic,1,,3.46,3.46
+9,itt,1,,3.46,3.46
+9,pharma,1,,3.46,3.46
+9,silicon graphics,1,,3.46,3.46
+9,structural,1,,3.46,3.46
+9,fabricating,1,,3.46,3.46
+9,welder,1,,3.46,3.46
+9,repair,1,,3.46,3.46
+9,fabricate,1,,3.46,3.46
+9,subcontracting,1,,3.46,3.46
+9,excavating,1,,3.46,3.46
+9,welders,1,,3.46,3.46
+9,analytical,1,,3.46,3.46
+9,asphalt,1,,3.46,3.46
+9,aircraft,1,,3.46,3.46
+9,subcontract,1,,3.46,3.46
+9,framing,1,,3.46,3.46
+9,subcontractor,1,,3.46,3.46
+9,paving,1,,3.46,3.46
+9,subcontracted,1,,3.46,3.46
+9,clinical trial,1,,3.46,3.46
+9,signs agreement,1,,3.46,3.46
+9,demonstration,1,,3.46,3.46
+9,possession,1,,3.46,3.46
+9,launch,1,,3.46,3.46
+9,distribute,1,,3.46,3.46
+9,acquire,1,,3.46,3.46
+9,fight against,1,,3.46,3.46
+9,integrate,1,,3.46,3.46
+9,cgmp,1,,3.46,3.46
+9,update4,1,,3.46,3.46
+9,promote,1,,3.46,3.46
+9,demonstrates,1,,3.46,3.46
+9,builds,1,,3.46,3.46
+9,unveil,1,,3.46,3.46
+9,distribution agreement,1,,3.46,3.46
+9,supplying,1,,3.46,3.46
+9,develop,1,,3.46,3.46
+9,secures,1,,3.46,3.46
+9,functional,1,,3.46,3.46
+9,outline,1,,3.46,3.46
+9,patents,1,,3.46,3.46
+9,update2,1,,3.46,3.46
+9,biological,1,,3.46,3.46
+9,completes acquisition,1,,3.46,3.46
+9,implements,1,,3.46,3.46
+9,provides update,1,,3.46,3.46
+9,importation,1,,3.46,3.46
+9,purchase,1,,3.46,3.46
+9,sets,1,,3.46,3.46
+9,update3,1,,3.46,3.46
+9,themed,1,,3.46,3.46
+9,underway,1,,3.46,3.46
+9,commercialize,1,,3.46,3.46
+9,deliver,1,,3.46,3.46
+9,scientific,1,,3.46,3.46
+9,by peter svensson,1,,3.46,3.46
+9,chemistry,1,,3.46,3.46
+9,by jessica mintz,1,,3.46,3.46
+9,medical,1,,3.46,3.46
+9,by jordan robertson,1,,3.46,3.46
+9,applied science,1,,3.46,3.46
+9,sciences,1,,3.46,3.46
+9,cto,1,,3.46,3.46
+9,constructed,1,,3.46,3.46
+9,marketed,1,,3.46,3.46
+9,prefabricated,1,,3.46,3.46
+9,shipped,1,,3.46,3.46
+9,polyurethane,1,,3.46,3.46
+9,powered,1,,3.46,3.46
+9,recalled,1,,3.46,3.46
+9,sourced,1,,3.46,3.46
+9,retailed,1,,3.46,3.46
+9,patented,1,,3.46,3.46
+9,polycarbonate,1,,3.46,3.46
+9,raised,1,,3.46,3.46
+9,handmade,1,,3.46,3.46
+9,installed,1,,3.46,3.46
+9,supplied,1,,3.46,3.46
+9,geographic region,1,,3.46,3.46
+9,bred,1,,3.46,3.46
+9,designed,1,,3.46,3.46
+9,tested,1,,3.46,3.46
+9,operated,1,,3.46,3.46
+9,thermal,1,,3.46,3.46
+9,displays,1,,3.46,3.46
+9,polypropylene,1,,3.46,3.46
+9,handcrafted,1,,3.46,3.46
+9,produces,1,,3.46,3.46
+9,resins,1,,3.46,3.46
+9,headquartered,1,,3.46,3.46
+9,xr,1,,3.46,3.46
+9,introduces,1,,3.46,3.46
+9,resin,1,,3.46,3.46
+9,display,1,,3.46,3.46
+9,tm,1,,3.46,3.46
+9,includes corresponding graph,1,,3.46,3.46
+9,cooper tire,1,,3.46,3.46
+9,transducers,1,,3.46,3.46
+9,reports fiscal,1,,3.46,3.46
+9,automatic,1,,3.46,3.46
+9,business wire aug,1,,3.46,3.46
+9,business wire sept,1,,3.46,3.46
+9,approved,1,,3.46,3.46
+9,hvac,1,,3.46,3.46
+9,inverters,1,,3.46,3.46
+9,designer,1,,3.46,3.46
+9,future analysis,1,,3.46,3.46
+9,faulty,1,,3.46,3.46
+9,3m,1,,3.46,3.46
+9,homebuilders,1,,3.46,3.46
+9,farmers,1,,3.46,3.46
+9,national automobile dealers,1,,3.46,3.46
+9,chipmakers,1,,3.46,3.46
+9,enthusiasts,1,,3.46,3.46
+9,homeowners,1,,3.46,3.46
+9,publishers,1,,3.46,3.46
+9,pharmacists,1,,3.46,3.46
+9,railroads,1,,3.46,3.46
+9,home builders,1,,3.46,3.46
+9,policymakers,1,,3.46,3.46
+9,automobile dealers association,1,,3.46,3.46
+9,educators,1,,3.46,3.46
+9,accountants,1,,3.46,3.46
+9,school boards,1,,3.46,3.46
+9,economists,1,,3.46,3.46
+9,transportation,1,,3.46,3.46
+9,public sector,1,,3.46,3.46
+9,facilities,1,,3.46,3.46
+9,managed,1,,3.46,3.46
+9,it,1,,3.46,3.46
+9,civil engineering,1,,3.46,3.46
+9,disaster recovery,1,,3.46,3.46
+9,public works,1,,3.46,3.46
+9,power generation,1,,3.46,3.46
+9,rural development,1,,3.46,3.46
+9,highways,1,,3.46,3.46
+9,geospatial,1,,3.46,3.46
+9,roads,1,,3.46,3.46
+9,planning,1,,3.46,3.46
+9,security,1,,3.46,3.46
+9,storage,1,,3.46,3.46
+9,drainage,1,,3.46,3.46
+9,gateways,1,,3.46,3.46
+9,mitigation,1,,3.46,3.46
+9,rail,1,,3.46,3.46
+9,middleware,1,,3.46,3.46
+9,special projects,1,,3.46,3.46
+9,airports,1,,3.46,3.46
+9,high speed rail,1,,3.46,3.46
+9,water resources,1,,3.46,3.46
+9,reconstruction,1,,3.46,3.46
+9,spatial,1,,3.46,3.46
+9,shoppe,1,,3.46,3.46
+9,depot,1,,3.46,3.46
+9,loft,1,,3.46,3.46
+9,emporium,1,,3.46,3.46
+9,barn,1,,3.46,3.46
+9,outlet,1,,3.46,3.46
+9,shack,1,,3.46,3.46
+9,studios,1,,3.46,3.46
+9,powerhouse,1,,3.46,3.46
+9,shed,1,,3.46,3.46
+9,xtreme,1,,3.46,3.46
+9,atomic,1,,3.46,3.46
+9,clothing,1,,3.46,3.46
+9,alley,1,,3.46,3.46
+9,nut,1,,3.46,3.46
+9,original,1,,3.46,3.46
+9,funky,1,,3.46,3.46
+9,velocity,1,,3.46,3.46
+9,liquid,1,,3.46,3.46
+9,cellar,1,,3.46,3.46
+9,mania,1,,3.46,3.46
+9,circus,1,,3.46,3.46
+9,banana,1,,3.46,3.46
+9,groove,1,,3.46,3.46
+9,jam,1,,3.46,3.46
+9,yard,1,,3.46,3.46
+9,hut,1,,3.46,3.46
+9,spinning,1,,3.46,3.46
+9,haus,1,,3.46,3.46
+9,jelly,1,,3.46,3.46
+9,basement,1,,3.46,3.46
+9,industrial estate,1,,3.46,3.46
+9,café,1,,3.46,3.46
+9,electric,1,,3.46,3.46
+9,wholesale,1,,3.46,3.46
+9,spiral,1,,3.46,3.46
+9,etc.,1,,3.46,3.46
+9,digi,1,,3.46,3.46
+9,giant,1,,3.46,3.46
+9,hyper,1,,3.46,3.46
+9,collective,1,,3.46,3.46
+9,bar,1,,3.46,3.46
+9,elevator,1,,3.46,3.46
+9,showroom,1,,3.46,3.46
+9,pad,1,,3.46,3.46
+9,tek,1,,3.46,3.46
+9,ghetto,1,,3.46,3.46
+9,cart,1,,3.46,3.46
+9,underground,1,,3.46,3.46
+9,harish,1,,3.46,3.46
+9,directorate,1,,3.46,3.46
+9,nagar,1,,3.46,3.46
+9,rajesh,1,,3.46,3.46
+9,gopal,1,,3.46,3.46
+9,sunil,1,,3.46,3.46
+9,rakesh,1,,3.46,3.46
+9,santosh,1,,3.46,3.46
+9,bharat,1,,3.46,3.46
+9,faridabad,1,,3.46,3.46
+9,panchkula,1,,3.46,3.46
+9,vinod,1,,3.46,3.46
+9,sub,1,,3.46,3.46
+9,praveen,1,,3.46,3.46
+9,noida,1,,3.46,3.46
+9,rajendra,1,,3.46,3.46
+9,ashok,1,,3.46,3.46
+9,market overview,1,,3.46,3.46
+9,babu,1,,3.46,3.46
+9,pramod,1,,3.46,3.46
+9,deepak,1,,3.46,3.46
+9,ramesh,1,,3.46,3.46
+9,sanjeev,1,,3.46,3.46
+9,divisional,1,,3.46,3.46
+9,sandeep,1,,3.46,3.46
+9,gurgaon,1,,3.46,3.46
+9,suresh,1,,3.46,3.46
+9,manoj,1,,3.46,3.46
+9,verma,1,,3.46,3.46
+9,prakash,1,,3.46,3.46
+9,vijay kumar,1,,3.46,3.46
+9,newsline,1,,3.46,3.46
+9,igp,1,,3.46,3.46
+9,chandigarh,1,,3.46,3.46
+9,dinesh,1,,3.46,3.46
+9,anil kumar,1,,3.46,3.46
+9,rohit,1,,3.46,3.46
+9,navi mumbai,1,,3.46,3.46
+9,naik,1,,3.46,3.46
+9,nitin,1,,3.46,3.46
+9,ghaziabad,1,,3.46,3.46
+9,usha,1,,3.46,3.46
+9,ajit,1,,3.46,3.46
+9,section,1,,3.46,3.46
+9,kishore,1,,3.46,3.46
+9,jaiswal,1,,3.46,3.46
+9,mahesh,1,,3.46,3.46
+9,region,1,,3.46,3.46
+9,vikas,1,,3.46,3.46
+9,seema,1,,3.46,3.46
+9,scenario,1,,3.46,3.46
+9,vinay,1,,3.46,3.46
+9,jalandhar,1,,3.46,3.46
+9,scheme,1,,3.46,3.46
+9,schemes,1,,3.46,3.46
+9,haryana,1,,3.46,3.46
+9,mangalore,1,,3.46,3.46
+9,compound,1,,3.46,3.46
+9,industrials,1,,3.46,3.46
+9,mohali,1,,3.46,3.46
+9,dilip,1,,3.46,3.46
+9,gaurav,1,,3.46,3.46
+9,chaturvedi,1,,3.46,3.46
+9,lakhs,1,,3.46,3.46
+9,pankaj,1,,3.46,3.46
+9,dg,1,,3.46,3.46
+9,cisf,1,,3.46,3.46
+9,choudhary,1,,3.46,3.46
+9,sharma,1,,3.46,3.46
+9,colony,1,,3.46,3.46
+9,regulation,1,,3.46,3.46
+9,agarwal,1,,3.46,3.46
+9,narayan,1,,3.46,3.46
+9,srinivas,1,,3.46,3.46
+9,kanpur,1,,3.46,3.46
+9,mahajan,1,,3.46,3.46
+9,long term,1,,3.46,3.46
+9,jyoti,1,,3.46,3.46
+9,zone,1,,3.46,3.46
+9,shinde,1,,3.46,3.46
+9,raman,1,,3.46,3.46
+9,ambala,1,,3.46,3.46
+9,mohan,1,,3.46,3.46
+9,pwd,1,,3.46,3.46
+9,andheri,1,,3.46,3.46
+9,bhattacharya,1,,3.46,3.46
+9,mandal,1,,3.46,3.46
+9,mohanty,1,,3.46,3.46
+9,lending,1,,3.46,3.46
+9,institutional,1,,3.46,3.46
+9,financial institutions,1,,3.46,3.46
+9,loan,1,,3.46,3.46
+9,fixed income,1,,3.46,3.46
+9,private banking,1,,3.46,3.46
+9,microfinance,1,,3.46,3.46
+9,pension,1,,3.46,3.46
+9,corporate governance,1,,3.46,3.46
+9,real estate investment,1,,3.46,3.46
+9,investment banking,1,,3.46,3.46
+9,derivatives,1,,3.46,3.46
+9,underwriting,1,,3.46,3.46
+9,total return,1,,3.46,3.46
+9,insurance,1,,3.46,3.46
+9,reinsurance,1,,3.46,3.46
+9,inflows,1,,3.46,3.46
+9,valuation,1,,3.46,3.46
+9,silicon,1,,3.46,3.46
+9,furnace,1,,3.46,3.46
+9,pottery,1,,3.46,3.46
+9,engine,1,,3.46,3.46
+9,agere,1,,3.46,3.46
+9,frame,1,,3.46,3.46
+9,artisan,1,,3.46,3.46
+9,juniper,1,,3.46,3.46
+9,brewing co.,1,,3.46,3.46
+9,lsi logic,1,,3.46,3.46
+9,speakeasy,1,,3.46,3.46
+9,belden,1,,3.46,3.46
+9,freescale,1,,3.46,3.46
+9,catalyst,1,,3.46,3.46
+9,isg,1,,3.46,3.46
+9,finisar,1,,3.46,3.46
+9,agilent,1,,3.46,3.46
+9,lsi,1,,3.46,3.46
+9,peerless,1,,3.46,3.46
+9,meadwestvaco,1,,3.46,3.46
+9,##nm,1,,3.46,3.46
+9,arris,1,,3.46,3.46
+9,xilinx,1,,3.46,3.46
+9,tile,1,,3.46,3.46
+9,nucor,1,,3.46,3.46
+9,conexant,1,,3.46,3.46
+9,rohm,1,,3.46,3.46
+9,intel,1,,3.46,3.46
+9,qlogic,1,,3.46,3.46
+9,lofts,1,,3.46,3.46
+9,lattice,1,,3.46,3.46
+9,alchemy,1,,3.46,3.46
+9,paper,1,,3.46,3.46
+9,eda,1,,3.46,3.46
+9,micron,1,,3.46,3.46
+9,mentor graphics,1,,3.46,3.46
+9,extreme networks,1,,3.46,3.46
+9,magma,1,,3.46,3.46
+9,sawmill,1,,3.46,3.46
+9,synopsys,1,,3.46,3.46
+9,brewing,1,,3.46,3.46
+9,cadence,1,,3.46,3.46
+9,teradyne,1,,3.46,3.46
+9,dresden,1,,3.46,3.46
+9,qimonda,1,,3.46,3.46
+9,carnegie,1,,3.46,3.46
+9,steel mill,1,,3.46,3.46
+9,properties,1,,3.46,3.46
+9,properties llc,1,,3.46,3.46
+9,advisors llc,1,,3.46,3.46
+9,realty,1,,3.46,3.46
+9,equity partners,1,,3.46,3.46
+9,holdings limited,1,,3.46,3.46
+9,acquisitions,1,,3.46,3.46
+9,ltd.,1,,3.46,3.46
+9,fund,1,,3.46,3.46
+9,mortgages,1,,3.46,3.46
+9,management lp,1,,3.46,3.46
+9,acquisition,1,,3.46,3.46
+9,interests,1,,3.46,3.46
+9,pty ltd,1,,3.46,3.46
+9,invesco,1,,3.46,3.46
+9,ltd,1,,3.46,3.46
+9,mfs,1,,3.46,3.46
+9,limited partnership,1,,3.46,3.46
+9,limited,1,,3.46,3.46
+9,partners lp,1,,3.46,3.46
+9,pty ltd.,1,,3.46,3.46
+9,unlisted,1,,3.46,3.46
+9,controlling shareholder,1,,3.46,3.46
+9,shareholding,1,,3.46,3.46
+9,hotels,1,,3.46,3.46
+9,entrepreneurial spirit,1,,3.46,3.46
+9,digitization,1,,3.46,3.46
+9,prosperity,1,,3.46,3.46
+9,continuous improvement,1,,3.46,3.46
+9,dynamism,1,,3.46,3.46
+9,transformational,1,,3.46,3.46
+9,skilled workforce,1,,3.46,3.46
+9,customer centric,1,,3.46,3.46
+9,st century,1,,3.46,3.46
+9,revolution,1,,3.46,3.46
+9,operational efficiency,1,,3.46,3.46
+9,differentiation,1,,3.46,3.46
+9,strategic partnerships,1,,3.46,3.46
+9,marketplace,1,,3.46,3.46
+9,responsiveness,1,,3.46,3.46
+9,creation,1,,3.46,3.46
+9,evolution,1,,3.46,3.46
+9,domain expertise,1,,3.46,3.46
+9,regenerative medicine,1,,3.46,3.46
+9,core competencies,1,,3.46,3.46
+9,craftsmanship,1,,3.46,3.46
+9,collaboration,1,,3.46,3.46
+9,lifelong learning,1,,3.46,3.46
+9,skills,1,,3.46,3.46
+9,knowledge,1,,3.46,3.46
+9,ebusiness,1,,3.46,3.46
+9,flagship,1,,3.46,3.46
+9,broadband connectivity,1,,3.46,3.46
+9,triple play,1,,3.46,3.46
+9,verizon fios,1,,3.46,3.46
+9,docsis,1,,3.46,3.46
+9,carrier ethernet,1,,3.46,3.46
+9,metro ethernet,1,,3.46,3.46
+9,subscriber,1,,3.46,3.46
+9,digital,1,,3.46,3.46
+9,digital terrestrial,1,,3.46,3.46
+9,dtv,1,,3.46,3.46
+9,dth,1,,3.46,3.46
+9,tiscali,1,,3.46,3.46
+9,hdtv,1,,3.46,3.46
+9,talktalk,1,,3.46,3.46
+9,u verse,1,,3.46,3.46
+9,fios tv,1,,3.46,3.46
+9,arpu,1,,3.46,3.46
+9,dtt,1,,3.46,3.46
+9,bt,1,,3.46,3.46
+9,municipal,1,,3.46,3.46
+9,fertilizer,1,,3.46,3.46
+9,revitalization,1,,3.46,3.46
+9,mineral,1,,3.46,3.46
+9,residential,1,,3.46,3.46
+9,redevelopment,1,,3.46,3.46
+9,governmental,1,,3.46,3.46
+9,cooperative,1,,3.46,3.46
+9,educational,1,,3.46,3.46
+9,broadcast,1,,3.46,3.46
+9,federal communications,1,,3.46,3.46
+9,itu,1,,3.46,3.46
+9,petroleum,1,,3.46,3.46
+9,nortel networks,1,,3.46,3.46
+9,ntia,1,,3.46,3.46
+9,electric power,1,,3.46,3.46
+9,transmission,1,,3.46,3.46
+9,landline,1,,3.46,3.46
+9,landlines,1,,3.46,3.46
+9,america movil,1,,3.46,3.46
+9,france telecom,1,,3.46,3.46
+9,deutsche telekom,1,,3.46,3.46
+9,fcc,1,,3.46,3.46
+9,lucent technologies,1,,3.46,3.46
+9,kpn,1,,3.46,3.46
+9,bellsouth,1,,3.46,3.46
+9,ciena,1,,3.46,3.46
+9,crtc,1,,3.46,3.46
+9,swisscom,1,,3.46,3.46
+9,multimedia,1,,3.46,3.46
+9,jobs,1,,3.46,3.46
+9,layoffs,1,,3.46,3.46
+9,temporary,1,,3.46,3.46
+9,incomes,1,,3.46,3.46
+9,stores,1,,3.46,3.46
+9,mills,1,,3.46,3.46
+9,sawmills,1,,3.46,3.46
+9,inspectors,1,,3.46,3.46
+9,wages,1,,3.46,3.46
+9,restaurants,1,,3.46,3.46
+9,jobless claims,1,,3.46,3.46
+9,ships,1,,3.46,3.46
+9,unemployment,1,,3.46,3.46
+9,bakeries,1,,3.46,3.46
+9,stocks,1,,3.46,3.46
+9,factories mines,1,,3.46,3.46
+9,smaller,1,,3.46,3.46
+9,inspections,1,,3.46,3.46
+9,gasoline,1,,3.46,3.46
+9,existing,1,,3.46,3.46
+9,hospitals,1,,3.46,3.46
+9,steel mills,1,,3.46,3.46
+9,goods,1,,3.46,3.46
+9,dongguan,1,,3.46,3.46
+9,shipyards,1,,3.46,3.46
+9,inspection,1,,3.46,3.46
+9,hiring,1,,3.46,3.46
+9,furnaces,1,,3.46,3.46
+9,prestigious,1,,3.46,3.46
+9,breakthrough,1,,3.46,3.46
+9,outstanding,1,,3.46,3.46
+9,award winning,1,,3.46,3.46
+9,awarded,1,,3.46,3.46
+9,best,1,,3.46,3.46
+9,enabled,1,,3.46,3.46
+9,competitive,1,,3.46,3.46
+9,recognized,1,,3.46,3.46
+9,successful,1,,3.46,3.46
+9,next generation,1,,3.46,3.46
+9,customized,1,,3.46,3.46
+9,exceptional,1,,3.46,3.46
+9,transparent,1,,3.46,3.46
+9,diverse,1,,3.46,3.46
+9,recognizes,1,,3.46,3.46
+9,smarter,1,,3.46,3.46
+9,transform,1,,3.46,3.46
+9,practical,1,,3.46,3.46
+9,trusted,1,,3.46,3.46
+9,emerge,1,,3.46,3.46
+9,popular,1,,3.46,3.46
+9,attractive,1,,3.46,3.46
+9,optimize,1,,3.46,3.46
+9,artistic,1,,3.46,3.46
+9,next gen,1,,3.46,3.46
+9,versatile,1,,3.46,3.46
+9,award,1,,3.46,3.46
+9,personalized,1,,3.46,3.46
+9,seamless,1,,3.46,3.46
+9,reliable,1,,3.46,3.46
+9,help desk support,1,,3.46,3.46
+9,synergy,1,,3.46,3.46
+9,insight,1,,3.46,3.46
+9,initiative,1,,3.46,3.46
+9,choices,1,,3.46,3.46
+9,metrics,1,,3.46,3.46
+9,visions,1,,3.46,3.46
+9,lifestyle,1,,3.46,3.46
+9,evolve,1,,3.46,3.46
+9,connect,1,,3.46,3.46
+9,ambient,1,,3.46,3.46
+9,organics,1,,3.46,3.46
+9,spare parts,1,,3.46,3.46
+9,assembly,1,,3.46,3.46
+9,retooling,1,,3.46,3.46
+9,customizing,1,,3.46,3.46
+9,hydraulic,1,,3.46,3.46
+9,drivetrain,1,,3.46,3.46
+9,customization,1,,3.46,3.46
+9,airframe,1,,3.46,3.46
+9,tuning,1,,3.46,3.46
+9,prototypes,1,,3.46,3.46
+9,repeatability,1,,3.46,3.46
+9,assemblies,1,,3.46,3.46
+9,delorean,1,,3.46,3.46
+9,debugging,1,,3.46,3.46
+9,lubrication,1,,3.46,3.46
+9,gkn,1,,3.46,3.46
+9,calibration,1,,3.46,3.46
+9,assembling,1,,3.46,3.46
+9,plm,1,,3.46,3.46
+9,aerodynamic,1,,3.46,3.46
+9,roadster,1,,3.46,3.46
+9,milling,1,,3.46,3.46
+9,repeatable,1,,3.46,3.46
+9,fabs,1,,3.46,3.46
+9,printed circuit,1,,3.46,3.46
+9,spec,1,,3.46,3.46
+9,metrology,1,,3.46,3.46
+9,aerodynamics,1,,3.46,3.46
+9,lithography,1,,3.46,3.46
+9,stencil,1,,3.46,3.46
+9,conveyor,1,,3.46,3.46
+9,sizing,1,,3.46,3.46
+9,servicing,1,,3.46,3.46
+9,visionaries,1,,3.46,3.46
+9,alwayson,1,,3.46,3.46
+9,leaders,1,,3.46,3.46
+9,rising stars,1,,3.46,3.46
+9,creators,1,,3.46,3.46
+9,awards gala,1,,3.46,3.46
+9,leadership award,1,,3.46,3.46
+9,demo,1,,3.46,3.46
+9,leadership forum,1,,3.46,3.46
+9,idea,1,,3.46,3.46
+9,venture capitalists,1,,3.46,3.46
+9,businesswomen,1,,3.46,3.46
+9,most powerful,1,,3.46,3.46
+9,red herring,1,,3.46,3.46
+9,fifth annual,1,,3.46,3.46
+9,young entrepreneur,1,,3.46,3.46
+9,fellows,1,,3.46,3.46
+9,artists,1,,3.46,3.46
+9,technology fast,1,,3.46,3.46
+9,keynote speakers,1,,3.46,3.46
+9,scholar,1,,3.46,3.46
+9,challenges,1,,3.46,3.46
+9,award winner,1,,3.46,3.46
+9,chefs,1,,3.46,3.46
+9,semi finalists,1,,3.46,3.46
+9,icons,1,,3.46,3.46
+9,rising star,1,,3.46,3.46
+9,finalist,1,,3.46,3.46
+9,scholars,1,,3.46,3.46
+9,awardees,1,,3.46,3.46
+9,6th annual,1,,3.46,3.46
+9,awards ceremony,1,,3.46,3.46
+9,economic forum,1,,3.46,3.46
+9,achievement award,1,,3.46,3.46
+9,perspectives,1,,3.46,3.46
+9,young professionals,1,,3.46,3.46
+9,5th annual,1,,3.46,3.46
+9,ptcl,1,,3.46,3.46
+9,huawei technologies,1,,3.46,3.46
+9,wll,1,,3.46,3.46
+9,bsnl,1,,3.46,3.46
+9,btc,1,,3.46,3.46
+9,zain,1,,3.46,3.46
+9,mts,1,,3.46,3.46
+9,turkcell,1,,3.46,3.46
+9,telenor,1,,3.46,3.46
+9,qtel,1,,3.46,3.46
+9,zte,1,,3.46,3.46
+9,celtel,1,,3.46,3.46
+9,nokia siemens,1,,3.46,3.46
+9,batelco,1,,3.46,3.46
+9,reliance communications,1,,3.46,3.46
+9,huawei,1,,3.46,3.46
+9,pldt,1,,3.46,3.46
+9,china netcom,1,,3.46,3.46
+9,irrigation,1,,3.46,3.46
+9,mtn,1,,3.46,3.46
+9,bharti airtel,1,,3.46,3.46
+9,ptt,1,,3.46,3.46
+9,postal,1,,3.46,3.46
+9,mtnl,1,,3.46,3.46
+9,tot,1,,3.46,3.46
+9,china unicom,1,,3.46,3.46
+9,stc,1,,3.46,3.46
+9,trai,1,,3.46,3.46
+9,mnp,1,,3.46,3.46
+9,handset,1,,3.46,3.46
+9,amateur radio,1,,3.46,3.46
+9,first,1,,3.46,3.46
+9,mit,1,,3.46,3.46
+9,deca,1,,3.46,3.46
+9,lacrosse,1,,3.46,3.46
+9,astronomy,1,,3.46,3.46
+9,space,1,,3.46,3.46
+9,interact,1,,3.46,3.46
+9,cheerleading,1,,3.46,3.46
+9,lockheed martin,1,,3.46,3.46
+9,paintball,1,,3.46,3.46
+9,x prize,1,,3.46,3.46
+9,table tennis,1,,3.46,3.46
+9,quidditch,1,,3.46,3.46
+9,rotary,1,,3.46,3.46
+9,orthopaedic,1,,3.46,3.46
+9,biomedical engineering,1,,3.46,3.46
+9,qinetiq,1,,3.46,3.46
+9,math,1,,3.46,3.46
+9,youth soccer,1,,3.46,3.46
+9,modeling,1,,3.46,3.46
+9,supercomputer,1,,3.46,3.46
+9,anime,1,,3.46,3.46
+9,laboratory,1,,3.46,3.46
+9,solar,1,,3.46,3.46
+9,infectious diseases,1,,3.46,3.46
+9,consumer products,1,,3.46,3.46
+9,specialty,1,,3.46,3.46
+9,ingredients,1,,3.46,3.46
+9,filters,1,,3.46,3.46
+9,interface,1,,3.46,3.46
+9,segment,1,,3.46,3.46
+9,containers,1,,3.46,3.46
+9,supplements,1,,3.46,3.46
+9,company,1,,3.46,3.46
+9,protein,1,,3.46,3.46
+9,snacks,1,,3.46,3.46
+9,avery dennison,1,,3.46,3.46
+9,tubes,1,,3.46,3.46
+9,additives,1,,3.46,3.46
+9,sez,1,,3.46,3.46
+9,sezs,1,,3.46,3.46
+9,textile exports,1,,3.46,3.46
+9,fdi,1,,3.46,3.46
+9,handicraft,1,,3.46,3.46
+9,medium sized enterprises,1,,3.46,3.46
+9,mncs,1,,3.46,3.46
+9,industrialists,1,,3.46,3.46
+9,consumer durables,1,,3.46,3.46
+9,jute,1,,3.46,3.46
+9,import tariffs,1,,3.46,3.46
+9,exporter,1,,3.46,3.46
+9,agrarian,1,,3.46,3.46
+9,cashew,1,,3.46,3.46
+9,import duties,1,,3.46,3.46
+9,anti dumping,1,,3.46,3.46
+9,excise duty,1,,3.46,3.46
+9,sugar mills,1,,3.46,3.46
+9,overcapacity,1,,3.46,3.46
+9,handicrafts,1,,3.46,3.46
+9,unctad,1,,3.46,3.46
+9,non tariff barriers,1,,3.46,3.46
+9,rupee,1,,3.46,3.46
+9,soes,1,,3.46,3.46
+9,customs duties,1,,3.46,3.46
+9,ldcs,1,,3.46,3.46
+9,protectionist measures,1,,3.46,3.46
+9,capital inflows,1,,3.46,3.46
+9,macroeconomic,1,,3.46,3.46
+9,knitwear,1,,3.46,3.46
+9,labor intensive,1,,3.46,3.46
+9,eco tourism,1,,3.46,3.46
+9,gdp,1,,3.46,3.46
+9,sops,1,,3.46,3.46
+9,emerging economies,1,,3.46,3.46
+9,ashok leyland,1,,3.46,3.46
+9,ftas,1,,3.46,3.46
+9,world trade organisation,1,,3.46,3.46
+9,preferential,1,,3.46,3.46
+9,expansionary,1,,3.46,3.46
+9,exportation,1,,3.46,3.46
+9,psus,1,,3.46,3.46
+9,wto,1,,3.46,3.46
+9,industrialized,1,,3.46,3.46
+9,economically,1,,3.46,3.46
+9,ecological,1,,3.46,3.46
+9,smart growth,1,,3.46,3.46
+9,biodiversity,1,,3.46,3.46
+9,healthy,1,,3.46,3.46
+9,slow food,1,,3.46,3.46
+9,affordable housing,1,,3.46,3.46
+9,ethical,1,,3.46,3.46
+9,organic farming,1,,3.46,3.46
+9,climate,1,,3.46,3.46
+9,clean,1,,3.46,3.46
+9,ecology,1,,3.46,3.46
+9,watershed,1,,3.46,3.46
+9,urban,1,,3.46,3.46
+9,usgbc,1,,3.46,3.46
+9,corporate social responsibility,1,,3.46,3.46
+9,clean water,1,,3.46,3.46
+9,ipm,1,,3.46,3.46
+9,enhancements,1,,3.46,3.46
+9,product introductions,1,,3.46,3.46
+9,refinements,1,,3.46,3.46
+9,functionalities,1,,3.46,3.46
+9,transformations,1,,3.46,3.46
+9,efficiencies,1,,3.46,3.46
+9,rapid technological,1,,3.46,3.46
+9,discoveries,1,,3.46,3.46
+9,operational efficiencies,1,,3.46,3.46
+9,methodologies,1,,3.46,3.46
+9,evolving,1,,3.46,3.46
+9,regenerative,1,,3.46,3.46
+9,paradigms,1,,3.46,3.46
+9,advent,1,,3.46,3.46
+9,inventing,1,,3.46,3.46
+9,endeavors,1,,3.46,3.46
+9,architectures,1,,3.46,3.46
+9,supercomputers,1,,3.46,3.46
+9,successes,1,,3.46,3.46
+9,conveniences,1,,3.46,3.46
+9,continuously,1,,3.46,3.46
+9,handheld devices,1,,3.46,3.46
+9,offerings,1,,3.46,3.46
+9,specialists,1,,3.46,3.46
+9,risk management,1,,3.46,3.46
+9,associates,1,,3.46,3.46
+9,document management,1,,3.46,3.46
+9,environments,1,,3.46,3.46
+9,advantage,1,,3.46,3.46
+9,turnkey,1,,3.46,3.46
+9,turnkey solution,1,,3.46,3.46
+9,fiserv,1,,3.46,3.46
+9,consulting firm,1,,3.46,3.46
+9,infor,1,,3.46,3.46
+9,design studio,1,,3.46,3.46
+9,convergys,1,,3.46,3.46
+9,consultant,1,,3.46,3.46
+9,business process outsourcing,1,,3.46,3.46
+9,sungard,1,,3.46,3.46
+9,secure,1,,3.46,3.46
+9,alternatives,1,,3.46,3.46
+9,pitney bowes,1,,3.46,3.46
+9,billing,1,,3.46,3.46
+9,verint,1,,3.46,3.46
+9,motor,1,,3.46,3.46
+9,auto parts,1,,3.46,3.46
+9,car,1,,3.46,3.46
+9,automobiles,1,,3.46,3.46
+9,vehicle,1,,3.46,3.46
+9,automotive aftermarket,1,,3.46,3.46
+9,telematics,1,,3.46,3.46
+9,daimlerchrysler,1,,3.46,3.46
+9,general motors,1,,3.46,3.46
+9,borgwarner,1,,3.46,3.46
+9,dealerships,1,,3.46,3.46
+9,arvinmeritor,1,,3.46,3.46
+9,chrysler jeep,1,,3.46,3.46
+9,tire,1,,3.46,3.46
+9,chrysler,1,,3.46,3.46
+9,motorcycle,1,,3.46,3.46
+9,dealership,1,,3.46,3.46
+9,ford motor,1,,3.46,3.46
+9,chevrolet,1,,3.46,3.46
+9,trw,1,,3.46,3.46
+9,ford,1,,3.46,3.46
+9,motoring,1,,3.46,3.46
+9,powertrains,1,,3.46,3.46
+9,volkswagen,1,,3.46,3.46
+9,toyota,1,,3.46,3.46
+9,mazda,1,,3.46,3.46
+9,hyundai,1,,3.46,3.46
+9,sae,1,,3.46,3.46
+9,nissan,1,,3.46,3.46
+9,daimler,1,,3.46,3.46
+9,general motors corp.,1,,3.46,3.46
+9,ford motor co.,1,,3.46,3.46
+9,volvo,1,,3.46,3.46
+9,delphi,1,,3.46,3.46
+9,mercedes benz,1,,3.46,3.46
+9,motorsports,1,,3.46,3.46
+9,automaker,1,,3.46,3.46
+9,truck,1,,3.46,3.46
+9,electric vehicles,1,,3.46,3.46
+9,valeo,1,,3.46,3.46
+9,gm,1,,3.46,3.46
+9,air conditioning,1,,3.46,3.46
+9,motorsport,1,,3.46,3.46
+9,isuzu,1,,3.46,3.46
+9,kia,1,,3.46,3.46
+9,edmunds.com,1,,3.46,3.46
+9,lincoln mercury,1,,3.46,3.46
+9,aero,1,,3.46,3.46
+9,porsche,1,,3.46,3.46
+9,audi,1,,3.46,3.46
+9,sema,1,,3.46,3.46
+9,saab,1,,3.46,3.46
+9,tenneco,1,,3.46,3.46
+9,honda,1,,3.46,3.46
+9,auto dealerships,1,,3.46,3.46
+9,volt,1,,3.46,3.46
+9,rv,1,,3.46,3.46
+9,johnson controls,1,,3.46,3.46
+9,saving,1,,3.46,3.46
+9,invested,1,,3.46,3.46
+9,money,1,,3.46,3.46
+9,owning,1,,3.46,3.46
+9,etf,1,,3.46,3.46
+9,creating,1,,3.46,3.46
+9,engaging,1,,3.46,3.46
+9,paying,1,,3.46,3.46
+9,blogging,1,,3.46,3.46
+9,choosing,1,,3.46,3.46
+9,stock market,1,,3.46,3.46
+9,etfs,1,,3.46,3.46
+9,forex,1,,3.46,3.46
+9,betting,1,,3.46,3.46
+9,focused,1,,3.46,3.46
+9,discovering,1,,3.46,3.46
+9,bets,1,,3.46,3.46
+9,advice,1,,3.46,3.46
+9,tips,1,,3.46,3.46
+9,reinvest,1,,3.46,3.46
+9,rethinking,1,,3.46,3.46
+9,personal finance,1,,3.46,3.46
+9,build,1,,3.46,3.46
+9,dividends,1,,3.46,3.46
+9,educating,1,,3.46,3.46
+9,newsletter,1,,3.46,3.46
+9,thinking,1,,3.46,3.46
+9,improving,1,,3.46,3.46
+9,converting,1,,3.46,3.46
+9,retirement,1,,3.46,3.46
+9,selecting,1,,3.46,3.46
+9,protecting,1,,3.46,3.46
+9,powering,1,,3.46,3.46
+9,reinvesting,1,,3.46,3.46
+9,exploring,1,,3.46,3.46
+9,fostering,1,,3.46,3.46
+9,profit,1,,3.46,3.46
+9,cash flow,1,,3.46,3.46
+9,advancing,1,,3.46,3.46
+9,risky,1,,3.46,3.46
+9,communicating,1,,3.46,3.46
+9,reforming,1,,3.46,3.46
+9,booming,1,,3.46,3.46
+9,pursuing,1,,3.46,3.46
+9,filming,1,,3.46,3.46
+9,commissioning,1,,3.46,3.46
+9,delivery,1,,3.46,3.46
+9,drilling,1,,3.46,3.46
+9,exploration,1,,3.46,3.46
+9,harvesting,1,,3.46,3.46
+9,operating,1,,3.46,3.46
+9,programming,1,,3.46,3.46
+9,produce,1,,3.46,3.46
+9,boepd,1,,3.46,3.46
+9,bopd,1,,3.46,3.46
+9,upstream,1,,3.46,3.46
+9,installation,1,,3.46,3.46
+9,demand,1,,3.46,3.46
+9,boe d,1,,3.46,3.46
+9,theatrical,1,,3.46,3.46
+9,testing,1,,3.46,3.46
+9,importing,1,,3.46,3.46
+9,rig,1,,3.46,3.46
+9,prices,1,,3.46,3.46
+9,capital expenditures,1,,3.46,3.46
+9,royalty,1,,3.46,3.46
+9,workflow,1,,3.46,3.46
+9,volumes,1,,3.46,3.46
+9,productions,1,,3.46,3.46
+9,refining,1,,3.46,3.46
+9,print,1,,3.46,3.46
+9,distributions,1,,3.46,3.46
+9,royalties,1,,3.46,3.46
+9,bbl d,1,,3.46,3.46
+9,extraction,1,,3.46,3.46
+9,activity,1,,3.46,3.46
+9,downstream,1,,3.46,3.46
+9,orders,1,,3.46,3.46
+9,offset,1,,3.46,3.46
+9,gross margins,1,,3.46,3.46
+9,inventory,1,,3.46,3.46
+9,rental,1,,3.46,3.46
+9,utilization,1,,3.46,3.46
+9,distributing,1,,3.46,3.46
+9,builders,1,,3.46,3.46
+9,minerals,1,,3.46,3.46
+9,incorporated,1,,3.46,3.46
+9,itw,1,,3.46,3.46
+9,bros.,1,,3.46,3.46
+9,inc,1,,3.46,3.46
+9,tyres,1,,3.46,3.46
+9,illinois tool works,1,,3.46,3.46
+9,spindle,1,,3.46,3.46
+9,contoured,1,,3.46,3.46
+9,pistons,1,,3.46,3.46
+9,rotor,1,,3.46,3.46
+9,welds,1,,3.46,3.46
+9,cylindrical,1,,3.46,3.46
+9,chrome,1,,3.46,3.46
+9,laminate,1,,3.46,3.46
+9,stainless,1,,3.46,3.46
+9,rotors,1,,3.46,3.46
+9,diameters,1,,3.46,3.46
+9,piston,1,,3.46,3.46
+9,perforated,1,,3.46,3.46
+9,coil,1,,3.46,3.46
+9,sanded,1,,3.46,3.46
+9,radial,1,,3.46,3.46
+9,coils,1,,3.46,3.46
+9,fenders,1,,3.46,3.46
+9,connectors,1,,3.46,3.46
+9,curved,1,,3.46,3.46
+9,casing,1,,3.46,3.46
+9,graphite,1,,3.46,3.46
+9,casings,1,,3.46,3.46
+9,rear axle,1,,3.46,3.46
+9,solder,1,,3.46,3.46
+9,billet,1,,3.46,3.46
+9,configured,1,,3.46,3.46
+9,metallic,1,,3.46,3.46
+9,#.#mm,1,,3.46,3.46
+9,nozzles,1,,3.46,3.46
+9,mm,1,,3.46,3.46
+9,nozzle,1,,3.46,3.46
+9,substrate,1,,3.46,3.46
+9,cylinder,1,,3.46,3.46
+9,axle,1,,3.46,3.46
+9,thicknesses,1,,3.46,3.46
+9,blades,1,,3.46,3.46
+9,screws,1,,3.46,3.46
+9,rod,1,,3.46,3.46
+9,shifter,1,,3.46,3.46
+9,diameter,1,,3.46,3.46
+9,rods,1,,3.46,3.46
+9,silicone,1,,3.46,3.46
+9,slats,1,,3.46,3.46
+9,rims,1,,3.46,3.46
+9,steering column,1,,3.46,3.46
+9,adjustable,1,,3.46,3.46
+9,radiators,1,,3.46,3.46
+9,alloy wheels,1,,3.46,3.46
+9,rivets,1,,3.46,3.46
+9,biodegradable,1,,3.46,3.46
+9,recycled materials,1,,3.46,3.46
+9,environmentally sensitive,1,,3.46,3.46
+9,recyclable,1,,3.46,3.46
+9,economical,1,,3.46,3.46
+9,cleaner,1,,3.46,3.46
+9,bio diesel,1,,3.46,3.46
+9,nontoxic,1,,3.46,3.46
+9,aesthetically pleasing,1,,3.46,3.46
+9,green,1,,3.46,3.46
+9,leed certified,1,,3.46,3.46
+9,compostable,1,,3.46,3.46
+9,recyclable materials,1,,3.46,3.46
+9,alternative,1,,3.46,3.46
+9,healthful,1,,3.46,3.46
+9,retrofitting,1,,3.46,3.46
+9,solar panels,1,,3.46,3.46
+9,biogas,1,,3.46,3.46
+9,environmentalism,1,,3.46,3.46
+9,reusable,1,,3.46,3.46
+9,economically viable,1,,3.46,3.46
+9,competitively priced,1,,3.46,3.46
+9,harmful chemicals,1,,3.46,3.46
+9,led lighting,1,,3.46,3.46
+9,leed certification,1,,3.46,3.46
+9,hybrid electric,1,,3.46,3.46
+9,cleanest,1,,3.46,3.46
+9,inexpensive,1,,3.46,3.46
+9,conserving,1,,3.46,3.46
+9,walkable,1,,3.46,3.46
+9,reusing,1,,3.46,3.46
+9,retrofits,1,,3.46,3.46
+9,forefront,1,,3.46,3.46
+9,unrivaled,1,,3.46,3.46
+9,revolutionized,1,,3.46,3.46
+9,unparalleled,1,,3.46,3.46
+9,unsurpassed,1,,3.46,3.46
+9,pioneered,1,,3.46,3.46
+9,preeminent,1,,3.46,3.46
+9,pioneers,1,,3.46,3.46
+9,pioneer,1,,3.46,3.46
+9,unmatched,1,,3.46,3.46
+9,prides itself,1,,3.46,3.46
+9,wide array,1,,3.46,3.46
+9,immersive,1,,3.46,3.46
+9,trailblazing,1,,3.46,3.46
+9,wow factor,1,,3.46,3.46
+9,vast array,1,,3.46,3.46
+9,vanguard,1,,3.46,3.46
+9,uniquely positioned,1,,3.46,3.46
+9,renowned,1,,3.46,3.46
+9,trendsetters,1,,3.46,3.46
+9,internationally renowned,1,,3.46,3.46
+9,imaginative,1,,3.46,3.46
+9,pre eminent,1,,3.46,3.46
+9,user friendly,1,,3.46,3.46
+9,trendsetter,1,,3.46,3.46
+9,fully integrated,1,,3.46,3.46
+9,distinctive,1,,3.46,3.46
+9,uncompromised,1,,3.46,3.46
+9,core competency,1,,3.46,3.46
+9,art,1,,3.46,3.46
+9,stay abreast,1,,3.46,3.46
+9,multidisciplinary,1,,3.46,3.46
+9,vibrant,1,,3.46,3.46
+9,wireless connectivity,1,,3.46,3.46
+9,videoconferencing,1,,3.46,3.46
+9,wi fi hotspots,1,,3.46,3.46
+9,wi fi enabled,1,,3.46,3.46
+9,video conferencing,1,,3.46,3.46
+9,ev do,1,,3.46,3.46
+9,telepresence,1,,3.46,3.46
+9,virtual private,1,,3.46,3.46
+9,4g lte,1,,3.46,3.46
+9,wi fi connectivity,1,,3.46,3.46
+9,gprs,1,,3.46,3.46
+9,wlan,1,,3.46,3.46
+9,wideband,1,,3.46,3.46
+9,gigabit ethernet,1,,3.46,3.46
+9,optical fiber,1,,3.46,3.46
+9,fiber optic cables,1,,3.46,3.46
+9,telehealth,1,,3.46,3.46
+9,gigabit,1,,3.46,3.46
+9,ip vpn,1,,3.46,3.46
+9,wide area,1,,3.46,3.46
+9,tata communications,1,,3.46,3.46
+9,#.#g,1,,3.46,3.46
+9,femtocells,1,,3.46,3.46
+9,wireless mesh,1,,3.46,3.46
+9,hspa +,1,,3.46,3.46
+9,mpls,1,,3.46,3.46
+9,vpn,1,,3.46,3.46
+9,megabits per,1,,3.46,3.46
+9,ku band,1,,3.46,3.46
+9,unified communications,1,,3.46,3.46
+9,mobile,1,,3.46,3.46
+9,gsm gprs,1,,3.46,3.46
+9,remote,1,,3.46,3.46
+9,artificial,1,,3.46,3.46
+9,robotic arm,1,,3.46,3.46
+9,plastic,1,,3.46,3.46
+9,rov,1,,3.46,3.46
+9,orthopedic,1,,3.46,3.46
+9,da vinci,1,,3.46,3.46
+9,ultrasound,1,,3.46,3.46
+9,joystick,1,,3.46,3.46
+9,hybrid,1,,3.46,3.46
+9,experimental,1,,3.46,3.46
+9,minimally invasive,1,,3.46,3.46
+9,4d,1,,3.46,3.46
+9,controlled,1,,3.46,3.46
+9,motion sensing,1,,3.46,3.46
+9,uav,1,,3.46,3.46
+9,simulators,1,,3.46,3.46
+9,prosthetic,1,,3.46,3.46
+9,combat,1,,3.46,3.46
+9,technique,1,,3.46,3.46
+9,tracking,1,,3.46,3.46
+9,tactical,1,,3.46,3.46
+9,wheeled,1,,3.46,3.46
+9,mars,1,,3.46,3.46
+9,lifelike,1,,3.46,3.46
+9,prosthetics,1,,3.46,3.46
+9,remotely operated,1,,3.46,3.46
+9,underwater,1,,3.46,3.46
+9,wearable,1,,3.46,3.46
+9,orbital,1,,3.46,3.46
+9,assisted,1,,3.46,3.46
+9,motorized,1,,3.46,3.46
+9,tiny,1,,3.46,3.46
+9,propulsion,1,,3.46,3.46
+9,experiments,1,,3.46,3.46
+9,endoscopic,1,,3.46,3.46
+9,invasive,1,,3.46,3.46
+9,intuitive,1,,3.46,3.46
+9,cctv cameras,1,,3.46,3.46
+9,computerized,1,,3.46,3.46
+9,satellite navigation,1,,3.46,3.46
+9,mobile telephones,1,,3.46,3.46
+9,audio visual,1,,3.46,3.46
+9,boffins,1,,3.46,3.46
+9,kitted,1,,3.46,3.46
+9,hi fi,1,,3.46,3.46
+9,nano,1,,3.46,3.46
+9,mobile phones,1,,3.46,3.46
+9,mobiles,1,,3.46,3.46
+9,specially designed,1,,3.46,3.46
+9,sat nav,1,,3.46,3.46
+9,cctv,1,,3.46,3.46
+9,cyber,1,,3.46,3.46
+9,techie,1,,3.46,3.46
+9,equipped,1,,3.46,3.46
+9,x ray machines,1,,3.46,3.46
+9,audiovisual,1,,3.46,3.46
+9,multi storey,1,,3.46,3.46
+9,jewelery,1,,3.46,3.46
+9,unmanned aerial vehicles,1,,3.46,3.46
+9,lasers,1,,3.46,3.46
+9,silicon valley,1,,3.46,3.46
+9,thermal imaging,1,,3.46,3.46
+9,drdo,1,,3.46,3.46
+9,incubators,1,,3.46,3.46
+9,modernized,1,,3.46,3.46
+9,newfangled,1,,3.46,3.46
+9,hovercraft,1,,3.46,3.46
+9,sniffer dogs,1,,3.46,3.46
+9,bangalore,1,,3.46,3.46
+9,microchips,1,,3.46,3.46
+9,armaments,1,,3.46,3.46
+9,techies,1,,3.46,3.46
+9,biometric,1,,3.46,3.46
+9,multifunction,1,,3.46,3.46
+9,supply chains,1,,3.46,3.46
+9,technicians,1,,3.46,3.46
+9,bondholders,1,,3.46,3.46
+9,growers,1,,3.46,3.46
+9,shoppers,1,,3.46,3.46
+9,subcontractors,1,,3.46,3.46
+9,sellers,1,,3.46,3.46
+9,hellboy,1,,3.46,3.46
+9,spiderman,1,,3.46,3.46
+9,yoda,1,,3.46,3.46
+9,hero,1,,3.46,3.46
+9,zombie,1,,3.46,3.46
+9,transporter,1,,3.46,3.46
+9,scarecrow,1,,3.46,3.46
+9,clown,1,,3.46,3.46
+9,matrix,1,,3.46,3.46
+9,stunt,1,,3.46,3.46
+9,star wars,1,,3.46,3.46
+9,bug,1,,3.46,3.46
+9,spider,1,,3.46,3.46
+9,toy,1,,3.46,3.46
+9,grudge,1,,3.46,3.46
+9,mouse,1,,3.46,3.46
+9,blaster,1,,3.46,3.46
+9,gorilla,1,,3.46,3.46
+9,spider man,1,,3.46,3.46
+9,spidey,1,,3.46,3.46
+9,hulk,1,,3.46,3.46
+9,scooby doo,1,,3.46,3.46
+9,mini,1,,3.46,3.46
+9,ghost rider,1,,3.46,3.46
+9,blade runner,1,,3.46,3.46
+9,wiimote,1,,3.46,3.46
+9,gi joe,1,,3.46,3.46
+9,gladiator,1,,3.46,3.46
+9,sumo,1,,3.46,3.46
+9,incredible hulk,1,,3.46,3.46
+9,sequel,1,,3.46,3.46
+9,frankenstein,1,,3.46,3.46
+9,geek,1,,3.46,3.46
+9,dragon,1,,3.46,3.46
+9,pink panther,1,,3.46,3.46
+9,torque,1,,3.46,3.46
+9,genius,1,,3.46,3.46
+9,ghostbusters,1,,3.46,3.46
+9,speed racer,1,,3.46,3.46
+9,gamer,1,,3.46,3.46
+9,jackie chan,1,,3.46,3.46
+9,nemesis,1,,3.46,3.46
+9,street fighter,1,,3.46,3.46
+9,kong,1,,3.46,3.46
+9,king kong,1,,3.46,3.46
+9,balloon,1,,3.46,3.46
+9,am legend,1,,3.46,3.46
+9,hello kitty,1,,3.46,3.46
+9,ghost,1,,3.46,3.46
+9,rocket,1,,3.46,3.46
+9,mate,1,,3.46,3.46
+9,pokemon,1,,3.46,3.46
+9,dinosaurs,1,,3.46,3.46
+9,monkeys,1,,3.46,3.46
+9,insects,1,,3.46,3.46
+9,brains,1,,3.46,3.46
+9,smartphones,1,,3.46,3.46
+9,vampires,1,,3.46,3.46
+9,toy story,1,,3.46,3.46
+9,snakes,1,,3.46,3.46
+9,chickens,1,,3.46,3.46
+9,superheroes,1,,3.46,3.46
+9,bacteria,1,,3.46,3.46
+9,gamers,1,,3.46,3.46
+9,avatar,1,,3.46,3.46
+9,rabbits,1,,3.46,3.46
+9,characters,1,,3.46,3.46
+9,geeks,1,,3.46,3.46
+9,uavs,1,,3.46,3.46
+9,ants,1,,3.46,3.46
+9,muppets,1,,3.46,3.46
+9,legos,1,,3.46,3.46
+9,dogs,1,,3.46,3.46
+9,beings,1,,3.46,3.46
+9,viruses,1,,3.46,3.46
+9,pretend,1,,3.46,3.46
+9,beowulf,1,,3.46,3.46
+9,toys,1,,3.46,3.46
+9,incredibles,1,,3.46,3.46
+9,turtles,1,,3.46,3.46
+9,screens,1,,3.46,3.46
+9,chaos,1,,3.46,3.46
+9,undead,1,,3.46,3.46
+9,na'vi,1,,3.46,3.46
+9,astronauts,1,,3.46,3.46
+9,science fiction,1,,3.46,3.46
+9,animals,1,,3.46,3.46
+9,videogames,1,,3.46,3.46
+9,toy story 3,1,,3.46,3.46
+9,diversifying,1,,3.46,3.46
+9,flexibility,1,,3.46,3.46
+9,diversify,1,,3.46,3.46
+9,stability,1,,3.46,3.46
+9,consolidation,1,,3.46,3.46
+9,expansion,1,,3.46,3.46
+9,encryption,1,,3.46,3.46
+9,vertical integration,1,,3.46,3.46
+9,consistency,1,,3.46,3.46
+9,rebounding,1,,3.46,3.46
+9,rebalancing,1,,3.46,3.46
+9,winning,1,,3.46,3.46
+9,deflation,1,,3.46,3.46
+9,balanced,1,,3.46,3.46
+9,teamwork,1,,3.46,3.46
+9,cyclicality,1,,3.46,3.46
+9,preserving,1,,3.46,3.46
+9,expanding,1,,3.46,3.46
+9,transparency,1,,3.46,3.46
+9,decoupling,1,,3.46,3.46
+9,longevity,1,,3.46,3.46
+9,liquidity,1,,3.46,3.46
+9,diversity,1,,3.46,3.46
+9,robust,1,,3.46,3.46
+9,appreciation,1,,3.46,3.46
+9,positioning,1,,3.46,3.46
+9,timing,1,,3.46,3.46
+9,strategy analyst summarization,1,,3.46,3.46
+9,hedging,1,,3.46,3.46
+9,ecotourism,1,,3.46,3.46
+9,incentives,1,,3.46,3.46
+9,enhanced,1,,3.46,3.46
+9,insulin,1,,3.46,3.46
+9,self sufficiency,1,,3.46,3.46
+9,greenhouse emissions,1,,3.46,3.46
+9,ghg emissions,1,,3.46,3.46
+9,greenhouse gases,1,,3.46,3.46
+9,emission reductions,1,,3.46,3.46
+9,greenhouse gas,1,,3.46,3.46
+9,greenhouse gas emission,1,,3.46,3.46
+9,reducing greenhouse gas,1,,3.46,3.46
+9,co2,1,,3.46,3.46
+9,carbon dioxide,1,,3.46,3.46
+9,ghg,1,,3.46,3.46
+9,fossil fuels,1,,3.46,3.46
+9,global warming,1,,3.46,3.46
+9,mercury emissions,1,,3.46,3.46
+9,fossil fuel,1,,3.46,3.46
+9,carbon dioxide co2,1,,3.46,3.46
+9,carbon capture,1,,3.46,3.46
+9,pollution,1,,3.46,3.46
+9,heat trapping gases,1,,3.46,3.46
+9,carbon offsets,1,,3.46,3.46
+9,renewable energies,1,,3.46,3.46
+9,nox,1,,3.46,3.46
+9,nitrogen oxides,1,,3.46,3.46
+9,air pollution,1,,3.46,3.46
+9,nitrogen oxide,1,,3.46,3.46
+9,burning fossil fuels,1,,3.46,3.46
+9,carbon credits,1,,3.46,3.46
+9,kyoto protocol,1,,3.46,3.46
+9,emitters,1,,3.46,3.46
+9,coal fired,1,,3.46,3.46
+9,reduce,1,,3.46,3.46
+9,polluter,1,,3.46,3.46
+9,polluters,1,,3.46,3.46
+9,ease congestion,1,,3.46,3.46
+9,earth hour,1,,3.46,3.46
+9,offshore wind,1,,3.46,3.46
+9,incandescent bulbs,1,,3.46,3.46
+9,pollutants,1,,3.46,3.46
+9,gigawatts,1,,3.46,3.46
+9,energy saving,1,,3.46,3.46
+9,socio economic,1,,3.46,3.46
+9,poverty alleviation,1,,3.46,3.46
+9,underdevelopment,1,,3.46,3.46
+9,poverty eradication,1,,3.46,3.46
+9,upliftment,1,,3.46,3.46
+9,decentralization,1,,3.46,3.46
+9,stadia,1,,3.46,3.46
+9,potentials,1,,3.46,3.46
+9,developmental,1,,3.46,3.46
+9,sewerage,1,,3.46,3.46
+9,parastatals,1,,3.46,3.46
+9,nepad,1,,3.46,3.46
+9,mdgs,1,,3.46,3.46
+9,tertiary institutions,1,,3.46,3.46
+9,logistic,1,,3.46,3.46
+9,backwardness,1,,3.46,3.46
+9,n#.# billion,1,,3.46,3.46
+9,urbanization,1,,3.46,3.46
+9,budgetary,1,,3.46,3.46
+9,tertiary education,1,,3.46,3.46
+9,fashola,1,,3.46,3.46
+9,alleviate poverty,1,,3.46,3.46
+9,socio,1,,3.46,3.46
+9,environmental degradation,1,,3.46,3.46
+9,indigenes,1,,3.46,3.46
+9,ghanaians,1,,3.46,3.46
+9,parastatal,1,,3.46,3.46
+9,sanitation,1,,3.46,3.46
+9,hinterland,1,,3.46,3.46
+9,feasibility studies,1,,3.46,3.46
+9,development programme,1,,3.46,3.46
+9,dfid,1,,3.46,3.46
+9,ghana,1,,3.46,3.46
+9,underdeveloped,1,,3.46,3.46
+9,lagos,1,,3.46,3.46
+9,disbursement,1,,3.46,3.46
+9,expenditure,1,,3.46,3.46
+9,nigerians,1,,3.46,3.46
+9,zambia,1,,3.46,3.46
+9,constructions,1,,3.46,3.46
+9,nigeria,1,,3.46,3.46
+9,president kufuor,1,,3.46,3.46
+9,dispensation,1,,3.46,3.46
+9,fct,1,,3.46,3.46
+9,inspite,1,,3.46,3.46
+9,eradicate poverty,1,,3.46,3.46
+9,envisaged,1,,3.46,3.46
+9,manpower,1,,3.46,3.46
+9,mahama,1,,3.46,3.46
+9,sh#.# billion,1,,3.46,3.46
+9,n##,1,,3.46,3.46
+9,imo state,1,,3.46,3.46
+9,ogun state,1,,3.46,3.46
+9,imo,1,,3.46,3.46
+9,gross domestic product,1,,3.46,3.46
+9,linkages,1,,3.46,3.46
+9,millennium development goals,1,,3.46,3.46
+9,internally generated,1,,3.46,3.46
+9,gambia,1,,3.46,3.46
+9,benin,1,,3.46,3.46
+9,abuja,1,,3.46,3.46
+9,ondo state,1,,3.46,3.46
+9,legislations,1,,3.46,3.46
+9,democratization,1,,3.46,3.46
+9,masterplan,1,,3.46,3.46
+9,akwa ibom,1,,3.46,3.46
+9,partner,1,,3.46,3.46
+9,employee,1,,3.46,3.46
+9,customer support,1,,3.46,3.46
+9,customer service,1,,3.46,3.46
+9,employer,1,,3.46,3.46
+9,var,1,,3.46,3.46
+9,supply chain management,1,,3.46,3.46
+9,quality assurance,1,,3.46,3.46
+9,warranty,1,,3.46,3.46
+9,strategic alliance,1,,3.46,3.46
+9,recipient,1,,3.46,3.46
+9,worker,1,,3.46,3.46
+9,certification,1,,3.46,3.46
+9,sponsor,1,,3.46,3.46
+9,buyer,1,,3.46,3.46
+9,six sigma,1,,3.46,3.46
+9,operator,1,,3.46,3.46
+9,systems integrators,1,,3.46,3.46
+9,platinum,1,,3.46,3.46
+9,customer care,1,,3.46,3.46
+9,user,1,,3.46,3.46
+9,recognition,1,,3.46,3.46
+9,issuers,1,,3.46,3.46
+9,regulators,1,,3.46,3.46
+9,groups,1,,3.46,3.46
+9,bosses,1,,3.46,3.46
+9,teams,1,,3.46,3.46
+9,bloggers,1,,3.46,3.46
+9,borrowers,1,,3.46,3.46
+9,individuals,1,,3.46,3.46
+9,cos,1,,3.46,3.46
+9,cfos,1,,3.46,3.46
+9,candidates,1,,3.46,3.46
+9,brokerages,1,,3.46,3.46
+9,others,1,,3.46,3.46
+9,recruiters,1,,3.46,3.46
+9,bankers,1,,3.46,3.46
+9,outsourcers,1,,3.46,3.46
+9,respondents,1,,3.46,3.46
+9,politicians,1,,3.46,3.46
+9,institutions,1,,3.46,3.46
+9,patients,1,,3.46,3.46
+9,recruits,1,,3.46,3.46
+9,consultancies,1,,3.46,3.46
+9,lawmakers,1,,3.46,3.46
+9,commerce,1,,3.46,3.46
+9,indian industry cii,1,,3.46,3.46
+9,markets,1,,3.46,3.46
+9,retailing,1,,3.46,3.46
+9,associations,1,,3.46,3.46
+9,government,1,,3.46,3.46
+9,local,1,,3.46,3.46
+9,association,1,,3.46,3.46
+9,assn,1,,3.46,3.46
+9,municipalities,1,,3.46,3.46
+9,legislative,1,,3.46,3.46
+9,insiders,1,,3.46,3.46
+9,chamber,1,,3.46,3.46
+9,pricewaterhousecoopers,1,,3.46,3.46
+9,practitioners,1,,3.46,3.46
+9,dti,1,,3.46,3.46

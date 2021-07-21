@@ -1,0 +1,1525 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+4,education,52,True,10.31,536.12
+4,students,50,True,4.15,207.50000000000003
+4,curriculum,49,,3.33,163.17000000000002
+4,teachers,48,,3.33,159.84
+4,schools,42,True,3.92,164.64
+4,teacher,39,,3.33,129.87
+4,teaching,38,True,5.07,192.66000000000003
+4,classroom,38,,3.33,126.54
+4,educators,37,,3.33,123.21000000000001
+4,math,36,,3.33,119.88
+4,educational,35,True,8.15,285.25
+4,school,35,True,7.02,245.7
+4,kindergarten,35,,3.33,116.55
+4,classrooms,34,True,3.34,113.56
+4,diploma,32,,3.33,106.56
+4,vocational,30,True,3.62,108.60000000000001
+4,mathematics,29,,3.33,96.57000000000001
+4,graduates,28,True,3.81,106.68
+4,courses,26,,3.33,86.58
+4,skills,25,True,6.98,174.5
+4,elementary,25,,3.33,83.25
+4,literacy,24,,3.33,79.92
+4,learning,23,True,7.92,182.16
+4,pupils,23,,3.33,76.59
+4,undergraduate,22,,3.33,73.26
+4,colleges,22,,3.33,73.26
+4,learners,22,,3.33,73.26
+4,preschool,21,,3.33,69.93
+4,algebra,20,,3.33,66.6
+4,academic,19,True,4.24,80.56
+4,universities,19,,3.33,63.27
+4,faculty,19,,3.33,63.27
+4,childcare,18,,3.33,59.94
+4,tutors,18,,3.33,59.94
+4,maths,17,,3.33,56.61
+4,adult education,17,,3.33,56.61
+4,principals,17,,3.33,56.61
+4,curricula,17,,3.33,56.61
+4,instructional,17,,3.33,56.61
+4,curricular,17,,3.33,56.61
+4,humanities,17,,3.33,56.61
+4,advanced placement,17,,3.33,56.61
+4,student,17,,3.33,56.61
+4,mentoring,17,,3.33,56.61
+4,coursework,16,,3.33,53.28
+4,early childhood,16,,3.33,53.28
+4,standardized tests,16,,3.33,53.28
+4,college,16,,3.33,53.28
+4,ninth graders,16,,3.33,53.28
+4,graduate,15,,3.33,49.95
+4,international baccalaureate,15,,3.33,49.95
+4,pre kindergarten,15,,3.33,49.95
+4,professors,15,,3.33,49.95
+4,tutoring,15,,3.33,49.95
+4,vocational training,14,True,7.84,109.75999999999999
+4,achievement,14,True,6.23,87.22
+4,career,14,True,4.17,58.379999999999995
+4,exam,14,,3.33,46.620000000000005
+4,educator,14,,3.33,46.620000000000005
+4,elementary schools,14,,3.33,46.620000000000005
+4,montessori,14,,3.33,46.620000000000005
+4,middle schoolers,14,,3.33,46.620000000000005
+4,careers,14,,3.33,46.620000000000005
+4,apprenticeship,13,True,13.77,179.01
+4,training,13,True,6.08,79.04
+4,master degree,13,,3.33,43.29
+4,postgraduate,13,,3.33,43.29
+4,apprenticeships,13,,3.33,43.29
+4,english language,13,,3.33,43.29
+4,syllabus,13,,3.33,43.29
+4,culinary arts,13,,3.33,43.29
+4,eighth graders,13,,3.33,43.29
+4,instructors,13,,3.33,43.29
+4,mentors,13,,3.33,43.29
+4,internships,13,,3.33,43.29
+4,grades,13,,3.33,43.29
+4,university,12,True,3.33,39.96
+4,ged,12,,3.33,39.96
+4,polytechnic,12,,3.33,39.96
+4,school leavers,12,,3.33,39.96
+4,graduating,12,,3.33,39.96
+4,exams,12,,3.33,39.96
+4,nclb,12,,3.33,39.96
+4,curriculums,12,,3.33,39.96
+4,academies,12,,3.33,39.96
+4,undergraduates,12,,3.33,39.96
+4,tutor,12,,3.33,39.96
+4,entrepreneurship,12,,3.33,39.96
+4,academically,12,,3.33,39.96
+4,fcat,12,,3.33,39.96
+4,language learners,12,,3.33,39.96
+4,educations,12,,3.33,39.96
+4,employment,11,True,5.1,56.099999999999994
+4,higher education,11,,3.33,36.63
+4,public schools,11,,3.33,36.63
+4,instructional materials,11,,3.33,36.63
+4,parents,11,,3.33,36.63
+4,sixth graders,11,,3.33,36.63
+4,eighth grade,11,,3.33,36.63
+4,graduation,11,,3.33,36.63
+4,trainees,10,True,15.11,151.1
+4,reading comprehension,10,True,6.56,65.6
+4,qualifications,10,True,5.59,55.9
+4,academic achievement,10,True,4.67,46.7
+4,employability,10,True,4.09,40.9
+4,employers,10,True,3.55,35.5
+4,degree,10,,3.33,33.3
+4,bachelor degrees,10,,3.33,33.3
+4,early learning,10,,3.33,33.3
+4,continuing education,10,,3.33,33.3
+4,administrators,10,,3.33,33.3
+4,semester,10,,3.33,33.3
+4,fifth graders,10,,3.33,33.3
+4,districtwide,10,,3.33,33.3
+4,kindergartners,10,,3.33,33.3
+4,classes,10,,3.33,33.3
+4,teach,10,,3.33,33.3
+4,homework,10,,3.33,33.3
+4,instruction,10,,3.33,33.3
+4,ell,10,,3.33,33.3
+4,internship,9,True,7.0,63.0
+4,bsc,9,,3.33,29.97
+4,baccalaureate,9,,3.33,29.97
+4,scholarship,9,,3.33,29.97
+4,apprentices,9,,3.33,29.97
+4,tertiary education,9,,3.33,29.97
+4,charter schools,9,,3.33,29.97
+4,parent teacher association,9,,3.33,29.97
+4,physical education,9,,3.33,29.97
+4,head start,9,,3.33,29.97
+4,superintendents,9,,3.33,29.97
+4,ayp,9,,3.33,29.97
+4,academics,9,,3.33,29.97
+4,nurses,9,,3.33,29.97
+4,middle school,9,,3.33,29.97
+4,elementary school,9,,3.33,29.97
+4,second language,9,,3.33,29.97
+4,leadership,9,,3.33,29.97
+4,taks,9,,3.33,29.97
+4,schooling,9,,3.33,29.97
+4,qualification,8,True,3.72,29.76
+4,skill,8,True,3.34,26.72
+4,mba,8,,3.33,26.64
+4,lifelong learning,8,,3.33,26.64
+4,dropout rates,8,,3.33,26.64
+4,textbook,8,,3.33,26.64
+4,schoolchildren,8,,3.33,26.64
+4,job seekers,8,,3.33,26.64
+4,intermediate school,8,,3.33,26.64
+4,elementaries,8,,3.33,26.64
+4,prekindergarten,8,,3.33,26.64
+4,campuses,8,,3.33,26.64
+4,guidance counselors,8,,3.33,26.64
+4,employable,8,,3.33,26.64
+4,lecturers,8,,3.33,26.64
+4,numeracy,8,,3.33,26.64
+4,sats,8,,3.33,26.64
+4,educationally,8,,3.33,26.64
+4,college preparatory,8,,3.33,26.64
+4,campus,8,,3.33,26.64
+4,unemployed,8,,3.33,26.64
+4,msc,7,,3.33,23.310000000000002
+4,undergraduate degree,7,,3.33,23.310000000000002
+4,bachelor degree,7,,3.33,23.310000000000002
+4,lecturer,7,,3.33,23.310000000000002
+4,mechanical engineering,7,,3.33,23.310000000000002
+4,instructor,7,,3.33,23.310000000000002
+4,bursaries,7,,3.33,23.310000000000002
+4,school boards,7,,3.33,23.310000000000002
+4,child care,7,,3.33,23.310000000000002
+4,preschools,7,,3.33,23.310000000000002
+4,schools superintendent,7,,3.33,23.310000000000002
+4,academic affairs,7,,3.33,23.310000000000002
+4,nursing,7,,3.33,23.310000000000002
+4,no child left,7,,3.33,23.310000000000002
+4,dropout rate,7,,3.33,23.310000000000002
+4,scholars,7,,3.33,23.310000000000002
+4,high school,7,,3.33,23.310000000000002
+4,secondary school,7,,3.33,23.310000000000002
+4,electives,7,,3.33,23.310000000000002
+4,economically disadvantaged,7,,3.33,23.310000000000002
+4,readiness,7,,3.33,23.310000000000002
+4,excellence,7,,3.33,23.310000000000002
+4,retraining,7,,3.33,23.310000000000002
+4,courseware,7,,3.33,23.310000000000002
+4,adequate yearly progress,7,,3.33,23.310000000000002
+4,extra curricular activities,7,,3.33,23.310000000000002
+4,language,7,,3.33,23.310000000000002
+4,stem,7,,3.33,23.310000000000002
+4,wasl,7,,3.33,23.310000000000002
+4,admissions,7,,3.33,23.310000000000002
+4,institutes,7,,3.33,23.310000000000002
+4,mbas,7,,3.33,23.310000000000002
+4,sat scores,7,,3.33,23.310000000000002
+4,parental involvement,7,,3.33,23.310000000000002
+4,postsecondary education,7,,3.33,23.310000000000002
+4,scholarships,7,,3.33,23.310000000000002
+4,gifted,7,,3.33,23.310000000000002
+4,classroom instruction,7,,3.33,23.310000000000002
+4,competencies,7,,3.33,23.310000000000002
+4,liberal arts,7,,3.33,23.310000000000002
+4,tuition,7,,3.33,23.310000000000002
+4,certification,6,,3.33,19.98
+4,graduated,6,,3.33,19.98
+4,accreditation,6,,3.33,19.98
+4,gcse,6,,3.33,19.98
+4,examinations,6,,3.33,19.98
+4,accountancy,6,,3.33,19.98
+4,educated,6,,3.33,19.98
+4,pre med,6,,3.33,19.98
+4,secondary education,6,,3.33,19.98
+4,workforce development,6,,3.33,19.98
+4,secondary schools,6,,3.33,19.98
+4,principal,6,,3.33,19.98
+4,libraries,6,,3.33,19.98
+4,workforce investment,6,,3.33,19.98
+4,applicants,6,,3.33,19.98
+4,kids,6,,3.33,19.98
+4,librarians,6,,3.33,19.98
+4,undergrads,6,,3.33,19.98
+4,freshmen,6,,3.33,19.98
+4,grammar,6,,3.33,19.98
+4,sixth grader,6,,3.33,19.98
+4,assistant principal,6,,3.33,19.98
+4,youth,6,,3.33,19.98
+4,job corps,6,,3.33,19.98
+4,recruitment,6,,3.33,19.98
+4,districts,6,,3.33,19.98
+4,adequate yearly,6,,3.33,19.98
+4,pedagogy,6,,3.33,19.98
+4,biology,6,,3.33,19.98
+4,languages,6,,3.33,19.98
+4,workbooks,6,,3.33,19.98
+4,textbooks,6,,3.33,19.98
+4,undergrad,6,,3.33,19.98
+4,semesters,6,,3.33,19.98
+4,sociology,6,,3.33,19.98
+4,extracurricular activities,6,,3.33,19.98
+4,mcas,6,,3.33,19.98
+4,enrollments,6,,3.33,19.98
+4,graders,6,,3.33,19.98
+4,cafeteria,6,,3.33,19.98
+4,daycare,6,,3.33,19.98
+4,afterschool,6,,3.33,19.98
+4,civics,6,,3.33,19.98
+4,college grads,6,,3.33,19.98
+4,grad,6,,3.33,19.98
+4,gainful employment,6,,3.33,19.98
+4,retrain,6,,3.33,19.98
+4,mentorship,6,,3.33,19.98
+4,unskilled,6,,3.33,19.98
+4,workforce,6,,3.33,19.98
+4,skilled,6,,3.33,19.98
+4,science,6,,3.33,19.98
+4,enrollment,5,True,3.44,17.2
+4,children,5,True,3.43,17.150000000000002
+4,bachelors,5,,3.33,16.65
+4,bachelor,5,,3.33,16.65
+4,diplomas,5,,3.33,16.65
+4,doctoral degree,5,,3.33,16.65
+4,gcses,5,,3.33,16.65
+4,phd,5,,3.33,16.65
+4,bursary,5,,3.33,16.65
+4,tafe,5,,3.33,16.65
+4,specialization,5,,3.33,16.65
+4,entrance exam,5,,3.33,16.65
+4,computer science,5,,3.33,16.65
+4,youngsters,5,,3.33,16.65
+4,teens,5,,3.33,16.65
+4,employees,5,,3.33,16.65
+4,schoolers,5,,3.33,16.65
+4,preparatory school,5,,3.33,16.65
+4,primary school,5,,3.33,16.65
+4,declining enrollment,5,,3.33,16.65
+4,kindergartner,5,,3.33,16.65
+4,library,5,,3.33,16.65
+4,schoolhouse,5,,3.33,16.65
+4,superintendent,5,,3.33,16.65
+4,carpentry,5,,3.33,16.65
+4,community,5,,3.33,16.65
+4,counseling,5,,3.33,16.65
+4,cultural,5,,3.33,16.65
+4,guidance counselor,5,,3.33,16.65
+4,coaching,5,,3.33,16.65
+4,community colleges,5,,3.33,16.65
+4,literature,5,,3.33,16.65
+4,storytelling,5,,3.33,16.65
+4,parenting,5,,3.33,16.65
+4,philosophy,5,,3.33,16.65
+4,teaching assistants,5,,3.33,16.65
+4,sat,5,,3.33,16.65
+4,academic excellence,5,,3.33,16.65
+4,proficiency,5,,3.33,16.65
+4,aptitude,5,,3.33,16.65
+4,grade,5,,3.33,16.65
+4,entrepreneurial,5,,3.33,16.65
+4,parent,5,,3.33,16.65
+4,learner,5,,3.33,16.65
+4,skilled workforce,5,,3.33,16.65
+4,incoming freshmen,5,,3.33,16.65
+4,scholar,5,,3.33,16.65
+4,apprentice,5,,3.33,16.65
+4,professions,5,,3.33,16.65
+4,cvs,5,,3.33,16.65
+4,trainee,4,True,10.81,43.24
+4,professional,4,True,4.74,18.96
+4,examination,4,,3.33,13.32
+4,certifications,4,,3.33,13.32
+4,phds,4,,3.33,13.32
+4,civil engineering,4,,3.33,13.32
+4,doctoral,4,,3.33,13.32
+4,public instruction,4,,3.33,13.32
+4,juvenile justice,4,,3.33,13.32
+4,empowerment,4,,3.33,13.32
+4,classmates,4,,3.33,13.32
+4,workers,4,,3.33,13.32
+4,academy,4,,3.33,13.32
+4,pupil,4,,3.33,13.32
+4,assistant superintendent,4,,3.33,13.32
+4,collegiate,4,,3.33,13.32
+4,hairdressing,4,,3.33,13.32
+4,bilingual,4,,3.33,13.32
+4,orientation,4,,3.33,13.32
+4,cadet,4,,3.33,13.32
+4,foreign language,4,,3.33,13.32
+4,enrichment,4,,3.33,13.32
+4,standards,4,,3.33,13.32
+4,graduating seniors,4,,3.33,13.32
+4,dropouts,4,,3.33,13.32
+4,schoolwork,4,,3.33,13.32
+4,english proficiency,4,,3.33,13.32
+4,playground,4,,3.33,13.32
+4,grads,4,,3.33,13.32
+4,interns,4,,3.33,13.32
+4,intern,4,,3.33,13.32
+4,disadvantaged,4,,3.33,13.32
+4,educational institutions,4,,3.33,13.32
+4,interpersonal skills,4,,3.33,13.32
+4,entrance exams,4,,3.33,13.32
+4,alumni,4,,3.33,13.32
+4,electricians,4,,3.33,13.32
+4,competency,4,,3.33,13.32
+4,jobs,4,,3.33,13.32
+4,tuitions,4,,3.33,13.32
+4,jobseekers,4,,3.33,13.32
+4,midwives,4,,3.33,13.32
+4,comprehension,3,True,5.46,16.38
+4,certificate,3,,3.33,9.99
+4,doctorate,3,,3.33,9.99
+4,mbbs,3,,3.33,9.99
+4,specializations,3,,3.33,9.99
+4,majoring,3,,3.33,9.99
+4,developmental disabilities,3,,3.33,9.99
+4,mental health,3,,3.33,9.99
+4,advancement,3,,3.33,9.99
+4,teenagers,3,,3.33,9.99
+4,youths,3,,3.33,9.99
+4,candidates,3,,3.33,9.99
+4,seniors,3,,3.33,9.99
+4,businesses,3,,3.33,9.99
+4,journalists,3,,3.33,9.99
+4,musicians,3,,3.33,9.99
+4,taxpayers,3,,3.33,9.99
+4,leaders,3,,3.33,9.99
+4,grammar school,3,,3.33,9.99
+4,unified school,3,,3.33,9.99
+4,district,3,,3.33,9.99
+4,graduate school,3,,3.33,9.99
+4,headmaster,3,,3.33,9.99
+4,parochial schools,3,,3.33,9.99
+4,seventh grader,3,,3.33,9.99
+4,portable classrooms,3,,3.33,9.99
+4,isd,3,,3.33,9.99
+4,public library,3,,3.33,9.99
+4,boces,3,,3.33,9.99
+4,technical,3,,3.33,9.99
+4,technical college,3,,3.33,9.99
+4,special needs,3,,3.33,9.99
+4,cosmetology,3,,3.33,9.99
+4,community college,3,,3.33,9.99
+4,counselling,3,,3.33,9.99
+4,rehabilitation,3,,3.33,9.99
+4,welding,3,,3.33,9.99
+4,independent living,3,,3.33,9.99
+4,assistance,3,,3.33,9.99
+4,trainings,3,,3.33,9.99
+4,boot camp,3,,3.33,9.99
+4,trainers,3,,3.33,9.99
+4,motivation,3,,3.33,9.99
+4,success,3,,3.33,9.99
+4,headteachers,3,,3.33,9.99
+4,taught,3,,3.33,9.99
+4,geography,3,,3.33,9.99
+4,knowledge,3,,3.33,9.99
+4,discipline,3,,3.33,9.99
+4,creativity,3,,3.33,9.99
+4,psychology,3,,3.33,9.99
+4,experience,3,,3.33,9.99
+4,theology,3,,3.33,9.99
+4,faculties,3,,3.33,9.99
+4,electrical engineering,3,,3.33,9.99
+4,linguistics,3,,3.33,9.99
+4,dissertation,3,,3.33,9.99
+4,interdisciplinary,3,,3.33,9.99
+4,educational attainment,3,,3.33,9.99
+4,scholastic,3,,3.33,9.99
+4,extracurricular,3,,3.33,9.99
+4,extra curricular,3,,3.33,9.99
+4,scholar athlete,3,,3.33,9.99
+4,excelling,3,,3.33,9.99
+4,problem solving,3,,3.33,9.99
+4,scores,3,,3.33,9.99
+4,grader,3,,3.33,9.99
+4,lunchroom,3,,3.33,9.99
+4,pta,3,,3.33,9.99
+4,multipurpose room,3,,3.33,9.99
+4,financial literacy,3,,3.33,9.99
+4,multicultural,3,,3.33,9.99
+4,esl,3,,3.33,9.99
+4,pathways,3,,3.33,9.99
+4,preschoolers,3,,3.33,9.99
+4,recruits,3,,3.33,9.99
+4,entrepreneurs,3,,3.33,9.99
+4,graduation ceremony,3,,3.33,9.99
+4,reservists,3,,3.33,9.99
+4,fellows,3,,3.33,9.99
+4,madrassas,3,,3.33,9.99
+4,unions,3,,3.33,9.99
+4,publishers,3,,3.33,9.99
+4,homeschool,3,,3.33,9.99
+4,migrant,3,,3.33,9.99
+4,disability,3,,3.33,9.99
+4,knowsley,3,,3.33,9.99
+4,carers,3,,3.33,9.99
+4,freshman,3,,3.33,9.99
+4,division iii,3,,3.33,9.99
+4,varsity,3,,3.33,9.99
+4,suny,3,,3.33,9.99
+4,self employed,3,,3.33,9.99
+4,rigor,3,,3.33,9.99
+4,aims,3,,3.33,9.99
+4,vocabulary,3,,3.33,9.99
+4,jobless,3,,3.33,9.99
+4,welfare recipients,3,,3.33,9.99
+4,welders,3,,3.33,9.99
+4,institutions,3,,3.33,9.99
+4,provost,3,,3.33,9.99
+4,physics,3,,3.33,9.99
+4,composition,3,,3.33,9.99
+4,humanistic,2,True,8.1,16.2
+4,humanism,2,True,4.81,9.62
+4,elearning,2,True,4.72,9.44
+4,dropout,2,True,4.58,9.16
+4,learning disabilities,2,True,4.2,8.4
+4,buildings,2,True,3.86,7.72
+4,effectiveness,2,True,3.83,7.66
+4,dyslexia,2,True,3.65,7.3
+4,honours,2,,3.33,6.66
+4,ph.d,2,,3.33,6.66
+4,doctorates,2,,3.33,6.66
+4,certificates,2,,3.33,6.66
+4,bsn,2,,3.33,6.66
+4,hsc,2,,3.33,6.66
+4,cum laude,2,,3.33,6.66
+4,human resources,2,,3.33,6.66
+4,economic development,2,,3.33,6.66
+4,tourism,2,,3.33,6.66
+4,accountability,2,,3.33,6.66
+4,participants,2,,3.33,6.66
+4,individuals,2,,3.33,6.66
+4,members,2,,3.33,6.66
+4,inmates,2,,3.33,6.66
+4,athletes,2,,3.33,6.66
+4,guests,2,,3.33,6.66
+4,drivers,2,,3.33,6.66
+4,activists,2,,3.33,6.66
+4,evacuees,2,,3.33,6.66
+4,recipients,2,,3.33,6.66
+4,folks,2,,3.33,6.66
+4,homeowners,2,,3.33,6.66
+4,preparatory,2,,3.33,6.66
+4,secondary,2,,3.33,6.66
+4,magnet,2,,3.33,6.66
+4,hs,2,,3.33,6.66
+4,agricultural,2,,3.33,6.66
+4,social work,2,,3.33,6.66
+4,cooperative,2,,3.33,6.66
+4,social welfare,2,,3.33,6.66
+4,applied science,2,,3.33,6.66
+4,recruit,2,,3.33,6.66
+4,trained,2,,3.33,6.66
+4,workshops,2,,3.33,6.66
+4,workshop,2,,3.33,6.66
+4,outreach,2,,3.33,6.66
+4,policing,2,,3.33,6.66
+4,resource,2,,3.33,6.66
+4,demonstration,2,,3.33,6.66
+4,wellness,2,,3.33,6.66
+4,transformation,2,,3.33,6.66
+4,communities,2,,3.33,6.66
+4,hospitals,2,,3.33,6.66
+4,hisd,2,,3.33,6.66
+4,prep,2,,3.33,6.66
+4,volunteering,2,,3.33,6.66
+4,fostering,2,,3.33,6.66
+4,citizenship,2,,3.33,6.66
+4,studying,2,,3.33,6.66
+4,journalism,2,,3.33,6.66
+4,programming,2,,3.33,6.66
+4,assessments,2,,3.33,6.66
+4,assessment,2,,3.33,6.66
+4,iep,2,,3.33,6.66
+4,zoology,2,,3.33,6.66
+4,biochemistry,2,,3.33,6.66
+4,criminology,2,,3.33,6.66
+4,tuition fees,2,,3.33,6.66
+4,institute,2,,3.33,6.66
+4,enrolled,2,,3.33,6.66
+4,midwifery,2,,3.33,6.66
+4,tertiary,2,,3.33,6.66
+4,civic engagement,2,,3.33,6.66
+4,socioeconomic status,2,,3.33,6.66
+4,attainment,2,,3.33,6.66
+4,socioeconomic,2,,3.33,6.66
+4,truancy,2,,3.33,6.66
+4,kipp,2,,3.33,6.66
+4,spellings,2,,3.33,6.66
+4,honor roll,2,,3.33,6.66
+4,teen pregnancy,2,,3.33,6.66
+4,eighth grader,2,,3.33,6.66
+4,portables,2,,3.33,6.66
+4,jrotc,2,,3.33,6.66
+4,gymnasium,2,,3.33,6.66
+4,arts,2,,3.33,6.66
+4,summer reading,2,,3.33,6.66
+4,junior achievement,2,,3.33,6.66
+4,autism,2,,3.33,6.66
+4,healthy living,2,,3.33,6.66
+4,senior citizens,2,,3.33,6.66
+4,domestic violence,2,,3.33,6.66
+4,illiteracy,2,,3.33,6.66
+4,foundations,2,,3.33,6.66
+4,childrens,2,,3.33,6.66
+4,underprivileged,2,,3.33,6.66
+4,environments,2,,3.33,6.66
+4,workplace,2,,3.33,6.66
+4,connections,2,,3.33,6.66
+4,recruiters,2,,3.33,6.66
+4,professionals,2,,3.33,6.66
+4,retirees,2,,3.33,6.66
+4,cadets,2,,3.33,6.66
+4,job fair,2,,3.33,6.66
+4,aspiring,2,,3.33,6.66
+4,minorities,2,,3.33,6.66
+4,learn,2,,3.33,6.66
+4,innovation,2,,3.33,6.66
+4,partnerships,2,,3.33,6.66
+4,kindergartens,2,,3.33,6.66
+4,weavers,2,,3.33,6.66
+4,legislators,2,,3.33,6.66
+4,counselors,2,,3.33,6.66
+4,advocates,2,,3.33,6.66
+4,michael gove,2,,3.33,6.66
+4,pensions,2,,3.33,6.66
+4,ed balls,2,,3.33,6.66
+4,ofsted,2,,3.33,6.66
+4,welsh assembly,2,,3.33,6.66
+4,capability,2,,3.33,6.66
+4,honorable mention,2,,3.33,6.66
+4,dean list,2,,3.33,6.66
+4,honors,2,,3.33,6.66
+4,athlete,2,,3.33,6.66
+4,gpa,2,,3.33,6.66
+4,distinguished,2,,3.33,6.66
+4,national honor society,2,,3.33,6.66
+4,student activities,2,,3.33,6.66
+4,naia,2,,3.33,6.66
+4,student affairs,2,,3.33,6.66
+4,esu,2,,3.33,6.66
+4,associate,2,,3.33,6.66
+4,dean,2,,3.33,6.66
+4,yale,2,,3.33,6.66
+4,military academy,2,,3.33,6.66
+4,electrician,2,,3.33,6.66
+4,job,2,,3.33,6.66
+4,mentor,2,,3.33,6.66
+4,bricklayer,2,,3.33,6.66
+4,welder,2,,3.33,6.66
+4,carpenters,2,,3.33,6.66
+4,tutored,2,,3.33,6.66
+4,proficient,2,,3.33,6.66
+4,fluency,2,,3.33,6.66
+4,mastery,2,,3.33,6.66
+4,abilities,2,,3.33,6.66
+4,prowess,2,,3.33,6.66
+4,excel,2,,3.33,6.66
+4,competence,2,,3.33,6.66
+4,standardized,2,,3.33,6.66
+4,dexterity,2,,3.33,6.66
+4,licensure,2,,3.33,6.66
+4,fluent,2,,3.33,6.66
+4,behind act,2,,3.33,6.66
+4,sophistication,2,,3.33,6.66
+4,professionalism,2,,3.33,6.66
+4,underemployed,2,,3.33,6.66
+4,retrained,2,,3.33,6.66
+4,highly skilled,2,,3.33,6.66
+4,job seeker,2,,3.33,6.66
+4,competent,2,,3.33,6.66
+4,qualified,2,,3.33,6.66
+4,tertiary institutions,2,,3.33,6.66
+4,occupations,2,,3.33,6.66
+4,administrative,2,,3.33,6.66
+4,judicial,2,,3.33,6.66
+4,nonprofit,2,,3.33,6.66
+4,deans,2,,3.33,6.66
+4,sacs,2,,3.33,6.66
+4,fraternities,2,,3.33,6.66
+4,accrediting,2,,3.33,6.66
+4,seminaries,2,,3.33,6.66
+4,devry,2,,3.33,6.66
+4,alumni association,2,,3.33,6.66
+4,education secretary arne,2,,3.33,6.66
+4,adolescents,2,,3.33,6.66
+4,arithmetic,2,,3.33,6.66
+4,calculus,2,,3.33,6.66
+4,chemistry,2,,3.33,6.66
+4,programs,2,,3.33,6.66
+4,indoctrination,2,,3.33,6.66
+4,teachings,2,,3.33,6.66
+4,worldview,2,,3.33,6.66
+4,foundational,2,,3.33,6.66
+4,culture,2,,3.33,6.66
+4,unemployment,2,,3.33,6.66
+4,wages,2,,3.33,6.66
+4,employer,2,,3.33,6.66
+4,human resource,2,,3.33,6.66
+4,personnel,2,,3.33,6.66
+4,payrolls,2,,3.33,6.66
+4,salary,2,,3.33,6.66
+4,civil service,2,,3.33,6.66
+4,political science,2,,3.33,6.66
+4,fine arts,2,,3.33,6.66
+4,economics,2,,3.33,6.66
+4,nursery,2,,3.33,6.66
+4,homeschooled,2,,3.33,6.66
+4,toddlers,2,,3.33,6.66
+4,grandparents,2,,3.33,6.66
+4,redundancies,2,,3.33,6.66
+4,compulsory redundancies,2,,3.33,6.66
+4,tradesmen,2,,3.33,6.66
+4,teesside,2,,3.33,6.66
+4,phi beta kappa,2,,3.33,6.66
+4,applicant,2,,3.33,6.66
+4,emiratis,2,,3.33,6.66
+4,uae nationals,2,,3.33,6.66
+4,volunteers,2,,3.33,6.66
+4,facilitators,2,,3.33,6.66
+4,sorority,2,,3.33,6.66
+4,teen,2,,3.33,6.66
+4,employee,2,,3.33,6.66
+4,juniors,2,,3.33,6.66
+4,junior,2,,3.33,6.66
+4,airmen,2,,3.33,6.66
+4,theological,2,,3.33,6.66
+4,scholarly,2,,3.33,6.66
+4,librarian,2,,3.33,6.66
+4,professional training,1,True,13.25,13.25
+4,educational needs,1,True,13.16,13.16
+4,distance learning,1,True,11.81,11.81
+4,educational strategies,1,True,11.5,11.5
+4,school environment,1,True,11.34,11.34
+4,professional education,1,True,10.8,10.8
+4,special education,1,True,10.64,10.64
+4,reading,1,True,9.15,9.15
+4,academic performance,1,True,8.81,8.81
+4,distance education,1,True,8.63,8.63
+4,education needs,1,True,8.53,8.53
+4,school buildings,1,True,8.43,8.43
+4,practical training,1,True,8.41,8.41
+4,education reform,1,True,8.37,8.37
+4,educational reform,1,True,7.62,7.62
+4,distance,1,True,7.31,7.31
+4,social responsibility,1,True,7.26,7.26
+4,citizenship education,1,True,6.87,6.87
+4,school attendance,1,True,6.84,6.84
+4,school achievement,1,True,6.68,6.68
+4,soft skills,1,True,6.59,6.59
+4,technical education,1,True,6.49,6.49
+4,teaching quality,1,True,6.45,6.45
+4,learning activities,1,True,6.2,6.2
+4,education quality,1,True,6.03,6.03
+4,phonological,1,True,6.02,6.02
+4,writing skills,1,True,5.93,5.93
+4,learning systems,1,True,5.85,5.85
+4,sustainable development,1,True,5.48,5.48
+4,learning environment,1,True,5.35,5.35
+4,quality teaching,1,True,5.24,5.24
+4,active learning,1,True,5.18,5.18
+4,student learning,1,True,5.15,5.15
+4,humanist,1,True,5.11,5.11
+4,literacy development,1,True,4.96,4.96
+4,sustainability,1,True,4.94,4.94
+4,career development,1,True,4.85,4.85
+4,segregated,1,True,4.67,4.67
+4,special,1,True,4.57,4.57
+4,professional competence,1,True,4.52,4.52
+4,mathematical skills,1,True,4.43,4.43
+4,student achievement,1,True,4.25,4.25
+4,reform,1,True,4.06,4.06
+4,learning environments,1,True,4.05,4.05
+4,multimedia,1,True,4.01,4.01
+4,writing,1,True,3.99,3.99
+4,learning activity,1,True,3.96,3.96
+4,segregation,1,True,3.93,3.93
+4,speech sound,1,True,3.86,3.86
+4,teacher quality,1,True,3.64,3.64
+4,teaching effectiveness,1,True,3.61,3.61
+4,better,1,True,3.59,3.59
+4,needs,1,True,3.59,3.59
+4,virtual learning,1,True,3.59,3.59
+4,building,1,True,3.52,3.52
+4,learning platform,1,True,3.45,3.45
+4,sustainable,1,True,3.38,3.38
+4,learning gains,1,True,3.37,3.37
+4,attendance,1,True,3.34,3.34
+4,bs,1,,3.33,3.33
+4,master,1,,3.33,3.33
+4,matric,1,,3.33,3.33
+4,technician,1,,3.33,3.33
+4,certified,1,,3.33,3.33
+4,bfa,1,,3.33,3.33
+4,licence,1,,3.33,3.33
+4,health,1,,3.33,3.33
+4,agriculture,1,,3.33,3.33
+4,finance,1,,3.33,3.33
+4,human services,1,,3.33,3.33
+4,cultural affairs,1,,3.33,3.33
+4,planning,1,,3.33,3.33
+4,child welfare,1,,3.33,3.33
+4,transportation,1,,3.33,3.33
+4,campers,1,,3.33,3.33
+4,residents,1,,3.33,3.33
+4,patrons,1,,3.33,3.33
+4,patients,1,,3.33,3.33
+4,attendees,1,,3.33,3.33
+4,commuters,1,,3.33,3.33
+4,visitors,1,,3.33,3.33
+4,people,1,,3.33,3.33
+4,passengers,1,,3.33,3.33
+4,customers,1,,3.33,3.33
+4,cyclists,1,,3.33,3.33
+4,motorists,1,,3.33,3.33
+4,consumers,1,,3.33,3.33
+4,protestors,1,,3.33,3.33
+4,contestants,1,,3.33,3.33
+4,locals,1,,3.33,3.33
+4,shoppers,1,,3.33,3.33
+4,prisoners,1,,3.33,3.33
+4,fans,1,,3.33,3.33
+4,voters,1,,3.33,3.33
+4,others,1,,3.33,3.33
+4,demonstrators,1,,3.33,3.33
+4,golfers,1,,3.33,3.33
+4,players,1,,3.33,3.33
+4,protesters,1,,3.33,3.33
+4,viewers,1,,3.33,3.33
+4,diners,1,,3.33,3.33
+4,wrestlers,1,,3.33,3.33
+4,spectators,1,,3.33,3.33
+4,adults,1,,3.33,3.33
+4,staffers,1,,3.33,3.33
+4,audiences,1,,3.33,3.33
+4,subjects,1,,3.33,3.33
+4,swimmers,1,,3.33,3.33
+4,hospital,1,,3.33,3.33
+4,clinic,1,,3.33,3.33
+4,busing,1,,3.33,3.33
+4,deaf,1,,3.33,3.33
+4,developmental,1,,3.33,3.33
+4,don bosco,1,,3.33,3.33
+4,jhs,1,,3.33,3.33
+4,correctional,1,,3.33,3.33
+4,agri,1,,3.33,3.33
+4,rural development,1,,3.33,3.33
+4,sewing,1,,3.33,3.33
+4,recruiting,1,,3.33,3.33
+4,conditioning,1,,3.33,3.33
+4,simulation,1,,3.33,3.33
+4,training camp,1,,3.33,3.33
+4,support,1,,3.33,3.33
+4,seminar,1,,3.33,3.33
+4,combat,1,,3.33,3.33
+4,emergency response,1,,3.33,3.33
+4,certification program,1,,3.33,3.33
+4,seminars,1,,3.33,3.33
+4,testing,1,,3.33,3.33
+4,occupational,1,,3.33,3.33
+4,simulator,1,,3.33,3.33
+4,fitness,1,,3.33,3.33
+4,trainer,1,,3.33,3.33
+4,exercise,1,,3.33,3.33
+4,retreat,1,,3.33,3.33
+4,camps,1,,3.33,3.33
+4,awareness,1,,3.33,3.33
+4,maintenance,1,,3.33,3.33
+4,karate,1,,3.33,3.33
+4,therapy,1,,3.33,3.33
+4,preparation,1,,3.33,3.33
+4,quantico va.,1,,3.33,3.33
+4,course,1,,3.33,3.33
+4,operations,1,,3.33,3.33
+4,martial arts,1,,3.33,3.33
+4,treatment,1,,3.33,3.33
+4,yoga,1,,3.33,3.33
+4,operational,1,,3.33,3.33
+4,consultation,1,,3.33,3.33
+4,evaluation,1,,3.33,3.33
+4,deployment,1,,3.33,3.33
+4,warfare,1,,3.33,3.33
+4,trauma,1,,3.33,3.33
+4,intervention,1,,3.33,3.33
+4,compliance,1,,3.33,3.33
+4,tactical,1,,3.33,3.33
+4,teaches,1,,3.33,3.33
+4,preaching,1,,3.33,3.33
+4,educating,1,,3.33,3.33
+4,sexuality,1,,3.33,3.33
+4,programmes,1,,3.33,3.33
+4,workbook,1,,3.33,3.33
+4,character,1,,3.33,3.33
+4,fellowships,1,,3.33,3.33
+4,doctoral degrees,1,,3.33,3.33
+4,residencies,1,,3.33,3.33
+4,professorship,1,,3.33,3.33
+4,uni,1,,3.33,3.33
+4,dentistry,1,,3.33,3.33
+4,berklee college,1,,3.33,3.33
+4,physiotherapy,1,,3.33,3.33
+4,studied,1,,3.33,3.33
+4,ph.d.,1,,3.33,3.33
+4,imperial college,1,,3.33,3.33
+4,achievers,1,,3.33,3.33
+4,volunteerism,1,,3.33,3.33
+4,self esteem,1,,3.33,3.33
+4,sportsmanship,1,,3.33,3.33
+4,national merit scholarship,1,,3.33,3.33
+4,branch library,1,,3.33,3.33
+4,pto,1,,3.33,3.33
+4,baptist church,1,,3.33,3.33
+4,united methodist church,1,,3.33,3.33
+4,first baptist church,1,,3.33,3.33
+4,disd,1,,3.33,3.33
+4,longfellow,1,,3.33,3.33
+4,optimist club,1,,3.33,3.33
+4,volunteer fire department,1,,3.33,3.33
+4,missionary baptist church,1,,3.33,3.33
+4,presbyterian church,1,,3.33,3.33
+4,reads,1,,3.33,3.33
+4,poetry,1,,3.33,3.33
+4,reach out,1,,3.33,3.33
+4,immunization,1,,3.33,3.33
+4,braille,1,,3.33,3.33
+4,volunteer,1,,3.33,3.33
+4,helping hands,1,,3.33,3.33
+4,community outreach,1,,3.33,3.33
+4,jumpstart,1,,3.33,3.33
+4,caring,1,,3.33,3.33
+4,cultural arts,1,,3.33,3.33
+4,healthy kids,1,,3.33,3.33
+4,stewardship,1,,3.33,3.33
+4,literary,1,,3.33,3.33
+4,epilepsy,1,,3.33,3.33
+4,ywca,1,,3.33,3.33
+4,diabetes,1,,3.33,3.33
+4,easter seals,1,,3.33,3.33
+4,cancer,1,,3.33,3.33
+4,performing arts,1,,3.33,3.33
+4,big sisters,1,,3.33,3.33
+4,friendship,1,,3.33,3.33
+4,disabilities,1,,3.33,3.33
+4,scholarship program,1,,3.33,3.33
+4,child abuse,1,,3.33,3.33
+4,backpack,1,,3.33,3.33
+4,basics,1,,3.33,3.33
+4,room,1,,3.33,3.33
+4,courtroom,1,,3.33,3.33
+4,blackboard,1,,3.33,3.33
+4,lab,1,,3.33,3.33
+4,practical,1,,3.33,3.33
+4,lesson,1,,3.33,3.33
+4,collaborative,1,,3.33,3.33
+4,program,1,,3.33,3.33
+4,kidz,1,,3.33,3.33
+4,minds,1,,3.33,3.33
+4,toolkit,1,,3.33,3.33
+4,best practices,1,,3.33,3.33
+4,immigrants,1,,3.33,3.33
+4,career fair,1,,3.33,3.33
+4,firms,1,,3.33,3.33
+4,migrants,1,,3.33,3.33
+4,beneficiaries,1,,3.33,3.33
+4,clients,1,,3.33,3.33
+4,discovering,1,,3.33,3.33
+4,transitions,1,,3.33,3.33
+4,healing,1,,3.33,3.33
+4,exploring,1,,3.33,3.33
+4,transition,1,,3.33,3.33
+4,therapeutic,1,,3.33,3.33
+4,psychological counseling,1,,3.33,3.33
+4,reintegration,1,,3.33,3.33
+4,handicraft,1,,3.33,3.33
+4,reintegrate,1,,3.33,3.33
+4,rehabilitative,1,,3.33,3.33
+4,upgradation,1,,3.33,3.33
+4,psychosocial,1,,3.33,3.33
+4,resettlement,1,,3.33,3.33
+4,equipping,1,,3.33,3.33
+4,handicrafts,1,,3.33,3.33
+4,upliftment,1,,3.33,3.33
+4,poverty alleviation,1,,3.33,3.33
+4,imparting,1,,3.33,3.33
+4,niit,1,,3.33,3.33
+4,rehabilitate,1,,3.33,3.33
+4,self sufficiency,1,,3.33,3.33
+4,monthly stipend,1,,3.33,3.33
+4,infrastructural,1,,3.33,3.33
+4,medium enterprises,1,,3.33,3.33
+4,equip,1,,3.33,3.33
+4,socio economic,1,,3.33,3.33
+4,rehabilitated,1,,3.33,3.33
+4,specialized,1,,3.33,3.33
+4,orphans,1,,3.33,3.33
+4,caregivers,1,,3.33,3.33
+4,nonprofits,1,,3.33,3.33
+4,clinicians,1,,3.33,3.33
+4,dentists,1,,3.33,3.33
+4,lawmakers,1,,3.33,3.33
+4,experts,1,,3.33,3.33
+4,filmmakers,1,,3.33,3.33
+4,enthusiasts,1,,3.33,3.33
+4,physicians,1,,3.33,3.33
+4,scientists,1,,3.33,3.33
+4,planners,1,,3.33,3.33
+4,coaches,1,,3.33,3.33
+4,supporters,1,,3.33,3.33
+4,families,1,,3.33,3.33
+4,pastors,1,,3.33,3.33
+4,sport,1,,3.33,3.33
+4,opportunities,1,,3.33,3.33
+4,lsc,1,,3.33,3.33
+4,centres,1,,3.33,3.33
+4,talent,1,,3.33,3.33
+4,balls,1,,3.33,3.33
+4,comptia,1,,3.33,3.33
+4,fundamentals,1,,3.33,3.33
+4,assignments,1,,3.33,3.33
+4,nscaa,1,,3.33,3.33
+4,honoree,1,,3.33,3.33
+4,letterwinner,1,,3.33,3.33
+4,preseason,1,,3.33,3.33
+4,soccer coaches,1,,3.33,3.33
+4,women basketball,1,,3.33,3.33
+4,gliac,1,,3.33,3.33
+4,female athlete,1,,3.33,3.33
+4,njcaa,1,,3.33,3.33
+4,women lacrosse,1,,3.33,3.33
+4,swimmer,1,,3.33,3.33
+4,most valuable,1,,3.33,3.33
+4,most improved,1,,3.33,3.33
+4,player,1,,3.33,3.33
+4,glvc,1,,3.33,3.33
+4,ecac,1,,3.33,3.33
+4,most valuable player,1,,3.33,3.33
+4,letterman,1,,3.33,3.33
+4,senior,1,,3.33,3.33
+4,big east,1,,3.33,3.33
+4,njac,1,,3.33,3.33
+4,men tennis,1,,3.33,3.33
+4,nsic,1,,3.33,3.33
+4,men basketball,1,,3.33,3.33
+4,defensive player,1,,3.33,3.33
+4,wvc,1,,3.33,3.33
+4,football coaches,1,,3.33,3.33
+4,organizational,1,,3.33,3.33
+4,coaches association,1,,3.33,3.33
+4,volleyball,1,,3.33,3.33
+4,most improved player,1,,3.33,3.33
+4,offensive player,1,,3.33,3.33
+4,clinical,1,,3.33,3.33
+4,miac,1,,3.33,3.33
+4,award winner,1,,3.33,3.33
+4,wesleyan,1,,3.33,3.33
+4,seminary,1,,3.33,3.33
+4,univ,1,,3.33,3.33
+4,u.,1,,3.33,3.33
+4,bowdoin college,1,,3.33,3.33
+4,cw post,1,,3.33,3.33
+4,trinity,1,,3.33,3.33
+4,mount saint,1,,3.33,3.33
+4,sacred heart,1,,3.33,3.33
+4,longwood,1,,3.33,3.33
+4,dartmouth college,1,,3.33,3.33
+4,ssu,1,,3.33,3.33
+4,umass,1,,3.33,3.33
+4,ithaca college,1,,3.33,3.33
+4,concordia,1,,3.33,3.33
+4,holy cross,1,,3.33,3.33
+4,lenoir rhyne,1,,3.33,3.33
+4,loyola,1,,3.33,3.33
+4,middlebury college,1,,3.33,3.33
+4,theological seminary,1,,3.33,3.33
+4,state,1,,3.33,3.33
+4,alma mater,1,,3.33,3.33
+4,bu,1,,3.33,3.33
+4,cal poly pomona,1,,3.33,3.33
+4,carson newman,1,,3.33,3.33
+4,rose hulman,1,,3.33,3.33
+4,northeastern,1,,3.33,3.33
+4,rit,1,,3.33,3.33
+4,csu,1,,3.33,3.33
+4,umass lowell,1,,3.33,3.33
+4,babson college,1,,3.33,3.33
+4,bowdoin,1,,3.33,3.33
+4,convocation,1,,3.33,3.33
+4,unc charlotte,1,,3.33,3.33
+4,depauw,1,,3.33,3.33
+4,st. bonaventure,1,,3.33,3.33
+4,usc upstate,1,,3.33,3.33
+4,benedictine,1,,3.33,3.33
+4,vassar,1,,3.33,3.33
+4,adelphi,1,,3.33,3.33
+4,lyceum,1,,3.33,3.33
+4,st. norbert,1,,3.33,3.33
+4,unc,1,,3.33,3.33
+4,division ii,1,,3.33,3.33
+4,assumption,1,,3.33,3.33
+4,loyola marymount,1,,3.33,3.33
+4,samford,1,,3.33,3.33
+4,earlham,1,,3.33,3.33
+4,nebraska omaha,1,,3.33,3.33
+4,brigham young university,1,,3.33,3.33
+4,mentored,1,,3.33,3.33
+4,machinist,1,,3.33,3.33
+4,bartending,1,,3.33,3.33
+4,probationary period,1,,3.33,3.33
+4,tutelage,1,,3.33,3.33
+4,probationary,1,,3.33,3.33
+4,fulltime,1,,3.33,3.33
+4,carpenter,1,,3.33,3.33
+4,vocation,1,,3.33,3.33
+4,woodworking,1,,3.33,3.33
+4,auto mechanic,1,,3.33,3.33
+4,journeyman,1,,3.33,3.33
+4,freelance,1,,3.33,3.33
+4,work,1,,3.33,3.33
+4,stint,1,,3.33,3.33
+4,chartered accountant,1,,3.33,3.33
+4,formative,1,,3.33,3.33
+4,stints,1,,3.33,3.33
+4,interning,1,,3.33,3.33
+4,blacksmith,1,,3.33,3.33
+4,copywriter,1,,3.33,3.33
+4,aspired,1,,3.33,3.33
+4,marksmanship,1,,3.33,3.33
+4,recertification,1,,3.33,3.33
+4,mastering,1,,3.33,3.33
+4,excelled,1,,3.33,3.33
+4,mastered,1,,3.33,3.33
+4,##th percentile,1,,3.33,3.33
+4,benchmarks,1,,3.33,3.33
+4,english,1,,3.33,3.33
+4,iq,1,,3.33,3.33
+4,flunked,1,,3.33,3.33
+4,fluently,1,,3.33,3.33
+4,literate,1,,3.33,3.33
+4,self reliant,1,,3.33,3.33
+4,illiterate,1,,3.33,3.33
+4,marketable,1,,3.33,3.33
+4,reoffend,1,,3.33,3.33
+4,conversant,1,,3.33,3.33
+4,uneducated,1,,3.33,3.33
+4,dependents,1,,3.33,3.33
+4,hire,1,,3.33,3.33
+4,productive,1,,3.33,3.33
+4,h 1b visas,1,,3.33,3.33
+4,immigrate,1,,3.33,3.33
+4,insecure,1,,3.33,3.33
+4,productively,1,,3.33,3.33
+4,emigrating,1,,3.33,3.33
+4,retrenched,1,,3.33,3.33
+4,employed,1,,3.33,3.33
+4,menial,1,,3.33,3.33
+4,profession,1,,3.33,3.33
+4,h 1b,1,,3.33,3.33
+4,employ,1,,3.33,3.33
+4,iits,1,,3.33,3.33
+4,emigrate,1,,3.33,3.33
+4,physically challenged,1,,3.33,3.33
+4,unaffordable,1,,3.33,3.33
+4,educational foundation,1,,3.33,3.33
+4,pediatric,1,,3.33,3.33
+4,family,1,,3.33,3.33
+4,endowment,1,,3.33,3.33
+4,dental,1,,3.33,3.33
+4,appraisal,1,,3.33,3.33
+4,religious,1,,3.33,3.33
+4,medical,1,,3.33,3.33
+4,institutional,1,,3.33,3.33
+4,historical,1,,3.33,3.33
+4,primary care,1,,3.33,3.33
+4,governmental,1,,3.33,3.33
+4,adolescent,1,,3.33,3.33
+4,public,1,,3.33,3.33
+4,princeton review,1,,3.33,3.33
+4,national collegiate athletic,1,,3.33,3.33
+4,societies,1,,3.33,3.33
+4,regents,1,,3.33,3.33
+4,iims,1,,3.33,3.33
+4,uw system,1,,3.33,3.33
+4,endowments,1,,3.33,3.33
+4,surgeons,1,,3.33,3.33
+4,councils,1,,3.33,3.33
+4,amu,1,,3.33,3.33
+4,churches,1,,3.33,3.33
+4,organizations,1,,3.33,3.33
+4,chancellors,1,,3.33,3.33
+4,infant mortality,1,,3.33,3.33
+4,recidivism,1,,3.33,3.33
+4,teenage pregnancy,1,,3.33,3.33
+4,infant mortality rate,1,,3.33,3.33
+4,absenteeism,1,,3.33,3.33
+4,maternal mortality,1,,3.33,3.33
+4,joblessness,1,,3.33,3.33
+4,poverty,1,,3.33,3.33
+4,hiv prevalence,1,,3.33,3.33
+4,premature births,1,,3.33,3.33
+4,childhood obesity,1,,3.33,3.33
+4,sexually transmitted diseases,1,,3.33,3.33
+4,obesity,1,,3.33,3.33
+4,birthrate,1,,3.33,3.33
+4,subgroups,1,,3.33,3.33
+4,percentages,1,,3.33,3.33
+4,maternal deaths,1,,3.33,3.33
+4,overcrowding,1,,3.33,3.33
+4,social ills,1,,3.33,3.33
+4,disparities,1,,3.33,3.33
+4,voter turnout,1,,3.33,3.33
+4,stds,1,,3.33,3.33
+4,inequality,1,,3.33,3.33
+4,lausd,1,,3.33,3.33
+4,prevalence,1,,3.33,3.33
+4,homicides,1,,3.33,3.33
+4,sudoku,1,,3.33,3.33
+4,puzzle,1,,3.33,3.33
+4,chess,1,,3.33,3.33
+4,forensics,1,,3.33,3.33
+4,quiz,1,,3.33,3.33
+4,puzzles,1,,3.33,3.33
+4,avid,1,,3.33,3.33
+4,frameworks,1,,3.33,3.33
+4,handbooks,1,,3.33,3.33
+4,policies,1,,3.33,3.33
+4,labor,1,,3.33,3.33
+4,industrial relations,1,,3.33,3.33
+4,unemployment rate,1,,3.33,3.33
+4,productivity,1,,3.33,3.33
+4,economic,1,,3.33,3.33
+4,jobless rate,1,,3.33,3.33
+4,housing,1,,3.33,3.33
+4,manpower,1,,3.33,3.33
+4,wage,1,,3.33,3.33
+4,payroll,1,,3.33,3.33
+4,incomes,1,,3.33,3.33
+4,child support,1,,3.33,3.33
+4,staffing,1,,3.33,3.33
+4,immigration,1,,3.33,3.33
+4,hiring,1,,3.33,3.33
+4,ilo,1,,3.33,3.33
+4,small business,1,,3.33,3.33
+4,legal aid,1,,3.33,3.33
+4,workers compensation,1,,3.33,3.33
+4,social,1,,3.33,3.33
+4,economic policy,1,,3.33,3.33
+4,employment relations,1,,3.33,3.33
+4,seasonally adjusted,1,,3.33,3.33
+4,manufacturing,1,,3.33,3.33
+4,minimum wage,1,,3.33,3.33
+4,pension,1,,3.33,3.33
+4,labor statistics,1,,3.33,3.33
+4,hourly wages,1,,3.33,3.33
+4,commerce,1,,3.33,3.33
+4,economy,1,,3.33,3.33
+4,vacancies,1,,3.33,3.33
+4,affordable housing,1,,3.33,3.33
+4,mortgage,1,,3.33,3.33
+4,economic opportunity,1,,3.33,3.33
+4,equality,1,,3.33,3.33
+4,industrial,1,,3.33,3.33
+4,compensation,1,,3.33,3.33
+4,dol,1,,3.33,3.33
+4,equal employment opportunity,1,,3.33,3.33
+4,average hourly,1,,3.33,3.33
+4,ombudsman,1,,3.33,3.33
+4,real estate,1,,3.33,3.33
+4,retirement,1,,3.33,3.33
+4,economic growth,1,,3.33,3.33
+4,chemical engineering,1,,3.33,3.33
+4,mathematicians,1,,3.33,3.33
+4,astronomy,1,,3.33,3.33
+4,geology,1,,3.33,3.33
+4,astrophysics,1,,3.33,3.33
+4,mass communication,1,,3.33,3.33
+4,sanskrit,1,,3.33,3.33
+4,olympiad,1,,3.33,3.33
+4,physiology,1,,3.33,3.33
+4,mathematician,1,,3.33,3.33
+4,xii,1,,3.33,3.33
+4,mathematical,1,,3.33,3.33
+4,playgroup,1,,3.33,3.33
+4,storytime,1,,3.33,3.33
+4,preschooler,1,,3.33,3.33
+4,vacation bible school,1,,3.33,3.33
+4,pell grant,1,,3.33,3.33
+4,homeownership,1,,3.33,3.33
+4,health care,1,,3.33,3.33
+4,pell grants,1,,3.33,3.33
+4,fafsa,1,,3.33,3.33
+4,criminal justice,1,,3.33,3.33
+4,student aid,1,,3.33,3.33
+4,underserved communities,1,,3.33,3.33
+4,ivy tech,1,,3.33,3.33
+4,tuition hikes,1,,3.33,3.33
+4,nurse practitioners,1,,3.33,3.33
+4,prenatal care,1,,3.33,3.33
+4,enrollees,1,,3.33,3.33
+4,weatherization,1,,3.33,3.33
+4,medicaid,1,,3.33,3.33
+4,nutritious meals,1,,3.33,3.33
+4,schoolteachers,1,,3.33,3.33
+4,aft,1,,3.33,3.33
+4,nurses association,1,,3.33,3.33
+4,nut,1,,3.33,3.33
+4,fire fighters,1,,3.33,3.33
+4,flight attendants,1,,3.33,3.33
+4,psychologists,1,,3.33,3.33
+4,pharmacists,1,,3.33,3.33
+4,farmers,1,,3.33,3.33
+4,union,1,,3.33,3.33
+4,artists,1,,3.33,3.33
+4,crossrail,1,,3.33,3.33
+4,mr clegg,1,,3.33,3.33
+4,network rail,1,,3.33,3.33
+4,cumbria,1,,3.33,3.33
+4,labour,1,,3.33,3.33
+4,kirklees,1,,3.33,3.33
+4,nhs,1,,3.33,3.33
+4,flintshire,1,,3.33,3.33
+4,lewisham,1,,3.33,3.33
+4,lib dems,1,,3.33,3.33
+4,reoffending,1,,3.33,3.33
+4,lord mandelson,1,,3.33,3.33
+4,royal mail,1,,3.33,3.33
+4,nyu,1,,3.33,3.33
+4,associate dean,1,,3.33,3.33
+4,juilliard,1,,3.33,3.33
+4,juilliard school,1,,3.33,3.33
+4,iit,1,,3.33,3.33
+4,requirements,1,,3.33,3.33
+4,eligibility,1,,3.33,3.33
+4,appointments,1,,3.33,3.33
+4,minimum,1,,3.33,3.33
+4,responsibilities,1,,3.33,3.33
+4,duties,1,,3.33,3.33
+4,requires,1,,3.33,3.33
+4,fees,1,,3.33,3.33
+4,positions,1,,3.33,3.33
+4,cdl,1,,3.33,3.33
+4,specification,1,,3.33,3.33
+4,levels,1,,3.33,3.33
+4,audit,1,,3.33,3.33
+4,requirement,1,,3.33,3.33
+4,qs,1,,3.33,3.33
+4,proposals,1,,3.33,3.33
+4,exp,1,,3.33,3.33
+4,chartered,1,,3.33,3.33
+4,remuneration,1,,3.33,3.33
+4,qualifying,1,,3.33,3.33
+4,nominees,1,,3.33,3.33
+4,designation,1,,3.33,3.33
+4,assessors,1,,3.33,3.33
+4,required,1,,3.33,3.33
+4,salaries,1,,3.33,3.33
+4,commissioning,1,,3.33,3.33
+4,suitable,1,,3.33,3.33
+4,criteria,1,,3.33,3.33
+4,supervision,1,,3.33,3.33
+4,credential,1,,3.33,3.33
+4,appointment,1,,3.33,3.33
+4,pre requisite,1,,3.33,3.33
+4,audits,1,,3.33,3.33
+4,aicpa,1,,3.33,3.33
+4,professional standards,1,,3.33,3.33
+4,categories,1,,3.33,3.33
+4,craftsmen,1,,3.33,3.33
+4,craftspeople,1,,3.33,3.33
+4,workmen,1,,3.33,3.33
+4,plumbers,1,,3.33,3.33
+4,machinists,1,,3.33,3.33
+4,hairdressers,1,,3.33,3.33
+4,artisans,1,,3.33,3.33
+4,unfair dismissal,1,,3.33,3.33
+4,installers,1,,3.33,3.33
+4,deeside,1,,3.33,3.33
+4,bakers,1,,3.33,3.33
+4,smes,1,,3.33,3.33
+4,subcontractors,1,,3.33,3.33
+4,workmates,1,,3.33,3.33
+4,unionists,1,,3.33,3.33
+4,barristers,1,,3.33,3.33
+4,tasmanians,1,,3.33,3.33
+4,journeymen,1,,3.33,3.33
+4,babysitters,1,,3.33,3.33
+4,nannies,1,,3.33,3.33
+4,interpreters,1,,3.33,3.33
+4,therapists,1,,3.33,3.33
+4,translators,1,,3.33,3.33
+4,assistants,1,,3.33,3.33
+4,dyslexic,1,,3.33,3.33
+4,stipend,1,,3.33,3.33
+4,piano lessons,1,,3.33,3.33
+4,trustworthiness,1,,3.33,3.33
+4,acumen,1,,3.33,3.33
+4,decisiveness,1,,3.33,3.33
+4,impartiality,1,,3.33,3.33
+4,integrity,1,,3.33,3.33
+4,expertise,1,,3.33,3.33
+4,objectivity,1,,3.33,3.33
+4,intellect,1,,3.33,3.33
+4,honesty,1,,3.33,3.33
+4,probity,1,,3.33,3.33
+4,thoroughness,1,,3.33,3.33
+4,incompetence,1,,3.33,3.33
+4,sincerity,1,,3.33,3.33
+4,truthfulness,1,,3.33,3.33
+4,credibility,1,,3.33,3.33
+4,qualities,1,,3.33,3.33
+4,prudence,1,,3.33,3.33
+4,gravitas,1,,3.33,3.33
+4,empathy,1,,3.33,3.33
+4,candor,1,,3.33,3.33
+4,rationality,1,,3.33,3.33
+4,dynamism,1,,3.33,3.33
+4,toughness,1,,3.33,3.33
+4,statesmanship,1,,3.33,3.33
+4,responsiveness,1,,3.33,3.33
+4,diligence,1,,3.33,3.33
+4,credentials,1,,3.33,3.33
+4,boldness,1,,3.33,3.33
+4,propriety,1,,3.33,3.33
+4,coherence,1,,3.33,3.33
+4,fortitude,1,,3.33,3.33
+4,temperament,1,,3.33,3.33
+4,dependability,1,,3.33,3.33
+4,assertiveness,1,,3.33,3.33
+4,veracity,1,,3.33,3.33
+4,work ethic,1,,3.33,3.33
+4,arrogance,1,,3.33,3.33
+4,smarts,1,,3.33,3.33
+4,soundness,1,,3.33,3.33
+4,bona fides,1,,3.33,3.33
+4,practicality,1,,3.33,3.33
+4,pragmatism,1,,3.33,3.33
+4,humility,1,,3.33,3.33
+4,solidity,1,,3.33,3.33
+4,charisma,1,,3.33,3.33
+4,seriousness,1,,3.33,3.33
+4,teamwork,1,,3.33,3.33
+4,familiarity,1,,3.33,3.33
+4,culpability,1,,3.33,3.33
+4,eloquence,1,,3.33,3.33
+4,morality,1,,3.33,3.33
+4,fairness,1,,3.33,3.33
+4,confidence,1,,3.33,3.33
+4,politeness,1,,3.33,3.33
+4,desirability,1,,3.33,3.33
+4,correctness,1,,3.33,3.33
+4,acceptability,1,,3.33,3.33
+4,worthiness,1,,3.33,3.33
+4,immaturity,1,,3.33,3.33
+4,relevance,1,,3.33,3.33
+4,cohesiveness,1,,3.33,3.33
+4,reasonableness,1,,3.33,3.33
+4,originality,1,,3.33,3.33
+4,cleverness,1,,3.33,3.33
+4,competitiveness,1,,3.33,3.33
+4,patriotism,1,,3.33,3.33
+4,acuity,1,,3.33,3.33
+4,repute,1,,3.33,3.33
+4,interpersonal,1,,3.33,3.33
+4,legitimacy,1,,3.33,3.33
+4,steadiness,1,,3.33,3.33
+4,ability,1,,3.33,3.33
+4,strength,1,,3.33,3.33
+4,sga,1,,3.33,3.33
+4,associated students,1,,3.33,3.33
+4,residence halls,1,,3.33,3.33
+4,dining services,1,,3.33,3.33
+4,dorm,1,,3.33,3.33
+4,rha,1,,3.33,3.33
+4,fraternity,1,,3.33,3.33
+4,sororities,1,,3.33,3.33
+4,dorms,1,,3.33,3.33
+4,hillel,1,,3.33,3.33
+4,usg,1,,3.33,3.33
+4,dining halls,1,,3.33,3.33
+4,commuter,1,,3.33,3.33
+4,dining hall,1,,3.33,3.33
+4,diversity,1,,3.33,3.33
+4,tenant,1,,3.33,3.33
+4,resident,1,,3.33,3.33
+4,civic,1,,3.33,3.33
+4,homecoming,1,,3.33,3.33
+4,vsu,1,,3.33,3.33
+4,dining,1,,3.33,3.33
+4,csun,1,,3.33,3.33
+4,rotc,1,,3.33,3.33
+4,alumna,1,,3.33,3.33
+4,bookstore,1,,3.33,3.33
+4,junior majoring,1,,3.33,3.33
+4,computers,1,,3.33,3.33
+4,laptops,1,,3.33,3.33
+4,hallways,1,,3.33,3.33
+4,auditorium,1,,3.33,3.33
+4,cafeterias,1,,3.33,3.33
+4,rooms,1,,3.33,3.33
+4,desks,1,,3.33,3.33
+4,renovations,1,,3.33,3.33
+4,playgrounds,1,,3.33,3.33
+4,sophomores,1,,3.33,3.33
+4,girls,1,,3.33,3.33
+4,boys,1,,3.33,3.33
+4,upperclassmen,1,,3.33,3.33
+4,teen agers,1,,3.33,3.33
+4,underclassmen,1,,3.33,3.33
+4,olds,1,,3.33,3.33
+4,valedictorian,1,,3.33,3.33
+4,salutatorian,1,,3.33,3.33
+4,earned bachelor degree,1,,3.33,3.33
+4,enrolling,1,,3.33,3.33
+4,majored,1,,3.33,3.33
+4,attending,1,,3.33,3.33
+4,sophomore,1,,3.33,3.33
+4,incoming freshman,1,,3.33,3.33
+4,earning,1,,3.33,3.33
+4,enroll,1,,3.33,3.33
+4,graphic design,1,,3.33,3.33
+4,returning,1,,3.33,3.33
+4,achieving,1,,3.33,3.33
+4,pilots,1,,3.33,3.33
+4,bahrainis,1,,3.33,3.33
+4,technicians,1,,3.33,3.33
+4,untrained,1,,3.33,3.33
+4,conscripts,1,,3.33,3.33
+4,aircrew,1,,3.33,3.33
+4,sergeants,1,,3.33,3.33
+4,laborers,1,,3.33,3.33
+4,cadres,1,,3.33,3.33
+4,physician assistants,1,,3.33,3.33
+4,examiners,1,,3.33,3.33
+4,chaplains,1,,3.33,3.33
+4,aspirants,1,,3.33,3.33
+4,migrant workers,1,,3.33,3.33
+4,ex servicemen,1,,3.33,3.33
+4,ofws,1,,3.33,3.33
+4,dress codes,1,,3.33,3.33
+4,homeschooling,1,,3.33,3.33
+4,programmatic,1,,3.33,3.33
+4,didactic,1,,3.33,3.33
+4,intellectual,1,,3.33,3.33
+4,paradigms,1,,3.33,3.33
+4,classical,1,,3.33,3.33
+4,marxism,1,,3.33,3.33
+4,rote,1,,3.33,3.33
+4,theologian,1,,3.33,3.33
+4,visual arts,1,,3.33,3.33
+4,intellectually,1,,3.33,3.33
+4,integrative,1,,3.33,3.33
+4,idiom,1,,3.33,3.33
+4,dogma,1,,3.33,3.33
+4,theoretical,1,,3.33,3.33
+4,postmodern,1,,3.33,3.33
+4,spirituality,1,,3.33,3.33
+4,enlightenment,1,,3.33,3.33
+4,contexts,1,,3.33,3.33
+4,classical music,1,,3.33,3.33
+4,improvisation,1,,3.33,3.33
+4,diction,1,,3.33,3.33
+4,feminism,1,,3.33,3.33
+4,liturgical,1,,3.33,3.33
+4,jurisprudence,1,,3.33,3.33
+4,theologians,1,,3.33,3.33
+4,modernism,1,,3.33,3.33
+4,multiculturalism,1,,3.33,3.33
+4,participatory,1,,3.33,3.33
+4,ideology,1,,3.33,3.33
+4,piano,1,,3.33,3.33
+4,anthropology,1,,3.33,3.33
+4,methodological,1,,3.33,3.33
+4,experiential,1,,3.33,3.33
+4,nurse,1,,3.33,3.33
+4,artist,1,,3.33,3.33
+4,counselor,1,,3.33,3.33
+4,journalist,1,,3.33,3.33
+4,pharmacist,1,,3.33,3.33
+4,firefighter,1,,3.33,3.33
+4,woman,1,,3.33,3.33
+4,worker,1,,3.33,3.33
+4,headteacher,1,,3.33,3.33
+4,musician,1,,3.33,3.33
+4,schoolteacher,1,,3.33,3.33
+4,paramedic,1,,3.33,3.33
+4,teenager,1,,3.33,3.33
+4,cop,1,,3.33,3.33

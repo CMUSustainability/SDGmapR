@@ -1,0 +1,1747 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+2,agricultural,67,True,12.83,859.61
+2,farmers,61,True,5.73,349.53000000000003
+2,farming,58,True,6.19,359.02000000000004
+2,agriculture,55,True,11.57,636.35
+2,crops,50,True,4.15,207.50000000000003
+2,dairy,48,,3.57,171.35999999999999
+2,livestock,46,,3.57,164.22
+2,agri,43,True,6.34,272.62
+2,crop,42,True,8.92,374.64
+2,growers,40,,3.57,142.79999999999998
+2,ag,40,,3.57,142.79999999999998
+2,agribusiness,39,True,4.13,161.07
+2,farmer,39,,3.57,139.23
+2,farm,38,True,5.95,226.1
+2,farms,33,True,4.32,142.56
+2,farmland,33,True,3.68,121.44000000000001
+2,cattle,33,,3.57,117.80999999999999
+2,horticulture,33,,3.57,117.80999999999999
+2,poultry,32,,3.57,114.24
+2,soybean,31,,3.57,110.67
+2,organic farming,26,True,5.9,153.4
+2,fertilizer,26,,3.57,92.82
+2,aquaculture,26,,3.57,92.82
+2,wheat,25,,3.57,89.25
+2,grain,24,,3.57,85.67999999999999
+2,vegetable,24,,3.57,85.67999999999999
+2,dairy farmers,22,,3.57,78.53999999999999
+2,grains,22,,3.57,78.53999999999999
+2,corn,22,,3.57,78.53999999999999
+2,grower,21,,3.57,74.97
+2,ethanol,21,,3.57,74.97
+2,irrigation,20,,3.57,71.39999999999999
+2,biofuel,19,,3.57,67.83
+2,biofuels,19,,3.57,67.83
+2,agro,18,True,5.37,96.66
+2,beef cattle,18,,3.57,64.25999999999999
+2,dairy cows,18,,3.57,64.25999999999999
+2,potato,17,,3.57,60.69
+2,sugar beet,17,,3.57,60.69
+2,soybeans,17,,3.57,60.69
+2,alfalfa,17,,3.57,60.69
+2,oilseed,16,,3.57,57.12
+2,meat,15,,3.57,53.55
+2,breeding,15,,3.57,53.55
+2,dairy farm,15,,3.57,53.55
+2,harvest,15,,3.57,53.55
+2,orchards,15,,3.57,53.55
+2,tillage,14,True,3.87,54.18
+2,ranchers,14,,3.57,49.98
+2,farm bureau,14,,3.57,49.98
+2,forestry,14,,3.57,49.98
+2,dairy farms,14,,3.57,49.98
+2,rural,13,True,3.6,46.800000000000004
+2,cropland,13,,3.57,46.41
+2,fruit,13,,3.57,46.41
+2,orchard,13,,3.57,46.41
+2,oilseeds,13,,3.57,46.41
+2,irrigated,13,,3.57,46.41
+2,pork,13,,3.57,46.41
+2,cotton,13,,3.57,46.41
+2,feedlot,13,,3.57,46.41
+2,cows,13,,3.57,46.41
+2,biodiesel,13,,3.57,46.41
+2,soil,12,,3.57,42.839999999999996
+2,dairy farmer,12,,3.57,42.839999999999996
+2,breeders,12,,3.57,42.839999999999996
+2,dairies,12,,3.57,42.839999999999996
+2,beef,12,,3.57,42.839999999999996
+2,sheep,12,,3.57,42.839999999999996
+2,sorghum,12,,3.57,42.839999999999996
+2,soybean crop,12,,3.57,42.839999999999996
+2,barley,12,,3.57,42.839999999999996
+2,bioenergy,12,,3.57,42.839999999999996
+2,organic,11,True,10.82,119.02000000000001
+2,rural development,11,True,6.84,75.24
+2,seed,11,,3.57,39.269999999999996
+2,veterinary,11,,3.57,39.269999999999996
+2,biotechnology,11,,3.57,39.269999999999996
+2,crop yields,11,,3.57,39.269999999999996
+2,swine,11,,3.57,39.269999999999996
+2,biomass,11,,3.57,39.269999999999996
+2,syngenta,11,,3.57,39.269999999999996
+2,silage,11,,3.57,39.269999999999996
+2,food,10,True,6.59,65.9
+2,cattlemen association,10,,3.57,35.699999999999996
+2,cooperatives,10,,3.57,35.699999999999996
+2,nurseries,10,,3.57,35.699999999999996
+2,agricultural sciences,10,,3.57,35.699999999999996
+2,sugarcane,10,,3.57,35.699999999999996
+2,animal husbandry,10,,3.57,35.699999999999996
+2,produce,10,,3.57,35.699999999999996
+2,wheat crop,10,,3.57,35.699999999999996
+2,maize,10,,3.57,35.699999999999996
+2,arable land,10,,3.57,35.699999999999996
+2,unicef,10,,3.57,35.699999999999996
+2,nutrition,9,True,5.23,47.07000000000001
+2,horticultural,9,,3.57,32.129999999999995
+2,usda,9,,3.57,32.129999999999995
+2,biodiversity,9,,3.57,32.129999999999995
+2,renewable energy,9,,3.57,32.129999999999995
+2,commodity,9,,3.57,32.129999999999995
+2,harvesting,9,,3.57,32.129999999999995
+2,sugar beets,9,,3.57,32.129999999999995
+2,tomato,9,,3.57,32.129999999999995
+2,organics,9,,3.57,32.129999999999995
+2,vineyards,9,,3.57,32.129999999999995
+2,herds,9,,3.57,32.129999999999995
+2,poverty,9,,3.57,32.129999999999995
+2,hiv aids,9,,3.57,32.129999999999995
+2,malnutrition,8,True,33.44,267.52
+2,hunger,8,True,4.05,32.4
+2,gardeners,8,,3.57,28.56
+2,cattlemen,8,,3.57,28.56
+2,conservation,8,,3.57,28.56
+2,agronomist,8,,3.57,28.56
+2,agrarian,8,,3.57,28.56
+2,sustainable,8,,3.57,28.56
+2,cultivation,8,,3.57,28.56
+2,corn crop,8,,3.57,28.56
+2,fungicides,8,,3.57,28.56
+2,rapeseed,8,,3.57,28.56
+2,wine grapes,8,,3.57,28.56
+2,foods,8,,3.57,28.56
+2,pasture,8,,3.57,28.56
+2,equine,8,,3.57,28.56
+2,monsanto,8,,3.57,28.56
+2,feedlots,8,,3.57,28.56
+2,fertilizers,8,,3.57,28.56
+2,glyphosate,8,,3.57,28.56
+2,cooperative,7,,3.57,24.99
+2,fisheries,7,,3.57,24.99
+2,beekeeping,7,,3.57,24.99
+2,drought,7,,3.57,24.99
+2,seeds,7,,3.57,24.99
+2,sweet corn,7,,3.57,24.99
+2,plantings,7,,3.57,24.99
+2,strawberry,7,,3.57,24.99
+2,grape,7,,3.57,24.99
+2,vineyard,7,,3.57,24.99
+2,plantation,7,,3.57,24.99
+2,goats,7,,3.57,24.99
+2,farmlands,7,,3.57,24.99
+2,manure,7,,3.57,24.99
+2,malaria,7,,3.57,24.99
+2,insecurity,6,True,5.14,30.839999999999996
+2,herders,6,True,4.91,29.46
+2,cultivars,6,True,3.77,22.62
+2,beekeepers,6,,3.57,21.419999999999998
+2,supermarkets,6,,3.57,21.419999999999998
+2,ecological,6,,3.57,21.419999999999998
+2,gardening,6,,3.57,21.419999999999998
+2,farmed,6,,3.57,21.419999999999998
+2,harvests,6,,3.57,21.419999999999998
+2,vegetables,6,,3.57,21.419999999999998
+2,genetically modified crops,6,,3.57,21.419999999999998
+2,pastures,6,,3.57,21.419999999999998
+2,replanting,6,,3.57,21.419999999999998
+2,citrus,6,,3.57,21.419999999999998
+2,meats,6,,3.57,21.419999999999998
+2,winery,6,,3.57,21.419999999999998
+2,nursery,6,,3.57,21.419999999999998
+2,breeder,6,,3.57,21.419999999999998
+2,blueberry,6,,3.57,21.419999999999998
+2,tractor,6,,3.57,21.419999999999998
+2,greenhouses,6,,3.57,21.419999999999998
+2,barns,6,,3.57,21.419999999999998
+2,hay,6,,3.57,21.419999999999998
+2,hog,6,,3.57,21.419999999999998
+2,hogs,6,,3.57,21.419999999999998
+2,calves,6,,3.57,21.419999999999998
+2,herd,6,,3.57,21.419999999999998
+2,rangeland,6,,3.57,21.419999999999998
+2,tilling,6,,3.57,21.419999999999998
+2,milk,6,,3.57,21.419999999999998
+2,sunflower,6,,3.57,21.419999999999998
+2,acreage,6,,3.57,21.419999999999998
+2,soil erosion,6,,3.57,21.419999999999998
+2,forage,6,,3.57,21.419999999999998
+2,homelessness,6,,3.57,21.419999999999998
+2,extreme poverty,6,,3.57,21.419999999999998
+2,abject poverty,6,,3.57,21.419999999999998
+2,sub saharan africa,6,,3.57,21.419999999999998
+2,malnourished,5,True,12.0,60.0
+2,nutritional,5,True,7.02,35.099999999999994
+2,undernourished,5,True,6.8,34.0
+2,famine,5,True,4.57,22.85
+2,varieties,5,True,4.31,21.549999999999997
+2,pastoralists,5,True,3.81,19.05
+2,landowners,5,,3.57,17.849999999999998
+2,potatoes,5,,3.57,17.849999999999998
+2,industrial,5,,3.57,17.849999999999998
+2,cooperative extension,5,,3.57,17.849999999999998
+2,agriculture usda,5,,3.57,17.849999999999998
+2,textile,5,,3.57,17.849999999999998
+2,export,5,,3.57,17.849999999999998
+2,fruits,5,,3.57,17.849999999999998
+2,ranching,5,,3.57,17.849999999999998
+2,canola,5,,3.57,17.849999999999998
+2,soil moisture,5,,3.57,17.849999999999998
+2,grasses,5,,3.57,17.849999999999998
+2,corn belt,5,,3.57,17.849999999999998
+2,corn soybeans,5,,3.57,17.849999999999998
+2,ecology,5,,3.57,17.849999999999998
+2,fungicide,5,,3.57,17.849999999999998
+2,ranch,5,,3.57,17.849999999999998
+2,barn,5,,3.57,17.849999999999998
+2,biotech,5,,3.57,17.849999999999998
+2,bioscience,5,,3.57,17.849999999999998
+2,ncba,5,,3.57,17.849999999999998
+2,wildlife,5,,3.57,17.849999999999998
+2,abattoir,5,,3.57,17.849999999999998
+2,slaughterhouse,5,,3.57,17.849999999999998
+2,pigs,5,,3.57,17.849999999999998
+2,ewes,5,,3.57,17.849999999999998
+2,bio fuels,5,,3.57,17.849999999999998
+2,sugar,5,,3.57,17.849999999999998
+2,berry,5,,3.57,17.849999999999998
+2,paddy,5,,3.57,17.849999999999998
+2,cornfields,5,,3.57,17.849999999999998
+2,grasslands,5,,3.57,17.849999999999998
+2,gardener,5,,3.57,17.849999999999998
+2,mango,5,,3.57,17.849999999999998
+2,soy,5,,3.57,17.849999999999998
+2,forests,5,,3.57,17.849999999999998
+2,herbicides,5,,3.57,17.849999999999998
+2,desertification,5,,3.57,17.849999999999998
+2,deforestation,5,,3.57,17.849999999999998
+2,ranches,5,,3.57,17.849999999999998
+2,obesity,5,,3.57,17.849999999999998
+2,aids,5,,3.57,17.849999999999998
+2,cholera,5,,3.57,17.849999999999998
+2,algae,5,,3.57,17.849999999999998
+2,underdevelopment,5,,3.57,17.849999999999998
+2,poverty alleviation,5,,3.57,17.849999999999998
+2,maternal mortality,5,,3.57,17.849999999999998
+2,internally displaced persons,5,,3.57,17.849999999999998
+2,ipm,4,True,4.0,16.0
+2,fishermen,4,,3.57,14.28
+2,co operative,4,,3.57,14.28
+2,processors,4,,3.57,14.28
+2,extension,4,,3.57,14.28
+2,natural resource,4,,3.57,14.28
+2,commodities,4,,3.57,14.28
+2,planting,4,,3.57,14.28
+2,soils,4,,3.57,14.28
+2,seedlings,4,,3.57,14.28
+2,diseases,4,,3.57,14.28
+2,pesticides,4,,3.57,14.28
+2,veterinary medicine,4,,3.57,14.28
+2,cooperative extension service,4,,3.57,14.28
+2,poultry farms,4,,3.57,14.28
+2,grapes,4,,3.57,14.28
+2,peaches,4,,3.57,14.28
+2,acres,4,,3.57,14.28
+2,creamery,4,,3.57,14.28
+2,stables,4,,3.57,14.28
+2,wind farm,4,,3.57,14.28
+2,bakery,4,,3.57,14.28
+2,grocery,4,,3.57,14.28
+2,farmhouse,4,,3.57,14.28
+2,plastics,4,,3.57,14.28
+2,cargill,4,,3.57,14.28
+2,renewable,4,,3.57,14.28
+2,heifers,4,,3.57,14.28
+2,heifer,4,,3.57,14.28
+2,cow,4,,3.57,14.28
+2,pig,4,,3.57,14.28
+2,bio diesel,4,,3.57,14.28
+2,carbon sequestration,4,,3.57,14.28
+2,jatropha,4,,3.57,14.28
+2,bioethanol,4,,3.57,14.28
+2,cellulosic ethanol,4,,3.57,14.28
+2,cheese,4,,3.57,14.28
+2,foodservice,4,,3.57,14.28
+2,raw milk,4,,3.57,14.28
+2,cereal,4,,3.57,14.28
+2,herbicide,4,,3.57,14.28
+2,chickens,4,,3.57,14.28
+2,seedling,4,,3.57,14.28
+2,rancher,4,,3.57,14.28
+2,cashew,4,,3.57,14.28
+2,petrochemicals,4,,3.57,14.28
+2,petrochemical,4,,3.57,14.28
+2,sugar mills,4,,3.57,14.28
+2,master gardener,4,,3.57,14.28
+2,arboretum,4,,3.57,14.28
+2,botany,4,,3.57,14.28
+2,greenhouse,4,,3.57,14.28
+2,arid,4,,3.57,14.28
+2,grassland,4,,3.57,14.28
+2,grazing,4,,3.57,14.28
+2,fallow,4,,3.57,14.28
+2,alpacas,4,,3.57,14.28
+2,food programme,4,,3.57,14.28
+2,tuberculosis,4,,3.57,14.28
+2,pantry,4,,3.57,14.28
+2,socio economic,4,,3.57,14.28
+2,landless,4,,3.57,14.28
+2,seafood,4,,3.57,14.28
+2,water borne diseases,4,,3.57,14.28
+2,waterborne diseases,4,,3.57,14.28
+2,infant mortality,4,,3.57,14.28
+2,maternal deaths,4,,3.57,14.28
+2,internally displaced,4,,3.57,14.28
+2,illiteracy,4,,3.57,14.28
+2,deprivation,4,,3.57,14.28
+2,infant mortality rate,4,,3.57,14.28
+2,hiv prevalence,4,,3.57,14.28
+2,cholera outbreak,4,,3.57,14.28
+2,fund unicef,4,,3.57,14.28
+2,destitution,4,,3.57,14.28
+2,eradicate poverty,4,,3.57,14.28
+2,refugee camps,4,,3.57,14.28
+2,environmental degradation,4,,3.57,14.28
+2,destitute,4,,3.57,14.28
+2,cropping,3,True,3.95,11.850000000000001
+2,producers,3,,3.57,10.709999999999999
+2,nfu,3,,3.57,10.709999999999999
+2,homeowners,3,,3.57,10.709999999999999
+2,exporters,3,,3.57,10.709999999999999
+2,landholders,3,,3.57,10.709999999999999
+2,fishery,3,,3.57,10.709999999999999
+2,vocational,3,,3.57,10.709999999999999
+2,wool,3,,3.57,10.709999999999999
+2,fishing,3,,3.57,10.709999999999999
+2,landscape,3,,3.57,10.709999999999999
+2,replanted,3,,3.57,10.709999999999999
+2,tomatoes,3,,3.57,10.709999999999999
+2,natural resources,3,,3.57,10.709999999999999
+2,primary industries,3,,3.57,10.709999999999999
+2,fao,3,,3.57,10.709999999999999
+2,nrcs,3,,3.57,10.709999999999999
+2,winemakers,3,,3.57,10.709999999999999
+2,millers,3,,3.57,10.709999999999999
+2,strawberries,3,,3.57,10.709999999999999
+2,gardens,3,,3.57,10.709999999999999
+2,farmers market,3,,3.57,10.709999999999999
+2,florist,3,,3.57,10.709999999999999
+2,cottage,3,,3.57,10.709999999999999
+2,goat,3,,3.57,10.709999999999999
+2,homestead,3,,3.57,10.709999999999999
+2,meadow,3,,3.57,10.709999999999999
+2,entrepreneurial,3,,3.57,10.709999999999999
+2,textiles,3,,3.57,10.709999999999999
+2,ffa,3,,3.57,10.709999999999999
+2,lambs,3,,3.57,10.709999999999999
+2,feeder cattle,3,,3.57,10.709999999999999
+2,slaughterhouses,3,,3.57,10.709999999999999
+2,wildlife conservation,3,,3.57,10.709999999999999
+2,lamb,3,,3.57,10.709999999999999
+2,animal welfare,3,,3.57,10.709999999999999
+2,organic foods,3,,3.57,10.709999999999999
+2,sustainability,3,,3.57,10.709999999999999
+2,vegetable gardens,3,,3.57,10.709999999999999
+2,drip irrigation,3,,3.57,10.709999999999999
+2,beverage,3,,3.57,10.709999999999999
+2,clover,3,,3.57,10.709999999999999
+2,prairie,3,,3.57,10.709999999999999
+2,prairies,3,,3.57,10.709999999999999
+2,wildlife habitat,3,,3.57,10.709999999999999
+2,cornfield,3,,3.57,10.709999999999999
+2,horticulturist,3,,3.57,10.709999999999999
+2,harvested,3,,3.57,10.709999999999999
+2,flower,3,,3.57,10.709999999999999
+2,cassava,3,,3.57,10.709999999999999
+2,urea,3,,3.57,10.709999999999999
+2,hectare,3,,3.57,10.709999999999999
+2,jute,3,,3.57,10.709999999999999
+2,handicraft,3,,3.57,10.709999999999999
+2,soya,3,,3.57,10.709999999999999
+2,garden,3,,3.57,10.709999999999999
+2,botanical,3,,3.57,10.709999999999999
+2,entomology,3,,3.57,10.709999999999999
+2,floral,3,,3.57,10.709999999999999
+2,saplings,3,,3.57,10.709999999999999
+2,wildflower,3,,3.57,10.709999999999999
+2,pollination,3,,3.57,10.709999999999999
+2,rainfall,3,,3.57,10.709999999999999
+2,nitrogen,3,,3.57,10.709999999999999
+2,fertilizing,3,,3.57,10.709999999999999
+2,co ops,3,,3.57,10.709999999999999
+2,wetland,3,,3.57,10.709999999999999
+2,topsoil,3,,3.57,10.709999999999999
+2,vegetation,3,,3.57,10.709999999999999
+2,hectares,3,,3.57,10.709999999999999
+2,switchgrass,3,,3.57,10.709999999999999
+2,groundwater,3,,3.57,10.709999999999999
+2,sugar cane,3,,3.57,10.709999999999999
+2,land,3,,3.57,10.709999999999999
+2,habitat,3,,3.57,10.709999999999999
+2,drought stricken,3,,3.57,10.709999999999999
+2,towns,3,,3.57,10.709999999999999
+2,cattle ranch,3,,3.57,10.709999999999999
+2,paddocks,3,,3.57,10.709999999999999
+2,hungry,3,,3.57,10.709999999999999
+2,homeless,3,,3.57,10.709999999999999
+2,humanitarian,3,,3.57,10.709999999999999
+2,food pantry,3,,3.57,10.709999999999999
+2,wfp,3,,3.57,10.709999999999999
+2,racism,3,,3.57,10.709999999999999
+2,food programme wfp,3,,3.57,10.709999999999999
+2,healthy,3,,3.57,10.709999999999999
+2,literacy,3,,3.57,10.709999999999999
+2,rice,3,,3.57,10.709999999999999
+2,calving,3,,3.57,10.709999999999999
+2,elk,3,,3.57,10.709999999999999
+2,horses,3,,3.57,10.709999999999999
+2,hatchery,3,,3.57,10.709999999999999
+2,feedstock,3,,3.57,10.709999999999999
+2,climate change,3,,3.57,10.709999999999999
+2,backwardness,3,,3.57,10.709999999999999
+2,urban,3,,3.57,10.709999999999999
+2,urbanization,3,,3.57,10.709999999999999
+2,poverty stricken,3,,3.57,10.709999999999999
+2,impoverished,3,,3.57,10.709999999999999
+2,villages,3,,3.57,10.709999999999999
+2,disease,3,,3.57,10.709999999999999
+2,starvation,3,,3.57,10.709999999999999
+2,hiv infection,3,,3.57,10.709999999999999
+2,sanitation,3,,3.57,10.709999999999999
+2,polio,3,,3.57,10.709999999999999
+2,millennium development goals,3,,3.57,10.709999999999999
+2,health organisation who,3,,3.57,10.709999999999999
+2,displaced persons,3,,3.57,10.709999999999999
+2,internally displaced persons idps,3,,3.57,10.709999999999999
+2,inequality,3,,3.57,10.709999999999999
+2,inequalities,3,,3.57,10.709999999999999
+2,joblessness,3,,3.57,10.709999999999999
+2,poverty eradication,3,,3.57,10.709999999999999
+2,poorest,3,,3.57,10.709999999999999
+2,alleviate poverty,3,,3.57,10.709999999999999
+2,slums,3,,3.57,10.709999999999999
+2,slum dwellers,3,,3.57,10.709999999999999
+2,humanitarian catastrophe,3,,3.57,10.709999999999999
+2,cholera epidemic,3,,3.57,10.709999999999999
+2,makeshift camps,3,,3.57,10.709999999999999
+2,enemies,2,True,9.87,19.74
+2,biological,2,True,6.26,12.52
+2,pastoral,2,True,6.19,12.38
+2,genetic diversity,2,True,6.04,12.08
+2,wic,2,True,4.68,9.36
+2,pest,2,True,4.46,8.92
+2,merchants,2,,3.57,7.14
+2,businesses,2,,3.57,7.14
+2,consumers,2,,3.57,7.14
+2,retailers,2,,3.57,7.14
+2,co op,2,,3.57,7.14
+2,shippers,2,,3.57,7.14
+2,importers,2,,3.57,7.14
+2,traders,2,,3.57,7.14
+2,villagers,2,,3.57,7.14
+2,weavers,2,,3.57,7.14
+2,defra,2,,3.57,7.14
+2,hunting,2,,3.57,7.14
+2,plants,2,,3.57,7.14
+2,insects,2,,3.57,7.14
+2,legumes,2,,3.57,7.14
+2,beets,2,,3.57,7.14
+2,melons,2,,3.57,7.14
+2,floods,2,,3.57,7.14
+2,johanns,2,,3.57,7.14
+2,biological sciences,2,,3.57,7.14
+2,avocados,2,,3.57,7.14
+2,vintners,2,,3.57,7.14
+2,harvesters,2,,3.57,7.14
+2,packers,2,,3.57,7.14
+2,estates,2,,3.57,7.14
+2,landscaping,2,,3.57,7.14
+2,stud,2,,3.57,7.14
+2,natural foods,2,,3.57,7.14
+2,farmer market,2,,3.57,7.14
+2,manor,2,,3.57,7.14
+2,subdivision,2,,3.57,7.14
+2,inn,2,,3.57,7.14
+2,land trust,2,,3.57,7.14
+2,campground,2,,3.57,7.14
+2,estate,2,,3.57,7.14
+2,trucking,2,,3.57,7.14
+2,ice cream,2,,3.57,7.14
+2,hollow,2,,3.57,7.14
+2,cottages,2,,3.57,7.14
+2,horse,2,,3.57,7.14
+2,equestrian,2,,3.57,7.14
+2,bio,2,,3.57,7.14
+2,archer daniels midland,2,,3.57,7.14
+2,sme,2,,3.57,7.14
+2,bayer cropscience,2,,3.57,7.14
+2,small business,2,,3.57,7.14
+2,microfinance,2,,3.57,7.14
+2,agricultural commodities,2,,3.57,7.14
+2,competitiveness,2,,3.57,7.14
+2,packaging,2,,3.57,7.14
+2,animal,2,,3.57,7.14
+2,veterinarian,2,,3.57,7.14
+2,gmos,2,,3.57,7.14
+2,composting,2,,3.57,7.14
+2,slow food,2,,3.57,7.14
+2,environmentally sustainable,2,,3.57,7.14
+2,eco tourism,2,,3.57,7.14
+2,pesticide,2,,3.57,7.14
+2,renewable energies,2,,3.57,7.14
+2,microcredit,2,,3.57,7.14
+2,eco,2,,3.57,7.14
+2,environmental sustainability,2,,3.57,7.14
+2,genetically modified,2,,3.57,7.14
+2,reforestation,2,,3.57,7.14
+2,adm,2,,3.57,7.14
+2,holstein,2,,3.57,7.14
+2,dean foods,2,,3.57,7.14
+2,nestle,2,,3.57,7.14
+2,fonterra,2,,3.57,7.14
+2,yogurt,2,,3.57,7.14
+2,nestlé,2,,3.57,7.14
+2,liquor,2,,3.57,7.14
+2,supermarket,2,,3.57,7.14
+2,baking,2,,3.57,7.14
+2,sunflowers,2,,3.57,7.14
+2,bushels,2,,3.57,7.14
+2,bt,2,,3.57,7.14
+2,bean,2,,3.57,7.14
+2,verasun,2,,3.57,7.14
+2,grain elevator,2,,3.57,7.14
+2,conservation easements,2,,3.57,7.14
+2,beekeeper,2,,3.57,7.14
+2,landowner,2,,3.57,7.14
+2,beet,2,,3.57,7.14
+2,almond,2,,3.57,7.14
+2,chemicals,2,,3.57,7.14
+2,herbal,2,,3.57,7.14
+2,halal,2,,3.57,7.14
+2,palm oil,2,,3.57,7.14
+2,cement,2,,3.57,7.14
+2,master gardeners,2,,3.57,7.14
+2,botanical garden,2,,3.57,7.14
+2,flower show,2,,3.57,7.14
+2,orchid,2,,3.57,7.14
+2,botanical gardens,2,,3.57,7.14
+2,orchids,2,,3.57,7.14
+2,mangoes,2,,3.57,7.14
+2,droughts,2,,3.57,7.14
+2,salinity,2,,3.57,7.14
+2,agriculture organization,2,,3.57,7.14
+2,global warming,2,,3.57,7.14
+2,nutrient,2,,3.57,7.14
+2,precipitation,2,,3.57,7.14
+2,monsoon rains,2,,3.57,7.14
+2,sowing,2,,3.57,7.14
+2,irrigators,2,,3.57,7.14
+2,wineries,2,,3.57,7.14
+2,supermarket chains,2,,3.57,7.14
+2,fishers,2,,3.57,7.14
+2,wetlands,2,,3.57,7.14
+2,forestland,2,,3.57,7.14
+2,crp,2,,3.57,7.14
+2,aquifers,2,,3.57,7.14
+2,watersheds,2,,3.57,7.14
+2,rhubarb,2,,3.57,7.14
+2,wind farms,2,,3.57,7.14
+2,farmhouses,2,,3.57,7.14
+2,quarries,2,,3.57,7.14
+2,hatcheries,2,,3.57,7.14
+2,food pantries,2,,3.57,7.14
+2,second harvest,2,,3.57,7.14
+2,second harvest food,2,,3.57,7.14
+2,bread,2,,3.57,7.14
+2,diabetes,2,,3.57,7.14
+2,pantries,2,,3.57,7.14
+2,needy,2,,3.57,7.14
+2,blindness,2,,3.57,7.14
+2,violence,2,,3.57,7.14
+2,meal,2,,3.57,7.14
+2,bullying,2,,3.57,7.14
+2,meals,2,,3.57,7.14
+2,childhood obesity,2,,3.57,7.14
+2,crisis,2,,3.57,7.14
+2,domestic violence,2,,3.57,7.14
+2,genocide,2,,3.57,7.14
+2,mercy corps,2,,3.57,7.14
+2,fear,2,,3.57,7.14
+2,abuse,2,,3.57,7.14
+2,healthier,2,,3.57,7.14
+2,refugee,2,,3.57,7.14
+2,inflation,2,,3.57,7.14
+2,oil,2,,3.57,7.14
+2,white tailed deer,2,,3.57,7.14
+2,bison,2,,3.57,7.14
+2,hens,2,,3.57,7.14
+2,broiler,2,,3.57,7.14
+2,bovine,2,,3.57,7.14
+2,pheasants,2,,3.57,7.14
+2,biosecurity,2,,3.57,7.14
+2,deer,2,,3.57,7.14
+2,renewables,2,,3.57,7.14
+2,feedstocks,2,,3.57,7.14
+2,genomics,2,,3.57,7.14
+2,nanotechnology,2,,3.57,7.14
+2,smart grid,2,,3.57,7.14
+2,wind energy,2,,3.57,7.14
+2,peasants,2,,3.57,7.14
+2,industrialization,2,,3.57,7.14
+2,indigenous,2,,3.57,7.14
+2,urbanized,2,,3.57,7.14
+2,underdeveloped,2,,3.57,7.14
+2,countryside,2,,3.57,7.14
+2,indigenous peoples,2,,3.57,7.14
+2,subsistence,2,,3.57,7.14
+2,shrimp,2,,3.57,7.14
+2,lobster,2,,3.57,7.14
+2,watershed,2,,3.57,7.14
+2,ecosystem,2,,3.57,7.14
+2,buffaloes,2,,3.57,7.14
+2,avian influenza,2,,3.57,7.14
+2,animals,2,,3.57,7.14
+2,hygiene,2,,3.57,7.14
+2,barnyard,2,,3.57,7.14
+2,communicable diseases,2,,3.57,7.14
+2,flowering plants,2,,3.57,7.14
+2,vegetable garden,2,,3.57,7.14
+2,flora,2,,3.57,7.14
+2,culinary,2,,3.57,7.14
+2,planters,2,,3.57,7.14
+2,medicinal,2,,3.57,7.14
+2,potash,2,,3.57,7.14
+2,petroleum,2,,3.57,7.14
+2,fuel,2,,3.57,7.14
+2,irrigate,2,,3.57,7.14
+2,riparian,2,,3.57,7.14
+2,fertile,2,,3.57,7.14
+2,replant,2,,3.57,7.14
+2,planted,2,,3.57,7.14
+2,upland,2,,3.57,7.14
+2,sown,2,,3.57,7.14
+2,cultivated,2,,3.57,7.14
+2,drainage,2,,3.57,7.14
+2,millet,2,,3.57,7.14
+2,plantations,2,,3.57,7.14
+2,coca,2,,3.57,7.14
+2,cardamom,2,,3.57,7.14
+2,papaya,2,,3.57,7.14
+2,endangered species,2,,3.57,7.14
+2,endangered,2,,3.57,7.14
+2,habitats,2,,3.57,7.14
+2,whales,2,,3.57,7.14
+2,creatures,2,,3.57,7.14
+2,turtles,2,,3.57,7.14
+2,birds,2,,3.57,7.14
+2,population,2,,3.57,7.14
+2,wellness,2,,3.57,7.14
+2,snack,2,,3.57,7.14
+2,health,2,,3.57,7.14
+2,ingredients,2,,3.57,7.14
+2,vitamins,2,,3.57,7.14
+2,snacks,2,,3.57,7.14
+2,diet,2,,3.57,7.14
+2,graze,2,,3.57,7.14
+2,grass,2,,3.57,7.14
+2,meadows,2,,3.57,7.14
+2,acre ranch,2,,3.57,7.14
+2,sagebrush,2,,3.57,7.14
+2,woodlands,2,,3.57,7.14
+2,diarrhea,2,,3.57,7.14
+2,measles,2,,3.57,7.14
+2,mortality,2,,3.57,7.14
+2,chronic diseases,2,,3.57,7.14
+2,dehydration,2,,3.57,7.14
+2,respiratory infections,2,,3.57,7.14
+2,epidemics,2,,3.57,7.14
+2,jaundice,2,,3.57,7.14
+2,neglect,2,,3.57,7.14
+2,chronic illness,2,,3.57,7.14
+2,mdgs,2,,3.57,7.14
+2,maternal,2,,3.57,7.14
+2,infections,2,,3.57,7.14
+2,dysentery,2,,3.57,7.14
+2,food rations,2,,3.57,7.14
+2,typhoid,2,,3.57,7.14
+2,dengue fever,2,,3.57,7.14
+2,epidemic,2,,3.57,7.14
+2,meningitis,2,,3.57,7.14
+2,unemployment,2,,3.57,7.14
+2,socioeconomic,2,,3.57,7.14
+2,empowerment,2,,3.57,7.14
+2,injustice,2,,3.57,7.14
+2,dropout rate,2,,3.57,7.14
+2,aids epidemic,2,,3.57,7.14
+2,disability,2,,3.57,7.14
+2,squalor,2,,3.57,7.14
+2,unaids,2,,3.57,7.14
+2,humanitarian crises,2,,3.57,7.14
+2,humanitarian assistance,2,,3.57,7.14
+2,marginalization,2,,3.57,7.14
+2,oppression,2,,3.57,7.14
+2,hopelessness,2,,3.57,7.14
+2,unfpa,2,,3.57,7.14
+2,rampant corruption,2,,3.57,7.14
+2,united nations,2,,3.57,7.14
+2,civil strife,2,,3.57,7.14
+2,basic necessities,2,,3.57,7.14
+2,poor,2,,3.57,7.14
+2,poorer,2,,3.57,7.14
+2,idps,2,,3.57,7.14
+2,displaced,2,,3.57,7.14
+2,refugees,2,,3.57,7.14
+2,dengue,2,,3.57,7.14
+2,biological control,1,True,23.87,23.87
+2,food security,1,True,22.28,22.28
+2,domestication,1,True,17.25,17.25
+2,organic systems,1,True,16.12,16.12
+2,stunting,1,True,13.87,13.87
+2,agroforestry,1,True,13.44,13.44
+2,biocontrol,1,True,13.19,13.19
+2,undernutrition,1,True,12.38,12.38
+2,smallholder,1,True,10.86,10.86
+2,natural enemies,1,True,10.61,10.61
+2,precision agriculture,1,True,9.92,9.92
+2,intercropping,1,True,9.72,9.72
+2,precision,1,True,9.08,9.08
+2,crop rotation,1,True,7.75,7.75
+2,integrated pest,1,True,7.71,7.71
+2,genetic resources,1,True,7.45,7.45
+2,green manure,1,True,7.14,7.14
+2,food insecurity,1,True,7.01,7.01
+2,conservation tillage,1,True,6.85,6.85
+2,pest management,1,True,6.76,6.76
+2,smallholders,1,True,6.3,6.3
+2,silvopastoral,1,True,5.91,5.91
+2,wild rice,1,True,5.86,5.86
+2,organic production,1,True,5.73,5.73
+2,agricultural intensification,1,True,5.5,5.5
+2,small farmers,1,True,5.37,5.37
+2,nutritional risk,1,True,5.35,5.35
+2,variable rate,1,True,5.27,5.27
+2,natural enemy,1,True,5.27,5.27
+2,investment,1,True,5.26,5.26
+2,intercropped,1,True,5.23,5.23
+2,domesticated,1,True,5.16,5.16
+2,cover crop,1,True,5.15,5.15
+2,wild,1,True,5.08,5.08
+2,agri environmental,1,True,4.92,4.92
+2,cover crops,1,True,4.91,4.91
+2,supplemental nutrition,1,True,4.79,4.79
+2,germplasm,1,True,4.77,4.77
+2,resistant,1,True,4.7,4.7
+2,resistant cultivars,1,True,4.61,4.61
+2,enemy,1,True,4.53,4.53
+2,organic conventional,1,True,4.53,4.53
+2,precision farming,1,True,4.49,4.49
+2,parasitoid,1,True,4.48,4.48
+2,biocontrol agents,1,True,4.41,4.41
+2,genetic resource,1,True,4.4,4.4
+2,investments,1,True,4.39,4.39
+2,sequestration,1,True,4.24,4.24
+2,reflectance,1,True,4.2,4.2
+2,insect science,1,True,4.07,4.07
+2,hymenoptera,1,True,4.03,4.03
+2,landraces,1,True,3.98,3.98
+2,insect,1,True,3.94,3.94
+2,accessions,1,True,3.94,3.94
+2,ndvi,1,True,3.9,3.9
+2,reduced tillage,1,True,3.78,3.78
+2,rotation,1,True,3.78,3.78
+2,small scale,1,True,3.78,3.78
+2,resistant cultivar,1,True,3.75,3.75
+2,resistance,1,True,3.68,3.68
+2,agroecological,1,True,3.65,3.65
+2,breeds,1,True,3.57,3.57
+2,residents,1,,3.57,3.57
+2,businessmen,1,,3.57,3.57
+2,entrepreneurs,1,,3.57,3.57
+2,landlords,1,,3.57,3.57
+2,bankers,1,,3.57,3.57
+2,taxpayers,1,,3.57,3.57
+2,motorists,1,,3.57,3.57
+2,workers,1,,3.57,3.57
+2,teachers,1,,3.57,3.57
+2,conservationists,1,,3.57,3.57
+2,tenants,1,,3.57,3.57
+2,hunters,1,,3.57,3.57
+2,people,1,,3.57,3.57
+2,commuters,1,,3.57,3.57
+2,manufacturers,1,,3.57,3.57
+2,employees,1,,3.57,3.57
+2,owners,1,,3.57,3.57
+2,sportsmen,1,,3.57,3.57
+2,educational,1,,3.57,3.57
+2,manufacturing,1,,3.57,3.57
+2,frosts,1,,3.57,3.57
+2,sweet potatoes,1,,3.57,3.57
+2,environment,1,,3.57,3.57
+2,rural affairs,1,,3.57,3.57
+2,veneman,1,,3.57,3.57
+2,water resources,1,,3.57,3.57
+2,education,1,,3.57,3.57
+2,transportation,1,,3.57,3.57
+2,natural resources conservation,1,,3.57,3.57
+2,commerce,1,,3.57,3.57
+2,cfia,1,,3.57,3.57
+2,consumer affairs,1,,3.57,3.57
+2,urban development,1,,3.57,3.57
+2,food inspection,1,,3.57,3.57
+2,tourism,1,,3.57,3.57
+2,fsis,1,,3.57,3.57
+2,environmental protection,1,,3.57,3.57
+2,human services,1,,3.57,3.57
+2,public works,1,,3.57,3.57
+2,shoppers,1,,3.57,3.57
+2,companies,1,,3.57,3.57
+2,contractors,1,,3.57,3.57
+2,suppliers,1,,3.57,3.57
+2,cellars,1,,3.57,3.57
+2,homes,1,,3.57,3.57
+2,excavating,1,,3.57,3.57
+2,properties llc,1,,3.57,3.57
+2,wines,1,,3.57,3.57
+2,corners,1,,3.57,3.57
+2,bros.,1,,3.57,3.57
+2,creations,1,,3.57,3.57
+2,liquors,1,,3.57,3.57
+2,cleaners,1,,3.57,3.57
+2,village,1,,3.57,3.57
+2,enterprises,1,,3.57,3.57
+2,deli,1,,3.57,3.57
+2,kennel,1,,3.57,3.57
+2,food mart,1,,3.57,3.57
+2,tract,1,,3.57,3.57
+2,ponds,1,,3.57,3.57
+2,grange,1,,3.57,3.57
+2,road,1,,3.57,3.57
+2,lane,1,,3.57,3.57
+2,windmill,1,,3.57,3.57
+2,pond,1,,3.57,3.57
+2,mill,1,,3.57,3.57
+2,fair,1,,3.57,3.57
+2,tavern,1,,3.57,3.57
+2,preserve,1,,3.57,3.57
+2,historic site,1,,3.57,3.57
+2,pumpkin,1,,3.57,3.57
+2,viterra,1,,3.57,3.57
+2,milling,1,,3.57,3.57
+2,entrepreneurship,1,,3.57,3.57
+2,business,1,,3.57,3.57
+2,risk management,1,,3.57,3.57
+2,banking,1,,3.57,3.57
+2,real estate,1,,3.57,3.57
+2,life sciences,1,,3.57,3.57
+2,supply chain,1,,3.57,3.57
+2,supply chain management,1,,3.57,3.57
+2,retail,1,,3.57,3.57
+2,private sector,1,,3.57,3.57
+2,human resource,1,,3.57,3.57
+2,nufarm,1,,3.57,3.57
+2,vegetarianism,1,,3.57,3.57
+2,locally grown,1,,3.57,3.57
+2,ecotourism,1,,3.57,3.57
+2,greening,1,,3.57,3.57
+2,gmo,1,,3.57,3.57
+2,winemaking,1,,3.57,3.57
+2,homeopathy,1,,3.57,3.57
+2,fairtrade,1,,3.57,3.57
+2,environmentalism,1,,3.57,3.57
+2,organic cotton,1,,3.57,3.57
+2,eco friendly,1,,3.57,3.57
+2,environmentally friendly,1,,3.57,3.57
+2,4h,1,,3.57,3.57
+2,john deere,1,,3.57,3.57
+2,h,1,,3.57,3.57
+2,unl,1,,3.57,3.57
+2,vilsack,1,,3.57,3.57
+2,bakers,1,,3.57,3.57
+2,popcorn,1,,3.57,3.57
+2,whey,1,,3.57,3.57
+2,sausage,1,,3.57,3.57
+2,bumper crop,1,,3.57,3.57
+2,yield,1,,3.57,3.57
+2,lyons,1,,3.57,3.57
+2,hubbard,1,,3.57,3.57
+2,hickman,1,,3.57,3.57
+2,boswell,1,,3.57,3.57
+2,welch,1,,3.57,3.57
+2,bennett,1,,3.57,3.57
+2,hardwick,1,,3.57,3.57
+2,hawkins,1,,3.57,3.57
+2,childers,1,,3.57,3.57
+2,graves,1,,3.57,3.57
+2,workman,1,,3.57,3.57
+2,sanders,1,,3.57,3.57
+2,slack,1,,3.57,3.57
+2,huddleston,1,,3.57,3.57
+2,finch,1,,3.57,3.57
+2,landers,1,,3.57,3.57
+2,teague,1,,3.57,3.57
+2,carpenter,1,,3.57,3.57
+2,hayes,1,,3.57,3.57
+2,dugger,1,,3.57,3.57
+2,wilson,1,,3.57,3.57
+2,hagan,1,,3.57,3.57
+2,sams,1,,3.57,3.57
+2,perkins,1,,3.57,3.57
+2,mcmullen,1,,3.57,3.57
+2,hodges,1,,3.57,3.57
+2,spence,1,,3.57,3.57
+2,nelson,1,,3.57,3.57
+2,harvey,1,,3.57,3.57
+2,stubbs,1,,3.57,3.57
+2,bailey,1,,3.57,3.57
+2,pate,1,,3.57,3.57
+2,webb,1,,3.57,3.57
+2,grimes,1,,3.57,3.57
+2,broderick,1,,3.57,3.57
+2,morris,1,,3.57,3.57
+2,lankford,1,,3.57,3.57
+2,yoder,1,,3.57,3.57
+2,fussell,1,,3.57,3.57
+2,copeland,1,,3.57,3.57
+2,phelan,1,,3.57,3.57
+2,squires,1,,3.57,3.57
+2,bartley,1,,3.57,3.57
+2,wilder,1,,3.57,3.57
+2,bowen,1,,3.57,3.57
+2,young,1,,3.57,3.57
+2,weaver,1,,3.57,3.57
+2,adams,1,,3.57,3.57
+2,glover,1,,3.57,3.57
+2,wise,1,,3.57,3.57
+2,gifford,1,,3.57,3.57
+2,connell,1,,3.57,3.57
+2,haire,1,,3.57,3.57
+2,wiseman,1,,3.57,3.57
+2,roney,1,,3.57,3.57
+2,hobbs,1,,3.57,3.57
+2,wooley,1,,3.57,3.57
+2,griggs,1,,3.57,3.57
+2,sharpe,1,,3.57,3.57
+2,burchett,1,,3.57,3.57
+2,smith,1,,3.57,3.57
+2,winters,1,,3.57,3.57
+2,mcgee,1,,3.57,3.57
+2,talley,1,,3.57,3.57
+2,dunning,1,,3.57,3.57
+2,shackelford,1,,3.57,3.57
+2,lindley,1,,3.57,3.57
+2,matthews,1,,3.57,3.57
+2,hinton,1,,3.57,3.57
+2,gourley,1,,3.57,3.57
+2,brown,1,,3.57,3.57
+2,dodson,1,,3.57,3.57
+2,crook,1,,3.57,3.57
+2,bradshaw,1,,3.57,3.57
+2,boyer,1,,3.57,3.57
+2,schafer,1,,3.57,3.57
+2,sammons,1,,3.57,3.57
+2,harter,1,,3.57,3.57
+2,tully,1,,3.57,3.57
+2,wiles,1,,3.57,3.57
+2,goodwin,1,,3.57,3.57
+2,watts,1,,3.57,3.57
+2,jolly,1,,3.57,3.57
+2,anderson,1,,3.57,3.57
+2,brooks,1,,3.57,3.57
+2,hunter,1,,3.57,3.57
+2,ingle,1,,3.57,3.57
+2,tucker,1,,3.57,3.57
+2,butcher,1,,3.57,3.57
+2,stephenson,1,,3.57,3.57
+2,smithfield foods,1,,3.57,3.57
+2,smithfield,1,,3.57,3.57
+2,preservation,1,,3.57,3.57
+2,property,1,,3.57,3.57
+2,tyson foods,1,,3.57,3.57
+2,flint hills,1,,3.57,3.57
+2,jbs,1,,3.57,3.57
+2,green acres,1,,3.57,3.57
+2,picker,1,,3.57,3.57
+2,winemaker,1,,3.57,3.57
+2,pickers,1,,3.57,3.57
+2,varietal,1,,3.57,3.57
+2,planter,1,,3.57,3.57
+2,grocer,1,,3.57,3.57
+2,wholesaler,1,,3.57,3.57
+2,vines,1,,3.57,3.57
+2,packer,1,,3.57,3.57
+2,pears,1,,3.57,3.57
+2,pvt ltd,1,,3.57,3.57
+2,techno,1,,3.57,3.57
+2,pharma,1,,3.57,3.57
+2,chem,1,,3.57,3.57
+2,sdn bhd,1,,3.57,3.57
+2,bata,1,,3.57,3.57
+2,beverages,1,,3.57,3.57
+2,bpc,1,,3.57,3.57
+2,oils,1,,3.57,3.57
+2,private limited,1,,3.57,3.57
+2,sez,1,,3.57,3.57
+2,tractors,1,,3.57,3.57
+2,tropical,1,,3.57,3.57
+2,timber,1,,3.57,3.57
+2,archaeology,1,,3.57,3.57
+2,biochemistry,1,,3.57,3.57
+2,yields,1,,3.57,3.57
+2,climatic conditions,1,,3.57,3.57
+2,warmer temperatures,1,,3.57,3.57
+2,productivity,1,,3.57,3.57
+2,el nino,1,,3.57,3.57
+2,monsoons,1,,3.57,3.57
+2,rains,1,,3.57,3.57
+2,phytoplankton,1,,3.57,3.57
+2,el niño,1,,3.57,3.57
+2,commodity prices,1,,3.57,3.57
+2,grocers,1,,3.57,3.57
+2,brewers,1,,3.57,3.57
+2,lobstermen,1,,3.57,3.57
+2,grocery chains,1,,3.57,3.57
+2,refiners,1,,3.57,3.57
+2,watermen,1,,3.57,3.57
+2,restaurateurs,1,,3.57,3.57
+2,cow milk,1,,3.57,3.57
+2,livelihoods,1,,3.57,3.57
+2,wage earners,1,,3.57,3.57
+2,floodplain,1,,3.57,3.57
+2,flood plains,1,,3.57,3.57
+2,rivers,1,,3.57,3.57
+2,berries,1,,3.57,3.57
+2,flax,1,,3.57,3.57
+2,apricots,1,,3.57,3.57
+2,cranberry,1,,3.57,3.57
+2,cherries,1,,3.57,3.57
+2,asparagus,1,,3.57,3.57
+2,breweries,1,,3.57,3.57
+2,sawmills,1,,3.57,3.57
+2,mills,1,,3.57,3.57
+2,coal mines,1,,3.57,3.57
+2,windmills,1,,3.57,3.57
+2,septic systems,1,,3.57,3.57
+2,factories,1,,3.57,3.57
+2,soup kitchens,1,,3.57,3.57
+2,feeding america,1,,3.57,3.57
+2,america second harvest,1,,3.57,3.57
+2,soup kitchen,1,,3.57,3.57
+2,interfaith,1,,3.57,3.57
+2,compassion,1,,3.57,3.57
+2,shelter,1,,3.57,3.57
+2,caring,1,,3.57,3.57
+2,autism,1,,3.57,3.57
+2,relief,1,,3.57,3.57
+2,humanity,1,,3.57,3.57
+2,salvation army,1,,3.57,3.57
+2,breast cancer,1,,3.57,3.57
+2,feeding,1,,3.57,3.57
+2,backpack,1,,3.57,3.57
+2,farm aid,1,,3.57,3.57
+2,cares,1,,3.57,3.57
+2,epilepsy,1,,3.57,3.57
+2,charity,1,,3.57,3.57
+2,meth,1,,3.57,3.57
+2,healthy kids,1,,3.57,3.57
+2,pain,1,,3.57,3.57
+2,heart,1,,3.57,3.57
+2,arthritis,1,,3.57,3.57
+2,kindness,1,,3.57,3.57
+2,suicide prevention,1,,3.57,3.57
+2,death penalty,1,,3.57,3.57
+2,catholic charities,1,,3.57,3.57
+2,rescue mission,1,,3.57,3.57
+2,prayer,1,,3.57,3.57
+2,cancer,1,,3.57,3.57
+2,warming,1,,3.57,3.57
+2,outreach,1,,3.57,3.57
+2,forgiveness,1,,3.57,3.57
+2,reach out,1,,3.57,3.57
+2,solidarity,1,,3.57,3.57
+2,child,1,,3.57,3.57
+2,hope,1,,3.57,3.57
+2,garbage,1,,3.57,3.57
+2,litter,1,,3.57,3.57
+2,per hundredweight,1,,3.57,3.57
+2,bushel,1,,3.57,3.57
+2,crude oil,1,,3.57,3.57
+2,checkoff,1,,3.57,3.57
+2,bunge,1,,3.57,3.57
+2,peanut,1,,3.57,3.57
+2,stallions,1,,3.57,3.57
+2,yearlings,1,,3.57,3.57
+2,purebred,1,,3.57,3.57
+2,sires,1,,3.57,3.57
+2,quarter horse,1,,3.57,3.57
+2,foals,1,,3.57,3.57
+2,turkeys,1,,3.57,3.57
+2,chronic wasting,1,,3.57,3.57
+2,thoroughbreds,1,,3.57,3.57
+2,beef pork,1,,3.57,3.57
+2,mares,1,,3.57,3.57
+2,alpaca,1,,3.57,3.57
+2,piglets,1,,3.57,3.57
+2,renewable fuels,1,,3.57,3.57
+2,alternative fuels,1,,3.57,3.57
+2,carbon capture,1,,3.57,3.57
+2,biosciences,1,,3.57,3.57
+2,biogas,1,,3.57,3.57
+2,fossil fuel,1,,3.57,3.57
+2,gasification,1,,3.57,3.57
+2,fossil fuels,1,,3.57,3.57
+2,photovoltaics,1,,3.57,3.57
+2,cellulose,1,,3.57,3.57
+2,offshore wind,1,,3.57,3.57
+2,energy,1,,3.57,3.57
+2,wood chips,1,,3.57,3.57
+2,cogeneration,1,,3.57,3.57
+2,liquid fuels,1,,3.57,3.57
+2,sustainably,1,,3.57,3.57
+2,photovoltaic,1,,3.57,3.57
+2,geothermal,1,,3.57,3.57
+2,hydropower,1,,3.57,3.57
+2,regenerative medicine,1,,3.57,3.57
+2,cleantech,1,,3.57,3.57
+2,biomaterials,1,,3.57,3.57
+2,reduce greenhouse gas,1,,3.57,3.57
+2,hydrogen,1,,3.57,3.57
+2,bioinformatics,1,,3.57,3.57
+2,carbon credits,1,,3.57,3.57
+2,nanotech,1,,3.57,3.57
+2,reducing greenhouse gas,1,,3.57,3.57
+2,biomedical research,1,,3.57,3.57
+2,solar photovoltaic,1,,3.57,3.57
+2,peasant,1,,3.57,3.57
+2,feudal,1,,3.57,3.57
+2,capitalist,1,,3.57,3.57
+2,neo liberal,1,,3.57,3.57
+2,socialist,1,,3.57,3.57
+2,socio,1,,3.57,3.57
+2,export oriented,1,,3.57,3.57
+2,neoliberal,1,,3.57,3.57
+2,proletariat,1,,3.57,3.57
+2,utopian,1,,3.57,3.57
+2,industrialized,1,,3.57,3.57
+2,demography,1,,3.57,3.57
+2,marxist,1,,3.57,3.57
+2,capitalistic,1,,3.57,3.57
+2,commune,1,,3.57,3.57
+2,breadbasket,1,,3.57,3.57
+2,communal,1,,3.57,3.57
+2,hinterland,1,,3.57,3.57
+2,marxism,1,,3.57,3.57
+2,egalitarian,1,,3.57,3.57
+2,communes,1,,3.57,3.57
+2,colonial,1,,3.57,3.57
+2,deeply rooted,1,,3.57,3.57
+2,sociological,1,,3.57,3.57
+2,prosperous,1,,3.57,3.57
+2,artisans,1,,3.57,3.57
+2,hinterlands,1,,3.57,3.57
+2,bourgeoisie,1,,3.57,3.57
+2,socialistic,1,,3.57,3.57
+2,communist,1,,3.57,3.57
+2,bourgeois,1,,3.57,3.57
+2,##th century,1,,3.57,3.57
+2,globalized,1,,3.57,3.57
+2,highland,1,,3.57,3.57
+2,infrastructural,1,,3.57,3.57
+2,idealized,1,,3.57,3.57
+2,patriarchal,1,,3.57,3.57
+2,socialism,1,,3.57,3.57
+2,decentralization,1,,3.57,3.57
+2,highlands,1,,3.57,3.57
+2,socio cultural,1,,3.57,3.57
+2,shellfish,1,,3.57,3.57
+2,tilapia,1,,3.57,3.57
+2,prawn,1,,3.57,3.57
+2,oyster,1,,3.57,3.57
+2,angling,1,,3.57,3.57
+2,mussel,1,,3.57,3.57
+2,bluefin tuna,1,,3.57,3.57
+2,mussels,1,,3.57,3.57
+2,fish,1,,3.57,3.57
+2,salmon,1,,3.57,3.57
+2,abalone,1,,3.57,3.57
+2,overfishing,1,,3.57,3.57
+2,tuna,1,,3.57,3.57
+2,oysters,1,,3.57,3.57
+2,grouper,1,,3.57,3.57
+2,wild salmon,1,,3.57,3.57
+2,resource management,1,,3.57,3.57
+2,estuaries,1,,3.57,3.57
+2,fisherman,1,,3.57,3.57
+2,fisher,1,,3.57,3.57
+2,maritime,1,,3.57,3.57
+2,crab,1,,3.57,3.57
+2,scallop,1,,3.57,3.57
+2,dredging,1,,3.57,3.57
+2,cod,1,,3.57,3.57
+2,water quality,1,,3.57,3.57
+2,herring,1,,3.57,3.57
+2,environmental,1,,3.57,3.57
+2,shrimping,1,,3.57,3.57
+2,zoology,1,,3.57,3.57
+2,rearing,1,,3.57,3.57
+2,handicrafts,1,,3.57,3.57
+2,microbiology,1,,3.57,3.57
+2,oxen,1,,3.57,3.57
+2,culling,1,,3.57,3.57
+2,sahu,1,,3.57,3.57
+2,artificial insemination,1,,3.57,3.57
+2,directorate,1,,3.57,3.57
+2,panchayat,1,,3.57,3.57
+2,uttaranchal,1,,3.57,3.57
+2,veterinarians,1,,3.57,3.57
+2,shepherds,1,,3.57,3.57
+2,bhattacharjee,1,,3.57,3.57
+2,upazila,1,,3.57,3.57
+2,molecular biology,1,,3.57,3.57
+2,tripura,1,,3.57,3.57
+2,archery,1,,3.57,3.57
+2,tribals,1,,3.57,3.57
+2,bonsai,1,,3.57,3.57
+2,ornamental,1,,3.57,3.57
+2,pest control,1,,3.57,3.57
+2,hanging baskets,1,,3.57,3.57
+2,compost,1,,3.57,3.57
+2,botanist,1,,3.57,3.57
+2,edible,1,,3.57,3.57
+2,tulip,1,,3.57,3.57
+2,pruning,1,,3.57,3.57
+2,lavender,1,,3.57,3.57
+2,annuals,1,,3.57,3.57
+2,conservatory,1,,3.57,3.57
+2,blooms,1,,3.57,3.57
+2,perennials,1,,3.57,3.57
+2,pests,1,,3.57,3.57
+2,flower beds,1,,3.57,3.57
+2,landscapers,1,,3.57,3.57
+2,hairdressing,1,,3.57,3.57
+2,birding,1,,3.57,3.57
+2,pumpkins,1,,3.57,3.57
+2,florists,1,,3.57,3.57
+2,floral arrangements,1,,3.57,3.57
+2,chemical,1,,3.57,3.57
+2,phosphate,1,,3.57,3.57
+2,agrium,1,,3.57,3.57
+2,refining,1,,3.57,3.57
+2,flour,1,,3.57,3.57
+2,asphalt,1,,3.57,3.57
+2,ethylene,1,,3.57,3.57
+2,pharmaceutical,1,,3.57,3.57
+2,refineries,1,,3.57,3.57
+2,coal,1,,3.57,3.57
+2,propane,1,,3.57,3.57
+2,parched,1,,3.57,3.57
+2,fertilize,1,,3.57,3.57
+2,fertilized,1,,3.57,3.57
+2,aquifer,1,,3.57,3.57
+2,landscaped,1,,3.57,3.57
+2,watering,1,,3.57,3.57
+2,saline,1,,3.57,3.57
+2,dry,1,,3.57,3.57
+2,groves,1,,3.57,3.57
+2,cane,1,,3.57,3.57
+2,coconut,1,,3.57,3.57
+2,banana,1,,3.57,3.57
+2,coconuts,1,,3.57,3.57
+2,quintal,1,,3.57,3.57
+2,cocoa,1,,3.57,3.57
+2,pineapples,1,,3.57,3.57
+2,foodgrains,1,,3.57,3.57
+2,per quintal,1,,3.57,3.57
+2,edible oils,1,,3.57,3.57
+2,pawar,1,,3.57,3.57
+2,pig iron,1,,3.57,3.57
+2,bananas,1,,3.57,3.57
+2,mangrove,1,,3.57,3.57
+2,lakh tonnes,1,,3.57,3.57
+2,bauxite,1,,3.57,3.57
+2,cultivating,1,,3.57,3.57
+2,cultivate,1,,3.57,3.57
+2,flowering,1,,3.57,3.57
+2,exportation,1,,3.57,3.57
+2,eradication,1,,3.57,3.57
+2,propagation,1,,3.57,3.57
+2,poppy,1,,3.57,3.57
+2,opium,1,,3.57,3.57
+2,fertilization,1,,3.57,3.57
+2,aerial spraying,1,,3.57,3.57
+2,transgenic,1,,3.57,3.57
+2,extraction,1,,3.57,3.57
+2,ha,1,,3.57,3.57
+2,hemp,1,,3.57,3.57
+2,experimentation,1,,3.57,3.57
+2,pomegranate,1,,3.57,3.57
+2,transplanting,1,,3.57,3.57
+2,species,1,,3.57,3.57
+2,amphibians,1,,3.57,3.57
+2,mammals,1,,3.57,3.57
+2,endangered species act,1,,3.57,3.57
+2,critically endangered,1,,3.57,3.57
+2,bird species,1,,3.57,3.57
+2,charles darwin,1,,3.57,3.57
+2,subspecies,1,,3.57,3.57
+2,extinct,1,,3.57,3.57
+2,iucn,1,,3.57,3.57
+2,grizzly bears,1,,3.57,3.57
+2,humans,1,,3.57,3.57
+2,mammal,1,,3.57,3.57
+2,ecosystems,1,,3.57,3.57
+2,vertebrates,1,,3.57,3.57
+2,biologists,1,,3.57,3.57
+2,oceans,1,,3.57,3.57
+2,otters,1,,3.57,3.57
+2,carnivores,1,,3.57,3.57
+2,polar bears,1,,3.57,3.57
+2,adaptation,1,,3.57,3.57
+2,organisms,1,,3.57,3.57
+2,amphibian,1,,3.57,3.57
+2,coral reefs,1,,3.57,3.57
+2,gray wolves,1,,3.57,3.57
+2,invasive species,1,,3.57,3.57
+2,extinction,1,,3.57,3.57
+2,biology,1,,3.57,3.57
+2,butterflies,1,,3.57,3.57
+2,grizzlies,1,,3.57,3.57
+2,manatees,1,,3.57,3.57
+2,corals,1,,3.57,3.57
+2,pandas,1,,3.57,3.57
+2,lynx,1,,3.57,3.57
+2,fauna,1,,3.57,3.57
+2,invertebrates,1,,3.57,3.57
+2,frogs,1,,3.57,3.57
+2,wolves,1,,3.57,3.57
+2,bald eagles,1,,3.57,3.57
+2,sea creatures,1,,3.57,3.57
+2,primates,1,,3.57,3.57
+2,natural history,1,,3.57,3.57
+2,reptiles,1,,3.57,3.57
+2,snakes,1,,3.57,3.57
+2,genus,1,,3.57,3.57
+2,woodpecker,1,,3.57,3.57
+2,creature,1,,3.57,3.57
+2,polar bear,1,,3.57,3.57
+2,dinosaurs,1,,3.57,3.57
+2,primate,1,,3.57,3.57
+2,lizards,1,,3.57,3.57
+2,seabirds,1,,3.57,3.57
+2,languages,1,,3.57,3.57
+2,ecologist,1,,3.57,3.57
+2,monkeys,1,,3.57,3.57
+2,bald eagle,1,,3.57,3.57
+2,biologist,1,,3.57,3.57
+2,sturgeon,1,,3.57,3.57
+2,manatee,1,,3.57,3.57
+2,reefs,1,,3.57,3.57
+2,pollinators,1,,3.57,3.57
+2,predation,1,,3.57,3.57
+2,wwf,1,,3.57,3.57
+2,origins,1,,3.57,3.57
+2,religions,1,,3.57,3.57
+2,civilizations,1,,3.57,3.57
+2,clinical nutrition,1,,3.57,3.57
+2,nutritionist,1,,3.57,3.57
+2,registered dietitian,1,,3.57,3.57
+2,american dietetic association,1,,3.57,3.57
+2,nutritious,1,,3.57,3.57
+2,medicine,1,,3.57,3.57
+2,dietitian,1,,3.57,3.57
+2,dietician,1,,3.57,3.57
+2,dietary supplement,1,,3.57,3.57
+2,weight loss,1,,3.57,3.57
+2,nutritionists,1,,3.57,3.57
+2,healthy living,1,,3.57,3.57
+2,metabolism,1,,3.57,3.57
+2,diabetes care,1,,3.57,3.57
+2,nutritionally,1,,3.57,3.57
+2,fitness,1,,3.57,3.57
+2,nutritional supplements,1,,3.57,3.57
+2,nutraceutical,1,,3.57,3.57
+2,vitality,1,,3.57,3.57
+2,genetics,1,,3.57,3.57
+2,dietary supplements,1,,3.57,3.57
+2,healthier foods,1,,3.57,3.57
+2,preventive medicine,1,,3.57,3.57
+2,diets,1,,3.57,3.57
+2,protein,1,,3.57,3.57
+2,balanced diet,1,,3.57,3.57
+2,supplements,1,,3.57,3.57
+2,whole grains,1,,3.57,3.57
+2,nutritional supplement,1,,3.57,3.57
+2,probiotics,1,,3.57,3.57
+2,cardiovascular,1,,3.57,3.57
+2,dietary,1,,3.57,3.57
+2,gnc,1,,3.57,3.57
+2,dental,1,,3.57,3.57
+2,snack foods,1,,3.57,3.57
+2,eating habits,1,,3.57,3.57
+2,physical therapy,1,,3.57,3.57
+2,pharmacy,1,,3.57,3.57
+2,medical,1,,3.57,3.57
+2,lifestyle,1,,3.57,3.57
+2,weight watchers,1,,3.57,3.57
+2,cereals,1,,3.57,3.57
+2,infant formula,1,,3.57,3.57
+2,calorie,1,,3.57,3.57
+2,epidemiology,1,,3.57,3.57
+2,pharmacology,1,,3.57,3.57
+2,healthful,1,,3.57,3.57
+2,internal medicine,1,,3.57,3.57
+2,nursing,1,,3.57,3.57
+2,healthy lifestyles,1,,3.57,3.57
+2,probiotic,1,,3.57,3.57
+2,osteoporosis,1,,3.57,3.57
+2,saturated fat,1,,3.57,3.57
+2,omega 3,1,,3.57,3.57
+2,calories,1,,3.57,3.57
+2,dermatology,1,,3.57,3.57
+2,science,1,,3.57,3.57
+2,cholesterol,1,,3.57,3.57
+2,creek bed,1,,3.57,3.57
+2,hay bales,1,,3.57,3.57
+2,plains,1,,3.57,3.57
+2,paddock,1,,3.57,3.57
+2,weeds,1,,3.57,3.57
+2,llamas,1,,3.57,3.57
+2,hooves,1,,3.57,3.57
+2,wooded,1,,3.57,3.57
+2,llama,1,,3.57,3.57
+2,creek,1,,3.57,3.57
+2,gourmet,1,,3.57,3.57
+2,foodstuffs,1,,3.57,3.57
+2,drug,1,,3.57,3.57
+2,taste,1,,3.57,3.57
+2,kitchen,1,,3.57,3.57
+2,catering,1,,3.57,3.57
+2,cooking,1,,3.57,3.57
+2,vegetarian,1,,3.57,3.57
+2,feed,1,,3.57,3.57
+2,sysco,1,,3.57,3.57
+2,foodstuff,1,,3.57,3.57
+2,chefs,1,,3.57,3.57
+2,wine,1,,3.57,3.57
+2,flavors,1,,3.57,3.57
+2,cuisine,1,,3.57,3.57
+2,pasta,1,,3.57,3.57
+2,fda,1,,3.57,3.57
+2,noodles,1,,3.57,3.57
+2,tasty,1,,3.57,3.57
+2,grocery stores,1,,3.57,3.57
+2,dessert,1,,3.57,3.57
+2,drugs,1,,3.57,3.57
+2,vegan,1,,3.57,3.57
+2,recipe,1,,3.57,3.57
+2,consumer,1,,3.57,3.57
+2,medicines,1,,3.57,3.57
+2,perishable,1,,3.57,3.57
+2,garlic,1,,3.57,3.57
+2,supper,1,,3.57,3.57
+2,pet,1,,3.57,3.57
+2,flavor,1,,3.57,3.57
+2,canned goods,1,,3.57,3.57
+2,tooth decay,1,,3.57,3.57
+2,premature births,1,,3.57,3.57
+2,anemia,1,,3.57,3.57
+2,kidney disease,1,,3.57,3.57
+2,premature birth,1,,3.57,3.57
+2,deformities,1,,3.57,3.57
+2,stillbirth,1,,3.57,3.57
+2,childbirth,1,,3.57,3.57
+2,birth defects,1,,3.57,3.57
+2,kidney failure,1,,3.57,3.57
+2,cirrhosis,1,,3.57,3.57
+2,pneumonia,1,,3.57,3.57
+2,maltreatment,1,,3.57,3.57
+2,health organization who,1,,3.57,3.57
+2,starving,1,,3.57,3.57
+2,deformity,1,,3.57,3.57
+2,health organisation,1,,3.57,3.57
+2,liver disease,1,,3.57,3.57
+2,mental disorders,1,,3.57,3.57
+2,agriculture organization fao,1,,3.57,3.57
+2,infants,1,,3.57,3.57
+2,morbidity,1,,3.57,3.57
+2,slavery,1,,3.57,3.57
+2,gender,1,,3.57,3.57
+2,discrimination,1,,3.57,3.57
+2,corruption,1,,3.57,3.57
+2,terrorism,1,,3.57,3.57
+2,globalisation,1,,3.57,3.57
+2,globalization,1,,3.57,3.57
+2,crime,1,,3.57,3.57
+2,rape,1,,3.57,3.57
+2,violence against,1,,3.57,3.57
+2,wealth,1,,3.57,3.57
+2,politics,1,,3.57,3.57
+2,pollution,1,,3.57,3.57
+2,greed,1,,3.57,3.57
+2,hatred,1,,3.57,3.57
+2,educational attainment,1,,3.57,3.57
+2,terror,1,,3.57,3.57
+2,disparities,1,,3.57,3.57
+2,survival,1,,3.57,3.57
+2,anti semitism,1,,3.57,3.57
+2,climate,1,,3.57,3.57
+2,inequity,1,,3.57,3.57
+2,liberalism,1,,3.57,3.57
+2,addiction,1,,3.57,3.57
+2,racial,1,,3.57,3.57
+2,teenage pregnancy,1,,3.57,3.57
+2,economic policy,1,,3.57,3.57
+2,trafficking,1,,3.57,3.57
+2,piracy,1,,3.57,3.57
+2,child abuse,1,,3.57,3.57
+2,capitalism,1,,3.57,3.57
+2,dropout rates,1,,3.57,3.57
+2,recession,1,,3.57,3.57
+2,prostitution,1,,3.57,3.57
+2,inequities,1,,3.57,3.57
+2,conflict,1,,3.57,3.57
+2,tackling,1,,3.57,3.57
+2,violent crime,1,,3.57,3.57
+2,mdg,1,,3.57,3.57
+2,ilo,1,,3.57,3.57
+2,actionaid,1,,3.57,3.57
+2,hiv infections,1,,3.57,3.57
+2,ldcs,1,,3.57,3.57
+2,hiv aids prevention,1,,3.57,3.57
+2,remittances,1,,3.57,3.57
+2,industrialized countries,1,,3.57,3.57
+2,unwanted pregnancies,1,,3.57,3.57
+2,unctad,1,,3.57,3.57
+2,health organization,1,,3.57,3.57
+2,maoist insurgency,1,,3.57,3.57
+2,human trafficking,1,,3.57,3.57
+2,gender equality,1,,3.57,3.57
+2,development programme undp,1,,3.57,3.57
+2,unhcr,1,,3.57,3.57
+2,idp,1,,3.57,3.57
+2,un refugee,1,,3.57,3.57
+2,refugee agency,1,,3.57,3.57
+2,sudanese refugees,1,,3.57,3.57
+2,ocha,1,,3.57,3.57
+2,refugees unhcr,1,,3.57,3.57
+2,icrc,1,,3.57,3.57
+2,resettlement,1,,3.57,3.57
+2,north kivu,1,,3.57,3.57
+2,iom,1,,3.57,3.57
+2,guterres,1,,3.57,3.57
+2,refugee camp,1,,3.57,3.57
+2,darfur,1,,3.57,3.57
+2,red cross icrc,1,,3.57,3.57
+2,displacement,1,,3.57,3.57
+2,civilians,1,,3.57,3.57
+2,ituri,1,,3.57,3.57
+2,kivu,1,,3.57,3.57
+2,palestinian refugees,1,,3.57,3.57
+2,humanitarian aid,1,,3.57,3.57
+2,temporary shelters,1,,3.57,3.57
+2,burundi,1,,3.57,3.57
+2,lord resistance army,1,,3.57,3.57
+2,humanitarian affairs ocha,1,,3.57,3.57
+2,irin,1,,3.57,3.57
+2,uprooted,1,,3.57,3.57
+2,monuc,1,,3.57,3.57
+2,resettled,1,,3.57,3.57
+2,rwandans,1,,3.57,3.57
+2,gulu,1,,3.57,3.57
+2,un,1,,3.57,3.57
+2,refugees fleeing,1,,3.57,3.57
+2,sudan darfur,1,,3.57,3.57
+2,orphans,1,,3.57,3.57
+2,egeland,1,,3.57,3.57
+2,wanni,1,,3.57,3.57
+2,cyclone nargis,1,,3.57,3.57
+2,tamil civilians,1,,3.57,3.57
+2,humanitarian affairs,1,,3.57,3.57
+2,vavuniya,1,,3.57,3.57
+2,resettle,1,,3.57,3.57
+2,msf,1,,3.57,3.57
+2,lra,1,,3.57,3.57
+2,eastern congo,1,,3.57,3.57
+2,unamid,1,,3.57,3.57
+2,abyei,1,,3.57,3.57
+2,reintegration,1,,3.57,3.57
+2,bajaur,1,,3.57,3.57
+2,dr congo,1,,3.57,3.57
+2,aceh,1,,3.57,3.57
+2,red crescent,1,,3.57,3.57
+2,returnees,1,,3.57,3.57
+2,red crescent societies,1,,3.57,3.57
+2,unrwa,1,,3.57,3.57
+2,bunia,1,,3.57,3.57
+2,batticaloa,1,,3.57,3.57
+2,nagorno karabakh,1,,3.57,3.57
+2,vanni,1,,3.57,3.57
+2,illiterate,1,,3.57,3.57
+2,misrule,1,,3.57,3.57
+2,slum,1,,3.57,3.57
+2,ghettos,1,,3.57,3.57
+2,shantytowns,1,,3.57,3.57
+2,hardships,1,,3.57,3.57
+2,misery,1,,3.57,3.57
+2,affluence,1,,3.57,3.57
+2,lawlessness,1,,3.57,3.57
+2,despair,1,,3.57,3.57
+2,shantytown,1,,3.57,3.57
+2,sufferings,1,,3.57,3.57
+2,uneducated,1,,3.57,3.57
+2,hardship,1,,3.57,3.57
+2,squalid,1,,3.57,3.57
+2,ghetto,1,,3.57,3.57
+2,social ills,1,,3.57,3.57
+2,filth,1,,3.57,3.57
+2,dalits,1,,3.57,3.57
+2,oppressed,1,,3.57,3.57
+2,incomes,1,,3.57,3.57
+2,tyranny,1,,3.57,3.57
+2,upliftment,1,,3.57,3.57
+2,servitude,1,,3.57,3.57
+2,malawians,1,,3.57,3.57
+2,miseries,1,,3.57,3.57
+2,fatherless,1,,3.57,3.57
+2,repression,1,,3.57,3.57
+2,tribalism,1,,3.57,3.57
+2,africans,1,,3.57,3.57
+2,marginalized,1,,3.57,3.57
+2,opulence,1,,3.57,3.57
+2,enslaved,1,,3.57,3.57
+2,inhumanity,1,,3.57,3.57
+2,stagnation,1,,3.57,3.57
+2,underclass,1,,3.57,3.57
+2,enslavement,1,,3.57,3.57
+2,plight,1,,3.57,3.57
+2,unemployed,1,,3.57,3.57
+2,zambians,1,,3.57,3.57
+2,desolation,1,,3.57,3.57
+2,grazed,1,,3.57,3.57
+2,foraging,1,,3.57,3.57
+2,land management,1,,3.57,3.57
+2,bighorn sheep,1,,3.57,3.57
+2,blm,1,,3.57,3.57
+2,mule deer,1,,3.57,3.57
+2,lands,1,,3.57,3.57
+2,forest,1,,3.57,3.57
+2,woodland,1,,3.57,3.57
+2,antelope,1,,3.57,3.57
+2,deer hunting,1,,3.57,3.57
+2,pheasant,1,,3.57,3.57
+2,quail,1,,3.57,3.57
+2,doe,1,,3.57,3.57
+2,sage grouse,1,,3.57,3.57
+2,sawmill,1,,3.57,3.57
+2,butcher shop,1,,3.57,3.57
+2,room schoolhouse,1,,3.57,3.57
+2,quarry,1,,3.57,3.57
+2,gravel pit,1,,3.57,3.57
+2,milking,1,,3.57,3.57
+2,log cabin,1,,3.57,3.57
+2,bottling plant,1,,3.57,3.57
+2,brewery,1,,3.57,3.57
+2,distillery,1,,3.57,3.57
+2,hamlet,1,,3.57,3.57
+2,chicken coop,1,,3.57,3.57
+2,schoolhouse,1,,3.57,3.57
+2,gastroenteritis,1,,3.57,3.57
+2,infectious diseases,1,,3.57,3.57
+2,potable water,1,,3.57,3.57
+2,flash floods,1,,3.57,3.57
+2,latrines,1,,3.57,3.57
+2,borne illness,1,,3.57,3.57
+2,bacterial infections,1,,3.57,3.57
+2,hepatitis,1,,3.57,3.57
+2,hepatitis b,1,,3.57,3.57
+2,mosquito nets,1,,3.57,3.57
+2,infection,1,,3.57,3.57
+2,sexually transmitted infections,1,,3.57,3.57
+2,tetanus,1,,3.57,3.57
+2,unhygienic,1,,3.57,3.57
+2,respiratory diseases,1,,3.57,3.57
+2,communicable disease,1,,3.57,3.57
+2,landslides,1,,3.57,3.57
+2,mosquito bites,1,,3.57,3.57
+2,respiratory illnesses,1,,3.57,3.57
+2,flood waters,1,,3.57,3.57
+2,stis,1,,3.57,3.57
+2,hygienic,1,,3.57,3.57
+2,mosquitoes,1,,3.57,3.57
+2,pathogens,1,,3.57,3.57
+2,disaster management,1,,3.57,3.57
+2,natural calamities,1,,3.57,3.57
+2,encephalitis,1,,3.57,3.57
+2,heavy rains,1,,3.57,3.57
+2,viral infections,1,,3.57,3.57
+2,foodborne illness,1,,3.57,3.57
+2,avian flu,1,,3.57,3.57
+2,outbreaks,1,,3.57,3.57
+2,antibiotic resistance,1,,3.57,3.57
+2,infectious disease,1,,3.57,3.57
+2,sexually transmitted diseases,1,,3.57,3.57
+2,e.coli,1,,3.57,3.57
+2,bird flu,1,,3.57,3.57
+2,sanitary,1,,3.57,3.57
+2,cusecs,1,,3.57,3.57
+2,h#n# virus,1,,3.57,3.57
+2,bird flu virus,1,,3.57,3.57
+2,floodwater,1,,3.57,3.57
+2,bacterial meningitis,1,,3.57,3.57
+2,flash flooding,1,,3.57,3.57
+2,disinfectants,1,,3.57,3.57
+2,community,1,,3.57,3.57
+2,self help,1,,3.57,3.57
+2,primary care,1,,3.57,3.57
+2,usda rural development,1,,3.57,3.57
+2,roads,1,,3.57,3.57
+2,municipal,1,,3.57,3.57
+2,residential,1,,3.57,3.57
+2,public,1,,3.57,3.57
+2,southern,1,,3.57,3.57
+2,housing,1,,3.57,3.57
+2,elders,1,,3.57,3.57
+2,advocacy,1,,3.57,3.57
+2,migrant,1,,3.57,3.57
+2,infrastructure,1,,3.57,3.57
+2,municipalities,1,,3.57,3.57
+2,telemedicine,1,,3.57,3.57
+2,electric cooperative,1,,3.57,3.57
+2,statewide,1,,3.57,3.57
+2,territory,1,,3.57,3.57
+2,regional,1,,3.57,3.57
+2,riverina,1,,3.57,3.57
+2,wheatland,1,,3.57,3.57
+2,lifeline,1,,3.57,3.57
+2,communities,1,,3.57,3.57
+2,country,1,,3.57,3.57
+2,northern,1,,3.57,3.57
+2,broadband,1,,3.57,3.57
+2,central,1,,3.57,3.57
+2,hamlets,1,,3.57,3.57
+2,telephone,1,,3.57,3.57
+2,affordable housing,1,,3.57,3.57
+2,highways,1,,3.57,3.57
+2,prosperity,1,,3.57,3.57
+2,councils,1,,3.57,3.57
+2,local,1,,3.57,3.57
+2,territorial,1,,3.57,3.57
+2,emergency,1,,3.57,3.57
+2,water supply,1,,3.57,3.57
+2,broadband connectivity,1,,3.57,3.57
+2,counties,1,,3.57,3.57
+2,outlying areas,1,,3.57,3.57
+2,tele,1,,3.57,3.57
+2,tribal,1,,3.57,3.57
+2,correctional,1,,3.57,3.57
+2,disaster recovery,1,,3.57,3.57

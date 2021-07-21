@@ -1,0 +1,1754 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+14,fisheries,40,True,9.39,375.6
+14,fishery,38,True,4.17,158.46
+14,lobster,36,,3.21,115.56
+14,shrimp,35,True,3.53,123.55
+14,seafood,35,,3.21,112.35
+14,fish,34,True,4.85,164.89999999999998
+14,crab,32,,3.21,102.72
+14,fishing,31,True,4.95,153.45000000000002
+14,salmon,29,,3.21,93.09
+14,fishermen,27,,3.21,86.67
+14,oysters,27,,3.21,86.67
+14,aquaculture,25,True,10.59,264.75
+14,tuna,24,True,3.21,77.03999999999999
+14,catfish,24,,3.21,77.03999999999999
+14,ocean,23,True,10.62,244.26
+14,shellfish,23,True,3.77,86.71
+14,fisherman,23,,3.21,73.83
+14,oyster,23,,3.21,73.83
+14,whales,23,,3.21,73.83
+14,mussels,22,,3.21,70.62
+14,whale,22,,3.21,70.62
+14,oceans,21,True,6.3,132.29999999999998
+14,herring,21,,3.21,67.41
+14,reef,21,,3.21,67.41
+14,grouper,20,,3.21,64.2
+14,rockfish,20,,3.21,64.2
+14,halibut,19,,3.21,60.99
+14,trout,19,,3.21,60.99
+14,coastal,18,True,13.63,245.34
+14,sea,18,True,11.77,211.85999999999999
+14,bluefin tuna,18,,3.21,57.78
+14,striped bass,18,,3.21,57.78
+14,crabs,18,,3.21,57.78
+14,cod,17,,3.21,54.57
+14,red snapper,17,,3.21,54.57
+14,scallop,17,,3.21,54.57
+14,mackerel,17,,3.21,54.57
+14,reefs,17,,3.21,54.57
+14,marine,16,True,19.68,314.88
+14,coral,16,True,4.0,64.0
+14,abalone,16,,3.21,51.36
+14,lobsters,16,,3.21,51.36
+14,wild salmon,16,,3.21,51.36
+14,sturgeon,16,,3.21,51.36
+14,swordfish,16,,3.21,51.36
+14,estuaries,16,,3.21,51.36
+14,islands,16,,3.21,51.36
+14,crustaceans,16,,3.21,51.36
+14,seas,15,True,3.45,51.75
+14,fisher,15,True,3.21,48.15
+14,prawn,15,,3.21,48.15
+14,walleye,15,,3.21,48.15
+14,coastal waters,15,,3.21,48.15
+14,wetlands,15,,3.21,48.15
+14,scallops,15,,3.21,48.15
+14,overfishing,14,True,8.51,119.14
+14,estuary,14,True,4.25,59.5
+14,fishers,14,,3.21,44.94
+14,inshore,14,,3.21,44.94
+14,freshwater,14,,3.21,44.94
+14,coral reef,14,,3.21,44.94
+14,shoreline,14,,3.21,44.94
+14,squid,14,,3.21,44.94
+14,wildlife,13,,3.21,41.73
+14,coho,13,,3.21,41.73
+14,crayfish,13,,3.21,41.73
+14,coral reefs,13,,3.21,41.73
+14,beaches,13,,3.21,41.73
+14,snook,13,,3.21,41.73
+14,redfish,13,,3.21,41.73
+14,dolphin,13,,3.21,41.73
+14,clams,13,,3.21,41.73
+14,clam,13,,3.21,41.73
+14,biodiversity,12,,3.21,38.519999999999996
+14,sockeye,12,,3.21,38.519999999999996
+14,anglers,12,,3.21,38.519999999999996
+14,lake trout,12,,3.21,38.519999999999996
+14,flounder,12,,3.21,38.519999999999996
+14,crabbing,12,,3.21,38.519999999999996
+14,shorelines,12,,3.21,38.519999999999996
+14,seabirds,12,,3.21,38.519999999999996
+14,marlin,12,,3.21,38.519999999999996
+14,shad,12,,3.21,38.519999999999996
+14,crawfish,12,,3.21,38.519999999999996
+14,conservation,11,True,14.32,157.52
+14,maritime,11,True,5.14,56.54
+14,beach,11,True,3.58,39.38
+14,fishes,11,,3.21,35.31
+14,rainbow trout,11,,3.21,35.31
+14,steelhead,11,,3.21,35.31
+14,coastline,11,,3.21,35.31
+14,waters,11,,3.21,35.31
+14,kelp,11,,3.21,35.31
+14,prawns,11,,3.21,35.31
+14,anchovies,11,,3.21,35.31
+14,contamination,10,True,8.97,89.7
+14,oceanic,10,True,6.78,67.8
+14,hatchery,10,True,5.14,51.4
+14,seabed,10,True,3.83,38.3
+14,waterways,10,,3.21,32.1
+14,mangroves,10,,3.21,32.1
+14,sea creatures,10,,3.21,32.1
+14,shallow waters,10,,3.21,32.1
+14,coastlines,10,,3.21,32.1
+14,marine mammals,10,,3.21,32.1
+14,turtles,10,,3.21,32.1
+14,marsh,10,,3.21,32.1
+14,pesticides,10,,3.21,32.1
+14,eel,10,,3.21,32.1
+14,coast,9,True,9.17,82.53
+14,pollution,9,True,8.61,77.49
+14,pollutants,9,True,4.66,41.94
+14,species,9,True,3.91,35.19
+14,watermen,9,,3.21,28.89
+14,brown trout,9,,3.21,28.89
+14,mussel,9,,3.21,28.89
+14,chinook,9,,3.21,28.89
+14,corals,9,,3.21,28.89
+14,ecosystems,9,,3.21,28.89
+14,barrier islands,9,,3.21,28.89
+14,habitats,9,,3.21,28.89
+14,lakes,9,,3.21,28.89
+14,tarpon,9,,3.21,28.89
+14,humpbacks,9,,3.21,28.89
+14,harbor,9,,3.21,28.89
+14,shark,9,,3.21,28.89
+14,tilapia,9,,3.21,28.89
+14,groundwater,9,,3.21,28.89
+14,bacteria,9,,3.21,28.89
+14,arsenic,9,,3.21,28.89
+14,eels,9,,3.21,28.89
+14,pollutant,8,True,4.23,33.84
+14,hatcheries,8,,3.21,25.68
+14,forestry,8,,3.21,25.68
+14,largemouth bass,8,,3.21,25.68
+14,sea turtles,8,,3.21,25.68
+14,dunes,8,,3.21,25.68
+14,sediment,8,,3.21,25.68
+14,marshes,8,,3.21,25.68
+14,pacific ocean,8,,3.21,25.68
+14,indian ocean,8,,3.21,25.68
+14,rainforest,8,,3.21,25.68
+14,contaminants,7,True,6.81,47.669999999999995
+14,contaminated,7,True,6.66,46.620000000000005
+14,mangrove,7,True,4.34,30.38
+14,contaminant,7,True,4.31,30.169999999999998
+14,aquatic,7,True,4.21,29.47
+14,wildlife conservation,7,,3.21,22.47
+14,ecological,7,,3.21,22.47
+14,angler,7,,3.21,22.47
+14,jellyfish,7,,3.21,22.47
+14,fauna,7,,3.21,22.47
+14,shipwrecks,7,,3.21,22.47
+14,algae blooms,7,,3.21,22.47
+14,manatee,7,,3.21,22.47
+14,wetland,7,,3.21,22.47
+14,otters,7,,3.21,22.47
+14,atlantic ocean,7,,3.21,22.47
+14,waterway,7,,3.21,22.47
+14,seashore,7,,3.21,22.47
+14,turtle,7,,3.21,22.47
+14,sharks,7,,3.21,22.47
+14,algae,7,,3.21,22.47
+14,tomato,7,,3.21,22.47
+14,smoked salmon,7,,3.21,22.47
+14,fillet,7,,3.21,22.47
+14,bass,7,,3.21,22.47
+14,toxic,7,,3.21,22.47
+14,particulates,7,,3.21,22.47
+14,vocs,7,,3.21,22.47
+14,sardines,7,,3.21,22.47
+14,crappie,7,,3.21,22.47
+14,bluefish,7,,3.21,22.47
+14,fillets,7,,3.21,22.47
+14,phosphorus,6,True,4.81,28.86
+14,polluted,6,True,4.65,27.900000000000002
+14,underwater,6,True,3.84,23.04
+14,trawlers,6,,3.21,19.259999999999998
+14,national marine fisheries,6,,3.21,19.259999999999998
+14,angling,6,,3.21,19.259999999999998
+14,marine mammal,6,,3.21,19.259999999999998
+14,watershed,6,,3.21,19.259999999999998
+14,poultry,6,,3.21,19.259999999999998
+14,invertebrates,6,,3.21,19.259999999999998
+14,habitat,6,,3.21,19.259999999999998
+14,manatees,6,,3.21,19.259999999999998
+14,great barrier reef,6,,3.21,19.259999999999998
+14,sediments,6,,3.21,19.259999999999998
+14,ocean currents,6,,3.21,19.259999999999998
+14,dolphins,6,,3.21,19.259999999999998
+14,sea turtle,6,,3.21,19.259999999999998
+14,shore,6,,3.21,19.259999999999998
+14,rivers,6,,3.21,19.259999999999998
+14,shores,6,,3.21,19.259999999999998
+14,marshland,6,,3.21,19.259999999999998
+14,offshore,6,,3.21,19.259999999999998
+14,island,6,,3.21,19.259999999999998
+14,antarctic,6,,3.21,19.259999999999998
+14,inlet,6,,3.21,19.259999999999998
+14,bering sea,6,,3.21,19.259999999999998
+14,humpback whales,6,,3.21,19.259999999999998
+14,micro organisms,6,,3.21,19.259999999999998
+14,marshlands,6,,3.21,19.259999999999998
+14,meat,6,,3.21,19.259999999999998
+14,chicken,6,,3.21,19.259999999999998
+14,pork,6,,3.21,19.259999999999998
+14,crab cakes,6,,3.21,19.259999999999998
+14,boat,6,,3.21,19.259999999999998
+14,environmental,6,,3.21,19.259999999999998
+14,shrimping,6,,3.21,19.259999999999998
+14,pcbs,6,,3.21,19.259999999999998
+14,dioxin,6,,3.21,19.259999999999998
+14,toxin,6,,3.21,19.259999999999998
+14,trace amounts,6,,3.21,19.259999999999998
+14,nitrates,6,,3.21,19.259999999999998
+14,residues,6,,3.21,19.259999999999998
+14,dioxins,6,,3.21,19.259999999999998
+14,asbestos,6,,3.21,19.259999999999998
+14,toxins,6,,3.21,19.259999999999998
+14,chromium,6,,3.21,19.259999999999998
+14,toxicity,6,,3.21,19.259999999999998
+14,radioactivity,6,,3.21,19.259999999999998
+14,solvents,6,,3.21,19.259999999999998
+14,hazardous substances,6,,3.21,19.259999999999998
+14,hazardous chemicals,6,,3.21,19.259999999999998
+14,benzene,6,,3.21,19.259999999999998
+14,chlorine,6,,3.21,19.259999999999998
+14,toxic chemicals,6,,3.21,19.259999999999998
+14,pfoa,6,,3.21,19.259999999999998
+14,blueberry,6,,3.21,19.259999999999998
+14,asparagus,6,,3.21,19.259999999999998
+14,mercury,6,,3.21,19.259999999999998
+14,smallmouth bass,6,,3.21,19.259999999999998
+14,channel catfish,6,,3.21,19.259999999999998
+14,lobstermen,5,,3.21,16.05
+14,agricultural,5,,3.21,16.05
+14,trawler,5,,3.21,16.05
+14,forests,5,,3.21,16.05
+14,ecology,5,,3.21,16.05
+14,bream,5,,3.21,16.05
+14,plankton,5,,3.21,16.05
+14,jetties,5,,3.21,16.05
+14,biosphere,5,,3.21,16.05
+14,breakwater,5,,3.21,16.05
+14,dune,5,,3.21,16.05
+14,organisms,5,,3.21,16.05
+14,seafloor,5,,3.21,16.05
+14,chesapeake bay,5,,3.21,16.05
+14,harbour,5,,3.21,16.05
+14,coasts,5,,3.21,16.05
+14,territorial waters,5,,3.21,16.05
+14,continental shelf,5,,3.21,16.05
+14,deepwater,5,,3.21,16.05
+14,saltwater,5,,3.21,16.05
+14,tidal,5,,3.21,16.05
+14,vessel,5,,3.21,16.05
+14,eastern seaboard,5,,3.21,16.05
+14,cove,5,,3.21,16.05
+14,antarctica,5,,3.21,16.05
+14,archipelago,5,,3.21,16.05
+14,silt,5,,3.21,16.05
+14,sushi,5,,3.21,16.05
+14,pasta,5,,3.21,16.05
+14,beef,5,,3.21,16.05
+14,steak,5,,3.21,16.05
+14,sausage,5,,3.21,16.05
+14,sea lions,5,,3.21,16.05
+14,seaweed,5,,3.21,16.05
+14,bait,5,,3.21,16.05
+14,contaminate,5,,3.21,16.05
+14,contaminated soil,5,,3.21,16.05
+14,pathogens,5,,3.21,16.05
+14,radioactive,5,,3.21,16.05
+14,tritium,5,,3.21,16.05
+14,pesticide,5,,3.21,16.05
+14,hazardous waste,5,,3.21,16.05
+14,toxic substances,5,,3.21,16.05
+14,harmful chemicals,5,,3.21,16.05
+14,chemicals,5,,3.21,16.05
+14,carcinogens,5,,3.21,16.05
+14,volatile organic compounds,5,,3.21,16.05
+14,carcinogen,5,,3.21,16.05
+14,potentially harmful,5,,3.21,16.05
+14,substances,5,,3.21,16.05
+14,radioactive material,5,,3.21,16.05
+14,hydrogen sulfide,5,,3.21,16.05
+14,vapors,5,,3.21,16.05
+14,phosphorous,5,,3.21,16.05
+14,chloride,5,,3.21,16.05
+14,trout fishing,5,,3.21,16.05
+14,bluegill,5,,3.21,16.05
+14,stripers,5,,3.21,16.05
+14,marinas,5,,3.21,16.05
+14,peninsula,5,,3.21,16.05
+14,potato,5,,3.21,16.05
+14,calamari,5,,3.21,16.05
+14,harmful,4,True,5.65,22.6
+14,seawater,4,True,5.62,22.48
+14,oceanography,4,True,4.31,17.24
+14,ecosystem,4,True,4.02,16.08
+14,natural resources,4,,3.21,12.84
+14,agriculture,4,,3.21,12.84
+14,marine biologist,4,,3.21,12.84
+14,shrimpers,4,,3.21,12.84
+14,carp,4,,3.21,12.84
+14,shallows,4,,3.21,12.84
+14,mammals,4,,3.21,12.84
+14,tropical forests,4,,3.21,12.84
+14,coves,4,,3.21,12.84
+14,salinity,4,,3.21,12.84
+14,surf,4,,3.21,12.84
+14,seaside,4,,3.21,12.84
+14,bay,4,,3.21,12.84
+14,lighthouse,4,,3.21,12.84
+14,yacht,4,,3.21,12.84
+14,shipping lanes,4,,3.21,12.84
+14,east coast,4,,3.21,12.84
+14,beachgoers,4,,3.21,12.84
+14,onshore,4,,3.21,12.84
+14,undersea,4,,3.21,12.84
+14,microbes,4,,3.21,12.84
+14,microorganisms,4,,3.21,12.84
+14,lagoon,4,,3.21,12.84
+14,jetty,4,,3.21,12.84
+14,charters,4,,3.21,12.84
+14,bays,4,,3.21,12.84
+14,pier,4,,3.21,12.84
+14,sandy beach,4,,3.21,12.84
+14,aquarium,4,,3.21,12.84
+14,inlets,4,,3.21,12.84
+14,watersheds,4,,3.21,12.84
+14,restaurant,4,,3.21,12.84
+14,pizza,4,,3.21,12.84
+14,cheese,4,,3.21,12.84
+14,whale meat,4,,3.21,12.84
+14,climate change,4,,3.21,12.84
+14,tides,4,,3.21,12.84
+14,sailing,4,,3.21,12.84
+14,dredging,4,,3.21,12.84
+14,otter,4,,3.21,12.84
+14,sand dunes,4,,3.21,12.84
+14,duck,4,,3.21,12.84
+14,contaminating,4,,3.21,12.84
+14,salmonella,4,,3.21,12.84
+14,e. coli bacteria,4,,3.21,12.84
+14,methane,4,,3.21,12.84
+14,hazardous,4,,3.21,12.84
+14,perchlorate,4,,3.21,12.84
+14,pathogen,4,,3.21,12.84
+14,toxic waste,4,,3.21,12.84
+14,chemical,4,,3.21,12.84
+14,toxic fumes,4,,3.21,12.84
+14,phthalates,4,,3.21,12.84
+14,radioactive materials,4,,3.21,12.84
+14,carcinogenic,4,,3.21,12.84
+14,chemical compounds,4,,3.21,12.84
+14,ammonia,4,,3.21,12.84
+14,particulate matter,4,,3.21,12.84
+14,harmful bacteria,4,,3.21,12.84
+14,gases,4,,3.21,12.84
+14,crappies,4,,3.21,12.84
+14,walleyes,4,,3.21,12.84
+14,inland,4,,3.21,12.84
+14,impurities,4,,3.21,12.84
+14,zebra mussels,4,,3.21,12.84
+14,riverbanks,4,,3.21,12.84
+14,global warming,4,,3.21,12.84
+14,oil spill,3,True,15.22,45.660000000000004
+14,gulf,3,True,5.2,15.600000000000001
+14,dumping,3,True,4.28,12.84
+14,dfo,3,,3.21,9.629999999999999
+14,inland fisheries,3,,3.21,9.629999999999999
+14,wildlife resources,3,,3.21,9.629999999999999
+14,environment,3,,3.21,9.629999999999999
+14,whaling,3,,3.21,9.629999999999999
+14,fishing boats,3,,3.21,9.629999999999999
+14,fwc,3,,3.21,9.629999999999999
+14,veterinary,3,,3.21,9.629999999999999
+14,livestock,3,,3.21,9.629999999999999
+14,fishing nets,3,,3.21,9.629999999999999
+14,fished,3,,3.21,9.629999999999999
+14,phytoplankton,3,,3.21,9.629999999999999
+14,vegetation,3,,3.21,9.629999999999999
+14,islets,3,,3.21,9.629999999999999
+14,larvae,3,,3.21,9.629999999999999
+14,atlantic,3,,3.21,9.629999999999999
+14,cape,3,,3.21,9.629999999999999
+14,seaview,3,,3.21,9.629999999999999
+14,monterey bay,3,,3.21,9.629999999999999
+14,bayside,3,,3.21,9.629999999999999
+14,pacific,3,,3.21,9.629999999999999
+14,sunset beach,3,,3.21,9.629999999999999
+14,sunset,3,,3.21,9.629999999999999
+14,vessels,3,,3.21,9.629999999999999
+14,ships,3,,3.21,9.629999999999999
+14,arctic ocean,3,,3.21,9.629999999999999
+14,arabian sea,3,,3.21,9.629999999999999
+14,arctic,3,,3.21,9.629999999999999
+14,baltic sea,3,,3.21,9.629999999999999
+14,ship,3,,3.21,9.629999999999999
+14,mermaid,3,,3.21,9.629999999999999
+14,west coast,3,,3.21,9.629999999999999
+14,tropical,3,,3.21,9.629999999999999
+14,shipwreck,3,,3.21,9.629999999999999
+14,submarine,3,,3.21,9.629999999999999
+14,causeway,3,,3.21,9.629999999999999
+14,rainforests,3,,3.21,9.629999999999999
+14,amphibians,3,,3.21,9.629999999999999
+14,flora,3,,3.21,9.629999999999999
+14,polar bears,3,,3.21,9.629999999999999
+14,wharf,3,,3.21,9.629999999999999
+14,beachfront,3,,3.21,9.629999999999999
+14,tributaries,3,,3.21,9.629999999999999
+14,creeks,3,,3.21,9.629999999999999
+14,wildlife habitat,3,,3.21,9.629999999999999
+14,lagoons,3,,3.21,9.629999999999999
+14,invasive species,3,,3.21,9.629999999999999
+14,canals,3,,3.21,9.629999999999999
+14,waterfowl,3,,3.21,9.629999999999999
+14,barbecue,3,,3.21,9.629999999999999
+14,vegetable,3,,3.21,9.629999999999999
+14,voyage,3,,3.21,9.629999999999999
+14,farming,3,,3.21,9.629999999999999
+14,water quality,3,,3.21,9.629999999999999
+14,sea lion,3,,3.21,9.629999999999999
+14,radiation,3,,3.21,9.629999999999999
+14,e. coli,3,,3.21,9.629999999999999
+14,nitrate,3,,3.21,9.629999999999999
+14,effluent,3,,3.21,9.629999999999999
+14,emissions,3,,3.21,9.629999999999999
+14,allergen,3,,3.21,9.629999999999999
+14,spinach,3,,3.21,9.629999999999999
+14,sashimi,3,,3.21,9.629999999999999
+14,poisons,3,,3.21,9.629999999999999
+14,cadmium,3,,3.21,9.629999999999999
+14,hazardous materials,3,,3.21,9.629999999999999
+14,air pollution,3,,3.21,9.629999999999999
+14,polluting,3,,3.21,9.629999999999999
+14,formaldehyde,3,,3.21,9.629999999999999
+14,hazardous material,3,,3.21,9.629999999999999
+14,raw sewage,3,,3.21,9.629999999999999
+14,carbon monoxide,3,,3.21,9.629999999999999
+14,fumes,3,,3.21,9.629999999999999
+14,pollute,3,,3.21,9.629999999999999
+14,germs,3,,3.21,9.629999999999999
+14,tce,3,,3.21,9.629999999999999
+14,bass fishing,3,,3.21,9.629999999999999
+14,boating,3,,3.21,9.629999999999999
+14,boaters,3,,3.21,9.629999999999999
+14,perch,3,,3.21,9.629999999999999
+14,fishing boat,3,,3.21,9.629999999999999
+14,salty,3,,3.21,9.629999999999999
+14,macdonald,3,,3.21,9.629999999999999
+14,peanut,3,,3.21,9.629999999999999
+14,coconut,3,,3.21,9.629999999999999
+14,pig,3,,3.21,9.629999999999999
+14,banana,3,,3.21,9.629999999999999
+14,hog,3,,3.21,9.629999999999999
+14,copeland,3,,3.21,9.629999999999999
+14,allergens,3,,3.21,9.629999999999999
+14,selenium,3,,3.21,9.629999999999999
+14,bacterial,3,,3.21,9.629999999999999
+14,byproducts,3,,3.21,9.629999999999999
+14,sandy beaches,3,,3.21,9.629999999999999
+14,waterfront,3,,3.21,9.629999999999999
+14,isles,3,,3.21,9.629999999999999
+14,lake,3,,3.21,9.629999999999999
+14,river,3,,3.21,9.629999999999999
+14,chowder,3,,3.21,9.629999999999999
+14,mushroom,3,,3.21,9.629999999999999
+14,spill,2,True,12.5,25.0
+14,hydrocarbons,2,True,10.05,20.1
+14,seal,2,True,5.03,10.06
+14,restoration,2,True,4.96,9.92
+14,natural resource,2,,3.21,6.42
+14,whalers,2,,3.21,6.42
+14,noaa,2,,3.21,6.42
+14,water resources,2,,3.21,6.42
+14,rural development,2,,3.21,6.42
+14,commercial whaling,2,,3.21,6.42
+14,fwp,2,,3.21,6.42
+14,fish wildlife,2,,3.21,6.42
+14,seal hunt,2,,3.21,6.42
+14,dfg,2,,3.21,6.42
+14,recreational,2,,3.21,6.42
+14,hatchlings,2,,3.21,6.42
+14,piers,2,,3.21,6.42
+14,neptune,2,,3.21,6.42
+14,oceanfront,2,,3.21,6.42
+14,beaufort,2,,3.21,6.42
+14,cape fear,2,,3.21,6.42
+14,emerald,2,,3.21,6.42
+14,cape cod,2,,3.21,6.42
+14,mediterranean,2,,3.21,6.42
+14,eastport,2,,3.21,6.42
+14,tahoe,2,,3.21,6.42
+14,currituck,2,,3.21,6.42
+14,outer banks,2,,3.21,6.42
+14,outer continental shelf,2,,3.21,6.42
+14,warships,2,,3.21,6.42
+14,sonar,2,,3.21,6.42
+14,mediterranean sea,2,,3.21,6.42
+14,nantucket sound,2,,3.21,6.42
+14,rough seas,2,,3.21,6.42
+14,ports,2,,3.21,6.42
+14,barents sea,2,,3.21,6.42
+14,falklands,2,,3.21,6.42
+14,mist,2,,3.21,6.42
+14,falkland islands,2,,3.21,6.42
+14,greenland,2,,3.21,6.42
+14,strait,2,,3.21,6.42
+14,disputed islands,2,,3.21,6.42
+14,sand,2,,3.21,6.42
+14,caspian sea,2,,3.21,6.42
+14,boats,2,,3.21,6.42
+14,sailor,2,,3.21,6.42
+14,glaciers,2,,3.21,6.42
+14,tropics,2,,3.21,6.42
+14,bird species,2,,3.21,6.42
+14,galapagos islands,2,,3.21,6.42
+14,antarctic ice,2,,3.21,6.42
+14,deforestation,2,,3.21,6.42
+14,creatures,2,,3.21,6.42
+14,iucn,2,,3.21,6.42
+14,dive,2,,3.21,6.42
+14,snorkeling,2,,3.21,6.42
+14,pelican,2,,3.21,6.42
+14,creek,2,,3.21,6.42
+14,lizard,2,,3.21,6.42
+14,sands,2,,3.21,6.42
+14,drift,2,,3.21,6.42
+14,marina,2,,3.21,6.42
+14,pond,2,,3.21,6.42
+14,snapper,2,,3.21,6.42
+14,paddle,2,,3.21,6.42
+14,headwaters,2,,3.21,6.42
+14,ponds,2,,3.21,6.42
+14,stormwater runoff,2,,3.21,6.42
+14,pelicans,2,,3.21,6.42
+14,basin,2,,3.21,6.42
+14,grill,2,,3.21,6.42
+14,grille,2,,3.21,6.42
+14,killer whales,2,,3.21,6.42
+14,penguins,2,,3.21,6.42
+14,orcas,2,,3.21,6.42
+14,icebergs,2,,3.21,6.42
+14,sails,2,,3.21,6.42
+14,marines,2,,3.21,6.42
+14,naval,2,,3.21,6.42
+14,soldier,2,,3.21,6.42
+14,military,2,,3.21,6.42
+14,airman,2,,3.21,6.42
+14,infantry,2,,3.21,6.42
+14,sailors,2,,3.21,6.42
+14,biotechnology,2,,3.21,6.42
+14,renewable energy,2,,3.21,6.42
+14,biomass,2,,3.21,6.42
+14,horticulture,2,,3.21,6.42
+14,biofuel,2,,3.21,6.42
+14,agri,2,,3.21,6.42
+14,farmers,2,,3.21,6.42
+14,animal welfare,2,,3.21,6.42
+14,mallard,2,,3.21,6.42
+14,gibbon,2,,3.21,6.42
+14,lowther,2,,3.21,6.42
+14,catchment,2,,3.21,6.42
+14,savage,2,,3.21,6.42
+14,bluewater,2,,3.21,6.42
+14,nature,2,,3.21,6.42
+14,mcintyre,2,,3.21,6.42
+14,stroud,2,,3.21,6.42
+14,mammal,2,,3.21,6.42
+14,giant squid,2,,3.21,6.42
+14,whale watching,2,,3.21,6.42
+14,elk,2,,3.21,6.42
+14,trout unlimited,2,,3.21,6.42
+14,moose,2,,3.21,6.42
+14,superfund site,2,,3.21,6.42
+14,e.coli,2,,3.21,6.42
+14,flooding,2,,3.21,6.42
+14,sewage,2,,3.21,6.42
+14,seepage,2,,3.21,6.42
+14,melamine,2,,3.21,6.42
+14,ppb,2,,3.21,6.42
+14,exposure,2,,3.21,6.42
+14,berries,2,,3.21,6.42
+14,mushrooms,2,,3.21,6.42
+14,vegetables,2,,3.21,6.42
+14,sulfur dioxide,2,,3.21,6.42
+14,potentially hazardous,2,,3.21,6.42
+14,cyanide,2,,3.21,6.42
+14,carbon dioxide,2,,3.21,6.42
+14,landfills,2,,3.21,6.42
+14,noxious,2,,3.21,6.42
+14,sludge,2,,3.21,6.42
+14,bpa,2,,3.21,6.42
+14,mercury emissions,2,,3.21,6.42
+14,radioactive waste,2,,3.21,6.42
+14,additives,2,,3.21,6.42
+14,environmental protection agency,2,,3.21,6.42
+14,bisphenol,2,,3.21,6.42
+14,nitrogen oxides,2,,3.21,6.42
+14,bayshore,2,,3.21,6.42
+14,morro bay,2,,3.21,6.42
+14,puget sound,2,,3.21,6.42
+14,seacoast,2,,3.21,6.42
+14,clean water,2,,3.21,6.42
+14,gulf coast,2,,3.21,6.42
+14,scenic,2,,3.21,6.42
+14,skagit,2,,3.21,6.42
+14,trask,2,,3.21,6.42
+14,whatcom,2,,3.21,6.42
+14,storey,2,,3.21,6.42
+14,fraser,2,,3.21,6.42
+14,yukon,2,,3.21,6.42
+14,willamette,2,,3.21,6.42
+14,white tailed deer,2,,3.21,6.42
+14,pike,2,,3.21,6.42
+14,spaghetti,2,,3.21,6.42
+14,mcdaniel,2,,3.21,6.42
+14,pugh,2,,3.21,6.42
+14,jenkins,2,,3.21,6.42
+14,smith,2,,3.21,6.42
+14,dickerson,2,,3.21,6.42
+14,cochran,2,,3.21,6.42
+14,watkins,2,,3.21,6.42
+14,burgess,2,,3.21,6.42
+14,weaver,2,,3.21,6.42
+14,whaley,2,,3.21,6.42
+14,pitts,2,,3.21,6.42
+14,haynes,2,,3.21,6.42
+14,mcclure,2,,3.21,6.42
+14,stephens,2,,3.21,6.42
+14,woodard,2,,3.21,6.42
+14,wheeler,2,,3.21,6.42
+14,whitehead,2,,3.21,6.42
+14,thompson,2,,3.21,6.42
+14,griggs,2,,3.21,6.42
+14,sanders,2,,3.21,6.42
+14,mcfarland,2,,3.21,6.42
+14,bailey,2,,3.21,6.42
+14,gaines,2,,3.21,6.42
+14,hinton,2,,3.21,6.42
+14,mayes,2,,3.21,6.42
+14,berry,2,,3.21,6.42
+14,grimes,2,,3.21,6.42
+14,organic compounds,2,,3.21,6.42
+14,radon,2,,3.21,6.42
+14,odors,2,,3.21,6.42
+14,particles,2,,3.21,6.42
+14,prions,2,,3.21,6.42
+14,beach resorts,2,,3.21,6.42
+14,northeastern coast,2,,3.21,6.42
+14,mountain ranges,2,,3.21,6.42
+14,sand beaches,2,,3.21,6.42
+14,seawall,2,,3.21,6.42
+14,intracoastal waterway,2,,3.21,6.42
+14,tourist resorts,2,,3.21,6.42
+14,waterside,2,,3.21,6.42
+14,climate,2,,3.21,6.42
+14,ozone,2,,3.21,6.42
+14,tuberculosis,2,,3.21,6.42
+14,nitrogen,2,,3.21,6.42
+14,mcintosh,2,,3.21,6.42
+14,mackenzie,2,,3.21,6.42
+14,macleod,2,,3.21,6.42
+14,hickman,2,,3.21,6.42
+14,foreshore,2,,3.21,6.42
+14,riverbed,2,,3.21,6.42
+14,warship,2,,3.21,6.42
+14,storm surges,2,,3.21,6.42
+14,roadways,2,,3.21,6.42
+14,waves,2,,3.21,6.42
+14,riverbank,2,,3.21,6.42
+14,marshy,2,,3.21,6.42
+14,unesco,2,,3.21,6.42
+14,acids,2,,3.21,6.42
+14,bacterium,2,,3.21,6.42
+14,naturally occurring,2,,3.21,6.42
+14,gasses,2,,3.21,6.42
+14,salts,2,,3.21,6.42
+14,eggs,2,,3.21,6.42
+14,veal,2,,3.21,6.42
+14,ice cream,2,,3.21,6.42
+14,cake,2,,3.21,6.42
+14,pancake,2,,3.21,6.42
+14,salad,2,,3.21,6.42
+14,spicy,2,,3.21,6.42
+14,sweet potato,2,,3.21,6.42
+14,burgers,2,,3.21,6.42
+14,fruit,2,,3.21,6.42
+14,river basin,2,,3.21,6.42
+14,cesium,2,,3.21,6.42
+14,radioactive iodine,2,,3.21,6.42
+14,yachts,2,,3.21,6.42
+14,cruises,2,,3.21,6.42
+14,sail,2,,3.21,6.42
+14,snails,2,,3.21,6.42
+14,salamanders,2,,3.21,6.42
+14,fennel,2,,3.21,6.42
+14,filet,2,,3.21,6.42
+14,caviar,2,,3.21,6.42
+14,phosphorus removal,1,True,12.41,12.41
+14,bloom,1,True,11.03,11.03
+14,blooms,1,True,10.85,10.85
+14,fisheries management,1,True,10.72,10.72
+14,oil spills,1,True,9.88,9.88
+14,eutrophication,1,True,9.19,9.19
+14,spills,1,True,9.09,9.09
+14,algal blooms,1,True,7.86,7.86
+14,alexandrium,1,True,6.78,6.78
+14,coastal protection,1,True,6.5,6.5
+14,ebpr,1,True,6.1,6.1
+14,coastal management,1,True,6.05,6.05
+14,spot,1,True,5.96,5.96
+14,eutrophic,1,True,5.93,5.93
+14,ocean acidification,1,True,5.86,5.86
+14,oil,1,True,5.66,5.66
+14,oil sorption,1,True,5.49,5.49
+14,microplastics,1,True,5.46,5.46
+14,marine protected,1,True,5.33,5.33
+14,phosphate,1,True,5.3,5.3
+14,algal bloom,1,True,5.27,5.27
+14,aquatic science,1,True,5.26,5.26
+14,management,1,True,5.13,5.13
+14,sea water,1,True,5.05,5.05
+14,algal,1,True,5.04,5.04
+14,trace elements,1,True,4.93,4.93
+14,stock assessment,1,True,4.87,4.87
+14,tanker,1,True,4.79,4.79
+14,cylindrospermopsis,1,True,4.77,4.77
+14,dinoflagellate,1,True,4.75,4.75
+14,raciborskii,1,True,4.73,4.73
+14,acidification,1,True,4.53,4.53
+14,removal,1,True,4.33,4.33
+14,fields oceanography,1,True,4.09,4.09
+14,imposex,1,True,4.08,4.08
+14,coastal areas,1,True,3.98,3.98
+14,resilient,1,True,3.96,3.96
+14,bioaccumulation,1,True,3.84,3.84
+14,trace,1,True,3.82,3.82
+14,resilience,1,True,3.77,3.77
+14,bangladesh,1,True,3.74,3.74
+14,coastal area,1,True,3.61,3.61
+14,fields aquatic,1,True,3.57,3.57
+14,plastic,1,True,3.52,3.52
+14,singapore,1,True,3.47,3.47
+14,zone management,1,True,3.46,3.46
+14,microplastic,1,True,3.38,3.38
+14,insulators,1,True,3.34,3.34
+14,stock,1,True,3.33,3.33
+14,north sea,1,True,3.23,3.23
+14,co2,1,True,3.22,3.22
+14,primary industries,1,,3.21,3.21
+14,international whaling commission,1,,3.21,3.21
+14,transport,1,,3.21,3.21
+14,cites,1,,3.21,3.21
+14,nature reserve,1,,3.21,3.21
+14,water supply,1,,3.21,3.21
+14,ling,1,,3.21,3.21
+14,reservoir,1,,3.21,3.21
+14,smelt,1,,3.21,3.21
+14,poachers,1,,3.21,3.21
+14,shoals,1,,3.21,3.21
+14,sandbar,1,,3.21,3.21
+14,jersey,1,,3.21,3.21
+14,monmouth,1,,3.21,3.21
+14,wildwood,1,,3.21,3.21
+14,long branch,1,,3.21,3.21
+14,toms river,1,,3.21,3.21
+14,rehoboth beach,1,,3.21,3.21
+14,gloucester,1,,3.21,3.21
+14,carteret,1,,3.21,3.21
+14,asbury park,1,,3.21,3.21
+14,sandy hook,1,,3.21,3.21
+14,egg harbor township,1,,3.21,3.21
+14,jersey shore,1,,3.21,3.21
+14,edgewater,1,,3.21,3.21
+14,bridgeton,1,,3.21,3.21
+14,montauk,1,,3.21,3.21
+14,rehoboth,1,,3.21,3.21
+14,camden,1,,3.21,3.21
+14,manalapan,1,,3.21,3.21
+14,cumberland,1,,3.21,3.21
+14,vineland,1,,3.21,3.21
+14,bergen,1,,3.21,3.21
+14,haddonfield,1,,3.21,3.21
+14,nantucket,1,,3.21,3.21
+14,monterey,1,,3.21,3.21
+14,oceana,1,,3.21,3.21
+14,delaware,1,,3.21,3.21
+14,rockaway,1,,3.21,3.21
+14,collingswood,1,,3.21,3.21
+14,margate,1,,3.21,3.21
+14,lewes,1,,3.21,3.21
+14,ventura,1,,3.21,3.21
+14,palisades,1,,3.21,3.21
+14,newport,1,,3.21,3.21
+14,catalina,1,,3.21,3.21
+14,west deptford,1,,3.21,3.21
+14,avalon,1,,3.21,3.21
+14,point pleasant,1,,3.21,3.21
+14,hammonton,1,,3.21,3.21
+14,freehold,1,,3.21,3.21
+14,chesapeake,1,,3.21,3.21
+14,wicomico,1,,3.21,3.21
+14,colts neck,1,,3.21,3.21
+14,pennsville,1,,3.21,3.21
+14,deptford,1,,3.21,3.21
+14,laguna beach,1,,3.21,3.21
+14,long beach,1,,3.21,3.21
+14,palm beach,1,,3.21,3.21
+14,essex,1,,3.21,3.21
+14,boardwalk,1,,3.21,3.21
+14,laurel,1,,3.21,3.21
+14,millville,1,,3.21,3.21
+14,maui,1,,3.21,3.21
+14,adriatic,1,,3.21,3.21
+14,naval vessels,1,,3.21,3.21
+14,airspace,1,,3.21,3.21
+14,offshore drilling,1,,3.21,3.21
+14,sound,1,,3.21,3.21
+14,straits,1,,3.21,3.21
+14,polar,1,,3.21,3.21
+14,shetland,1,,3.21,3.21
+14,shelf,1,,3.21,3.21
+14,aegean,1,,3.21,3.21
+14,solent,1,,3.21,3.21
+14,caspian,1,,3.21,3.21
+14,quay,1,,3.21,3.21
+14,devon,1,,3.21,3.21
+14,deep,1,,3.21,3.21
+14,troll,1,,3.21,3.21
+14,odyssey,1,,3.21,3.21
+14,ice,1,,3.21,3.21
+14,dragon,1,,3.21,3.21
+14,outer,1,,3.21,3.21
+14,isle,1,,3.21,3.21
+14,arabian gulf,1,,3.21,3.21
+14,cook inlet,1,,3.21,3.21
+14,cairn,1,,3.21,3.21
+14,bleaching,1,,3.21,3.21
+14,volcanoes,1,,3.21,3.21
+14,ozone layer,1,,3.21,3.21
+14,archaeological sites,1,,3.21,3.21
+14,fin,1,,3.21,3.21
+14,bluff,1,,3.21,3.21
+14,beach resort,1,,3.21,3.21
+14,flamingo,1,,3.21,3.21
+14,flats,1,,3.21,3.21
+14,aqua,1,,3.21,3.21
+14,point,1,,3.21,3.21
+14,gull,1,,3.21,3.21
+14,landing,1,,3.21,3.21
+14,gold mine,1,,3.21,3.21
+14,hole,1,,3.21,3.21
+14,billabong,1,,3.21,3.21
+14,cave,1,,3.21,3.21
+14,kalahari,1,,3.21,3.21
+14,cliff,1,,3.21,3.21
+14,surfing,1,,3.21,3.21
+14,surfers,1,,3.21,3.21
+14,raglan,1,,3.21,3.21
+14,hut,1,,3.21,3.21
+14,trench,1,,3.21,3.21
+14,surfer,1,,3.21,3.21
+14,crocodile,1,,3.21,3.21
+14,key largo,1,,3.21,3.21
+14,resort,1,,3.21,3.21
+14,sandstone,1,,3.21,3.21
+14,keys,1,,3.21,3.21
+14,pty ltd,1,,3.21,3.21
+14,heron,1,,3.21,3.21
+14,snorkel,1,,3.21,3.21
+14,bayous,1,,3.21,3.21
+14,wildlife refuges,1,,3.21,3.21
+14,grocery,1,,3.21,3.21
+14,foods,1,,3.21,3.21
+14,gourmet,1,,3.21,3.21
+14,meats,1,,3.21,3.21
+14,deli,1,,3.21,3.21
+14,bistro,1,,3.21,3.21
+14,food,1,,3.21,3.21
+14,cuisine,1,,3.21,3.21
+14,produce,1,,3.21,3.21
+14,restaurants,1,,3.21,3.21
+14,kitchen,1,,3.21,3.21
+14,supermarket,1,,3.21,3.21
+14,restaurateurs,1,,3.21,3.21
+14,eatery,1,,3.21,3.21
+14,pizzeria,1,,3.21,3.21
+14,foodservice,1,,3.21,3.21
+14,natural foods,1,,3.21,3.21
+14,catering,1,,3.21,3.21
+14,steak house,1,,3.21,3.21
+14,earth,1,,3.21,3.21
+14,planet earth,1,,3.21,3.21
+14,grizzly bears,1,,3.21,3.21
+14,national oceanic,1,,3.21,3.21
+14,great lakes,1,,3.21,3.21
+14,equator,1,,3.21,3.21
+14,reel,1,,3.21,3.21
+14,inuit,1,,3.21,3.21
+14,northwest passage,1,,3.21,3.21
+14,marine corps,1,,3.21,3.21
+14,serviceman,1,,3.21,3.21
+14,staff sgt,1,,3.21,3.21
+14,lance cpl,1,,3.21,3.21
+14,sergeant,1,,3.21,3.21
+14,spc,1,,3.21,3.21
+14,navy,1,,3.21,3.21
+14,navy seal,1,,3.21,3.21
+14,army,1,,3.21,3.21
+14,commanding officer,1,,3.21,3.21
+14,solider,1,,3.21,3.21
+14,national guardsman,1,,3.21,3.21
+14,reservist,1,,3.21,3.21
+14,infantryman,1,,3.21,3.21
+14,pfc,1,,3.21,3.21
+14,guardsman,1,,3.21,3.21
+14,paratrooper,1,,3.21,3.21
+14,green beret,1,,3.21,3.21
+14,camp pendleton calif.,1,,3.21,3.21
+14,medic,1,,3.21,3.21
+14,pte,1,,3.21,3.21
+14,coast guard,1,,3.21,3.21
+14,sgt,1,,3.21,3.21
+14,special forces,1,,3.21,3.21
+14,marine cpl,1,,3.21,3.21
+14,camp pendleton,1,,3.21,3.21
+14,staff sergeant,1,,3.21,3.21
+14,marine regiment,1,,3.21,3.21
+14,naval station,1,,3.21,3.21
+14,commando,1,,3.21,3.21
+14,master sgt,1,,3.21,3.21
+14,corporal,1,,3.21,3.21
+14,battalion,1,,3.21,3.21
+14,lt. cmdr,1,,3.21,3.21
+14,air force,1,,3.21,3.21
+14,nco,1,,3.21,3.21
+14,army reserves,1,,3.21,3.21
+14,fort bragg,1,,3.21,3.21
+14,seaman,1,,3.21,3.21
+14,marine lance cpl,1,,3.21,3.21
+14,chief warrant officer,1,,3.21,3.21
+14,lance corporal,1,,3.21,3.21
+14,support battalion,1,,3.21,3.21
+14,###st airborne,1,,3.21,3.21
+14,cpl,1,,3.21,3.21
+14,purple heart,1,,3.21,3.21
+14,servicemen,1,,3.21,3.21
+14,soldiers,1,,3.21,3.21
+14,camp lejeune,1,,3.21,3.21
+14,eod,1,,3.21,3.21
+14,operation desert storm,1,,3.21,3.21
+14,master sergeant,1,,3.21,3.21
+14,cmdr,1,,3.21,3.21
+14,national guard,1,,3.21,3.21
+14,airborne,1,,3.21,3.21
+14,infantrymen,1,,3.21,3.21
+14,artillery,1,,3.21,3.21
+14,###st airborne division,1,,3.21,3.21
+14,combat,1,,3.21,3.21
+14,petty officer,1,,3.21,3.21
+14,fleet,1,,3.21,3.21
+14,##nd airborne,1,,3.21,3.21
+14,army spc,1,,3.21,3.21
+14,platoon,1,,3.21,3.21
+14,1st lt.,1,,3.21,3.21
+14,1st class,1,,3.21,3.21
+14,##th infantry division,1,,3.21,3.21
+14,colonel,1,,3.21,3.21
+14,servicemembers,1,,3.21,3.21
+14,pvt,1,,3.21,3.21
+14,marine expeditionary unit,1,,3.21,3.21
+14,gis,1,,3.21,3.21
+14,army colonel,1,,3.21,3.21
+14,active duty,1,,3.21,3.21
+14,commander,1,,3.21,3.21
+14,camp lejeune nc,1,,3.21,3.21
+14,biofuels,1,,3.21,3.21
+14,biodiesel,1,,3.21,3.21
+14,wind energy,1,,3.21,3.21
+14,dairy,1,,3.21,3.21
+14,bioscience,1,,3.21,3.21
+14,fertilizer,1,,3.21,3.21
+14,bioenergy,1,,3.21,3.21
+14,competitiveness,1,,3.21,3.21
+14,agribusiness,1,,3.21,3.21
+14,breeding,1,,3.21,3.21
+14,renewable,1,,3.21,3.21
+14,resource management,1,,3.21,3.21
+14,cooperative,1,,3.21,3.21
+14,cattlemen association,1,,3.21,3.21
+14,plastics,1,,3.21,3.21
+14,organic farming,1,,3.21,3.21
+14,comer,1,,3.21,3.21
+14,bogan,1,,3.21,3.21
+14,coon,1,,3.21,3.21
+14,roe,1,,3.21,3.21
+14,mains,1,,3.21,3.21
+14,brunton,1,,3.21,3.21
+14,bowen,1,,3.21,3.21
+14,water,1,,3.21,3.21
+14,squire,1,,3.21,3.21
+14,creationism,1,,3.21,3.21
+14,gorman,1,,3.21,3.21
+14,mccloud,1,,3.21,3.21
+14,hackett,1,,3.21,3.21
+14,broughton,1,,3.21,3.21
+14,harkness,1,,3.21,3.21
+14,muir,1,,3.21,3.21
+14,colwell,1,,3.21,3.21
+14,mckibben,1,,3.21,3.21
+14,thwaites,1,,3.21,3.21
+14,salt,1,,3.21,3.21
+14,dingle,1,,3.21,3.21
+14,dunstan,1,,3.21,3.21
+14,redden,1,,3.21,3.21
+14,gunns,1,,3.21,3.21
+14,greenhouse,1,,3.21,3.21
+14,burd,1,,3.21,3.21
+14,leech,1,,3.21,3.21
+14,hanlon,1,,3.21,3.21
+14,paddling,1,,3.21,3.21
+14,buckland,1,,3.21,3.21
+14,murray darling basin,1,,3.21,3.21
+14,attwood,1,,3.21,3.21
+14,slack,1,,3.21,3.21
+14,massey,1,,3.21,3.21
+14,hewett,1,,3.21,3.21
+14,wightman,1,,3.21,3.21
+14,coates,1,,3.21,3.21
+14,magill,1,,3.21,3.21
+14,newby,1,,3.21,3.21
+14,cummins,1,,3.21,3.21
+14,beckwith,1,,3.21,3.21
+14,couch,1,,3.21,3.21
+14,rundle,1,,3.21,3.21
+14,slade,1,,3.21,3.21
+14,abbott,1,,3.21,3.21
+14,derwent,1,,3.21,3.21
+14,lake lanier,1,,3.21,3.21
+14,marlow,1,,3.21,3.21
+14,edmondson,1,,3.21,3.21
+14,rees,1,,3.21,3.21
+14,hornsby,1,,3.21,3.21
+14,crane,1,,3.21,3.21
+14,cookson,1,,3.21,3.21
+14,csiro,1,,3.21,3.21
+14,japanese whaling,1,,3.21,3.21
+14,hawaiian islands,1,,3.21,3.21
+14,parks,1,,3.21,3.21
+14,dnr,1,,3.21,3.21
+14,environmental conservation,1,,3.21,3.21
+14,endangered species act,1,,3.21,3.21
+14,lands,1,,3.21,3.21
+14,warden,1,,3.21,3.21
+14,trappers,1,,3.21,3.21
+14,dwr,1,,3.21,3.21
+14,bighorn sheep,1,,3.21,3.21
+14,environmental quality,1,,3.21,3.21
+14,wildlife service,1,,3.21,3.21
+14,environmental protection,1,,3.21,3.21
+14,natural resources conservation,1,,3.21,3.21
+14,biologists,1,,3.21,3.21
+14,gators,1,,3.21,3.21
+14,tainted,1,,3.21,3.21
+14,infections,1,,3.21,3.21
+14,infection,1,,3.21,3.21
+14,problems,1,,3.21,3.21
+14,leaks,1,,3.21,3.21
+14,anthrax,1,,3.21,3.21
+14,runoff,1,,3.21,3.21
+14,spillage,1,,3.21,3.21
+14,antibiotic resistance,1,,3.21,3.21
+14,poisoning,1,,3.21,3.21
+14,listeria,1,,3.21,3.21
+14,shortages,1,,3.21,3.21
+14,sampling,1,,3.21,3.21
+14,traces,1,,3.21,3.21
+14,cleanup,1,,3.21,3.21
+14,testing,1,,3.21,3.21
+14,mold,1,,3.21,3.21
+14,debris,1,,3.21,3.21
+14,problem,1,,3.21,3.21
+14,moisture,1,,3.21,3.21
+14,disinfection,1,,3.21,3.21
+14,dangers,1,,3.21,3.21
+14,violations,1,,3.21,3.21
+14,borne illness,1,,3.21,3.21
+14,residue,1,,3.21,3.21
+14,soluble,1,,3.21,3.21
+14,floods,1,,3.21,3.21
+14,leak,1,,3.21,3.21
+14,fresh spinach,1,,3.21,3.21
+14,tomatoes,1,,3.21,3.21
+14,lettuce,1,,3.21,3.21
+14,strawberries,1,,3.21,3.21
+14,blueberries,1,,3.21,3.21
+14,venison,1,,3.21,3.21
+14,coal ash,1,,3.21,3.21
+14,carbon dioxide co2,1,,3.21,3.21
+14,secondhand smoke,1,,3.21,3.21
+14,depleted uranium,1,,3.21,3.21
+14,agent orange,1,,3.21,3.21
+14,outdoors,1,,3.21,3.21
+14,hunting,1,,3.21,3.21
+14,tackle,1,,3.21,3.21
+14,outfitters,1,,3.21,3.21
+14,duck hunting,1,,3.21,3.21
+14,turkey hunting,1,,3.21,3.21
+14,boater,1,,3.21,3.21
+14,deer hunting,1,,3.21,3.21
+14,sportsman,1,,3.21,3.21
+14,outdoor,1,,3.21,3.21
+14,southern,1,,3.21,3.21
+14,atlantic coast,1,,3.21,3.21
+14,tidewater,1,,3.21,3.21
+14,lowcountry,1,,3.21,3.21
+14,windward,1,,3.21,3.21
+14,treasure coast,1,,3.21,3.21
+14,northern,1,,3.21,3.21
+14,southeastern,1,,3.21,3.21
+14,southeast,1,,3.21,3.21
+14,piedmont,1,,3.21,3.21
+14,destin,1,,3.21,3.21
+14,coastal carolina,1,,3.21,3.21
+14,mendocino,1,,3.21,3.21
+14,deep creek,1,,3.21,3.21
+14,land use,1,,3.21,3.21
+14,ccu,1,,3.21,3.21
+14,redwoods,1,,3.21,3.21
+14,foothills,1,,3.21,3.21
+14,carolinas,1,,3.21,3.21
+14,emerald coast,1,,3.21,3.21
+14,northwest,1,,3.21,3.21
+14,grand strand,1,,3.21,3.21
+14,seaport,1,,3.21,3.21
+14,brevard,1,,3.21,3.21
+14,estero,1,,3.21,3.21
+14,highlands,1,,3.21,3.21
+14,rocky point,1,,3.21,3.21
+14,klamath,1,,3.21,3.21
+14,lamb,1,,3.21,3.21
+14,snake river,1,,3.21,3.21
+14,birch,1,,3.21,3.21
+14,goose,1,,3.21,3.21
+14,kettle,1,,3.21,3.21
+14,holm,1,,3.21,3.21
+14,callaghan,1,,3.21,3.21
+14,pigeon,1,,3.21,3.21
+14,rogue river,1,,3.21,3.21
+14,king,1,,3.21,3.21
+14,hay,1,,3.21,3.21
+14,hood,1,,3.21,3.21
+14,sheep,1,,3.21,3.21
+14,colville,1,,3.21,3.21
+14,saxton,1,,3.21,3.21
+14,stocking,1,,3.21,3.21
+14,cherry,1,,3.21,3.21
+14,mule deer,1,,3.21,3.21
+14,nut,1,,3.21,3.21
+14,fins,1,,3.21,3.21
+14,fat,1,,3.21,3.21
+14,elf,1,,3.21,3.21
+14,soy,1,,3.21,3.21
+14,tiki,1,,3.21,3.21
+14,chili,1,,3.21,3.21
+14,snack,1,,3.21,3.21
+14,rooster,1,,3.21,3.21
+14,cow,1,,3.21,3.21
+14,nemo,1,,3.21,3.21
+14,tex,1,,3.21,3.21
+14,noodle,1,,3.21,3.21
+14,parcells,1,,3.21,3.21
+14,bowers,1,,3.21,3.21
+14,dodson,1,,3.21,3.21
+14,burnette,1,,3.21,3.21
+14,ware,1,,3.21,3.21
+14,hodges,1,,3.21,3.21
+14,waldrop,1,,3.21,3.21
+14,caudle,1,,3.21,3.21
+14,pittman,1,,3.21,3.21
+14,harrell,1,,3.21,3.21
+14,pickett,1,,3.21,3.21
+14,cantrell,1,,3.21,3.21
+14,mccrary,1,,3.21,3.21
+14,crowder,1,,3.21,3.21
+14,parham,1,,3.21,3.21
+14,jernigan,1,,3.21,3.21
+14,starnes,1,,3.21,3.21
+14,shockley,1,,3.21,3.21
+14,whitlow,1,,3.21,3.21
+14,faircloth,1,,3.21,3.21
+14,barber,1,,3.21,3.21
+14,timmons,1,,3.21,3.21
+14,whatley,1,,3.21,3.21
+14,brannon,1,,3.21,3.21
+14,upchurch,1,,3.21,3.21
+14,ratliff,1,,3.21,3.21
+14,reeves,1,,3.21,3.21
+14,adkins,1,,3.21,3.21
+14,tucker,1,,3.21,3.21
+14,pate,1,,3.21,3.21
+14,baggett,1,,3.21,3.21
+14,corley,1,,3.21,3.21
+14,holt,1,,3.21,3.21
+14,boulware,1,,3.21,3.21
+14,goodson,1,,3.21,3.21
+14,pritchett,1,,3.21,3.21
+14,hawkins,1,,3.21,3.21
+14,griffin,1,,3.21,3.21
+14,mclaurin,1,,3.21,3.21
+14,maness,1,,3.21,3.21
+14,mccray,1,,3.21,3.21
+14,mcswain,1,,3.21,3.21
+14,workman,1,,3.21,3.21
+14,blevins,1,,3.21,3.21
+14,sewell,1,,3.21,3.21
+14,matthews,1,,3.21,3.21
+14,robbins,1,,3.21,3.21
+14,hinson,1,,3.21,3.21
+14,berryman,1,,3.21,3.21
+14,butts,1,,3.21,3.21
+14,lockett,1,,3.21,3.21
+14,sturdivant,1,,3.21,3.21
+14,overstreet,1,,3.21,3.21
+14,fuller,1,,3.21,3.21
+14,worley,1,,3.21,3.21
+14,goolsby,1,,3.21,3.21
+14,sapp,1,,3.21,3.21
+14,ashcraft,1,,3.21,3.21
+14,wooten,1,,3.21,3.21
+14,childers,1,,3.21,3.21
+14,mcallister,1,,3.21,3.21
+14,mathis,1,,3.21,3.21
+14,bates,1,,3.21,3.21
+14,holcombe,1,,3.21,3.21
+14,mcclain,1,,3.21,3.21
+14,cockrell,1,,3.21,3.21
+14,kimbrough,1,,3.21,3.21
+14,ingram,1,,3.21,3.21
+14,robison,1,,3.21,3.21
+14,albritton,1,,3.21,3.21
+14,hudgins,1,,3.21,3.21
+14,scroggins,1,,3.21,3.21
+14,septic systems,1,,3.21,3.21
+14,wastewater,1,,3.21,3.21
+14,leaching,1,,3.21,3.21
+14,solids,1,,3.21,3.21
+14,filtration,1,,3.21,3.21
+14,bald eagles,1,,3.21,3.21
+14,wild turkeys,1,,3.21,3.21
+14,seafront,1,,3.21,3.21
+14,seaside resort,1,,3.21,3.21
+14,cliffs,1,,3.21,3.21
+14,mediterranean coast,1,,3.21,3.21
+14,southernmost,1,,3.21,3.21
+14,coastal strip,1,,3.21,3.21
+14,beachside,1,,3.21,3.21
+14,border,1,,3.21,3.21
+14,countryside,1,,3.21,3.21
+14,smog,1,,3.21,3.21
+14,acid rain,1,,3.21,3.21
+14,congestion,1,,3.21,3.21
+14,air quality,1,,3.21,3.21
+14,litter,1,,3.21,3.21
+14,emission,1,,3.21,3.21
+14,clean air,1,,3.21,3.21
+14,noise,1,,3.21,3.21
+14,polluter,1,,3.21,3.21
+14,corruption,1,,3.21,3.21
+14,nitrogen oxide,1,,3.21,3.21
+14,polluters,1,,3.21,3.21
+14,piracy,1,,3.21,3.21
+14,greenhouse gas,1,,3.21,3.21
+14,cleaner,1,,3.21,3.21
+14,greenhouse gas emission,1,,3.21,3.21
+14,waste,1,,3.21,3.21
+14,greenhouse gases,1,,3.21,3.21
+14,epa,1,,3.21,3.21
+14,drought,1,,3.21,3.21
+14,garbage,1,,3.21,3.21
+14,accidents,1,,3.21,3.21
+14,greenhouse emissions,1,,3.21,3.21
+14,drinking,1,,3.21,3.21
+14,greenhouse gas emissions,1,,3.21,3.21
+14,carbon emission,1,,3.21,3.21
+14,poverty,1,,3.21,3.21
+14,asthma,1,,3.21,3.21
+14,mitigation,1,,3.21,3.21
+14,drowning,1,,3.21,3.21
+14,clean,1,,3.21,3.21
+14,environmental degradation,1,,3.21,3.21
+14,fatigue,1,,3.21,3.21
+14,smoking,1,,3.21,3.21
+14,clean up,1,,3.21,3.21
+14,soot,1,,3.21,3.21
+14,nox,1,,3.21,3.21
+14,carbon dioxide emissions,1,,3.21,3.21
+14,ghg,1,,3.21,3.21
+14,carbon emissions,1,,3.21,3.21
+14,doping,1,,3.21,3.21
+14,ghg emissions,1,,3.21,3.21
+14,traffic,1,,3.21,3.21
+14,soil erosion,1,,3.21,3.21
+14,bird flu,1,,3.21,3.21
+14,speeding,1,,3.21,3.21
+14,liability,1,,3.21,3.21
+14,macrae,1,,3.21,3.21
+14,st. clair,1,,3.21,3.21
+14,brant,1,,3.21,3.21
+14,ratcliff,1,,3.21,3.21
+14,stoddard,1,,3.21,3.21
+14,christianson,1,,3.21,3.21
+14,benton,1,,3.21,3.21
+14,wishart,1,,3.21,3.21
+14,mckenzie,1,,3.21,3.21
+14,kelso,1,,3.21,3.21
+14,morton,1,,3.21,3.21
+14,stanfield,1,,3.21,3.21
+14,rankin,1,,3.21,3.21
+14,mccracken,1,,3.21,3.21
+14,marr,1,,3.21,3.21
+14,stamper,1,,3.21,3.21
+14,purdy,1,,3.21,3.21
+14,henderson,1,,3.21,3.21
+14,wilcox,1,,3.21,3.21
+14,smithers,1,,3.21,3.21
+14,boldt,1,,3.21,3.21
+14,dunbar,1,,3.21,3.21
+14,mercer,1,,3.21,3.21
+14,rook,1,,3.21,3.21
+14,latimer,1,,3.21,3.21
+14,martindale,1,,3.21,3.21
+14,howe,1,,3.21,3.21
+14,greenwood,1,,3.21,3.21
+14,stevenson,1,,3.21,3.21
+14,nairn,1,,3.21,3.21
+14,taber,1,,3.21,3.21
+14,selkirk,1,,3.21,3.21
+14,polson,1,,3.21,3.21
+14,sumner,1,,3.21,3.21
+14,hardin,1,,3.21,3.21
+14,rainy river,1,,3.21,3.21
+14,sibley,1,,3.21,3.21
+14,whiteside,1,,3.21,3.21
+14,davidson,1,,3.21,3.21
+14,hastings,1,,3.21,3.21
+14,mcphail,1,,3.21,3.21
+14,marrs,1,,3.21,3.21
+14,forrest,1,,3.21,3.21
+14,bremner,1,,3.21,3.21
+14,beaton,1,,3.21,3.21
+14,meade,1,,3.21,3.21
+14,mcarthur,1,,3.21,3.21
+14,renfrew,1,,3.21,3.21
+14,nicholson,1,,3.21,3.21
+14,fenton,1,,3.21,3.21
+14,reedy,1,,3.21,3.21
+14,vermilion,1,,3.21,3.21
+14,moreland,1,,3.21,3.21
+14,cowan,1,,3.21,3.21
+14,chisholm,1,,3.21,3.21
+14,swanson,1,,3.21,3.21
+14,robertson,1,,3.21,3.21
+14,burnside,1,,3.21,3.21
+14,anglin,1,,3.21,3.21
+14,adair,1,,3.21,3.21
+14,pender,1,,3.21,3.21
+14,huron,1,,3.21,3.21
+14,drummond,1,,3.21,3.21
+14,galloway,1,,3.21,3.21
+14,tyrrell,1,,3.21,3.21
+14,crook,1,,3.21,3.21
+14,morgan,1,,3.21,3.21
+14,campbell,1,,3.21,3.21
+14,mason,1,,3.21,3.21
+14,stephenson,1,,3.21,3.21
+14,subsurface,1,,3.21,3.21
+14,beaufort sea,1,,3.21,3.21
+14,subsea,1,,3.21,3.21
+14,earth crust,1,,3.21,3.21
+14,permafrost,1,,3.21,3.21
+14,blowout preventer,1,,3.21,3.21
+14,submersible,1,,3.21,3.21
+14,wellhead,1,,3.21,3.21
+14,remotely operated,1,,3.21,3.21
+14,containment cap,1,,3.21,3.21
+14,glacier,1,,3.21,3.21
+14,hydrocarbon,1,,3.21,3.21
+14,deepwater horizon,1,,3.21,3.21
+14,surface,1,,3.21,3.21
+14,seismic,1,,3.21,3.21
+14,drilling rig,1,,3.21,3.21
+14,statoilhydro,1,,3.21,3.21
+14,seismic activity,1,,3.21,3.21
+14,geological,1,,3.21,3.21
+14,drilling,1,,3.21,3.21
+14,macondo,1,,3.21,3.21
+14,sq km,1,,3.21,3.21
+14,geologically,1,,3.21,3.21
+14,rov,1,,3.21,3.21
+14,sunken,1,,3.21,3.21
+14,waterline,1,,3.21,3.21
+14,tsunamis,1,,3.21,3.21
+14,tidal waves,1,,3.21,3.21
+14,tsunami,1,,3.21,3.21
+14,landscapes,1,,3.21,3.21
+14,tsunami waves,1,,3.21,3.21
+14,highways,1,,3.21,3.21
+14,tropical storms,1,,3.21,3.21
+14,seaports,1,,3.21,3.21
+14,lakeshore,1,,3.21,3.21
+14,boat ramps,1,,3.21,3.21
+14,bluffs,1,,3.21,3.21
+14,berms,1,,3.21,3.21
+14,sustainable development,1,,3.21,3.21
+14,biological diversity,1,,3.21,3.21
+14,sustainability,1,,3.21,3.21
+14,sustainable,1,,3.21,3.21
+14,endangered species,1,,3.21,3.21
+14,unep,1,,3.21,3.21
+14,desertification,1,,3.21,3.21
+14,ecologist,1,,3.21,3.21
+14,natural history,1,,3.21,3.21
+14,population,1,,3.21,3.21
+14,wwf,1,,3.21,3.21
+14,stewardship,1,,3.21,3.21
+14,ecotourism,1,,3.21,3.21
+14,nature conservancy,1,,3.21,3.21
+14,endangered,1,,3.21,3.21
+14,biological,1,,3.21,3.21
+14,conservationists,1,,3.21,3.21
+14,wildlife conservation society,1,,3.21,3.21
+14,unfccc,1,,3.21,3.21
+14,astronomy,1,,3.21,3.21
+14,climate change ipcc,1,,3.21,3.21
+14,climate action,1,,3.21,3.21
+14,fao,1,,3.21,3.21
+14,redd,1,,3.21,3.21
+14,archaeological,1,,3.21,3.21
+14,biology,1,,3.21,3.21
+14,ecologically,1,,3.21,3.21
+14,languages,1,,3.21,3.21
+14,adaptation,1,,3.21,3.21
+14,eco,1,,3.21,3.21
+14,conservationist,1,,3.21,3.21
+14,ecologists,1,,3.21,3.21
+14,public lands,1,,3.21,3.21
+14,rspb,1,,3.21,3.21
+14,archaeology,1,,3.21,3.21
+14,geology,1,,3.21,3.21
+14,critically endangered,1,,3.21,3.21
+14,nutrients,1,,3.21,3.21
+14,spores,1,,3.21,3.21
+14,bloodstream,1,,3.21,3.21
+14,parasites,1,,3.21,3.21
+14,fatty acids,1,,3.21,3.21
+14,cigarette smoke,1,,3.21,3.21
+14,fats,1,,3.21,3.21
+14,mucus,1,,3.21,3.21
+14,immune cells,1,,3.21,3.21
+14,odor,1,,3.21,3.21
+14,parasite,1,,3.21,3.21
+14,gastrointestinal tract,1,,3.21,3.21
+14,cytokines,1,,3.21,3.21
+14,sandwich,1,,3.21,3.21
+14,bread,1,,3.21,3.21
+14,provincetown,1,,3.21,3.21
+14,egg,1,,3.21,3.21
+14,sauce,1,,3.21,3.21
+14,grilled,1,,3.21,3.21
+14,baked,1,,3.21,3.21
+14,sandwiches,1,,3.21,3.21
+14,potatoes,1,,3.21,3.21
+14,chilli,1,,3.21,3.21
+14,garlic,1,,3.21,3.21
+14,watermelon,1,,3.21,3.21
+14,sweet potatoes,1,,3.21,3.21
+14,salsa,1,,3.21,3.21
+14,rice,1,,3.21,3.21
+14,sauces,1,,3.21,3.21
+14,pork chops,1,,3.21,3.21
+14,gumbo,1,,3.21,3.21
+14,mango,1,,3.21,3.21
+14,onions,1,,3.21,3.21
+14,tributary,1,,3.21,3.21
+14,canal,1,,3.21,3.21
+14,weir,1,,3.21,3.21
+14,riverside,1,,3.21,3.21
+14,riparian,1,,3.21,3.21
+14,river watershed,1,,3.21,3.21
+14,aquifer,1,,3.21,3.21
+14,delta,1,,3.21,3.21
+14,floodplain,1,,3.21,3.21
+14,flammable,1,,3.21,3.21
+14,hazards,1,,3.21,3.21
+14,poisonous,1,,3.21,3.21
+14,incinerators,1,,3.21,3.21
+14,nanomaterials,1,,3.21,3.21
+14,nontoxic,1,,3.21,3.21
+14,cruise ship,1,,3.21,3.21
+14,cruise liner,1,,3.21,3.21
+14,cruise ships,1,,3.21,3.21
+14,catamaran,1,,3.21,3.21
+14,royal caribbean,1,,3.21,3.21
+14,voyages,1,,3.21,3.21
+14,cruise line,1,,3.21,3.21
+14,sailings,1,,3.21,3.21
+14,cargo ship,1,,3.21,3.21
+14,ocean liner,1,,3.21,3.21
+14,schooner,1,,3.21,3.21
+14,cunard,1,,3.21,3.21
+14,majesty,1,,3.21,3.21
+14,cruise,1,,3.21,3.21
+14,sailboat,1,,3.21,3.21
+14,maiden voyage,1,,3.21,3.21
+14,carnival cruise lines,1,,3.21,3.21
+14,dry dock,1,,3.21,3.21
+14,freighter,1,,3.21,3.21
+14,ncl,1,,3.21,3.21
+14,hull,1,,3.21,3.21
+14,mv,1,,3.21,3.21
+14,container ships,1,,3.21,3.21
+14,nautical miles,1,,3.21,3.21
+14,cargo ships,1,,3.21,3.21
+14,dwt,1,,3.21,3.21
+14,powerboat,1,,3.21,3.21
+14,somali coast,1,,3.21,3.21
+14,blackbeard,1,,3.21,3.21
+14,speedboats,1,,3.21,3.21
+14,caribbean,1,,3.21,3.21
+14,maersk,1,,3.21,3.21
+14,seafarers,1,,3.21,3.21
+14,carnival,1,,3.21,3.21
+14,seamen,1,,3.21,3.21
+14,flotilla,1,,3.21,3.21
+14,shipping,1,,3.21,3.21
+14,poseidon,1,,3.21,3.21
+14,pirate ship,1,,3.21,3.21
+14,voyager,1,,3.21,3.21
+14,atlantis,1,,3.21,3.21
+14,aboard,1,,3.21,3.21
+14,realm,1,,3.21,3.21
+14,jones,1,,3.21,3.21
+14,robinson,1,,3.21,3.21
+14,anderson,1,,3.21,3.21
+14,hayes,1,,3.21,3.21
+14,mccabe,1,,3.21,3.21
+14,turner,1,,3.21,3.21
+14,evans,1,,3.21,3.21
+14,williams,1,,3.21,3.21
+14,spence,1,,3.21,3.21
+14,mccullough,1,,3.21,3.21
+14,freeman,1,,3.21,3.21
+14,miller,1,,3.21,3.21
+14,watts,1,,3.21,3.21
+14,moore,1,,3.21,3.21
+14,lovett,1,,3.21,3.21
+14,wilson,1,,3.21,3.21
+14,sharpe,1,,3.21,3.21
+14,cunningham,1,,3.21,3.21
+14,collins,1,,3.21,3.21
+14,sykes,1,,3.21,3.21
+14,cummings,1,,3.21,3.21
+14,bowman,1,,3.21,3.21
+14,fitzgerald,1,,3.21,3.21
+14,isaacs,1,,3.21,3.21
+14,bennett,1,,3.21,3.21
+14,farr,1,,3.21,3.21
+14,lewis,1,,3.21,3.21
+14,coleman,1,,3.21,3.21
+14,vaughn,1,,3.21,3.21
+14,hester,1,,3.21,3.21
+14,holmes,1,,3.21,3.21
+14,cooney,1,,3.21,3.21
+14,connelly,1,,3.21,3.21
+14,mcbride,1,,3.21,3.21
+14,curran,1,,3.21,3.21
+14,townsend,1,,3.21,3.21
+14,mcgee,1,,3.21,3.21
+14,etheridge,1,,3.21,3.21
+14,willis,1,,3.21,3.21
+14,hines,1,,3.21,3.21
+14,whitaker,1,,3.21,3.21
+14,simmons,1,,3.21,3.21
+14,devine,1,,3.21,3.21
+14,watson,1,,3.21,3.21
+14,goodwin,1,,3.21,3.21
+14,gilmore,1,,3.21,3.21
+14,lough,1,,3.21,3.21
+14,walls,1,,3.21,3.21
+14,mcnally,1,,3.21,3.21
+14,mulcahy,1,,3.21,3.21
+14,lyons,1,,3.21,3.21
+14,pinkney,1,,3.21,3.21
+14,bridges,1,,3.21,3.21
+14,fields,1,,3.21,3.21
+14,payne,1,,3.21,3.21
+14,wright,1,,3.21,3.21
+14,givens,1,,3.21,3.21
+14,dixon,1,,3.21,3.21
+14,cooper,1,,3.21,3.21
+14,stone,1,,3.21,3.21
+14,singleton,1,,3.21,3.21
+14,pierson,1,,3.21,3.21
+14,jacobs,1,,3.21,3.21
+14,palmer,1,,3.21,3.21
+14,lawson,1,,3.21,3.21
+14,cottrell,1,,3.21,3.21
+14,peters,1,,3.21,3.21
+14,huffman,1,,3.21,3.21
+14,roberts,1,,3.21,3.21
+14,dugan,1,,3.21,3.21
+14,shaw,1,,3.21,3.21
+14,henson,1,,3.21,3.21
+14,winters,1,,3.21,3.21
+14,critters,1,,3.21,3.21
+14,starfish,1,,3.21,3.21
+14,creature,1,,3.21,3.21
+14,insects,1,,3.21,3.21
+14,lizards,1,,3.21,3.21
+14,birds,1,,3.21,3.21
+14,aquariums,1,,3.21,3.21
+14,reptiles,1,,3.21,3.21
+14,spiders,1,,3.21,3.21
+14,amphibian,1,,3.21,3.21
+14,frogs,1,,3.21,3.21
+14,reptile,1,,3.21,3.21
+14,animals,1,,3.21,3.21
+14,critter,1,,3.21,3.21
+14,dinosaurs,1,,3.21,3.21
+14,penguin,1,,3.21,3.21
+14,monsters,1,,3.21,3.21
+14,raptors,1,,3.21,3.21
+14,seagulls,1,,3.21,3.21
+14,goldfish,1,,3.21,3.21
+14,beings,1,,3.21,3.21
+14,gulls,1,,3.21,3.21
+14,additive,1,,3.21,3.21
+14,iodine,1,,3.21,3.21
+14,nutrient,1,,3.21,3.21
+14,concentrations,1,,3.21,3.21
+14,preservative,1,,3.21,3.21
+14,fluoride,1,,3.21,3.21
+14,snohomish,1,,3.21,3.21
+14,gig harbor,1,,3.21,3.21
+14,bremerton,1,,3.21,3.21
+14,burien,1,,3.21,3.21
+14,kitsap,1,,3.21,3.21
+14,port angeles,1,,3.21,3.21
+14,highline,1,,3.21,3.21
+14,bainbridge island,1,,3.21,3.21
+14,sequim,1,,3.21,3.21
+14,sammamish,1,,3.21,3.21
+14,issaquah,1,,3.21,3.21
+14,stanwood,1,,3.21,3.21
+14,bellingham,1,,3.21,3.21
+14,old saybrook,1,,3.21,3.21
+14,port townsend,1,,3.21,3.21
+14,mukilteo,1,,3.21,3.21
+14,cascade,1,,3.21,3.21
+14,tigard,1,,3.21,3.21
+14,tumwater,1,,3.21,3.21
+14,mill creek,1,,3.21,3.21
+14,tacoma,1,,3.21,3.21
+14,bellevue,1,,3.21,3.21
+14,lynnwood,1,,3.21,3.21
+14,bayview,1,,3.21,3.21
+14,snohomish county,1,,3.21,3.21
+14,evergreen,1,,3.21,3.21
+14,fairhaven,1,,3.21,3.21
+14,anacortes,1,,3.21,3.21
+14,woodinville,1,,3.21,3.21
+14,umpqua,1,,3.21,3.21
+14,poulsbo,1,,3.21,3.21
+14,port orchard,1,,3.21,3.21
+14,branford,1,,3.21,3.21
+14,norwalk,1,,3.21,3.21
+14,vashon,1,,3.21,3.21
+14,puyallup,1,,3.21,3.21
+14,whittier,1,,3.21,3.21
+14,shorewood,1,,3.21,3.21
+14,olympia,1,,3.21,3.21
+14,lake oswego,1,,3.21,3.21
+14,grays harbor,1,,3.21,3.21
+14,clackamas,1,,3.21,3.21
+14,whidbey island,1,,3.21,3.21
+14,tualatin,1,,3.21,3.21
+14,coos bay,1,,3.21,3.21
+14,eastside,1,,3.21,3.21
+14,westport,1,,3.21,3.21
+14,lakeside,1,,3.21,3.21
+14,alameda,1,,3.21,3.21
+14,milwaukie,1,,3.21,3.21
+14,marblehead,1,,3.21,3.21
+14,cabrillo,1,,3.21,3.21
+14,woodland,1,,3.21,3.21
+14,rainier,1,,3.21,3.21
+14,kalama,1,,3.21,3.21
+14,point loma,1,,3.21,3.21
+14,everett,1,,3.21,3.21
+14,palos verdes,1,,3.21,3.21
+14,skyline,1,,3.21,3.21
+14,beaverton,1,,3.21,3.21
+14,roseburg,1,,3.21,3.21
+14,oak harbor,1,,3.21,3.21
+14,stonington,1,,3.21,3.21
+14,old lyme,1,,3.21,3.21
+14,battle ground,1,,3.21,3.21
+14,oceanside,1,,3.21,3.21
+14,camas,1,,3.21,3.21
+14,ferndale,1,,3.21,3.21
+14,yelm,1,,3.21,3.21
+14,astoria,1,,3.21,3.21
+14,arcata,1,,3.21,3.21
+14,northshore,1,,3.21,3.21
+14,cape ann,1,,3.21,3.21
+14,benicia,1,,3.21,3.21
+14,clear lake,1,,3.21,3.21
+14,medford,1,,3.21,3.21
+14,seattle,1,,3.21,3.21
+14,capitola,1,,3.21,3.21
+14,silverdale,1,,3.21,3.21
+14,soquel,1,,3.21,3.21
+14,lake tahoe,1,,3.21,3.21
+14,renton,1,,3.21,3.21
+14,riverview,1,,3.21,3.21
+14,ridgefield,1,,3.21,3.21
+14,cranberry,1,,3.21,3.21
+14,pheasant,1,,3.21,3.21
+14,artichoke,1,,3.21,3.21
+14,eggplant,1,,3.21,3.21
+14,sweet corn,1,,3.21,3.21
+14,prosciutto,1,,3.21,3.21
+14,leeks,1,,3.21,3.21
+14,tubers,1,,3.21,3.21
+14,asian carp,1,,3.21,3.21
+14,prime rib,1,,3.21,3.21
+14,rat,1,,3.21,3.21
+14,pumpkin,1,,3.21,3.21
+14,chop,1,,3.21,3.21
+14,taco,1,,3.21,3.21
+14,fisherman wharf,1,,3.21,3.21
+14,bbq,1,,3.21,3.21
+14,pickle,1,,3.21,3.21
+14,monkey,1,,3.21,3.21
+14,quail,1,,3.21,3.21
+14,walrus,1,,3.21,3.21
+14,mullet,1,,3.21,3.21
+14,caribou,1,,3.21,3.21

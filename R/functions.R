@@ -30,6 +30,15 @@ count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier100",
     } else if (keywords == "elsevier") {
       goal_df <- elsevier_keywords %>%
         filter(goal == goal_num)
+    } else if (keywords == "cmu250") {
+      goal_df <- cmu250_keywords %>%
+        filter(goal == goal_num)
+    } else if (keywords == "cmu500") {
+      goal_df <- cmu500_keywords %>%
+        filter(goal == goal_num)
+    } else if (keywords == "cmu1000") {
+      goal_df <- cmu1000_keywords %>%
+        filter(goal == goal_num)
     }
 
     # Get the keywords and weights
@@ -105,6 +114,15 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
   } else if (keywords == "elsevier") {
     goal_df <- elsevier_keywords %>%
       filter(goal == goal_num)
+  } else if (keywords == "cmu250") {
+    goal_df <- cmu250_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "cmu500") {
+    goal_df <- cmu500_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "cmu1000") {
+    goal_df <- cmu1000_keywords %>%
+      filter(goal == goal_num)
   }
 
   # Get the keywords and weights
@@ -121,3 +139,31 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
 
   return (as.vector(words))
 })
+
+### Map to SDG weights
+map_sdgs_weights <- function(df) {
+  new_df <- df %>%
+    mutate(`SDG1` = count_sdg_keywords(text, 1),
+           `SDG2` = count_sdg_keywords(text, 2),
+           `SDG3` = count_sdg_keywords(text, 3),
+           `SDG4` = count_sdg_keywords(text, 4),
+           `SDG5` = count_sdg_keywords(text, 5),
+           `SDG6` = count_sdg_keywords(text, 6),
+           `SDG7` = count_sdg_keywords(text, 7),
+           `SDG8` = count_sdg_keywords(text, 8),
+           `SDG9` = count_sdg_keywords(text, 9),
+           `SDG10` = count_sdg_keywords(text, 10),
+           `SDG11` = count_sdg_keywords(text, 11),
+           `SDG12` = count_sdg_keywords(text, 12),
+           `SDG13` = count_sdg_keywords(text, 13),
+           `SDG14` = count_sdg_keywords(text, 14),
+           `SDG15` = count_sdg_keywords(text, 15),
+           `SDG16` = count_sdg_keywords(text, 16))
+  return (new_df)
+}
+
+map_sdgs_keywords <- function(df) {
+  new_df <- df
+  return (new_df)
+}
+

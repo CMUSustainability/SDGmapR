@@ -1,0 +1,855 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+3,lung cancer,71,,3.48,247.08
+3,breast cancer,69,True,3.94,271.86
+3,prostate cancer,62,,3.48,215.76
+3,cancer,54,True,34.93,1886.22
+3,disease,51,True,5.12,261.12
+3,melanoma,49,True,7.56,370.44
+3,diabetes,47,True,19.37,910.3900000000001
+3,tuberculosis,45,True,11.84,532.8
+3,heart disease,43,True,9.66,415.38
+3,swine flu,43,,3.48,149.64
+3,bird flu,41,,3.48,142.68
+3,alzheimer disease,40,,3.48,139.2
+3,meningitis,38,,3.48,132.24
+3,lupus,35,,3.48,121.8
+3,leukemia,33,True,8.93,294.69
+3,measles,33,True,4.18,137.94
+3,osteoporosis,33,,3.48,114.84
+3,influenza,30,True,9.87,296.09999999999997
+3,cystic fibrosis,29,True,4.64,134.56
+3,hypertension,29,,3.48,100.92
+3,infection,28,,3.48,97.44
+3,cancers,27,True,8.59,231.93
+3,rabies,27,True,4.84,130.68
+3,infections,27,,3.48,93.96
+3,parkinson disease,27,,3.48,93.96
+3,colorectal cancer,27,,3.48,93.96
+3,liver cancer,27,,3.48,93.96
+3,lymphoma,26,True,7.56,196.56
+3,dengue,26,True,6.73,174.98000000000002
+3,dementia,26,,3.48,90.48
+3,glaucoma,26,,3.48,90.48
+3,bowel cancer,26,,3.48,90.48
+3,asthma,25,True,12.97,324.25
+3,multiple sclerosis,25,,3.48,87.0
+3,flu,25,,3.48,87.0
+3,cardiovascular disease,25,,3.48,87.0
+3,colon cancer,25,,3.48,87.0
+3,ovarian cancer,25,,3.48,87.0
+3,pancreatic cancer,25,,3.48,87.0
+3,cervical cancer,24,,3.48,83.52
+3,bladder cancer,24,,3.48,83.52
+3,multiple myeloma,24,,3.48,83.52
+3,kidney disease,23,True,6.29,144.67
+3,virus,23,True,3.92,90.16
+3,copd,23,,3.48,80.04
+3,esophageal cancer,23,,3.48,80.04
+3,obesity,22,True,18.78,413.16
+3,diseases,22,True,6.76,148.72
+3,cholera,22,True,5.99,131.78
+3,neuroblastoma,22,True,4.61,101.42
+3,epilepsy,22,,3.48,76.56
+3,liver disease,22,,3.48,76.56
+3,alzheimer,22,,3.48,76.56
+3,west nile virus,21,,3.48,73.08
+3,thyroid cancer,20,,3.48,69.6
+3,malaria,19,True,11.27,214.13
+3,hepatitis,19,True,11.08,210.52
+3,coronary artery disease,19,,3.48,66.12
+3,malignancies,19,,3.48,66.12
+3,brain tumors,19,,3.48,66.12
+3,cardiovascular diseases,18,True,6.29,113.22
+3,breast cancers,18,,3.48,62.64
+3,skin cancers,18,,3.48,62.64
+3,testicular cancer,18,,3.48,62.64
+3,non hodgkin lymphoma,18,,3.48,62.64
+3,brain tumor,18,,3.48,62.64
+3,superbug,18,,3.48,62.64
+3,aids,17,True,24.52,416.84
+3,mrsa,17,True,6.74,114.58
+3,cardiovascular,17,True,3.74,63.580000000000005
+3,arthritis,17,,3.48,59.16
+3,chronic diseases,17,,3.48,59.16
+3,metastatic breast cancer,17,,3.48,59.16
+3,bacterial meningitis,17,,3.48,59.16
+3,tumors,16,True,3.77,60.32
+3,lung disease,16,True,3.68,58.88
+3,hepatitis c,16,,3.48,55.68
+3,ebola,16,,3.48,55.68
+3,chemotherapy,16,,3.48,55.68
+3,gum disease,16,,3.48,55.68
+3,malignancy,16,,3.48,55.68
+3,hiv infection,16,,3.48,55.68
+3,hepatitis b,16,,3.48,55.68
+3,polio,16,,3.48,55.68
+3,stroke,15,True,24.36,365.4
+3,pertussis,15,True,4.23,63.45
+3,infectious diseases,15,,3.48,52.2
+3,vaccination,15,,3.48,52.2
+3,vascular disease,15,,3.48,52.2
+3,hpv,15,,3.48,52.2
+3,h#n#,15,,3.48,52.2
+3,diabetes mellitus,14,True,4.32,60.480000000000004
+3,tb,14,True,4.29,60.06
+3,metabolic syndrome,14,,3.48,48.72
+3,coronary heart,14,,3.48,48.72
+3,atherosclerosis,14,,3.48,48.72
+3,nsclc,14,,3.48,48.72
+3,seasonal influenza,14,,3.48,48.72
+3,hiv aids,14,,3.48,48.72
+3,h#n# virus,14,,3.48,48.72
+3,whooping cough,14,,3.48,48.72
+3,pneumonia,13,True,10.94,142.22
+3,liver,13,,3.48,45.24
+3,bacterial infection,13,,3.48,45.24
+3,crohn disease,13,,3.48,45.24
+3,autism,13,,3.48,45.24
+3,sudden cardiac death,13,,3.48,45.24
+3,atrial fibrillation,13,,3.48,45.24
+3,emphysema,13,,3.48,45.24
+3,chronic kidney,13,,3.48,45.24
+3,cell lung cancer,13,,3.48,45.24
+3,chlamydia,13,,3.48,45.24
+3,psoriasis,13,,3.48,45.24
+3,schizophrenia,12,,3.48,41.76
+3,illness,12,,3.48,41.76
+3,sickle cell disease,12,,3.48,41.76
+3,west nile,12,,3.48,41.76
+3,cholesterol,12,,3.48,41.76
+3,gestational diabetes,12,,3.48,41.76
+3,ischemic stroke,12,,3.48,41.76
+3,myeloma,12,,3.48,41.76
+3,cll,12,,3.48,41.76
+3,hodgkin lymphoma,12,,3.48,41.76
+3,metastatic,12,,3.48,41.76
+3,als,12,,3.48,41.76
+3,chickenpox,12,,3.48,41.76
+3,dengue fever,12,,3.48,41.76
+3,salmonella,12,,3.48,41.76
+3,tumor,11,True,5.51,60.61
+3,prostate,11,True,3.53,38.83
+3,infectious disease,11,,3.48,38.28
+3,vaccine,11,,3.48,38.28
+3,cirrhosis,11,,3.48,38.28
+3,gout,11,,3.48,38.28
+3,congestive heart failure,11,,3.48,38.28
+3,kidney failure,11,,3.48,38.28
+3,mesothelioma,11,,3.48,38.28
+3,autoimmune disease,11,,3.48,38.28
+3,highly contagious,11,,3.48,38.28
+3,h#n# flu,11,,3.48,38.28
+3,rheumatoid arthritis,11,,3.48,38.28
+3,mumps,11,,3.48,38.28
+3,hiv,10,True,14.8,148.0
+3,respiratory,10,True,3.61,36.1
+3,encephalitis,10,,3.48,34.8
+3,sepsis,10,,3.48,34.8
+3,lung diseases,10,,3.48,34.8
+3,solid tumors,10,,3.48,34.8
+3,stis,10,,3.48,34.8
+3,communicable disease,10,,3.48,34.8
+3,immunization,10,,3.48,34.8
+3,h#n# influenza,10,,3.48,34.8
+3,avian influenza,10,,3.48,34.8
+3,avian flu,10,,3.48,34.8
+3,disease progression,10,,3.48,34.8
+3,staph,10,,3.48,34.8
+3,epidemiology,9,,3.48,31.32
+3,pediatric,9,,3.48,31.32
+3,myocardial infarction,9,,3.48,31.32
+3,cardiac,9,,3.48,31.32
+3,cancer research,9,,3.48,31.32
+3,communicable diseases,9,,3.48,31.32
+3,bird flu virus,9,,3.48,31.32
+3,swine flu virus,9,,3.48,31.32
+3,flu virus,9,,3.48,31.32
+3,endometriosis,9,,3.48,31.32
+3,h#n# swine flu,9,,3.48,31.32
+3,h#n# strain,9,,3.48,31.32
+3,chicken pox,9,,3.48,31.32
+3,hodgkin disease,9,,3.48,31.32
+3,macular degeneration,9,,3.48,31.32
+3,diarrhea,9,,3.48,31.32
+3,pancreatitis,9,,3.48,31.32
+3,ulcerative colitis,9,,3.48,31.32
+3,diabetic,8,True,6.27,50.16
+3,obese,8,True,5.64,45.12
+3,chronic illness,8,,3.48,27.84
+3,epidemics,8,,3.48,27.84
+3,diabetics,8,,3.48,27.84
+3,premature births,8,,3.48,27.84
+3,american cancer society,8,,3.48,27.84
+3,kidney,8,,3.48,27.84
+3,gonorrhea,8,,3.48,27.84
+3,c. difficile,8,,3.48,27.84
+3,pandemic influenza,8,,3.48,27.84
+3,bacterial infections,8,,3.48,27.84
+3,inflammatory bowel disease,8,,3.48,27.84
+3,wnv,8,,3.48,27.84
+3,lou gehrig disease,8,,3.48,27.84
+3,ovarian,8,,3.48,27.84
+3,sars,7,True,6.74,47.18
+3,leprosy,7,True,5.1,35.699999999999996
+3,oncology,7,True,4.6,32.199999999999996
+3,coronary,7,True,4.31,30.169999999999998
+3,insulin resistance,7,,3.48,24.36
+3,sleep apnea,7,,3.48,24.36
+3,menopause,7,,3.48,24.36
+3,breast cancer survivors,7,,3.48,24.36
+3,drug resistant tb,7,,3.48,24.36
+3,xdr tb,7,,3.48,24.36
+3,influenza virus,7,,3.48,24.36
+3,mammograms,7,,3.48,24.36
+3,seasonal flu,7,,3.48,24.36
+3,e.coli,7,,3.48,24.36
+3,pandemic,7,,3.48,24.36
+3,gastroenteritis,7,,3.48,24.36
+3,renal failure,7,,3.48,24.36
+3,celiac disease,7,,3.48,24.36
+3,metastasis,7,,3.48,24.36
+3,polyps,7,,3.48,24.36
+3,pancreatic,7,,3.48,24.36
+3,heart,6,True,4.52,27.119999999999997
+3,syphilis,6,True,4.27,25.619999999999997
+3,diagnosis,6,,3.48,20.88
+3,lyme disease,6,,3.48,20.88
+3,infected,6,,3.48,20.88
+3,statins,6,,3.48,20.88
+3,cognitive decline,6,,3.48,20.88
+3,chd,6,,3.48,20.88
+3,periodontal disease,6,,3.48,20.88
+3,angina,6,,3.48,20.88
+3,preterm birth,6,,3.48,20.88
+3,blood clots,6,,3.48,20.88
+3,heart association,6,,3.48,20.88
+3,cancer institute,6,,3.48,20.88
+3,transplant,6,,3.48,20.88
+3,crohn,6,,3.48,20.88
+3,hiv infections,6,,3.48,20.88
+3,sexually transmitted disease,6,,3.48,20.88
+3,cardiology,6,,3.48,20.88
+3,norovirus,6,,3.48,20.88
+3,h#n# bird flu,6,,3.48,20.88
+3,respiratory illness,6,,3.48,20.88
+3,flu viruses,6,,3.48,20.88
+3,muscular dystrophy,6,,3.48,20.88
+3,fibrosis,6,,3.48,20.88
+3,respiratory infection,6,,3.48,20.88
+3,radiation therapy,6,,3.48,20.88
+3,epidemic,5,True,6.72,33.6
+3,breast,5,True,4.13,20.65
+3,lung,5,True,3.55,17.75
+3,malignant,5,True,3.48,17.4
+3,mortality,5,,3.48,17.4
+3,salt intake,5,,3.48,17.4
+3,statin,5,,3.48,17.4
+3,deep vein thrombosis,5,,3.48,17.4
+3,cvd,5,,3.48,17.4
+3,arrhythmia,5,,3.48,17.4
+3,urology,5,,3.48,17.4
+3,hematology,5,,3.48,17.4
+3,post menopausal,5,,3.48,17.4
+3,diabetes care,5,,3.48,17.4
+3,antibiotic resistance,5,,3.48,17.4
+3,smallpox,5,,3.48,17.4
+3,mammogram,5,,3.48,17.4
+3,postmenopausal women,5,,3.48,17.4
+3,cognitive impairment,5,,3.48,17.4
+3,bird flu outbreak,5,,3.48,17.4
+3,flu pandemic,5,,3.48,17.4
+3,h#n# pandemic,5,,3.48,17.4
+3,flu bug,5,,3.48,17.4
+3,bone marrow transplant,5,,3.48,17.4
+3,sickle cell anemia,5,,3.48,17.4
+3,cell lymphoma,5,,3.48,17.4
+3,related macular degeneration,5,,3.48,17.4
+3,bacteria,5,,3.48,17.4
+3,stds,5,,3.48,17.4
+3,viral infections,5,,3.48,17.4
+3,waterborne diseases,5,,3.48,17.4
+3,water borne diseases,5,,3.48,17.4
+3,cisplatin,5,,3.48,17.4
+3,lymph nodes,5,,3.48,17.4
+3,vascular,5,,3.48,17.4
+3,tetanus,4,True,4.62,18.48
+3,plague,4,,3.48,13.92
+3,acute,4,,3.48,13.92
+3,degenerative,4,,3.48,13.92
+3,ldl cholesterol,4,,3.48,13.92
+3,hdl cholesterol,4,,3.48,13.92
+3,sudden cardiac arrest,4,,3.48,13.92
+3,triglycerides,4,,3.48,13.92
+3,vitamin d,4,,3.48,13.92
+3,infertility,4,,3.48,13.92
+3,down syndrome,4,,3.48,13.92
+3,breast cancer survivor,4,,3.48,13.92
+3,herceptin,4,,3.48,13.92
+3,diabetes association,4,,3.48,13.92
+3,hiv infected,4,,3.48,13.92
+3,aids epidemic,4,,3.48,13.92
+3,gastroenterology,4,,3.48,13.92
+3,metabolism,4,,3.48,13.92
+3,genetic variations,4,,3.48,13.92
+3,swine flu outbreak,4,,3.48,13.92
+3,flu epidemic,4,,3.48,13.92
+3,pandemic flu,4,,3.48,13.92
+3,severe acute respiratory syndrome,4,,3.48,13.92
+3,influenza pandemic,4,,3.48,13.92
+3,cholera outbreak,4,,3.48,13.92
+3,vaccinated,4,,3.48,13.92
+3,respiratory infections,4,,3.48,13.92
+3,complications,4,,3.48,13.92
+3,kidney function,4,,3.48,13.92
+3,illnesses,4,,3.48,13.92
+3,tamoxifen,4,,3.48,13.92
+3,brca1,4,,3.48,13.92
+3,hormone therapy,4,,3.48,13.92
+3,chemo,4,,3.48,13.92
+3,genetic mutations,4,,3.48,13.92
+3,mutations,4,,3.48,13.92
+3,tumor cells,4,,3.48,13.92
+3,cancerous cells,4,,3.48,13.92
+3,lesions,4,,3.48,13.92
+3,colon,4,,3.48,13.92
+3,typhoid,4,,3.48,13.92
+3,yellow fever,4,,3.48,13.92
+3,mosquitoes,4,,3.48,13.92
+3,breast tissue,4,,3.48,13.92
+3,unicef,4,,3.48,13.92
+3,malnutrition,4,,3.48,13.92
+3,cancerous,4,,3.48,13.92
+3,renal,4,,3.48,13.92
+3,pulmonary,3,True,4.17,12.51
+3,parasite,3,,3.48,10.44
+3,pathogen,3,,3.48,10.44
+3,clinical,3,,3.48,10.44
+3,treatable,3,,3.48,10.44
+3,clogged arteries,3,,3.48,10.44
+3,c reactive protein,3,,3.48,10.44
+3,oxidative stress,3,,3.48,10.44
+3,curable,3,,3.48,10.44
+3,cancer society,3,,3.48,10.44
+3,dana farber cancer,3,,3.48,10.44
+3,breast cancer awareness,3,,3.48,10.44
+3,breast cancer foundation,3,,3.48,10.44
+3,stem cell research,3,,3.48,10.44
+3,pregnancy,3,,3.48,10.44
+3,cure,3,,3.48,10.44
+3,mental illness,3,,3.48,10.44
+3,jdrf,3,,3.48,10.44
+3,arthritis foundation,3,,3.48,10.44
+3,juvenile diabetes research,3,,3.48,10.44
+3,breastfeeding,3,,3.48,10.44
+3,eating disorders,3,,3.48,10.44
+3,adhd,3,,3.48,10.44
+3,clinical trials,3,,3.48,10.44
+3,hysterectomy,3,,3.48,10.44
+3,rheumatology,3,,3.48,10.44
+3,neurology,3,,3.48,10.44
+3,clinical nutrition,3,,3.48,10.44
+3,gerd,3,,3.48,10.44
+3,dermatology,3,,3.48,10.44
+3,ophthalmology,3,,3.48,10.44
+3,psychiatry,3,,3.48,10.44
+3,medicine,3,,3.48,10.44
+3,thrombosis,3,,3.48,10.44
+3,genetic variants,3,,3.48,10.44
+3,sleep disorders,3,,3.48,10.44
+3,swine flu pandemic,3,,3.48,10.44
+3,outbreak,3,,3.48,10.44
+3,e. coli,3,,3.48,10.44
+3,rsv,3,,3.48,10.44
+3,who,3,,3.48,10.44
+3,stem cell transplant,3,,3.48,10.44
+3,viruses,3,,3.48,10.44
+3,urinary tract infections,3,,3.48,10.44
+3,sexually transmitted infections,3,,3.48,10.44
+3,vaccines,3,,3.48,10.44
+3,sexually transmitted diseases,3,,3.48,10.44
+3,pathogens,3,,3.48,10.44
+3,respiratory diseases,3,,3.48,10.44
+3,mosquito bites,3,,3.48,10.44
+3,liver transplant,3,,3.48,10.44
+3,kidney stones,3,,3.48,10.44
+3,asymptomatic,3,,3.48,10.44
+3,undergoing chemotherapy,3,,3.48,10.44
+3,chemotherapy treatments,3,,3.48,10.44
+3,pancreas,3,,3.48,10.44
+3,aneurysm,3,,3.48,10.44
+3,relapse,3,,3.48,10.44
+3,abnormalities,3,,3.48,10.44
+3,mutation,3,,3.48,10.44
+3,colonoscopy,3,,3.48,10.44
+3,kidney transplant,3,,3.48,10.44
+3,congenital heart,3,,3.48,10.44
+3,dialysis,3,,3.48,10.44
+3,chronic lung,3,,3.48,10.44
+3,thyroid,3,,3.48,10.44
+3,mammography,3,,3.48,10.44
+3,viral infection,3,,3.48,10.44
+3,hiv prevalence,3,,3.48,10.44
+3,maternal deaths,3,,3.48,10.44
+3,biopsy,3,,3.48,10.44
+3,neurodegenerative diseases,3,,3.48,10.44
+3,chronic obstructive pulmonary,3,,3.48,10.44
+3,allergy,3,,3.48,10.44
+3,orthopedic,3,,3.48,10.44
+3,surgical,3,,3.48,10.44
+3,cardiologist,3,,3.48,10.44
+3,diagnostic,3,,3.48,10.44
+3,bariatric surgery,3,,3.48,10.44
+3,blood clot,3,,3.48,10.44
+3,biopsies,3,,3.48,10.44
+3,lung infection,3,,3.48,10.44
+3,pulmonary embolism,3,,3.48,10.44
+3,appendicitis,3,,3.48,10.44
+3,alcoholism,2,True,6.18,12.36
+3,addiction,2,True,4.66,9.32
+3,health,2,True,4.49,8.98
+3,overweight,2,True,3.62,7.24
+3,pesticides,2,True,3.57,7.14
+3,syndrome,2,,3.48,6.96
+3,disorder,2,,3.48,6.96
+3,clinical trial,2,,3.48,6.96
+3,genes,2,,3.48,6.96
+3,neurologic,2,,3.48,6.96
+3,cigarette smoking,2,,3.48,6.96
+3,blood sugar,2,,3.48,6.96
+3,life expectancy,2,,3.48,6.96
+3,genital warts,2,,3.48,6.96
+3,clinical oncology,2,,3.48,6.96
+3,palliative care,2,,3.48,6.96
+3,fertility,2,,3.48,6.96
+3,hospice,2,,3.48,6.96
+3,komen,2,,3.48,6.96
+3,passive smoking,2,,3.48,6.96
+3,smoking,2,,3.48,6.96
+3,childhood obesity,2,,3.48,6.96
+3,wellness,2,,3.48,6.96
+3,obesity epidemic,2,,3.48,6.96
+3,blood glucose,2,,3.48,6.96
+3,human immunodeficiency virus,2,,3.48,6.96
+3,mastectomy,2,,3.48,6.96
+3,internal medicine,2,,3.48,6.96
+3,obstetrics,2,,3.48,6.96
+3,neuroscience,2,,3.48,6.96
+3,hypoglycemia,2,,3.48,6.96
+3,mood disorders,2,,3.48,6.96
+3,psychiatric disorders,2,,3.48,6.96
+3,anxiety disorders,2,,3.48,6.96
+3,swine flu vaccine,2,,3.48,6.96
+3,sars virus,2,,3.48,6.96
+3,flooding,2,,3.48,6.96
+3,h#n# vaccine,2,,3.48,6.96
+3,listeriosis,2,,3.48,6.96
+3,deadly h#n# strain,2,,3.48,6.96
+3,influenza viruses,2,,3.48,6.96
+3,anti viral,2,,3.48,6.96
+3,influenza vaccine,2,,3.48,6.96
+3,tamiflu,2,,3.48,6.96
+3,cystic fibrosis foundation,2,,3.48,6.96
+3,multiple sclerosis society,2,,3.48,6.96
+3,autism speaks,2,,3.48,6.96
+3,ms,2,,3.48,6.96
+3,alzheimer society,2,,3.48,6.96
+3,ipf,2,,3.48,6.96
+3,contamination,2,,3.48,6.96
+3,antibiotics,2,,3.48,6.96
+3,outbreaks,2,,3.48,6.96
+3,bacterium,2,,3.48,6.96
+3,immunized,2,,3.48,6.96
+3,anemia,2,,3.48,6.96
+3,autoimmune diseases,2,,3.48,6.96
+3,genetic disorders,2,,3.48,6.96
+3,therapies,2,,3.48,6.96
+3,mosquito,2,,3.48,6.96
+3,health organisation who,2,,3.48,6.96
+3,genetic disorder,2,,3.48,6.96
+3,cataracts,2,,3.48,6.96
+3,unvaccinated,2,,3.48,6.96
+3,microbiology,2,,3.48,6.96
+3,sub saharan africa,2,,3.48,6.96
+3,antiretroviral drugs,2,,3.48,6.96
+3,hunger,2,,3.48,6.96
+3,maternal mortality,2,,3.48,6.96
+3,poverty,2,,3.48,6.96
+3,cholera epidemic,2,,3.48,6.96
+3,relapsed,2,,3.48,6.96
+3,recurrence,2,,3.48,6.96
+3,bone marrow,2,,3.48,6.96
+3,osteoarthritis,2,,3.48,6.96
+3,disorders,2,,3.48,6.96
+3,ulcers,2,,3.48,6.96
+3,fibromyalgia,2,,3.48,6.96
+3,parkinson,2,,3.48,6.96
+3,spine,2,,3.48,6.96
+3,orthopaedic,2,,3.48,6.96
+3,cardiac surgery,2,,3.48,6.96
+3,interventional,2,,3.48,6.96
+3,clinical research,2,,3.48,6.96
+3,medical,2,,3.48,6.96
+3,cardiologists,2,,3.48,6.96
+3,anesthesia,2,,3.48,6.96
+3,radiology,2,,3.48,6.96
+3,outpatient,2,,3.48,6.96
+3,patient care,2,,3.48,6.96
+3,ultrasound,2,,3.48,6.96
+3,orthopedic surgery,2,,3.48,6.96
+3,medical device,2,,3.48,6.96
+3,physician,2,,3.48,6.96
+3,nutrition,2,,3.48,6.96
+3,angioplasty,2,,3.48,6.96
+3,biomedical,2,,3.48,6.96
+3,borne illness,2,,3.48,6.96
+3,migraine,2,,3.48,6.96
+3,e. coli o### h7,2,,3.48,6.96
+3,e. coli bacteria,2,,3.48,6.96
+3,lesion,2,,3.48,6.96
+3,cysts,2,,3.48,6.96
+3,ovary,2,,3.48,6.96
+3,radiotherapy,2,,3.48,6.96
+3,stem cells,2,,3.48,6.96
+3,micrornas,2,,3.48,6.96
+3,staph infection,2,,3.48,6.96
+3,strep throat,2,,3.48,6.96
+3,ear infection,2,,3.48,6.96
+3,mononucleosis,2,,3.48,6.96
+3,flulike symptoms,2,,3.48,6.96
+3,stomach bug,2,,3.48,6.96
+3,flu vaccination,2,,3.48,6.96
+3,vaccinations,2,,3.48,6.96
+3,colds,2,,3.48,6.96
+3,genetic mutation,2,,3.48,6.96
+3,subtype,2,,3.48,6.96
+3,patient,2,,3.48,6.96
+3,heart valve,2,,3.48,6.96
+3,bypass surgery,2,,3.48,6.96
+3,respiratory illnesses,2,,3.48,6.96
+3,cardiac arrest,2,,3.48,6.96
+3,irregular heartbeat,2,,3.48,6.96
+3,chest pains,2,,3.48,6.96
+3,organ failure,2,,3.48,6.96
+3,brain hemorrhage,2,,3.48,6.96
+3,internal bleeding,2,,3.48,6.96
+3,hospitalization,2,,3.48,6.96
+3,suicide,1,True,14.6,14.6
+3,carcinoma,1,True,12.74,12.74
+3,anticancer,1,True,10.51,10.51
+3,strokes,1,True,8.72,8.72
+3,substance abuse,1,True,7.48,7.48
+3,environmental health,1,True,7.27,7.27
+3,collision,1,True,6.81,6.81
+3,midwives,1,True,6.69,6.69
+3,contraceptive,1,True,6.52,6.52
+3,abuse,1,True,5.98,5.98
+3,rotavirus,1,True,5.62,5.62
+3,crash,1,True,5.6,5.6
+3,avoidance,1,True,5.59,5.59
+3,substance,1,True,5.42,5.42
+3,sarcoma,1,True,5.01,5.01
+3,use disorders,1,True,4.96,4.96
+3,midwifery,1,True,4.9,4.9
+3,contraception,1,True,4.87,4.87
+3,dependence,1,True,4.76,4.76
+3,artery disease,1,True,4.72,4.72
+3,human health,1,True,4.58,4.58
+3,driver,1,True,4.38,4.38
+3,influenzae,1,True,4.32,4.32
+3,drug,1,True,4.32,4.32
+3,mellitus,1,True,4.3,4.3
+3,contraceptives,1,True,4.2,4.2
+3,type diabetes,1,True,4.14,4.14
+3,miscarriage,1,True,4.13,4.13
+3,antimalarial,1,True,4.09,4.09
+3,hcv,1,True,4.08,4.08
+3,suicidal,1,True,3.94,3.94
+3,alcohol,1,True,3.8,3.8
+3,accident,1,True,3.75,3.75
+3,cerebrovascular,1,True,3.65,3.65
+3,women,1,True,3.63,3.63
+3,cystic,1,True,3.63,3.63
+3,osteosarcoma,1,True,3.61,3.61
+3,pesticide,1,True,3.58,3.58
+3,drinking,1,True,3.57,3.57
+3,motor vehicle,1,True,3.56,3.56
+3,medicine abstract,1,True,3.54,3.54
+3,antenatal,1,True,3.51,3.51
+3,affliction,1,,3.48,3.48
+3,genetic,1,,3.48,3.48
+3,pest,1,,3.48,3.48
+3,pain,1,,3.48,3.48
+3,malady,1,,3.48,3.48
+3,fatigue,1,,3.48,3.48
+3,autoimmune,1,,3.48,3.48
+3,drought,1,,3.48,3.48
+3,fungus,1,,3.48,3.48
+3,quitting smoking,1,,3.48,3.48
+3,premature birth,1,,3.48,3.48
+3,fat diet,1,,3.48,3.48
+3,antioxidants,1,,3.48,3.48
+3,ldl,1,,3.48,3.48
+3,bph,1,,3.48,3.48
+3,caucasians,1,,3.48,3.48
+3,oncologist,1,,3.48,3.48
+3,child abuse,1,,3.48,3.48
+3,comprehensive cancer center,1,,3.48,3.48
+3,domestic violence,1,,3.48,3.48
+3,oncologists,1,,3.48,3.48
+3,children hospital,1,,3.48,3.48
+3,sexual assault,1,,3.48,3.48
+3,stem cell,1,,3.48,3.48
+3,asbestos exposure,1,,3.48,3.48
+3,preventable,1,,3.48,3.48
+3,nonsmokers,1,,3.48,3.48
+3,smokers,1,,3.48,3.48
+3,weight loss,1,,3.48,3.48
+3,healthy living,1,,3.48,3.48
+3,mental health,1,,3.48,3.48
+3,blood glucose levels,1,,3.48,3.48
+3,suicide prevention,1,,3.48,3.48
+3,lancet,1,,3.48,3.48
+3,jama,1,,3.48,3.48
+3,pediatrics,1,,3.48,3.48
+3,pah,1,,3.48,3.48
+3,nsaids,1,,3.48,3.48
+3,severe weather,1,,3.48,3.48
+3,e. coli outbreak,1,,3.48,3.48
+3,infecting,1,,3.48,3.48
+3,recession,1,,3.48,3.48
+3,dimes,1,,3.48,3.48
+3,easter seals,1,,3.48,3.48
+3,muscular dystrophy association,1,,3.48,3.48
+3,susan g. komen,1,,3.48,3.48
+3,kidney foundation,1,,3.48,3.48
+3,& lymphoma society,1,,3.48,3.48
+3,wish foundation,1,,3.48,3.48
+3,scholarship fund,1,,3.48,3.48
+3,relay,1,,3.48,3.48
+3,aacr,1,,3.48,3.48
+3,deaths,1,,3.48,3.48
+3,cases,1,,3.48,3.48
+3,weakened immune systems,1,,3.48,3.48
+3,attacks,1,,3.48,3.48
+3,incidents,1,,3.48,3.48
+3,rates,1,,3.48,3.48
+3,accidents,1,,3.48,3.48
+3,herpes,1,,3.48,3.48
+3,hepatitis c.,1,,3.48,3.48
+3,undiagnosed,1,,3.48,3.48
+3,cancer survivor,1,,3.48,3.48
+3,birth defects,1,,3.48,3.48
+3,kidneys,1,,3.48,3.48
+3,ckd,1,,3.48,3.48
+3,chronic illnesses,1,,3.48,3.48
+3,sickle cell,1,,3.48,3.48
+3,stage renal,1,,3.48,3.48
+3,bacterial,1,,3.48,3.48
+3,viral,1,,3.48,3.48
+3,hygiene,1,,3.48,3.48
+3,germ,1,,3.48,3.48
+3,unaids,1,,3.48,3.48
+3,mosquito nets,1,,3.48,3.48
+3,pepfar,1,,3.48,3.48
+3,hiv aids prevention,1,,3.48,3.48
+3,hiv prevention,1,,3.48,3.48
+3,anti retroviral drugs,1,,3.48,3.48
+3,melinda gates foundation,1,,3.48,3.48
+3,arvs,1,,3.48,3.48
+3,health organization who,1,,3.48,3.48
+3,mdgs,1,,3.48,3.48
+3,mdg,1,,3.48,3.48
+3,unfpa,1,,3.48,3.48
+3,millennium development goals,1,,3.48,3.48
+3,health organisation,1,,3.48,3.48
+3,& melinda gates,1,,3.48,3.48
+3,extreme poverty,1,,3.48,3.48
+3,health organization,1,,3.48,3.48
+3,dfid,1,,3.48,3.48
+3,diagnosed,1,,3.48,3.48
+3,clotting,1,,3.48,3.48
+3,beta blockers,1,,3.48,3.48
+3,bone fractures,1,,3.48,3.48
+3,metabolic diseases,1,,3.48,3.48
+3,sle,1,,3.48,3.48
+3,rls,1,,3.48,3.48
+3,chronic pain,1,,3.48,3.48
+3,sids,1,,3.48,3.48
+3,lung transplant,1,,3.48,3.48
+3,primary care,1,,3.48,3.48
+3,diagnostics,1,,3.48,3.48
+3,pharmacology,1,,3.48,3.48
+3,orthopedics,1,,3.48,3.48
+3,emergency medicine,1,,3.48,3.48
+3,endocrinology,1,,3.48,3.48
+3,md ph.d.,1,,3.48,3.48
+3,anesthesiology,1,,3.48,3.48
+3,md mph,1,,3.48,3.48
+3,drug eluting stents,1,,3.48,3.48
+3,md phd,1,,3.48,3.48
+3,patient safety,1,,3.48,3.48
+3,violence,1,,3.48,3.48
+3,unrest,1,,3.48,3.48
+3,dysentery,1,,3.48,3.48
+3,floods,1,,3.48,3.48
+3,arsenic,1,,3.48,3.48
+3,landslides,1,,3.48,3.48
+3,sanitation,1,,3.48,3.48
+3,corruption,1,,3.48,3.48
+3,latrines,1,,3.48,3.48
+3,mild cognitive impairment,1,,3.48,3.48
+3,bipolar disorder,1,,3.48,3.48
+3,cognitive function,1,,3.48,3.48
+3,neurological,1,,3.48,3.48
+3,depression,1,,3.48,3.48
+3,cognition,1,,3.48,3.48
+3,major depressive disorder,1,,3.48,3.48
+3,cognitive,1,,3.48,3.48
+3,obsessive compulsive disorder,1,,3.48,3.48
+3,dyslexia,1,,3.48,3.48
+3,eating disorder,1,,3.48,3.48
+3,narcolepsy,1,,3.48,3.48
+3,eee,1,,3.48,3.48
+3,cwd,1,,3.48,3.48
+3,mosquitos,1,,3.48,3.48
+3,emerald ash borer,1,,3.48,3.48
+3,zebra mussels,1,,3.48,3.48
+3,mad cow disease,1,,3.48,3.48
+3,chronic wasting,1,,3.48,3.48
+3,botulism,1,,3.48,3.48
+3,bed bugs,1,,3.48,3.48
+3,infestations,1,,3.48,3.48
+3,mad cow,1,,3.48,3.48
+3,brucellosis,1,,3.48,3.48
+3,bedbugs,1,,3.48,3.48
+3,skunks,1,,3.48,3.48
+3,infestation,1,,3.48,3.48
+3,bedbug,1,,3.48,3.48
+3,cyst,1,,3.48,3.48
+3,ovaries,1,,3.48,3.48
+3,gland,1,,3.48,3.48
+3,blood vessels,1,,3.48,3.48
+3,scar tissue,1,,3.48,3.48
+3,inflammation,1,,3.48,3.48
+3,vegf,1,,3.48,3.48
+3,clot,1,,3.48,3.48
+3,small intestine,1,,3.48,3.48
+3,uterus,1,,3.48,3.48
+3,intestine,1,,3.48,3.48
+3,aorta,1,,3.48,3.48
+3,radiation treatments,1,,3.48,3.48
+3,cd##,1,,3.48,3.48
+3,esophagus,1,,3.48,3.48
+3,antibodies,1,,3.48,3.48
+3,microrna,1,,3.48,3.48
+3,cartilage,1,,3.48,3.48
+3,antibody,1,,3.48,3.48
+3,tissue,1,,3.48,3.48
+3,sirna,1,,3.48,3.48
+3,angiogenesis,1,,3.48,3.48
+3,platelet,1,,3.48,3.48
+3,p##,1,,3.48,3.48
+3,antigen,1,,3.48,3.48
+3,spleen,1,,3.48,3.48
+3,bowel,1,,3.48,3.48
+3,surgically removed,1,,3.48,3.48
+3,waistlines,1,,3.48,3.48
+3,homelessness,1,,3.48,3.48
+3,morbidly obese,1,,3.48,3.48
+3,american dietetic association,1,,3.48,3.48
+3,overeating,1,,3.48,3.48
+3,maternal,1,,3.48,3.48
+3,prevention,1,,3.48,3.48
+3,bullying,1,,3.48,3.48
+3,population,1,,3.48,3.48
+3,index bmi,1,,3.48,3.48
+3,weight,1,,3.48,3.48
+3,tooth decay,1,,3.48,3.48
+3,preventive medicine,1,,3.48,3.48
+3,calorie intake,1,,3.48,3.48
+3,tobacco control,1,,3.48,3.48
+3,global warming,1,,3.48,3.48
+3,hpv vaccine,1,,3.48,3.48
+3,gardasil,1,,3.48,3.48
+3,cervix,1,,3.48,3.48
+3,sexually active,1,,3.48,3.48
+3,dvt,1,,3.48,3.48
+3,nhs,1,,3.48,3.48
+3,ivf,1,,3.48,3.48
+3,flu vaccine,1,,3.48,3.48
+3,flu vaccines,1,,3.48,3.48
+3,antiviral drugs,1,,3.48,3.48
+3,estrogen,1,,3.48,3.48
+3,cox 2,1,,3.48,3.48
+3,snps,1,,3.48,3.48
+3,pathologies,1,,3.48,3.48
+3,subtypes,1,,3.48,3.48
+3,trauma,1,,3.48,3.48
+3,surgery,1,,3.48,3.48
+3,neonatal,1,,3.48,3.48
+3,neurosurgery,1,,3.48,3.48
+3,icu,1,,3.48,3.48
+3,circulatory,1,,3.48,3.48
+3,ecg,1,,3.48,3.48
+3,minimally invasive,1,,3.48,3.48
+3,surgical procedure,1,,3.48,3.48
+3,stent,1,,3.48,3.48
+3,mgh,1,,3.48,3.48
+3,hospitals,1,,3.48,3.48
+3,dental,1,,3.48,3.48
+3,heart attack,1,,3.48,3.48
+3,surgeons,1,,3.48,3.48
+3,surgeon,1,,3.48,3.48
+3,treatment,1,,3.48,3.48
+3,stents,1,,3.48,3.48
+3,postoperative,1,,3.48,3.48
+3,insects,1,,3.48,3.48
+3,symptoms,1,,3.48,3.48
+3,###:###-###,1,,3.48,3.48
+3,##:###-###,1,,3.48,3.48
+3,treatments,1,,3.48,3.48
+3,neurological disorders,1,,3.48,3.48
+3,biology,1,,3.48,3.48
+3,crops,1,,3.48,3.48
+3,genomics,1,,3.48,3.48
+3,fungi,1,,3.48,3.48
+3,organisms,1,,3.48,3.48
+3,genetics,1,,3.48,3.48
+3,hazards,1,,3.48,3.48
+3,medications,1,,3.48,3.48
+3,immunology,1,,3.48,3.48
+3,drug discovery,1,,3.48,3.48
+3,mites,1,,3.48,3.48
+3,emergencies,1,,3.48,3.48
+3,genetic variation,1,,3.48,3.48
+3,humans,1,,3.48,3.48
+3,issues,1,,3.48,3.48
+3,species,1,,3.48,3.48
+3,disasters,1,,3.48,3.48
+3,pests,1,,3.48,3.48
+3,molecular biology,1,,3.48,3.48
+3,parasites,1,,3.48,3.48
+3,problems,1,,3.48,3.48
+3,hip replacement,1,,3.48,3.48
+3,pacemaker,1,,3.48,3.48
+3,shortness,1,,3.48,3.48
+3,migraines,1,,3.48,3.48
+3,blood thinning,1,,3.48,3.48
+3,bronchitis,1,,3.48,3.48
+3,ailment,1,,3.48,3.48
+3,breathing difficulties,1,,3.48,3.48
+3,sore throat,1,,3.48,3.48
+3,sinus infection,1,,3.48,3.48
+3,dehydration,1,,3.48,3.48
+3,jaundice,1,,3.48,3.48
+3,fevers,1,,3.48,3.48
+3,hospitalized,1,,3.48,3.48
+3,collapsed lung,1,,3.48,3.48
+3,hypothermia,1,,3.48,3.48
+3,ulcer,1,,3.48,3.48
+3,upper respiratory,1,,3.48,3.48
+3,ailments,1,,3.48,3.48
+3,intensive care,1,,3.48,3.48
+3,gravely ill,1,,3.48,3.48
+3,infant mortality,1,,3.48,3.48
+3,inoculations,1,,3.48,3.48

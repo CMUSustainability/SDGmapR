@@ -1,0 +1,2105 @@
+SDG,keyword,frequency,elsevier_word,max_weight,relevance_score
+5,sexuality,38,True,3.35,127.3
+5,racism,32,,2.93,93.76
+5,gender,30,True,16.62,498.6
+5,discrimination,30,,2.93,87.9
+5,women,29,True,12.87,373.22999999999996
+5,feminist,27,True,10.86,293.21999999999997
+5,sexual,25,True,5.17,129.25
+5,gays,24,,2.93,70.32000000000001
+5,sexism,23,True,11.73,269.79
+5,homophobia,22,,2.93,64.46000000000001
+5,misogyny,21,True,6.95,145.95000000000002
+5,equality,20,True,4.27,85.39999999999999
+5,racial,20,,2.93,58.6
+5,sex,19,True,3.48,66.12
+5,affirmative action,19,,2.93,55.67
+5,homosexuality,18,,2.93,52.74
+5,lesbian,18,,2.93,52.74
+5,anti semitism,18,,2.93,52.74
+5,feminism,17,True,6.39,108.63
+5,gay,17,,2.93,49.81
+5,bias,16,True,4.93,78.88
+5,sexist,16,True,3.0,48.0
+5,lesbians,16,,2.93,46.88
+5,transgender,16,,2.93,46.88
+5,racist,16,,2.93,46.88
+5,stereotyping,16,,2.93,46.88
+5,political correctness,16,,2.93,46.88
+5,bigotry,16,,2.93,46.88
+5,motherhood,15,,2.93,43.95
+5,womens,15,,2.93,43.95
+5,females,15,,2.93,43.95
+5,prejudice,15,,2.93,43.95
+5,gender bias,14,True,7.35,102.89999999999999
+5,girls,14,True,4.48,62.720000000000006
+5,marriage,14,True,3.34,46.76
+5,monogamy,14,,2.93,41.02
+5,queer,14,,2.93,41.02
+5,heterosexual,14,,2.93,41.02
+5,rape,14,,2.93,41.02
+5,female,13,True,7.93,103.09
+5,stereotypes,13,True,4.35,56.55
+5,gay marriage,13,,2.93,38.09
+5,liberalism,13,,2.93,38.09
+5,homophobic,13,,2.93,38.09
+5,gender equality,13,,2.93,38.09
+5,racial prejudice,13,,2.93,38.09
+5,racial bias,13,,2.93,38.09
+5,ignorance,13,,2.93,38.09
+5,bullying,12,,2.93,35.160000000000004
+5,feminists,12,,2.93,35.160000000000004
+5,prejudices,12,,2.93,35.160000000000004
+5,men,12,,2.93,35.160000000000004
+5,minorities,12,,2.93,35.160000000000004
+5,masculinity,11,True,4.08,44.88
+5,sexually,11,True,3.05,33.55
+5,masturbation,11,,2.93,32.230000000000004
+5,sexually active,11,,2.93,32.230000000000004
+5,homosexual,11,,2.93,32.230000000000004
+5,elitism,11,,2.93,32.230000000000004
+5,intolerance,11,,2.93,32.230000000000004
+5,diversity,10,True,3.31,33.1
+5,girl,10,True,3.18,31.8
+5,religion,10,,2.93,29.3
+5,bisexual,10,,2.93,29.3
+5,misogynistic,10,,2.93,29.3
+5,hateful,10,,2.93,29.3
+5,masculine,10,,2.93,29.3
+5,civil rights,10,,2.93,29.3
+5,male,10,,2.93,29.3
+5,sexes,10,,2.93,29.3
+5,males,10,,2.93,29.3
+5,snobbery,10,,2.93,29.3
+5,racial discrimination,10,,2.93,29.3
+5,islamophobia,10,,2.93,29.3
+5,negativity,10,,2.93,29.3
+5,bigots,10,,2.93,29.3
+5,hatred,10,,2.93,29.3
+5,patriarchal,10,,2.93,29.3
+5,woman,9,True,5.23,47.07000000000001
+5,boys,9,True,3.24,29.160000000000004
+5,morality,9,,2.93,26.37
+5,adolescent,9,,2.93,26.37
+5,adolescents,9,,2.93,26.37
+5,lgbt,9,,2.93,26.37
+5,prostitution,9,,2.93,26.37
+5,homosexuals,9,,2.93,26.37
+5,bigoted,9,,2.93,26.37
+5,femininity,9,,2.93,26.37
+5,heterosexuals,9,,2.93,26.37
+5,monogamous,9,,2.93,26.37
+5,anal sex,9,,2.93,26.37
+5,intercourse,9,,2.93,26.37
+5,sexual intercourse,9,,2.93,26.37
+5,oral sex,9,,2.93,26.37
+5,gender discrimination,9,,2.93,26.37
+5,condescension,9,,2.93,26.37
+5,cynicism,9,,2.93,26.37
+5,inequality,9,,2.93,26.37
+5,religious intolerance,9,,2.93,26.37
+5,ladies,9,,2.93,26.37
+5,teens,9,,2.93,26.37
+5,youths,9,,2.93,26.37
+5,teenagers,9,,2.93,26.37
+5,mothers,9,,2.93,26.37
+5,adult,9,,2.93,26.37
+5,inequalities,9,,2.93,26.37
+5,ethnicity,9,,2.93,26.37
+5,blacks,9,,2.93,26.37
+5,abortion,8,True,3.55,28.4
+5,biases,8,True,2.93,23.44
+5,spirituality,8,,2.93,23.44
+5,stds,8,,2.93,23.44
+5,gender identity,8,,2.93,23.44
+5,premarital sex,8,,2.93,23.44
+5,sexual orientation,8,,2.93,23.44
+5,slurs,8,,2.93,23.44
+5,racists,8,,2.93,23.44
+5,sexual assault,8,,2.93,23.44
+5,unprotected sex,8,,2.93,23.44
+5,sexual encounters,8,,2.93,23.44
+5,promiscuity,8,,2.93,23.44
+5,injustice,8,,2.93,23.44
+5,negative stereotypes,8,,2.93,23.44
+5,harassment,8,,2.93,23.44
+5,animus,8,,2.93,23.44
+5,male counterparts,8,,2.93,23.44
+5,husbands,8,,2.93,23.44
+5,violence,7,True,3.31,23.17
+5,stereotype,7,True,2.95,20.650000000000002
+5,slavery,7,,2.93,20.51
+5,nudity,7,,2.93,20.51
+5,sexually transmitted diseases,7,,2.93,20.51
+5,politically correct,7,,2.93,20.51
+5,sexy,7,,2.93,20.51
+5,human rights,7,,2.93,20.51
+5,transgendered,7,,2.93,20.51
+5,promiscuous,7,,2.93,20.51
+5,consensual sex,7,,2.93,20.51
+5,homosexual acts,7,,2.93,20.51
+5,anti americanism,7,,2.93,20.51
+5,teen,7,,2.93,20.51
+5,erotic,7,,2.93,20.51
+5,racial profiling,7,,2.93,20.51
+5,segregation,7,,2.93,20.51
+5,self loathing,7,,2.93,20.51
+5,xenophobia,7,,2.93,20.51
+5,injustices,7,,2.93,20.51
+5,condom,6,True,6.62,39.72
+5,empowerment,6,True,5.03,30.18
+5,erotica,6,,2.93,17.580000000000002
+5,pregnancy,6,,2.93,17.580000000000002
+5,condoms,6,,2.93,17.580000000000002
+5,abstinence,6,,2.93,17.580000000000002
+5,religious,6,,2.93,17.580000000000002
+5,tolerance,6,,2.93,17.580000000000002
+5,vulgar,6,,2.93,17.580000000000002
+5,discriminatory,6,,2.93,17.580000000000002
+5,slut,6,,2.93,17.580000000000002
+5,narrow minded,6,,2.93,17.580000000000002
+5,anti semitic,6,,2.93,17.580000000000002
+5,sexually transmitted disease,6,,2.93,17.580000000000002
+5,couples,6,,2.93,17.580000000000002
+5,procreation,6,,2.93,17.580000000000002
+5,stis,6,,2.93,17.580000000000002
+5,hypocrisy,6,,2.93,17.580000000000002
+5,sexual harassment,6,,2.93,17.580000000000002
+5,hate speech,6,,2.93,17.580000000000002
+5,tribalism,6,,2.93,17.580000000000002
+5,machismo,6,,2.93,17.580000000000002
+5,hostility,6,,2.93,17.580000000000002
+5,inferiority,6,,2.93,17.580000000000002
+5,victimization,6,,2.93,17.580000000000002
+5,youth,6,,2.93,17.580000000000002
+5,moms,6,,2.93,17.580000000000002
+5,babies,6,,2.93,17.580000000000002
+5,sexual abuse,6,,2.93,17.580000000000002
+5,sexual misconduct,6,,2.93,17.580000000000002
+5,materialism,6,,2.93,17.580000000000002
+5,womanhood,6,,2.93,17.580000000000002
+5,multiculturalism,6,,2.93,17.580000000000002
+5,marry,6,,2.93,17.580000000000002
+5,spouses,6,,2.93,17.580000000000002
+5,chastity,6,,2.93,17.580000000000002
+5,bestiality,6,,2.93,17.580000000000002
+5,lovemaking,6,,2.93,17.580000000000002
+5,sexually explicit,6,,2.93,17.580000000000002
+5,genital,5,True,3.63,18.15
+5,biased,5,True,3.25,16.25
+5,contraception,5,,2.93,14.65
+5,globalization,5,,2.93,14.65
+5,romance,5,,2.93,14.65
+5,multicultural,5,,2.93,14.65
+5,demeaning,5,,2.93,14.65
+5,stereotypical,5,,2.93,14.65
+5,macho,5,,2.93,14.65
+5,lewd,5,,2.93,14.65
+5,abusive,5,,2.93,14.65
+5,progressives,5,,2.93,14.65
+5,heterosexual couples,5,,2.93,14.65
+5,unmarried,5,,2.93,14.65
+5,circumcised,5,,2.93,14.65
+5,gay lesbian,5,,2.93,14.65
+5,consensual,5,,2.93,14.65
+5,interracial,5,,2.93,14.65
+5,sex marriage,5,,2.93,14.65
+5,glbt,5,,2.93,14.65
+5,herpes,5,,2.93,14.65
+5,consenting adults,5,,2.93,14.65
+5,meanness,5,,2.93,14.65
+5,unfairness,5,,2.93,14.65
+5,narcissism,5,,2.93,14.65
+5,immorality,5,,2.93,14.65
+5,ugliness,5,,2.93,14.65
+5,judicial activism,5,,2.93,14.65
+5,sectarianism,5,,2.93,14.65
+5,kids,5,,2.93,14.65
+5,mens,5,,2.93,14.65
+5,wives,5,,2.93,14.65
+5,youngsters,5,,2.93,14.65
+5,athletes,5,,2.93,14.65
+5,abuse,5,,2.93,14.65
+5,incest,5,,2.93,14.65
+5,pedophilia,5,,2.93,14.65
+5,domestic violence,5,,2.93,14.65
+5,maternal,5,,2.93,14.65
+5,child,5,,2.93,14.65
+5,poverty,5,,2.93,14.65
+5,hate crimes,5,,2.93,14.65
+5,oppression,5,,2.93,14.65
+5,disparities,5,,2.93,14.65
+5,fundamentalism,5,,2.93,14.65
+5,atheism,5,,2.93,14.65
+5,societal,5,,2.93,14.65
+5,fascism,5,,2.93,14.65
+5,hiv aids,5,,2.93,14.65
+5,title ix,5,,2.93,14.65
+5,porn,5,,2.93,14.65
+5,pregnant,5,,2.93,14.65
+5,kissing,5,,2.93,14.65
+5,racial equality,5,,2.93,14.65
+5,fathers,5,,2.93,14.65
+5,racial hatred,5,,2.93,14.65
+5,inequities,5,,2.93,14.65
+5,adults,5,,2.93,14.65
+5,masturbate,5,,2.93,14.65
+5,genitals,5,,2.93,14.65
+5,sodomy,5,,2.93,14.65
+5,genitalia,5,,2.93,14.65
+5,masturbating,5,,2.93,14.65
+5,virginity,5,,2.93,14.65
+5,kinky,5,,2.93,14.65
+5,circumcision,4,True,3.43,13.72
+5,marriages,4,True,3.04,12.16
+5,chlamydia,4,True,2.96,11.84
+5,menopause,4,,2.93,11.72
+5,transsexuals,4,,2.93,11.72
+5,breastfeeding,4,,2.93,11.72
+5,condescending,4,,2.93,11.72
+5,crass,4,,2.93,11.72
+5,patronizing,4,,2.93,11.72
+5,stereotyped,4,,2.93,11.72
+5,judgmental,4,,2.93,11.72
+5,leftist,4,,2.93,11.72
+5,religious right,4,,2.93,11.72
+5,sisterhood,4,,2.93,11.72
+5,transsexual,4,,2.93,11.72
+5,leftists,4,,2.93,11.72
+5,sex couples,4,,2.93,11.72
+5,gay couples,4,,2.93,11.72
+5,openly gay,4,,2.93,11.72
+5,hiv infection,4,,2.93,11.72
+5,celibate,4,,2.93,11.72
+5,same sex,4,,2.93,11.72
+5,happily married,4,,2.93,11.72
+5,sexually transmitted infections,4,,2.93,11.72
+5,childless,4,,2.93,11.72
+5,married,4,,2.93,11.72
+5,cohabitation,4,,2.93,11.72
+5,wedlock,4,,2.93,11.72
+5,rudeness,4,,2.93,11.72
+5,nastiness,4,,2.93,11.72
+5,vulgarity,4,,2.93,11.72
+5,idiocy,4,,2.93,11.72
+5,glass ceiling,4,,2.93,11.72
+5,racial segregation,4,,2.93,11.72
+5,mccarthyism,4,,2.93,11.72
+5,inequity,4,,2.93,11.72
+5,insensitivity,4,,2.93,11.72
+5,boy,4,,2.93,11.72
+5,children,4,,2.93,11.72
+5,chicks,4,,2.93,11.72
+5,dads,4,,2.93,11.72
+5,teenage,4,,2.93,11.72
+5,mums,4,,2.93,11.72
+5,lust,4,,2.93,11.72
+5,discriminated,4,,2.93,11.72
+5,discriminate,4,,2.93,11.72
+5,homelessness,4,,2.93,11.72
+5,disability,4,,2.93,11.72
+5,genocide,4,,2.93,11.72
+5,radicalism,4,,2.93,11.72
+5,criminality,4,,2.93,11.72
+5,sexiness,4,,2.93,11.72
+5,taboos,4,,2.93,11.72
+5,conservatism,4,,2.93,11.72
+5,sensibility,4,,2.93,11.72
+5,postmodern,4,,2.93,11.72
+5,emancipation,4,,2.93,11.72
+5,individualism,4,,2.93,11.72
+5,socialism,4,,2.93,11.72
+5,civil rights movement,4,,2.93,11.72
+5,ideologies,4,,2.93,11.72
+5,worldview,4,,2.93,11.72
+5,perception,4,,2.93,11.72
+5,generalizations,4,,2.93,11.72
+5,misperceptions,4,,2.93,11.72
+5,preconceived notions,4,,2.93,11.72
+5,preconceptions,4,,2.93,11.72
+5,inferiority complex,4,,2.93,11.72
+5,stigma,4,,2.93,11.72
+5,divorce,4,,2.93,11.72
+5,marriage equality,4,,2.93,11.72
+5,lesbian gay bisexual,4,,2.93,11.72
+5,brides,4,,2.93,11.72
+5,apartheid,4,,2.93,11.72
+5,man,4,,2.93,11.72
+5,insecurities,4,,2.93,11.72
+5,sexually harassed,4,,2.93,11.72
+5,civilians,4,,2.93,11.72
+5,orgasms,4,,2.93,11.72
+5,orgasm,4,,2.93,11.72
+5,fondling,4,,2.93,11.72
+5,raped,4,,2.93,11.72
+5,sexually assault,4,,2.93,11.72
+5,sexual assaults,4,,2.93,11.72
+5,horny,4,,2.93,11.72
+5,sexually assaulted,4,,2.93,11.72
+5,pornography,4,,2.93,11.72
+5,manly,4,,2.93,11.72
+5,androgynous,4,,2.93,11.72
+5,intimacy,4,,2.93,11.72
+5,libido,4,,2.93,11.72
+5,chivalry,4,,2.93,11.72
+5,sensual,4,,2.93,11.72
+5,whites,4,,2.93,11.72
+5,sexual molestation,4,,2.93,11.72
+5,marginalization,3,True,6.54,19.62
+5,representation,3,True,4.11,12.330000000000002
+5,fertility,3,True,3.82,11.459999999999999
+5,victims,3,True,3.39,10.17
+5,fgm,3,True,3.14,9.42
+5,psychology,3,,2.93,8.790000000000001
+5,theology,3,,2.93,8.790000000000001
+5,sociology,3,,2.93,8.790000000000001
+5,spiritual,3,,2.93,8.790000000000001
+5,politics,3,,2.93,8.790000000000001
+5,relationships,3,,2.93,8.790000000000001
+5,religions,3,,2.93,8.790000000000001
+5,psychological,3,,2.93,8.790000000000001
+5,intellectual,3,,2.93,8.790000000000001
+5,behaviour,3,,2.93,8.790000000000001
+5,pop culture,3,,2.93,8.790000000000001
+5,politically incorrect,3,,2.93,8.790000000000001
+5,mean spirited,3,,2.93,8.790000000000001
+5,bitchy,3,,2.93,8.790000000000001
+5,denigrating,3,,2.93,8.790000000000001
+5,raunchy,3,,2.93,8.790000000000001
+5,elitist,3,,2.93,8.790000000000001
+5,bigot,3,,2.93,8.790000000000001
+5,gratuitous,3,,2.93,8.790000000000001
+5,indecent,3,,2.93,8.790000000000001
+5,suggestive,3,,2.93,8.790000000000001
+5,ann coulter,3,,2.93,8.790000000000001
+5,women history month,3,,2.93,8.790000000000001
+5,equal rights,3,,2.93,8.790000000000001
+5,human,3,,2.93,8.790000000000001
+5,married couples,3,,2.93,8.790000000000001
+5,gonorrhea,3,,2.93,8.790000000000001
+5,lesbian couples,3,,2.93,8.790000000000001
+5,hiv,3,,2.93,8.790000000000001
+5,civil unions,3,,2.93,8.790000000000001
+5,sex marriages,3,,2.93,8.790000000000001
+5,chaste,3,,2.93,8.790000000000001
+5,genders,3,,2.93,8.790000000000001
+5,marital,3,,2.93,8.790000000000001
+5,gay marriages,3,,2.93,8.790000000000001
+5,matrimony,3,,2.93,8.790000000000001
+5,unfaithful,3,,2.93,8.790000000000001
+5,closeted,3,,2.93,8.790000000000001
+5,syphilis,3,,2.93,8.790000000000001
+5,normative,3,,2.93,8.790000000000001
+5,boyfriends,3,,2.93,8.790000000000001
+5,nepotism,3,,2.93,8.790000000000001
+5,divisiveness,3,,2.93,8.790000000000001
+5,babes,3,,2.93,8.790000000000001
+5,teenage girls,3,,2.93,8.790000000000001
+5,co ed,3,,2.93,8.790000000000001
+5,gals,3,,2.93,8.790000000000001
+5,varsity,3,,2.93,8.790000000000001
+5,voyeurism,3,,2.93,8.790000000000001
+5,torture,3,,2.93,8.790000000000001
+5,hiv prevention,3,,2.93,8.790000000000001
+5,corruption,3,,2.93,8.790000000000001
+5,discriminated against,3,,2.93,8.790000000000001
+5,discriminates,3,,2.93,8.790000000000001
+5,discriminating,3,,2.93,8.790000000000001
+5,equal employment opportunity,3,,2.93,8.790000000000001
+5,censorship,3,,2.93,8.790000000000001
+5,religious minorities,3,,2.93,8.790000000000001
+5,unequal,3,,2.93,8.790000000000001
+5,eeoc,3,,2.93,8.790000000000001
+5,ethnic minorities,3,,2.93,8.790000000000001
+5,title vii,3,,2.93,8.790000000000001
+5,decadence,3,,2.93,8.790000000000001
+5,inhumanity,3,,2.93,8.790000000000001
+5,irreverence,3,,2.93,8.790000000000001
+5,fanaticism,3,,2.93,8.790000000000001
+5,demonization,3,,2.93,8.790000000000001
+5,iconography,3,,2.93,8.790000000000001
+5,modernism,3,,2.93,8.790000000000001
+5,feminine,3,,2.93,8.790000000000001
+5,modernity,3,,2.93,8.790000000000001
+5,secularism,3,,2.93,8.790000000000001
+5,humanism,3,,2.93,8.790000000000001
+5,liberals,3,,2.93,8.790000000000001
+5,mores,3,,2.93,8.790000000000001
+5,bourgeois,3,,2.93,8.790000000000001
+5,civil society,3,,2.93,8.790000000000001
+5,ethnic,3,,2.93,8.790000000000001
+5,generalization,3,,2.93,8.790000000000001
+5,clichés,3,,2.93,8.790000000000001
+5,prejudiced,3,,2.93,8.790000000000001
+5,naked,3,,2.93,8.790000000000001
+5,prop 8,3,,2.93,8.790000000000001
+5,advocacy,3,,2.93,8.790000000000001
+5,gay lesbian bisexual,3,,2.93,8.790000000000001
+5,proposition 8,3,,2.93,8.790000000000001
+5,latinas,3,,2.93,8.790000000000001
+5,people,3,,2.93,8.790000000000001
+5,prisoners,3,,2.93,8.790000000000001
+5,students,3,,2.93,8.790000000000001
+5,infants,3,,2.93,8.790000000000001
+5,pregnant women,3,,2.93,8.790000000000001
+5,racial tension,3,,2.93,8.790000000000001
+5,hate,3,,2.93,8.790000000000001
+5,gents,3,,2.93,8.790000000000001
+5,notions,3,,2.93,8.790000000000001
+5,misconceptions,3,,2.93,8.790000000000001
+5,perceptions,3,,2.93,8.790000000000001
+5,mindsets,3,,2.93,8.790000000000001
+5,archetypes,3,,2.93,8.790000000000001
+5,attitudes,3,,2.93,8.790000000000001
+5,misunderstandings,3,,2.93,8.790000000000001
+5,beliefs,3,,2.93,8.790000000000001
+5,truths,3,,2.93,8.790000000000001
+5,feelings,3,,2.93,8.790000000000001
+5,resentments,3,,2.93,8.790000000000001
+5,ideology,3,,2.93,8.790000000000001
+5,antagonism,3,,2.93,8.790000000000001
+5,meritocracy,3,,2.93,8.790000000000001
+5,sexual dysfunction,3,,2.93,8.790000000000001
+5,religious extremism,3,,2.93,8.790000000000001
+5,older,3,,2.93,8.790000000000001
+5,individuals,3,,2.93,8.790000000000001
+5,obese,3,,2.93,8.790000000000001
+5,mature,3,,2.93,8.790000000000001
+5,younger,3,,2.93,8.790000000000001
+5,smokers,3,,2.93,8.790000000000001
+5,gamers,3,,2.93,8.790000000000001
+5,mating,3,,2.93,8.790000000000001
+5,caucasians,3,,2.93,8.790000000000001
+5,racially,3,,2.93,8.790000000000001
+5,anal,3,,2.93,8.790000000000001
+5,penises,3,,2.93,8.790000000000001
+5,penis,3,,2.93,8.790000000000001
+5,vagina,3,,2.93,8.790000000000001
+5,vaginal,3,,2.93,8.790000000000001
+5,anus,3,,2.93,8.790000000000001
+5,underage girls,3,,2.93,8.790000000000001
+5,undressed,3,,2.93,8.790000000000001
+5,individuality,3,,2.93,8.790000000000001
+5,sensuality,3,,2.93,8.790000000000001
+5,girly,3,,2.93,8.790000000000001
+5,arousal,3,,2.93,8.790000000000001
+5,statutory rape,3,,2.93,8.790000000000001
+5,fondled,3,,2.93,8.790000000000001
+5,molested,3,,2.93,8.790000000000001
+5,molestation,3,,2.93,8.790000000000001
+5,childbearing,3,,2.93,8.790000000000001
+5,polygamy,3,,2.93,8.790000000000001
+5,flirtatious,3,,2.93,8.790000000000001
+5,sexual exploitation,3,,2.93,8.790000000000001
+5,marginalized,2,True,9.28,18.56
+5,stalking,2,True,3.85,7.7
+5,board,2,True,3.57,7.14
+5,directors,2,True,3.14,6.28
+5,candidates,2,True,3.0,6.0
+5,entrepreneurs,2,True,2.95,5.9
+5,addiction,2,,2.93,5.86
+5,philosophy,2,,2.93,5.86
+5,parenting,2,,2.93,5.86
+5,intimate,2,,2.93,5.86
+5,language,2,,2.93,5.86
+5,attitude,2,,2.93,5.86
+5,bioethics,2,,2.93,5.86
+5,context,2,,2.93,5.86
+5,vagina monologues,2,,2.93,5.86
+5,derogatory,2,,2.93,5.86
+5,insensitive,2,,2.93,5.86
+5,risqué,2,,2.93,5.86
+5,inappropriate,2,,2.93,5.86
+5,hurtful,2,,2.93,5.86
+5,trashy,2,,2.93,5.86
+5,catty,2,,2.93,5.86
+5,pejorative,2,,2.93,5.86
+5,slur,2,,2.93,5.86
+5,repulsive,2,,2.93,5.86
+5,ignorant,2,,2.93,5.86
+5,belittling,2,,2.93,5.86
+5,racially charged,2,,2.93,5.86
+5,dissent,2,,2.93,5.86
+5,free speech,2,,2.93,5.86
+5,secular,2,,2.93,5.86
+5,bitch,2,,2.93,5.86
+5,leftwing,2,,2.93,5.86
+5,sixties,2,,2.93,5.86
+5,mother,2,,2.93,5.86
+5,unmarried couples,2,,2.93,5.86
+5,hiv infected,2,,2.93,5.86
+5,cronyism,2,,2.93,5.86
+5,dumbing down,2,,2.93,5.86
+5,sleaze,2,,2.93,5.86
+5,pettiness,2,,2.93,5.86
+5,innuendo,2,,2.93,5.86
+5,subtext,2,,2.93,5.86
+5,partisanship,2,,2.93,5.86
+5,dishonesty,2,,2.93,5.86
+5,girls basketball,2,,2.93,5.86
+5,divas,2,,2.93,5.86
+5,volleyball,2,,2.93,5.86
+5,middle schoolers,2,,2.93,5.86
+5,clubs,2,,2.93,5.86
+5,rockers,2,,2.93,5.86
+5,juniors,2,,2.93,5.86
+5,coed,2,,2.93,5.86
+5,daughters,2,,2.93,5.86
+5,boyz,2,,2.93,5.86
+5,netball,2,,2.93,5.86
+5,scouts,2,,2.93,5.86
+5,secondary schools,2,,2.93,5.86
+5,swim,2,,2.93,5.86
+5,pony,2,,2.93,5.86
+5,brownies,2,,2.93,5.86
+5,junior,2,,2.93,5.86
+5,parents,2,,2.93,5.86
+5,singles,2,,2.93,5.86
+5,midget,2,,2.93,5.86
+5,schoolboys,2,,2.93,5.86
+5,swimmers,2,,2.93,5.86
+5,kidz,2,,2.93,5.86
+5,wrestlers,2,,2.93,5.86
+5,stars,2,,2.93,5.86
+5,youth soccer,2,,2.93,5.86
+5,cheer,2,,2.93,5.86
+5,child abuse,2,,2.93,5.86
+5,domestic,2,,2.93,5.86
+5,reproductive,2,,2.93,5.86
+5,genetic,2,,2.93,5.86
+5,moral,2,,2.93,5.86
+5,unwanted pregnancies,2,,2.93,5.86
+5,violence against,2,,2.93,5.86
+5,terrorism,2,,2.93,5.86
+5,cheating,2,,2.93,5.86
+5,neglect,2,,2.93,5.86
+5,protest,2,,2.93,5.86
+5,fraud,2,,2.93,5.86
+5,human trafficking,2,,2.93,5.86
+5,criticism,2,,2.93,5.86
+5,brutality,2,,2.93,5.86
+5,self indulgence,2,,2.93,5.86
+5,vitriol,2,,2.93,5.86
+5,militarism,2,,2.93,5.86
+5,absurdity,2,,2.93,5.86
+5,stupidity,2,,2.93,5.86
+5,ambivalence,2,,2.93,5.86
+5,barbarism,2,,2.93,5.86
+5,subjugation,2,,2.93,5.86
+5,environmentalism,2,,2.93,5.86
+5,colonialism,2,,2.93,5.86
+5,child rearing,2,,2.93,5.86
+5,zionism,2,,2.93,5.86
+5,eugenics,2,,2.93,5.86
+5,reactionary,2,,2.93,5.86
+5,nationalism,2,,2.93,5.86
+5,neo,2,,2.93,5.86
+5,liberation,2,,2.93,5.86
+5,demographic,2,,2.93,5.86
+5,population,2,,2.93,5.86
+5,fairness,2,,2.93,5.86
+5,socio cultural,2,,2.93,5.86
+5,socio economic,2,,2.93,5.86
+5,governance,2,,2.93,5.86
+5,unfpa,2,,2.93,5.86
+5,equal,2,,2.93,5.86
+5,workplace,2,,2.93,5.86
+5,inclusion,2,,2.93,5.86
+5,scapegoating,2,,2.93,5.86
+5,racial slurs,2,,2.93,5.86
+5,ethnicities,2,,2.93,5.86
+5,misperception,2,,2.93,5.86
+5,caricature,2,,2.93,5.86
+5,portrayals,2,,2.93,5.86
+5,fear mongering,2,,2.93,5.86
+5,boyfriend,2,,2.93,5.86
+5,girlfriend,2,,2.93,5.86
+5,porno,2,,2.93,5.86
+5,l word,2,,2.93,5.86
+5,titillating,2,,2.93,5.86
+5,romantic comedies,2,,2.93,5.86
+5,lover,2,,2.93,5.86
+5,glamour,2,,2.93,5.86
+5,nude,2,,2.93,5.86
+5,lingerie,2,,2.93,5.86
+5,dignity,2,,2.93,5.86
+5,immigrant,2,,2.93,5.86
+5,freedom,2,,2.93,5.86
+5,prop. 8,2,,2.93,5.86
+5,education,2,,2.93,5.86
+5,constitutional,2,,2.93,5.86
+5,democracy,2,,2.93,5.86
+5,glaad,2,,2.93,5.86
+5,higher education,2,,2.93,5.86
+5,widows,2,,2.93,5.86
+5,families,2,,2.93,5.86
+5,journalists,2,,2.93,5.86
+5,golfers,2,,2.93,5.86
+5,seniors,2,,2.93,5.86
+5,migrants,2,,2.93,5.86
+5,immigrants,2,,2.93,5.86
+5,elderly,2,,2.93,5.86
+5,patriotism,2,,2.93,5.86
+5,racial tensions,2,,2.93,5.86
+5,outrage,2,,2.93,5.86
+5,rhetoric,2,,2.93,5.86
+5,racial divide,2,,2.93,5.86
+5,racially motivated,2,,2.93,5.86
+5,outsiders,2,,2.93,5.86
+5,strikers,2,,2.93,5.86
+5,shooters,2,,2.93,5.86
+5,myths,2,,2.93,5.86
+5,superstitions,2,,2.93,5.86
+5,conceptions,2,,2.93,5.86
+5,traditions,2,,2.93,5.86
+5,fantasies,2,,2.93,5.86
+5,dogma,2,,2.93,5.86
+5,sensibilities,2,,2.93,5.86
+5,archetype,2,,2.93,5.86
+5,inclinations,2,,2.93,5.86
+5,mistrust,2,,2.93,5.86
+5,political leanings,2,,2.93,5.86
+5,tendencies,2,,2.93,5.86
+5,leanings,2,,2.93,5.86
+5,idiosyncrasies,2,,2.93,5.86
+5,deep seated,2,,2.93,5.86
+5,pretensions,2,,2.93,5.86
+5,selfishness,2,,2.93,5.86
+5,obsessions,2,,2.93,5.86
+5,unconsciously,2,,2.93,5.86
+5,distrust,2,,2.93,5.86
+5,ideological differences,2,,2.93,5.86
+5,favoritism,2,,2.93,5.86
+5,disparity,2,,2.93,5.86
+5,impropriety,2,,2.93,5.86
+5,misconduct,2,,2.93,5.86
+5,wrongdoing,2,,2.93,5.86
+5,improprieties,2,,2.93,5.86
+5,caste,2,,2.93,5.86
+5,malpractice,2,,2.93,5.86
+5,prosecutorial misconduct,2,,2.93,5.86
+5,malfeasance,2,,2.93,5.86
+5,discrepancies,2,,2.93,5.86
+5,extremism,2,,2.93,5.86
+5,apathy,2,,2.93,5.86
+5,islamic extremism,2,,2.93,5.86
+5,inclusiveness,2,,2.93,5.86
+5,pluralism,2,,2.93,5.86
+5,religious tolerance,2,,2.93,5.86
+5,universality,2,,2.93,5.86
+5,nationhood,2,,2.93,5.86
+5,humans,2,,2.93,5.86
+5,hunters,2,,2.93,5.86
+5,rabbits,2,,2.93,5.86
+5,households,2,,2.93,5.86
+5,mice,2,,2.93,5.86
+5,human beings,2,,2.93,5.86
+5,baby boomers,2,,2.93,5.86
+5,offspring,2,,2.93,5.86
+5,millennials,2,,2.93,5.86
+5,foreigners,2,,2.93,5.86
+5,offenders,2,,2.93,5.86
+5,toddlers,2,,2.93,5.86
+5,cows,2,,2.93,5.86
+5,mosquitoes,2,,2.93,5.86
+5,mammals,2,,2.93,5.86
+5,advertisers,2,,2.93,5.86
+5,marketers,2,,2.93,5.86
+5,audiences,2,,2.93,5.86
+5,patients,2,,2.93,5.86
+5,borrowers,2,,2.93,5.86
+5,squirrels,2,,2.93,5.86
+5,siblings,2,,2.93,5.86
+5,generation y,2,,2.93,5.86
+5,prospective,2,,2.93,5.86
+5,fewer,2,,2.93,5.86
+5,desegregation,2,,2.93,5.86
+5,jim crow,2,,2.93,5.86
+5,multiracial,2,,2.93,5.86
+5,naacp,2,,2.93,5.86
+5,obcs,2,,2.93,5.86
+5,liberal,2,,2.93,5.86
+5,guilt,2,,2.93,5.86
+5,rapes,2,,2.93,5.86
+5,pussy,2,,2.93,5.86
+5,vibrator,2,,2.93,5.86
+5,castration,2,,2.93,5.86
+5,buttocks,2,,2.93,5.86
+5,intravenous drug,2,,2.93,5.86
+5,sodomized,2,,2.93,5.86
+5,sexting,2,,2.93,5.86
+5,raping,2,,2.93,5.86
+5,fetish,2,,2.93,5.86
+5,intelligentsia,2,,2.93,5.86
+5,elitists,2,,2.93,5.86
+5,evangelicals,2,,2.93,5.86
+5,atheists,2,,2.93,5.86
+5,fundamentalist,2,,2.93,5.86
+5,pair,2,,2.93,5.86
+5,stabbing,2,,2.93,5.86
+5,teenage girl,2,,2.93,5.86
+5,bride,2,,2.93,5.86
+5,accused,2,,2.93,5.86
+5,alleged,2,,2.93,5.86
+5,slaying,2,,2.93,5.86
+5,breaking news,2,,2.93,5.86
+5,drunken,2,,2.93,5.86
+5,ex,2,,2.93,5.86
+5,suspected,2,,2.93,5.86
+5,attacked,2,,2.93,5.86
+5,slain,2,,2.93,5.86
+5,manhood,2,,2.93,5.86
+5,fatherhood,2,,2.93,5.86
+5,religiosity,2,,2.93,5.86
+5,ness,2,,2.93,5.86
+5,physicality,2,,2.93,5.86
+5,morals,2,,2.93,5.86
+5,tenderness,2,,2.93,5.86
+5,blackness,2,,2.93,5.86
+5,subconscious,2,,2.93,5.86
+5,pathos,2,,2.93,5.86
+5,duality,2,,2.93,5.86
+5,surrealism,2,,2.93,5.86
+5,playfulness,2,,2.93,5.86
+5,elegance,2,,2.93,5.86
+5,sensuous,2,,2.93,5.86
+5,modesty,2,,2.93,5.86
+5,romanticism,2,,2.93,5.86
+5,voluptuous,2,,2.93,5.86
+5,couture,2,,2.93,5.86
+5,corsets,2,,2.93,5.86
+5,curvaceous,2,,2.93,5.86
+5,sass,2,,2.93,5.86
+5,glam,2,,2.93,5.86
+5,whimsy,2,,2.93,5.86
+5,timeless,2,,2.93,5.86
+5,sassy,2,,2.93,5.86
+5,demure,2,,2.93,5.86
+5,seductive,2,,2.93,5.86
+5,heroines,2,,2.93,5.86
+5,aesthetic,2,,2.93,5.86
+5,shapely,2,,2.93,5.86
+5,silhouettes,2,,2.93,5.86
+5,quirkiness,2,,2.93,5.86
+5,chic,2,,2.93,5.86
+5,haute couture,2,,2.93,5.86
+5,curvy,2,,2.93,5.86
+5,motherly,2,,2.93,5.86
+5,femme fatale,2,,2.93,5.86
+5,tomboy,2,,2.93,5.86
+5,flirty,2,,2.93,5.86
+5,nobility,2,,2.93,5.86
+5,kitsch,2,,2.93,5.86
+5,breasts,2,,2.93,5.86
+5,menstruation,2,,2.93,5.86
+5,pregnancies,2,,2.93,5.86
+5,contraceptive,2,,2.93,5.86
+5,undress,2,,2.93,5.86
+5,seduction,2,,2.93,5.86
+5,negroes,2,,2.93,5.86
+5,arrogance,2,,2.93,5.86
+5,lunacy,2,,2.93,5.86
+5,minority,2,,2.93,5.86
+5,hispanics,2,,2.93,5.86
+5,asians,2,,2.93,5.86
+5,muslims,2,,2.93,5.86
+5,hispanic whites,2,,2.93,5.86
+5,fighters,2,,2.93,5.86
+5,celibacy,2,,2.93,5.86
+5,adultery,2,,2.93,5.86
+5,marrying,2,,2.93,5.86
+5,romantic,2,,2.93,5.86
+5,romances,2,,2.93,5.86
+5,remarry,2,,2.93,5.86
+5,arranged marriages,2,,2.93,5.86
+5,romantically,2,,2.93,5.86
+5,sexually abused,2,,2.93,5.86
+5,inappropriately,2,,2.93,5.86
+5,molest,2,,2.93,5.86
+5,pornographic,2,,2.93,5.86
+5,sexually abusing,2,,2.93,5.86
+5,pornographic images,2,,2.93,5.86
+5,submissive,2,,2.93,5.86
+5,sexually molested,2,,2.93,5.86
+5,pedophile,2,,2.93,5.86
+5,molesting,2,,2.93,5.86
+5,groped,2,,2.93,5.86
+5,sexually assaulting,2,,2.93,5.86
+5,groping,2,,2.93,5.86
+5,lewdness,2,,2.93,5.86
+5,indecent exposure,2,,2.93,5.86
+5,weddings,2,,2.93,5.86
+5,wedding,2,,2.93,5.86
+5,newlyweds,2,,2.93,5.86
+5,polygamous,2,,2.93,5.86
+5,outkast,2,,2.93,5.86
+5,bicentennial,2,,2.93,5.86
+5,chief executive,2,,2.93,5.86
+5,ceo,2,,2.93,5.86
+5,chairperson,2,,2.93,5.86
+5,chair,2,,2.93,5.86
+5,managing director,2,,2.93,5.86
+5,president,2,,2.93,5.86
+5,chairmen,2,,2.93,5.86
+5,director,2,,2.93,5.86
+5,chairwoman,2,,2.93,5.86
+5,founder,2,,2.93,5.86
+5,vice president,2,,2.93,5.86
+5,chief,2,,2.93,5.86
+5,executive,2,,2.93,5.86
+5,member,2,,2.93,5.86
+5,chairmanship,2,,2.93,5.86
+5,co founder,2,,2.93,5.86
+5,vice,2,,2.93,5.86
+5,spokesman,2,,2.93,5.86
+5,extra marital,2,,2.93,5.86
+5,std,1,True,15.3,15.3
+5,aggression,1,True,10.35,10.35
+5,gender issues,1,True,8.91,8.91
+5,sexual risk,1,True,8.81,8.81
+5,hypersexuality,1,True,8.32,8.32
+5,gender gap,1,True,7.96,7.96
+5,status women,1,True,7.19,7.19
+5,feminist theory,1,True,6.92,6.92
+5,transmission,1,True,6.26,6.26
+5,paid work,1,True,6.02,6.02
+5,gap,1,True,5.87,5.87
+5,sexually transmitted,1,True,5.85,5.85
+5,hegemonic,1,True,5.83,5.83
+5,women rights,1,True,5.75,5.75
+5,condom use,1,True,5.62,5.62
+5,marginalised,1,True,4.92,4.92
+5,hypersexual,1,True,4.91,4.91
+5,arranged,1,True,4.89,4.89
+5,gendered,1,True,4.79,4.79
+5,unintended,1,True,4.68,4.68
+5,feminist perspective,1,True,4.65,4.65
+5,intersectionality,1,True,4.53,4.53
+5,transmitted,1,True,4.47,4.47
+5,women movement,1,True,4.44,4.44
+5,gender stereotypes,1,True,4.35,4.35
+5,gender politics,1,True,4.31,4.31
+5,female managers,1,True,4.23,4.23
+5,decision making,1,True,4.17,4.17
+5,ieee,1,True,4.04,4.04
+5,intersectional,1,True,4.03,4.03
+5,hegemonic masculinity,1,True,4.02,4.02
+5,unpaid,1,True,3.85,3.85
+5,autonomy,1,True,3.78,3.78
+5,decision,1,True,3.69,3.69
+5,representation women,1,True,3.68,3.68
+5,marginalisation,1,True,3.66,3.66
+5,transmitted diseases,1,True,3.65,3.65
+5,opportunities,1,True,3.62,3.62
+5,leave,1,True,3.61,3.61
+5,ownership,1,True,3.58,3.58
+5,age gender,1,True,3.57,3.57
+5,headed,1,True,3.57,3.57
+5,female genital,1,True,3.56,3.56
+5,aggressive,1,True,3.5,3.5
+5,gender perspective,1,True,3.33,3.33
+5,acceptance,1,True,3.32,3.32
+5,paid,1,True,3.27,3.27
+5,technology,1,True,3.26,3.26
+5,mother child,1,True,3.19,3.19
+5,gender differences,1,True,3.19,3.19
+5,gender age,1,True,3.18,3.18
+5,gender education,1,True,3.01,3.01
+5,risk behaviors,1,True,2.96,2.96
+5,mil,1,True,2.94,2.94
+5,leadership,1,True,2.93,2.93
+5,literature,1,,2.93,2.93
+5,behavior,1,,2.93,2.93
+5,humor,1,,2.93,2.93
+5,counseling,1,,2.93,2.93
+5,counselling,1,,2.93,2.93
+5,psychological association,1,,2.93,2.93
+5,fiction,1,,2.93,2.93
+5,teaching,1,,2.93,2.93
+5,curriculum,1,,2.93,2.93
+5,forgiveness,1,,2.93,2.93
+5,insulting,1,,2.93,2.93
+5,rude,1,,2.93,2.93
+5,disparaging,1,,2.93,2.93
+5,offended,1,,2.93,2.93
+5,disrespectful,1,,2.93,2.93
+5,disgusting,1,,2.93,2.93
+5,risque,1,,2.93,2.93
+5,degrading,1,,2.93,2.93
+5,moronic,1,,2.93,2.93
+5,repugnant,1,,2.93,2.93
+5,tasteless,1,,2.93,2.93
+5,hypocritical,1,,2.93,2.93
+5,vile,1,,2.93,2.93
+5,distasteful,1,,2.93,2.93
+5,flippant,1,,2.93,2.93
+5,stupid,1,,2.93,2.93
+5,obscene,1,,2.93,2.93
+5,obnoxious,1,,2.93,2.93
+5,exploitative,1,,2.93,2.93
+5,boorish,1,,2.93,2.93
+5,unprofessional,1,,2.93,2.93
+5,sarcastic,1,,2.93,2.93
+5,contemptible,1,,2.93,2.93
+5,classless,1,,2.93,2.93
+5,tacky,1,,2.93,2.93
+5,idiotic,1,,2.93,2.93
+5,intolerant,1,,2.93,2.93
+5,slanderous,1,,2.93,2.93
+5,mocking,1,,2.93,2.93
+5,sleazy,1,,2.93,2.93
+5,asinine,1,,2.93,2.93
+5,profane,1,,2.93,2.93
+5,anachronistic,1,,2.93,2.93
+5,unfunny,1,,2.93,2.93
+5,abhorrent,1,,2.93,2.93
+5,childish,1,,2.93,2.93
+5,reprehensible,1,,2.93,2.93
+5,ridiculous,1,,2.93,2.93
+5,spiteful,1,,2.93,2.93
+5,demean,1,,2.93,2.93
+5,impolite,1,,2.93,2.93
+5,activist,1,,2.93,2.93
+5,literary,1,,2.93,2.93
+5,radical,1,,2.93,2.93
+5,conscience,1,,2.93,2.93
+5,latina,1,,2.93,2.93
+5,poetry,1,,2.93,2.93
+5,anarchist,1,,2.93,2.93
+5,collective,1,,2.93,2.93
+5,marxist,1,,2.93,2.93
+5,anthology,1,,2.93,2.93
+5,comedienne,1,,2.93,2.93
+5,grassroots,1,,2.93,2.93
+5,michelle malkin,1,,2.93,2.93
+5,wellesley college,1,,2.93,2.93
+5,vegan,1,,2.93,2.93
+5,noam chomsky,1,,2.93,2.93
+5,manifesto,1,,2.93,2.93
+5,alumnae,1,,2.93,2.93
+5,bloggers,1,,2.93,2.93
+5,chomsky,1,,2.93,2.93
+5,chicano,1,,2.93,2.93
+5,antiwar,1,,2.93,2.93
+5,cult,1,,2.93,2.93
+5,anthropology,1,,2.93,2.93
+5,authors,1,,2.93,2.93
+5,geraldine ferraro,1,,2.93,2.93
+5,smears,1,,2.93,2.93
+5,subliminal,1,,2.93,2.93
+5,ism,1,,2.93,2.93
+5,schoolgirls,1,,2.93,2.93
+5,cheerleading,1,,2.93,2.93
+5,cheerleaders,1,,2.93,2.93
+5,softball,1,,2.93,2.93
+5,sisters,1,,2.93,2.93
+5,schoolgirl,1,,2.93,2.93
+5,belles,1,,2.93,2.93
+5,girl scouts,1,,2.93,2.93
+5,sister,1,,2.93,2.93
+5,schools,1,,2.93,2.93
+5,gymnastics,1,,2.93,2.93
+5,fabulous,1,,2.93,2.93
+5,fillies,1,,2.93,2.93
+5,schoolers,1,,2.93,2.93
+5,dance,1,,2.93,2.93
+5,maidens,1,,2.93,2.93
+5,kindergarten,1,,2.93,2.93
+5,physical,1,,2.93,2.93
+5,violent,1,,2.93,2.93
+5,childhood,1,,2.93,2.93
+5,mental,1,,2.93,2.93
+5,parental,1,,2.93,2.93
+5,emotional,1,,2.93,2.93
+5,criminal,1,,2.93,2.93
+5,trafficking,1,,2.93,2.93
+5,bribery,1,,2.93,2.93
+5,illegal,1,,2.93,2.93
+5,unfair,1,,2.93,2.93
+5,complaints,1,,2.93,2.93
+5,condemns,1,,2.93,2.93
+5,persecution,1,,2.93,2.93
+5,depravity,1,,2.93,2.93
+5,perversion,1,,2.93,2.93
+5,viciousness,1,,2.93,2.93
+5,allusions,1,,2.93,2.93
+5,duplicity,1,,2.93,2.93
+5,filth,1,,2.93,2.93
+5,glorification,1,,2.93,2.93
+5,debauchery,1,,2.93,2.93
+5,barbarity,1,,2.93,2.93
+5,sarcasm,1,,2.93,2.93
+5,wickedness,1,,2.93,2.93
+5,puritanical,1,,2.93,2.93
+5,marxism,1,,2.93,2.93
+5,islamism,1,,2.93,2.93
+5,activism,1,,2.93,2.93
+5,consumerism,1,,2.93,2.93
+5,capitalism,1,,2.93,2.93
+5,catholicism,1,,2.93,2.93
+5,enlightenment,1,,2.93,2.93
+5,totalitarianism,1,,2.93,2.93
+5,polemic,1,,2.93,2.93
+5,islamic fundamentalism,1,,2.93,2.93
+5,christianity,1,,2.93,2.93
+5,darwinism,1,,2.93,2.93
+5,nazism,1,,2.93,2.93
+5,communism,1,,2.93,2.93
+5,idealism,1,,2.93,2.93
+5,imperialism,1,,2.93,2.93
+5,zeitgeist,1,,2.93,2.93
+5,neo liberal,1,,2.93,2.93
+5,humanist,1,,2.93,2.93
+5,neoliberal,1,,2.93,2.93
+5,revisionist,1,,2.93,2.93
+5,socioeconomic,1,,2.93,2.93
+5,reproductive health,1,,2.93,2.93
+5,globalisation,1,,2.93,2.93
+5,geography,1,,2.93,2.93
+5,child welfare,1,,2.93,2.93
+5,social,1,,2.93,2.93
+5,political,1,,2.93,2.93
+5,socio,1,,2.93,2.93
+5,social welfare,1,,2.93,2.93
+5,microfinance,1,,2.93,2.93
+5,outcome,1,,2.93,2.93
+5,skill,1,,2.93,2.93
+5,social work,1,,2.93,2.93
+5,crisis,1,,2.93,2.93
+5,personality,1,,2.93,2.93
+5,genetics,1,,2.93,2.93
+5,generalize,1,,2.93,2.93
+5,profiling,1,,2.93,2.93
+5,demonizing,1,,2.93,2.93
+5,stigmatize,1,,2.93,2.93
+5,ethnic backgrounds,1,,2.93,2.93
+5,dark skinned,1,,2.93,2.93
+5,ridicule,1,,2.93,2.93
+5,vilification,1,,2.93,2.93
+5,carrie bradshaw,1,,2.93,2.93
+5,kim cattrall,1,,2.93,2.93
+5,basic instinct,1,,2.93,2.93
+5,true blood,1,,2.93,2.93
+5,nip tuck,1,,2.93,2.93
+5,pretty woman,1,,2.93,2.93
+5,chick flick,1,,2.93,2.93
+5,housewives,1,,2.93,2.93
+5,scream,1,,2.93,2.93
+5,sarah jessica,1,,2.93,2.93
+5,love,1,,2.93,2.93
+5,scary movie,1,,2.93,2.93
+5,rom com,1,,2.93,2.93
+5,knocked up,1,,2.93,2.93
+5,hangover,1,,2.93,2.93
+5,cynthia nixon,1,,2.93,2.93
+5,mad men,1,,2.93,2.93
+5,devil wears prada,1,,2.93,2.93
+5,romantic comedy,1,,2.93,2.93
+5,desperate housewives,1,,2.93,2.93
+5,break up,1,,2.93,2.93
+5,oprah,1,,2.93,2.93
+5,charlie angels,1,,2.93,2.93
+5,weeds,1,,2.93,2.93
+5,cougar town,1,,2.93,2.93
+5,confession,1,,2.93,2.93
+5,gossip girl,1,,2.93,2.93
+5,woody allen,1,,2.93,2.93
+5,reality tv,1,,2.93,2.93
+5,mamma mia,1,,2.93,2.93
+5,rescue me,1,,2.93,2.93
+5,mean girls,1,,2.93,2.93
+5,shameless,1,,2.93,2.93
+5,eat pray love,1,,2.93,2.93
+5,murder,1,,2.93,2.93
+5,kidnap,1,,2.93,2.93
+5,real housewives,1,,2.93,2.93
+5,suck,1,,2.93,2.93
+5,vampire,1,,2.93,2.93
+5,megan fox,1,,2.93,2.93
+5,episodes,1,,2.93,2.93
+5,cocaine,1,,2.93,2.93
+5,film noir,1,,2.93,2.93
+5,taxi driver,1,,2.93,2.93
+5,grand theft auto,1,,2.93,2.93
+5,brokeback mountain,1,,2.93,2.93
+5,baywatch,1,,2.93,2.93
+5,blake lively,1,,2.93,2.93
+5,perfume,1,,2.93,2.93
+5,obsession,1,,2.93,2.93
+5,barbie,1,,2.93,2.93
+5,melrose place,1,,2.93,2.93
+5,common cause,1,,2.93,2.93
+5,human rights campaign,1,,2.93,2.93
+5,rights,1,,2.93,2.93
+5,interfaith,1,,2.93,2.93
+5,log cabin republicans,1,,2.93,2.93
+5,lambda legal,1,,2.93,2.93
+5,aclu,1,,2.93,2.93
+5,reform,1,,2.93,2.93
+5,hrc,1,,2.93,2.93
+5,anti defamation league,1,,2.93,2.93
+5,voting rights,1,,2.93,2.93
+5,stonewall,1,,2.93,2.93
+5,civil liberties,1,,2.93,2.93
+5,charter schools,1,,2.93,2.93
+5,coalition,1,,2.93,2.93
+5,campaign,1,,2.93,2.93
+5,naral pro choice,1,,2.93,2.93
+5,coalition against,1,,2.93,2.93
+5,carers,1,,2.93,2.93
+5,peace,1,,2.93,2.93
+5,adl,1,,2.93,2.93
+5,accountability,1,,2.93,2.93
+5,employment,1,,2.93,2.93
+5,pride,1,,2.93,2.93
+5,respect,1,,2.93,2.93
+5,immigration reform,1,,2.93,2.93
+5,pensions,1,,2.93,2.93
+5,american civil liberties,1,,2.93,2.93
+5,nurses,1,,2.93,2.93
+5,breast cancer,1,,2.93,2.93
+5,businesswomen,1,,2.93,2.93
+5,breast,1,,2.93,2.93
+5,professionals,1,,2.93,2.93
+5,maternity,1,,2.93,2.93
+5,ywca,1,,2.93,2.93
+5,breast cancer survivors,1,,2.93,2.93
+5,leaders,1,,2.93,2.93
+5,women basketball,1,,2.93,2.93
+5,midwives,1,,2.93,2.93
+5,survivors,1,,2.93,2.93
+5,sorority,1,,2.93,2.93
+5,senior citizens,1,,2.93,2.93
+5,young professionals,1,,2.93,2.93
+5,caregivers,1,,2.93,2.93
+5,workers,1,,2.93,2.93
+5,charity,1,,2.93,2.93
+5,physicians,1,,2.93,2.93
+5,greed,1,,2.93,2.93
+5,boycott,1,,2.93,2.93
+5,vandalism,1,,2.93,2.93
+5,obesity,1,,2.93,2.93
+5,kkk,1,,2.93,2.93
+5,terror,1,,2.93,2.93
+5,kid,1,,2.93,2.93
+5,young guns,1,,2.93,2.93
+5,leagues,1,,2.93,2.93
+5,bandits,1,,2.93,2.93
+5,pee wee,1,,2.93,2.93
+5,champs,1,,2.93,2.93
+5,boys basketball,1,,2.93,2.93
+5,bullets,1,,2.93,2.93
+5,schoolboy,1,,2.93,2.93
+5,little,1,,2.93,2.93
+5,rollers,1,,2.93,2.93
+5,pop warner,1,,2.93,2.93
+5,optimist,1,,2.93,2.93
+5,buddies,1,,2.93,2.93
+5,preparatory school,1,,2.93,2.93
+5,grammar school,1,,2.93,2.93
+5,ymca,1,,2.93,2.93
+5,u##,1,,2.93,2.93
+5,prep,1,,2.93,2.93
+5,grammar,1,,2.93,2.93
+5,rowing club,1,,2.93,2.93
+5,cadet,1,,2.93,2.93
+5,u##s,1,,2.93,2.93
+5,basketball tournament,1,,2.93,2.93
+5,ramblers,1,,2.93,2.93
+5,zebras,1,,2.93,2.93
+5,elks,1,,2.93,2.93
+5,kickers,1,,2.93,2.93
+5,childrens,1,,2.93,2.93
+5,cadets,1,,2.93,2.93
+5,daddy,1,,2.93,2.93
+5,stallions,1,,2.93,2.93
+5,high school,1,,2.93,2.93
+5,swim team,1,,2.93,2.93
+5,schoolmates,1,,2.93,2.93
+5,consolation,1,,2.93,2.93
+5,drama,1,,2.93,2.93
+5,don bosco,1,,2.93,2.93
+5,cliches,1,,2.93,2.93
+5,myth,1,,2.93,2.93
+5,cliché,1,,2.93,2.93
+5,notion,1,,2.93,2.93
+5,conventional wisdom,1,,2.93,2.93
+5,misconception,1,,2.93,2.93
+5,cliche,1,,2.93,2.93
+5,stigma attached,1,,2.93,2.93
+5,cliched,1,,2.93,2.93
+5,culture,1,,2.93,2.93
+5,clichéd,1,,2.93,2.93
+5,realities,1,,2.93,2.93
+5,mythology,1,,2.93,2.93
+5,stigma associated,1,,2.93,2.93
+5,paradigms,1,,2.93,2.93
+5,narratives,1,,2.93,2.93
+5,mindset,1,,2.93,2.93
+5,caricatures,1,,2.93,2.93
+5,jokes,1,,2.93,2.93
+5,mentality,1,,2.93,2.93
+5,barriers,1,,2.93,2.93
+5,personas,1,,2.93,2.93
+5,cultures,1,,2.93,2.93
+5,anxieties,1,,2.93,2.93
+5,religious beliefs,1,,2.93,2.93
+5,consciences,1,,2.93,2.93
+5,inhibitions,1,,2.93,2.93
+5,doctrines,1,,2.93,2.93
+5,grudges,1,,2.93,2.93
+5,ideals,1,,2.93,2.93
+5,ideological,1,,2.93,2.93
+5,malpractices,1,,2.93,2.93
+5,merit,1,,2.93,2.93
+5,politicization,1,,2.93,2.93
+5,imbalance,1,,2.93,2.93
+5,teenage pregnancy,1,,2.93,2.93
+5,hooliganism,1,,2.93,2.93
+5,poverty eradication,1,,2.93,2.93
+5,millennium development goals,1,,2.93,2.93
+5,mdgs,1,,2.93,2.93
+5,poverty alleviation,1,,2.93,2.93
+5,maternal mortality,1,,2.93,2.93
+5,social cohesion,1,,2.93,2.93
+5,democratization,1,,2.93,2.93
+5,mdg,1,,2.93,2.93
+5,eradicate poverty,1,,2.93,2.93
+5,hiv aids prevention,1,,2.93,2.93
+5,ilo,1,,2.93,2.93
+5,environmental sustainability,1,,2.93,2.93
+5,fundamental freedoms,1,,2.93,2.93
+5,upliftment,1,,2.93,2.93
+5,multilateralism,1,,2.93,2.93
+5,tertiary education,1,,2.93,2.93
+5,decentralization,1,,2.93,2.93
+5,macroeconomic stability,1,,2.93,2.93
+5,unaids,1,,2.93,2.93
+5,structural reforms,1,,2.93,2.93
+5,interfaith dialogue,1,,2.93,2.93
+5,mainstreaming,1,,2.93,2.93
+5,democratic,1,,2.93,2.93
+5,alleviate poverty,1,,2.93,2.93
+5,cultural diversity,1,,2.93,2.93
+5,literacy,1,,2.93,2.93
+5,justice,1,,2.93,2.93
+5,legislations,1,,2.93,2.93
+5,harmonization,1,,2.93,2.93
+5,maternal deaths,1,,2.93,2.93
+5,sanitation,1,,2.93,2.93
+5,undp,1,,2.93,2.93
+5,universal declaration,1,,2.93,2.93
+5,infant mortality,1,,2.93,2.93
+5,parliaments,1,,2.93,2.93
+5,applicants,1,,2.93,2.93
+5,entrants,1,,2.93,2.93
+5,participants,1,,2.93,2.93
+5,recruits,1,,2.93,2.93
+5,pups,1,,2.93,2.93
+5,viewers,1,,2.93,2.93
+5,calves,1,,2.93,2.93
+5,subjects,1,,2.93,2.93
+5,contestants,1,,2.93,2.93
+5,biologists,1,,2.93,2.93
+5,larger,1,,2.93,2.93
+5,###-### lbs,1,,2.93,2.93
+5,horses,1,,2.93,2.93
+5,groups,1,,2.93,2.93
+5,heifers,1,,2.93,2.93
+5,ewes,1,,2.93,2.93
+5,olds,1,,2.93,2.93
+5,tend,1,,2.93,2.93
+5,enthusiasts,1,,2.93,2.93
+5,cells,1,,2.93,2.93
+5,civil rights act,1,,2.93,2.93
+5,roe v. wade,1,,2.93,2.93
+5,clarence thomas,1,,2.93,2.93
+5,voting rights act,1,,2.93,2.93
+5,thurgood marshall,1,,2.93,2.93
+5,civil rights division,1,,2.93,2.93
+5,federalism,1,,2.93,2.93
+5,voter id,1,,2.93,2.93
+5,unconstitutional,1,,2.93,2.93
+5,judge alito,1,,2.93,2.93
+5,nclb,1,,2.93,2.93
+5,alito,1,,2.93,2.93
+5,legalized abortion,1,,2.93,2.93
+5,admissions,1,,2.93,2.93
+5,apartheid regime,1,,2.93,2.93
+5,doma,1,,2.93,2.93
+5,partial birth,1,,2.93,2.93
+5,constitutionality,1,,2.93,2.93
+5,supreme court,1,,2.93,2.93
+5,policies,1,,2.93,2.93
+5,intercollegiate athletics,1,,2.93,2.93
+5,constitutional amendment,1,,2.93,2.93
+5,fairness doctrine,1,,2.93,2.93
+5,quotas,1,,2.93,2.93
+5,unionization,1,,2.93,2.93
+5,judge sotomayor,1,,2.93,2.93
+5,bolster,1,,2.93,2.93
+5,backlash,1,,2.93,2.93
+5,favor,1,,2.93,2.93
+5,problem,1,,2.93,2.93
+5,wrong,1,,2.93,2.93
+5,case,1,,2.93,2.93
+5,hype,1,,2.93,2.93
+5,commentary,1,,2.93,2.93
+5,influence,1,,2.93,2.93
+5,lash,1,,2.93,2.93
+5,favors,1,,2.93,2.93
+5,worthy,1,,2.93,2.93
+5,reaction,1,,2.93,2.93
+5,settles,1,,2.93,2.93
+5,farber,1,,2.93,2.93
+5,means,1,,2.93,2.93
+5,respond,1,,2.93,2.93
+5,itself,1,,2.93,2.93
+5,felder,1,,2.93,2.93
+5,threat,1,,2.93,2.93
+5,height,1,,2.93,2.93
+5,hyman,1,,2.93,2.93
+5,wilt,1,,2.93,2.93
+5,response,1,,2.93,2.93
+5,pain,1,,2.93,2.93
+5,bottom line,1,,2.93,2.93
+5,cosby,1,,2.93,2.93
+5,covert,1,,2.93,2.93
+5,thought,1,,2.93,2.93
+5,thoughts,1,,2.93,2.93
+5,coverage,1,,2.93,2.93
+5,sinks,1,,2.93,2.93
+5,yawn,1,,2.93,2.93
+5,error,1,,2.93,2.93
+5,surges,1,,2.93,2.93
+5,horowitz,1,,2.93,2.93
+5,settle,1,,2.93,2.93
+5,finkelstein,1,,2.93,2.93
+5,fine,1,,2.93,2.93
+5,diagnosis,1,,2.93,2.93
+5,don imus,1,,2.93,2.93
+5,stall,1,,2.93,2.93
+5,yancey,1,,2.93,2.93
+5,burden,1,,2.93,2.93
+5,goldstein,1,,2.93,2.93
+5,steroids,1,,2.93,2.93
+5,ragland,1,,2.93,2.93
+5,apology,1,,2.93,2.93
+5,tepper,1,,2.93,2.93
+5,wasserman,1,,2.93,2.93
+5,perspective,1,,2.93,2.93
+5,goldberg,1,,2.93,2.93
+5,levy,1,,2.93,2.93
+5,probe,1,,2.93,2.93
+5,rosen,1,,2.93,2.93
+5,prostitutes,1,,2.93,2.93
+5,piercings,1,,2.93,2.93
+5,urination,1,,2.93,2.93
+5,fundamentalists,1,,2.93,2.93
+5,pro lifers,1,,2.93,2.93
+5,secularists,1,,2.93,2.93
+5,conservatives,1,,2.93,2.93
+5,marxists,1,,2.93,2.93
+5,socialists,1,,2.93,2.93
+5,intellectuals,1,,2.93,2.93
+5,ideologues,1,,2.93,2.93
+5,fascists,1,,2.93,2.93
+5,libertarians,1,,2.93,2.93
+5,haters,1,,2.93,2.93
+5,tea partiers,1,,2.93,2.93
+5,neocons,1,,2.93,2.93
+5,radicals,1,,2.93,2.93
+5,islamic fundamentalists,1,,2.93,2.93
+5,apologists,1,,2.93,2.93
+5,zealots,1,,2.93,2.93
+5,traditionalists,1,,2.93,2.93
+5,neoconservatives,1,,2.93,2.93
+5,neo cons,1,,2.93,2.93
+5,anarchists,1,,2.93,2.93
+5,sociologists,1,,2.93,2.93
+5,hating,1,,2.93,2.93
+5,elites,1,,2.93,2.93
+5,propagandists,1,,2.93,2.93
+5,revolutionaries,1,,2.93,2.93
+5,reformers,1,,2.93,2.93
+5,whores,1,,2.93,2.93
+5,neo conservatives,1,,2.93,2.93
+5,nationalists,1,,2.93,2.93
+5,theorists,1,,2.93,2.93
+5,rightwing,1,,2.93,2.93
+5,realists,1,,2.93,2.93
+5,deniers,1,,2.93,2.93
+5,theologians,1,,2.93,2.93
+5,bashers,1,,2.93,2.93
+5,radical islamists,1,,2.93,2.93
+5,zionists,1,,2.93,2.93
+5,self righteous,1,,2.93,2.93
+5,partisans,1,,2.93,2.93
+5,vegans,1,,2.93,2.93
+5,philosophers,1,,2.93,2.93
+5,couple,1,,2.93,2.93
+5,suspect,1,,2.93,2.93
+5,toddler,1,,2.93,2.93
+5,teenager,1,,2.93,2.93
+5,widow,1,,2.93,2.93
+5,wife,1,,2.93,2.93
+5,grandmother,1,,2.93,2.93
+5,policeman,1,,2.93,2.93
+5,motorcyclist,1,,2.93,2.93
+5,daughter,1,,2.93,2.93
+5,robber,1,,2.93,2.93
+5,motorist,1,,2.93,2.93
+5,woman dies,1,,2.93,2.93
+5,victim,1,,2.93,2.93
+5,cop,1,,2.93,2.93
+5,husband,1,,2.93,2.93
+5,man dies,1,,2.93,2.93
+5,soldier,1,,2.93,2.93
+5,politician,1,,2.93,2.93
+5,gunman,1,,2.93,2.93
+5,cyclist,1,,2.93,2.93
+5,man killed,1,,2.93,2.93
+5,mom,1,,2.93,2.93
+5,man charged,1,,2.93,2.93
+5,drunk,1,,2.93,2.93
+5,fatal,1,,2.93,2.93
+5,man accused,1,,2.93,2.93
+5,found,1,,2.93,2.93
+5,man arrested,1,,2.93,2.93
+5,inmate,1,,2.93,2.93
+5,burglar,1,,2.93,2.93
+5,murdered,1,,2.93,2.93
+5,suspects,1,,2.93,2.93
+5,id'd,1,,2.93,2.93
+5,pensioner,1,,2.93,2.93
+5,deadly,1,,2.93,2.93
+5,teacher,1,,2.93,2.93
+5,driver,1,,2.93,2.93
+5,man pleads guilty,1,,2.93,2.93
+5,body found,1,,2.93,2.93
+5,man sentenced,1,,2.93,2.93
+5,she,1,,2.93,2.93
+5,newborn,1,,2.93,2.93
+5,briefs,1,,2.93,2.93
+5,oap,1,,2.93,2.93
+5,robbed,1,,2.93,2.93
+5,murderer,1,,2.93,2.93
+5,worker,1,,2.93,2.93
+5,stolen,1,,2.93,2.93
+5,fugitive,1,,2.93,2.93
+5,1m,1,,2.93,2.93
+5,body,1,,2.93,2.93
+5,sex offender,1,,2.93,2.93
+5,thief,1,,2.93,2.93
+5,golfer,1,,2.93,2.93
+5,arrest,1,,2.93,2.93
+5,diplomat,1,,2.93,2.93
+5,video,1,,2.93,2.93
+5,wrex.com rockford news,1,,2.93,2.93
+5,infant,1,,2.93,2.93
+5,lawmaker,1,,2.93,2.93
+5,rescued,1,,2.93,2.93
+5,mum,1,,2.93,2.93
+5,primal,1,,2.93,2.93
+5,self esteem,1,,2.93,2.93
+5,psyche,1,,2.93,2.93
+5,testosterone,1,,2.93,2.93
+5,psyches,1,,2.93,2.93
+5,adolescence,1,,2.93,2.93
+5,paternal,1,,2.93,2.93
+5,physique,1,,2.93,2.93
+5,loneliness,1,,2.93,2.93
+5,character,1,,2.93,2.93
+5,innate,1,,2.93,2.93
+5,coolness,1,,2.93,2.93
+5,midlife,1,,2.93,2.93
+5,mythic,1,,2.93,2.93
+5,superiority,1,,2.93,2.93
+5,idealized,1,,2.93,2.93
+5,archetypal,1,,2.93,2.93
+5,assertiveness,1,,2.93,2.93
+5,existential,1,,2.93,2.93
+5,familial,1,,2.93,2.93
+5,subjectivity,1,,2.93,2.93
+5,predisposition,1,,2.93,2.93
+5,distortions,1,,2.93,2.93
+5,objectivity,1,,2.93,2.93
+5,viewpoints,1,,2.93,2.93
+5,preferences,1,,2.93,2.93
+5,sensitivities,1,,2.93,2.93
+5,influences,1,,2.93,2.93
+5,objectively,1,,2.93,2.93
+5,motivations,1,,2.93,2.93
+5,skew,1,,2.93,2.93
+5,subconsciously,1,,2.93,2.93
+5,subjective,1,,2.93,2.93
+5,differences,1,,2.93,2.93
+5,quirks,1,,2.93,2.93
+5,inadequacies,1,,2.93,2.93
+5,perspectives,1,,2.93,2.93
+5,consciously,1,,2.93,2.93
+5,motives,1,,2.93,2.93
+5,imperfections,1,,2.93,2.93
+5,manipulations,1,,2.93,2.93
+5,inferences,1,,2.93,2.93
+5,impartiality,1,,2.93,2.93
+5,wrongdoings,1,,2.93,2.93
+5,compulsions,1,,2.93,2.93
+5,viewpoint,1,,2.93,2.93
+5,tendency,1,,2.93,2.93
+5,shortcomings,1,,2.93,2.93
+5,inconsistencies,1,,2.93,2.93
+5,pathologies,1,,2.93,2.93
+5,distort,1,,2.93,2.93
+5,misgivings,1,,2.93,2.93
+5,opinions,1,,2.93,2.93
+5,personality traits,1,,2.93,2.93
+5,flaws,1,,2.93,2.93
+5,contradictions,1,,2.93,2.93
+5,glamor,1,,2.93,2.93
+5,beauty,1,,2.93,2.93
+5,lightness,1,,2.93,2.93
+5,cuteness,1,,2.93,2.93
+5,minimalism,1,,2.93,2.93
+5,artifice,1,,2.93,2.93
+5,sweetness,1,,2.93,2.93
+5,musicality,1,,2.93,2.93
+5,artistry,1,,2.93,2.93
+5,realism,1,,2.93,2.93
+5,lyricism,1,,2.93,2.93
+5,cleavage,1,,2.93,2.93
+5,fashion,1,,2.93,2.93
+5,directness,1,,2.93,2.93
+5,originality,1,,2.93,2.93
+5,spontaneity,1,,2.93,2.93
+5,fluidity,1,,2.93,2.93
+5,gentleness,1,,2.93,2.93
+5,nudes,1,,2.93,2.93
+5,subtlety,1,,2.93,2.93
+5,menstrual cycle,1,,2.93,2.93
+5,ovulation,1,,2.93,2.93
+5,hysterectomy,1,,2.93,2.93
+5,childbirth,1,,2.93,2.93
+5,urinate,1,,2.93,2.93
+5,breastfeed,1,,2.93,2.93
+5,erection,1,,2.93,2.93
+5,cervix,1,,2.93,2.93
+5,stimulation,1,,2.93,2.93
+5,conceive,1,,2.93,2.93
+5,bitterness,1,,2.93,2.93
+5,biracial,1,,2.93,2.93
+5,resentment,1,,2.93,2.93
+5,disenfranchisement,1,,2.93,2.93
+5,lynching,1,,2.93,2.93
+5,segregationist,1,,2.93,2.93
+5,animosity,1,,2.93,2.93
+5,black,1,,2.93,2.93
+5,snob,1,,2.93,2.93
+5,pretension,1,,2.93,2.93
+5,snobs,1,,2.93,2.93
+5,snooty,1,,2.93,2.93
+5,eccentricity,1,,2.93,2.93
+5,pretentious,1,,2.93,2.93
+5,sentimentality,1,,2.93,2.93
+5,highbrow,1,,2.93,2.93
+5,sameness,1,,2.93,2.93
+5,frivolity,1,,2.93,2.93
+5,sneer,1,,2.93,2.93
+5,sneering,1,,2.93,2.93
+5,laziness,1,,2.93,2.93
+5,commercialism,1,,2.93,2.93
+5,upper crust,1,,2.93,2.93
+5,silliness,1,,2.93,2.93
+5,aristocracy,1,,2.93,2.93
+5,loathing,1,,2.93,2.93
+5,affluence,1,,2.93,2.93
+5,jealousy,1,,2.93,2.93
+5,politeness,1,,2.93,2.93
+5,smug,1,,2.93,2.93
+5,sour grapes,1,,2.93,2.93
+5,self pity,1,,2.93,2.93
+5,hubris,1,,2.93,2.93
+5,paranoia,1,,2.93,2.93
+5,awkwardness,1,,2.93,2.93
+5,conceit,1,,2.93,2.93
+5,hyperbole,1,,2.93,2.93
+5,indifference,1,,2.93,2.93
+5,bullshit,1,,2.93,2.93
+5,alienation,1,,2.93,2.93
+5,antipathy,1,,2.93,2.93
+5,genteel,1,,2.93,2.93
+5,rarefied,1,,2.93,2.93
+5,shyness,1,,2.93,2.93
+5,dalits,1,,2.93,2.93
+5,dalit,1,,2.93,2.93
+5,sikhs,1,,2.93,2.93
+5,hindus,1,,2.93,2.93
+5,shias,1,,2.93,2.93
+5,ethnic minority,1,,2.93,2.93
+5,underrepresented,1,,2.93,2.93
+5,latinos,1,,2.93,2.93
+5,colleges,1,,2.93,2.93
+5,reforms,1,,2.93,2.93
+5,sc st,1,,2.93,2.93
+5,institutions,1,,2.93,2.93
+5,refugees,1,,2.93,2.93
+5,graduates,1,,2.93,2.93
+5,hispanic,1,,2.93,2.93
+5,christians,1,,2.93,2.93
+5,hazara,1,,2.93,2.93
+5,malays,1,,2.93,2.93
+5,uninsured,1,,2.93,2.93
+5,displaced,1,,2.93,2.93
+5,gujjars,1,,2.93,2.93
+5,majority,1,,2.93,2.93
+5,obc,1,,2.93,2.93
+5,castes,1,,2.93,2.93
+5,muslim,1,,2.93,2.93
+5,shiites,1,,2.93,2.93
+5,shi'ites,1,,2.93,2.93
+5,caucasian,1,,2.93,2.93
+5,universities,1,,2.93,2.93
+5,latino,1,,2.93,2.93
+5,economically disadvantaged,1,,2.93,2.93
+5,azerbaijanis,1,,2.93,2.93
+5,urdu,1,,2.93,2.93
+5,incomes,1,,2.93,2.93
+5,oppressed,1,,2.93,2.93
+5,unemployed,1,,2.93,2.93
+5,guys,1,,2.93,2.93
+5,gods,1,,2.93,2.93
+5,bowlers,1,,2.93,2.93
+5,runners,1,,2.93,2.93
+5,bikers,1,,2.93,2.93
+5,players,1,,2.93,2.93
+5,soldiers,1,,2.93,2.93
+5,dudes,1,,2.93,2.93
+5,dogs,1,,2.93,2.93
+5,lovers,1,,2.93,2.93
+5,pairs,1,,2.93,2.93
+5,americans,1,,2.93,2.93
+5,shoes,1,,2.93,2.93
+5,legs,1,,2.93,2.93
+5,holes,1,,2.93,2.93
+5,losers,1,,2.93,2.93
+5,thieves,1,,2.93,2.93
+5,ages,1,,2.93,2.93
+5,handsome,1,,2.93,2.93
+5,fraternity,1,,2.93,2.93
+5,aspiring,1,,2.93,2.93
+5,experienced,1,,2.93,2.93
+5,unidentified,1,,2.93,2.93
+5,seasoned,1,,2.93,2.93
+5,roles,1,,2.93,2.93
+5,skilled,1,,2.93,2.93
+5,wanted,1,,2.93,2.93
+5,unknown,1,,2.93,2.93
+5,civilian,1,,2.93,2.93
+5,of,1,,2.93,2.93
+5,jailed,1,,2.93,2.93
+5,shy,1,,2.93,2.93
+5,budding,1,,2.93,2.93
+5,individual,1,,2.93,2.93
+5,novice,1,,2.93,2.93
+5,successful,1,,2.93,2.93
+5,lipstick,1,,2.93,2.93
+5,local,1,,2.93,2.93
+5,their own,1,,2.93,2.93
+5,threatened,1,,2.93,2.93
+5,detained,1,,2.93,2.93
+5,masked,1,,2.93,2.93
+5,angry,1,,2.93,2.93
+5,professional,1,,2.93,2.93
+5,influential,1,,2.93,2.93
+5,busted,1,,2.93,2.93
+5,disgruntled,1,,2.93,2.93
+5,role,1,,2.93,2.93
+5,legitimate,1,,2.93,2.93
+5,loyal,1,,2.93,2.93
+5,two,1,,2.93,2.93
+5,middle aged,1,,2.93,2.93
+5,bogus,1,,2.93,2.93
+5,daytime,1,,2.93,2.93
+5,recruit,1,,2.93,2.93
+5,confirmed,1,,2.93,2.93
+5,wounded,1,,2.93,2.93
+5,academics,1,,2.93,2.93
+5,nominated,1,,2.93,2.93
+5,newest,1,,2.93,2.93
+5,female athlete,1,,2.93,2.93
+5,accused of,1,,2.93,2.93
+5,sacked,1,,2.93,2.93
+5,accidental,1,,2.93,2.93
+5,witchcraft,1,,2.93,2.93
+5,nipples,1,,2.93,2.93
+5,cannibalism,1,,2.93,2.93
+5,dick,1,,2.93,2.93
+5,puberty,1,,2.93,2.93
+5,socially acceptable,1,,2.93,2.93
+5,icky,1,,2.93,2.93
+5,striptease,1,,2.93,2.93
+5,hypnosis,1,,2.93,2.93
+5,contraceptives,1,,2.93,2.93
+5,um,1,,2.93,2.93
+5,flatulence,1,,2.93,2.93
+5,infanticide,1,,2.93,2.93
+5,corporal punishment,1,,2.93,2.93
+5,parenthood,1,,2.93,2.93
+5,faithfulness,1,,2.93,2.93
+5,infidelity,1,,2.93,2.93
+5,vegetarianism,1,,2.93,2.93
+5,fidelity,1,,2.93,2.93
+5,exes,1,,2.93,2.93
+5,soulmate,1,,2.93,2.93
+5,soul mate,1,,2.93,2.93
+5,male circumcision,1,,2.93,2.93
+5,infertility,1,,2.93,2.93
+5,lovebirds,1,,2.93,2.93
+5,emotionally,1,,2.93,2.93
+5,sexual predator,1,,2.93,2.93
+5,physically,1,,2.93,2.93
+5,socially,1,,2.93,2.93
+5,intellectually,1,,2.93,2.93
+5,amorous,1,,2.93,2.93
+5,verbally,1,,2.93,2.93
+5,biologically,1,,2.93,2.93
+5,physically abused,1,,2.93,2.93
+5,criminally,1,,2.93,2.93
+5,seduce,1,,2.93,2.93
+5,abused,1,,2.93,2.93
+5,spiritually,1,,2.93,2.93
+5,indecent assault,1,,2.93,2.93
+5,assaulting,1,,2.93,2.93
+5,peeping,1,,2.93,2.93
+5,child molestation,1,,2.93,2.93
+5,sexual imposition,1,,2.93,2.93
+5,possessing child pornography,1,,2.93,2.93
+5,urinating,1,,2.93,2.93
+5,urinated,1,,2.93,2.93
+5,aggravated sexual,1,,2.93,2.93
+5,videotaping,1,,2.93,2.93
+5,handcuffing,1,,2.93,2.93
+5,abusing,1,,2.93,2.93
+5,underage,1,,2.93,2.93
+5,fully clothed,1,,2.93,2.93
+5,registered sex offender,1,,2.93,2.93
+5,child pornography,1,,2.93,2.93
+5,misdemeanor battery,1,,2.93,2.93
+5,tickling,1,,2.93,2.93
+5,burglarizing,1,,2.93,2.93
+5,indecency,1,,2.93,2.93
+5,nude photos,1,,2.93,2.93
+5,child porn,1,,2.93,2.93
+5,assaulted,1,,2.93,2.93
+5,disorderly conduct,1,,2.93,2.93
+5,drugging,1,,2.93,2.93
+5,nude pictures,1,,2.93,2.93
+5,abducting,1,,2.93,2.93
+5,accuser,1,,2.93,2.93
+5,allegedly assaulted,1,,2.93,2.93
+5,kissed,1,,2.93,2.93
+5,intoxicated,1,,2.93,2.93
+5,shoplifting,1,,2.93,2.93
+5,misdemeanor assault,1,,2.93,2.93
+5,topless,1,,2.93,2.93
+5,massaging,1,,2.93,2.93
+5,coercing,1,,2.93,2.93
+5,impersonating,1,,2.93,2.93
+5,knifepoint,1,,2.93,2.93
+5,divorces,1,,2.93,2.93
+5,relationship,1,,2.93,2.93
+5,wed,1,,2.93,2.93
+5,matrimonial,1,,2.93,2.93
+5,births,1,,2.93,2.93
+5,societies,1,,2.93,2.93
+5,marriage act,1,,2.93,2.93
+5,nuptials,1,,2.93,2.93
+5,divorced,1,,2.93,2.93
+5,bigamy,1,,2.93,2.93
+5,ties,1,,2.93,2.93
+5,friendships,1,,2.93,2.93
+5,grandparents,1,,2.93,2.93
+5,adoption,1,,2.93,2.93
+5,adoptions,1,,2.93,2.93
+5,economies,1,,2.93,2.93
+5,surrogacy,1,,2.93,2.93
+5,passports,1,,2.93,2.93
+5,surnames,1,,2.93,2.93
+5,birth,1,,2.93,2.93
+5,citizenship,1,,2.93,2.93
+5,wedding vows,1,,2.93,2.93
+5,churches,1,,2.93,2.93
+5,holidays,1,,2.93,2.93
+5,birthrate,1,,2.93,2.93
+5,separations,1,,2.93,2.93
+5,exchanged vows,1,,2.93,2.93
+5,mortgages,1,,2.93,2.93
+5,funerals,1,,2.93,2.93
+5,ordained,1,,2.93,2.93
+5,finances,1,,2.93,2.93
+5,wills,1,,2.93,2.93
+5,mend,1,,2.93,2.93
+5,juneteenth,1,,2.93,2.93
+5,independence day,1,,2.93,2.93
+5,niger delta,1,,2.93,2.93
+5,black history month,1,,2.93,2.93
+5,okah,1,,2.93,2.93
+5,golden jubilee,1,,2.93,2.93
+5,beyoncé,1,,2.93,2.93
+5,beyonce,1,,2.93,2.93
+5,grammy,1,,2.93,2.93
+5,revolutionary armed forces,1,,2.93,2.93
+5,mary j. blige,1,,2.93,2.93
+5,alicia keys,1,,2.93,2.93
+5,fela,1,,2.93,2.93
+5,jubilee,1,,2.93,2.93
+5,malcolm x,1,,2.93,2.93
+5,ne yo,1,,2.93,2.93
+5,democratic change mdc,1,,2.93,2.93
+5,badu,1,,2.93,2.93
+5,destiny child,1,,2.93,2.93
+5,barbadian,1,,2.93,2.93
+5,nicki minaj,1,,2.93,2.93
+5,blige,1,,2.93,2.93
+5,mariah carey,1,,2.93,2.93
+5,independence,1,,2.93,2.93
+5,ashanti,1,,2.93,2.93
+5,beyonce knowles,1,,2.93,2.93
+5,carnival,1,,2.93,2.93
+5,billie holiday,1,,2.93,2.93
+5,basayev,1,,2.93,2.93
+5,ijaw,1,,2.93,2.93
+5,slaves,1,,2.93,2.93
+5,bet,1,,2.93,2.93
+5,ll cool j,1,,2.93,2.93
+5,frederick douglass,1,,2.93,2.93
+5,grammy award,1,,2.93,2.93
+5,lil kim,1,,2.93,2.93
+5,recording industry association,1,,2.93,2.93
+5,kelly rowland,1,,2.93,2.93
+5,indian mujahideen,1,,2.93,2.93
+5,ludacris,1,,2.93,2.93
+5,kwanzaa,1,,2.93,2.93
+5,grammys,1,,2.93,2.93
+5,missy elliott,1,,2.93,2.93
+5,reckoning,1,,2.93,2.93
+5,graduation,1,,2.93,2.93
+5,grammy nominations,1,,2.93,2.93
+5,confederacy,1,,2.93,2.93
+5,miranda lambert,1,,2.93,2.93
+5,busta rhymes,1,,2.93,2.93
+5,coronation,1,,2.93,2.93
+5,tehrik e taliban,1,,2.93,2.93
+5,nkrumah,1,,2.93,2.93
+5,best female,1,,2.93,2.93
+5,tax reform,1,,2.93,2.93
+5,ja rule,1,,2.93,2.93
+5,remembrance,1,,2.93,2.93
+5,wale,1,,2.93,2.93
+5,advancement,1,,2.93,2.93
+5,multi platinum,1,,2.93,2.93
+5,taylor swift,1,,2.93,2.93
+5,mlk,1,,2.93,2.93
+5,martin luther king,1,,2.93,2.93
+5,rosa parks,1,,2.93,2.93
+5,jay z,1,,2.93,2.93
+5,halle berry,1,,2.93,2.93
+5,militant,1,,2.93,2.93
+5,black eyed peas,1,,2.93,2.93
+5,approving editor,1,,2.93,2.93
+5,metrorail,1,,2.93,2.93
+5,idlewild,1,,2.93,2.93
+5,emancipation proclamation,1,,2.93,2.93
+5,chart topping,1,,2.93,2.93
+5,sirleaf,1,,2.93,2.93
+5,rebirth,1,,2.93,2.93
+5,dreamgirls,1,,2.93,2.93
+5,jamaicans,1,,2.93,2.93
+5,pentecost,1,,2.93,2.93
+5,cox plate,1,,2.93,2.93
+5,national historic landmark,1,,2.93,2.93
+5,nigerian,1,,2.93,2.93
+5,easter,1,,2.93,2.93
+5,def jam,1,,2.93,2.93
+5,martyrs,1,,2.93,2.93
+5,pakistani taliban,1,,2.93,2.93
+5,d ark,1,,2.93,2.93
+5,big boi,1,,2.93,2.93
+5,amnesty,1,,2.93,2.93
+5,dainty,1,,2.93,2.93
+5,fashionable,1,,2.93,2.93
+5,girlie,1,,2.93,2.93
+5,earthy,1,,2.93,2.93
+5,dresses,1,,2.93,2.93
+5,preppy,1,,2.93,2.93
+5,stylish,1,,2.93,2.93
+5,flowery,1,,2.93,2.93
+5,homely,1,,2.93,2.93
+5,luxe,1,,2.93,2.93
+5,skirts,1,,2.93,2.93
+5,sexier,1,,2.93,2.93
+5,glamorous,1,,2.93,2.93
+5,wearable,1,,2.93,2.93
+5,satin,1,,2.93,2.93
+5,sporty,1,,2.93,2.93
+5,slinky,1,,2.93,2.93
+5,frumpy,1,,2.93,2.93
+5,tasteful,1,,2.93,2.93
+5,playful,1,,2.93,2.93
+5,petite,1,,2.93,2.93
+5,bohemian,1,,2.93,2.93
+5,retro,1,,2.93,2.93
+5,fragrance,1,,2.93,2.93
+5,alluring,1,,2.93,2.93
+5,blouses,1,,2.93,2.93
+5,ethereal,1,,2.93,2.93
+5,monochromatic,1,,2.93,2.93
+5,radiant,1,,2.93,2.93
+5,childlike,1,,2.93,2.93
+5,cute,1,,2.93,2.93
+5,cutesy,1,,2.93,2.93
+5,sparkly,1,,2.93,2.93
+5,flattering,1,,2.93,2.93
+5,undergarments,1,,2.93,2.93
+5,utilitarian,1,,2.93,2.93
+5,subtle,1,,2.93,2.93
+5,angelic,1,,2.93,2.93
+5,bright colors,1,,2.93,2.93
+5,sultry,1,,2.93,2.93
+5,ravishing,1,,2.93,2.93
+5,sartorial,1,,2.93,2.93
+5,silhouette,1,,2.93,2.93
+5,luscious,1,,2.93,2.93
+5,elegant,1,,2.93,2.93
+5,goth,1,,2.93,2.93
+5,denim,1,,2.93,2.93
+5,frocks,1,,2.93,2.93
+5,floral,1,,2.93,2.93
+5,campy,1,,2.93,2.93
+5,expressive,1,,2.93,2.93
+5,chairman,1,,2.93,2.93
+5,chief executive officer,1,,2.93,2.93
+5,vice chair,1,,2.93,2.93
+5,executive director,1,,2.93,2.93
+5,chief operating officer,1,,2.93,2.93
+5,co chair,1,,2.93,2.93
+5,coo,1,,2.93,2.93
+5,executive officer,1,,2.93,2.93
+5,executive vice,1,,2.93,2.93
+5,general manager,1,,2.93,2.93
+5,cfo,1,,2.93,2.93
+5,chairman emeritus,1,,2.93,2.93
+5,managing partner,1,,2.93,2.93
+5,senior advisor,1,,2.93,2.93
+5,commissioner,1,,2.93,2.93
+5,general counsel,1,,2.93,2.93
+5,cto,1,,2.93,2.93
+5,representative,1,,2.93,2.93
+5,co chairmen,1,,2.93,2.93
+5,elects,1,,2.93,2.93
+5,administrator,1,,2.93,2.93
+5,senior vice,1,,2.93,2.93
+5,treasurer,1,,2.93,2.93
+5,evp,1,,2.93,2.93
+5,announces appointment,1,,2.93,2.93
+5,legislator,1,,2.93,2.93
+5,administrative officer,1,,2.93,2.93
+5,secretary,1,,2.93,2.93
+5,chaired,1,,2.93,2.93
+5,supervisor,1,,2.93,2.93
+5,headmaster,1,,2.93,2.93
+5,chief economist,1,,2.93,2.93
+5,spokesperson,1,,2.93,2.93
+5,appoints,1,,2.93,2.93
+5,convener,1,,2.93,2.93
+5,trustee,1,,2.93,2.93
+5,vp,1,,2.93,2.93
+5,officer,1,,2.93,2.93
+5,associate director,1,,2.93,2.93
+5,manager,1,,2.93,2.93
+5,minority leader,1,,2.93,2.93
+5,cmd,1,,2.93,2.93
+5,chief financial,1,,2.93,2.93
+5,chairing,1,,2.93,2.93
+5,moderator,1,,2.93,2.93
+5,exec,1,,2.93,2.93
+5,mr.,1,,2.93,2.93
+5,co founders,1,,2.93,2.93
+5,messrs.,1,,2.93,2.93
+5,coordinator,1,,2.93,2.93
+5,assistant secretary,1,,2.93,2.93
+5,dr.,1,,2.93,2.93
+5,delegate,1,,2.93,2.93
+5,majority leader,1,,2.93,2.93
+5,head honcho,1,,2.93,2.93
+5,committee,1,,2.93,2.93
+5,svp,1,,2.93,2.93
+5,ambassador,1,,2.93,2.93
+5,his excellency,1,,2.93,2.93
+5,town supervisor,1,,2.93,2.93
+5,businessman,1,,2.93,2.93
+5,cofounder,1,,2.93,2.93
+5,transvestite,1,,2.93,2.93
+5,hiv infections,1,,2.93,2.93
+5,hiv prevalence,1,,2.93,2.93
+5,womanizer,1,,2.93,2.93
+5,romantically involved,1,,2.93,2.93
+5,bulimia,1,,2.93,2.93
+5,suicidal thoughts,1,,2.93,2.93
+5,drag queen,1,,2.93,2.93
+5,outed,1,,2.93,2.93
+5,personality disorder,1,,2.93,2.93
+5,hunky,1,,2.93,2.93
+5,neurotic,1,,2.93,2.93
+5,wrongful termination,1,,2.93,2.93
+5,abuses,1,,2.93,2.93
+5,spousal abuse,1,,2.93,2.93
+5,maltreatment,1,,2.93,2.93
+5,punitive damages,1,,2.93,2.93
+5,compensatory damages,1,,2.93,2.93
+5,mistreatment,1,,2.93,2.93
+5,violations,1,,2.93,2.93
+5,maternity leave,1,,2.93,2.93
+5,unfair dismissal,1,,2.93,2.93
+5,lawsuit,1,,2.93,2.93
+5,rights abuses,1,,2.93,2.93
+5,negligence,1,,2.93,2.93
+5,predatory lending,1,,2.93,2.93
+5,misrepresentation,1,,2.93,2.93
+5,grievance,1,,2.93,2.93
+5,cruelty,1,,2.93,2.93
+5,demagoguery,1,,2.93,2.93
+5,cowardice,1,,2.93,2.93
+5,invective,1,,2.93,2.93
+5,radical islam,1,,2.93,2.93
+5,falsehood,1,,2.93,2.93
+5,judeo christian,1,,2.93,2.93
+5,xenophobic,1,,2.93,2.93
+5,separatism,1,,2.93,2.93
+5,baboons,1,,2.93,2.93
+5,monkeys,1,,2.93,2.93
+5,chimps,1,,2.93,2.93
+5,chimpanzees,1,,2.93,2.93
+5,wasps,1,,2.93,2.93
+5,consumers,1,,2.93,2.93
+5,lizards,1,,2.93,2.93
+5,crows,1,,2.93,2.93
+5,lions,1,,2.93,2.93
+5,cicadas,1,,2.93,2.93
+5,rats,1,,2.93,2.93
+5,chickens,1,,2.93,2.93
+5,larvae,1,,2.93,2.93
+5,boomers,1,,2.93,2.93
+5,cougars,1,,2.93,2.93
+5,inmates,1,,2.93,2.93
+5,ants,1,,2.93,2.93
+5,gay clergy,1,,2.93,2.93
+5,immoral,1,,2.93,2.93
+5,deviant,1,,2.93,2.93
+5,evangelical,1,,2.93,2.93
+5,atheist,1,,2.93,2.93
+5,sinful,1,,2.93,2.93
+5,evangelical christian,1,,2.93,2.93
+5,pedophiles,1,,2.93,2.93
+5,harvey milk,1,,2.93,2.93
+5,proselytizing,1,,2.93,2.93
