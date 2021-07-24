@@ -141,28 +141,28 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
 })
 
 ### Map to SDG weights
-map_sdgs_weights <- function(df) {
+map_sdgs_weights <- function(df, keywords="elsevier100", count_repeats=FALSE) {
   new_df <- df %>%
-    mutate(`SDG1` = count_sdg_keywords(text, 1),
-           `SDG2` = count_sdg_keywords(text, 2),
-           `SDG3` = count_sdg_keywords(text, 3),
-           `SDG4` = count_sdg_keywords(text, 4),
-           `SDG5` = count_sdg_keywords(text, 5),
-           `SDG6` = count_sdg_keywords(text, 6),
-           `SDG7` = count_sdg_keywords(text, 7),
-           `SDG8` = count_sdg_keywords(text, 8),
-           `SDG9` = count_sdg_keywords(text, 9),
-           `SDG10` = count_sdg_keywords(text, 10),
-           `SDG11` = count_sdg_keywords(text, 11),
-           `SDG12` = count_sdg_keywords(text, 12),
-           `SDG13` = count_sdg_keywords(text, 13),
-           `SDG14` = count_sdg_keywords(text, 14),
-           `SDG15` = count_sdg_keywords(text, 15),
-           `SDG16` = count_sdg_keywords(text, 16))
+    mutate(`SDG1` = count_sdg_keywords(text, 1, keywords, count_repeats),
+           `SDG2` = count_sdg_keywords(text, 2, keywords, count_repeats),
+           `SDG3` = count_sdg_keywords(text, 3, keywords, count_repeats),
+           `SDG4` = count_sdg_keywords(text, 4, keywords, count_repeats),
+           `SDG5` = count_sdg_keywords(text, 5, keywords, count_repeats),
+           `SDG6` = count_sdg_keywords(text, 6, keywords, count_repeats),
+           `SDG7` = count_sdg_keywords(text, 7, keywords, count_repeats),
+           `SDG8` = count_sdg_keywords(text, 8, keywords, count_repeats),
+           `SDG9` = count_sdg_keywords(text, 9, keywords, count_repeats),
+           `SDG10` = count_sdg_keywords(text, 10, keywords, count_repeats),
+           `SDG11` = count_sdg_keywords(text, 11, keywords, count_repeats),
+           `SDG12` = count_sdg_keywords(text, 12, keywords, count_repeats),
+           `SDG13` = count_sdg_keywords(text, 13, keywords, count_repeats),
+           `SDG14` = count_sdg_keywords(text, 14, keywords, count_repeats),
+           `SDG15` = count_sdg_keywords(text, 15, keywords, count_repeats),
+           `SDG16` = count_sdg_keywords(text, 16, keywords, count_repeats))
   return (new_df)
 }
 
-map_sdgs_keywords <- function(df) {
+map_sdgs_keywords <- function(df, keywords="elsevier100", count_repeats=FALSE) {
   new_df <- df
   return (new_df)
 }
