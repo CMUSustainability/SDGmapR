@@ -42,14 +42,14 @@ count_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier100",
     }
 
     # Get the keywords and weights
-    goal_keywords <- goal_df %>% select(keyword) %>% pull(1)
-    goal_weights <- goal_df %>% select(weight) %>% pull(1)
+    goal_patterns <- goal_df$pattern
+    goal_weights <- goal_df$weight
 
     # Add up the keyword weights
     for (idx in 1:nrow(goal_df)) {
-      if (str_detect(str_to_lower(text), goal_keywords[idx])) {
+      if (str_detect(str_to_lower(text), goal_patterns[idx])) {
         if (count_repeats) {
-          keyword_cnt <- str_count(str_to_lower(text), goal_keywords[idx])
+          keyword_cnt <- str_count(str_to_lower(text), goal_patterns[idx])
           tot_weight <- tot_weight + keyword_cnt * goal_weights[idx]
         } else {
           tot_weight <- tot_weight + goal_weights[idx]
@@ -126,13 +126,14 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
   }
 
   # Get the keywords and weights
-  goal_keywords <- goal_df %>% select(keyword) %>% pull(1)
-  goal_weights <- goal_df %>% select(weight) %>% pull(1)
+  goal_patterns <- goal_df$pattern
+  goal_keywords <- goal_df$keyword
+  goal_weights <- goal_df$weight
 
   words <- c()
   # Get keywords in a vector
   for (idx in 1:nrow(goal_df)) {
-    if (str_detect(str_to_lower(text), goal_keywords[idx])) {
+    if (str_detect(str_to_lower(text), goal_patterns[idx])) {
       words <- c(words, goal_keywords[idx])
     }
   }
@@ -140,7 +141,19 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
   return (as.vector(words))
 })
 
-### Map to SDG weights
+#' @title Map text to SDGs 1 to 16
+#'
+#' @description Calculate the total weight for all SDGs from 1 to 16
+#'
+#' @param df Dataframe with a column `text`
+#' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
+#' @param count_repeats Whether or not to count repeats for the keywords
+#'
+#' @return Original dataframe plus 16 additional columns representing weights for
+#' SDGs 1 to 16.
+#'
+#' @examples
+#' map_sdgs_weights(df, keywords = "elsevier", count_repeats = TRUE)
 map_sdgs_weights <- function(df, keywords="elsevier100", count_repeats=FALSE) {
   new_df <- df %>%
     mutate(`SDG1` = count_sdg_keywords(text, 1, keywords, count_repeats),
@@ -162,8 +175,43 @@ map_sdgs_weights <- function(df, keywords="elsevier100", count_repeats=FALSE) {
   return (new_df)
 }
 
+#' @title Map text to keywords for SDGs 1 to 16
+#'
+#' @description Return vector of keywords for SDGs 1 to 16
+#'
+#' @param df Dataframe with a column `text`
+#' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
+#' @param count_repeats Whether or not to count repeats for the keywords
+#'
+#' @return Original Dataframe plus 16 additional columns representing vectors of
+#' keywords for SDGs 1 to 16.
+#'
+#' @examples
+#' map_sdgs_keywords(df, keywords = "elsevier", count_repeats = TRUE)
 map_sdgs_keywords <- function(df, keywords="elsevier100", count_repeats=FALSE) {
-  new_df <- df
+  new_df <- df %>%
+    mutate(`SDG1_keywords` = tabulate_sdg_keywords(text, 1, keywords, count_repeats),
+           `SDG2_keywords` = tabulate_sdg_keywords(text, 2, keywords, count_repeats),
+           `SDG3_keywords` = tabulate_sdg_keywords(text, 3, keywords, count_repeats),
+           `SDG4_keywords` = tabulate_sdg_keywords(text, 4, keywords, count_repeats),
+           `SDG5_keywords` = tabulate_sdg_keywords(text, 5, keywords, count_repeats),
+           `SDG6_keywords` = tabulate_sdg_keywords(text, 6, keywords, count_repeats),
+           `SDG7_keywords` = tabulate_sdg_keywords(text, 7, keywords, count_repeats),
+           `SDG8_keywords` = tabulate_sdg_keywords(text, 8, keywords, count_repeats),
+           `SDG9_keywords` = tabulate_sdg_keywords(text, 9, keywords, count_repeats),
+           `SDG10_keywords` = tabulate_sdg_keywords(text, 10, keywords, count_repeats),
+           `SDG11_keywords` = tabulate_sdg_keywords(text, 11, keywords, count_repeats),
+           `SDG12_keywords` = tabulate_sdg_keywords(text, 12, keywords, count_repeats),
+           `SDG13_keywords` = tabulate_sdg_keywords(text, 13, keywords, count_repeats),
+           `SDG14_keywords` = tabulate_sdg_keywords(text, 14, keywords, count_repeats),
+           `SDG15_keywords` = tabulate_sdg_keywords(text, 15, keywords, count_repeats),
+           `SDG16_keywords` = tabulate_sdg_keywords(text, 16, keywords, count_repeats))
   return (new_df)
 }
+
+
+
+
+
+
 

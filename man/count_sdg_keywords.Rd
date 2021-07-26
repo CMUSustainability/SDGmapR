@@ -7,7 +7,7 @@
 count_sdg_keywords(
   text,
   goal_num,
-  keywords = "elsevier2",
+  keywords = "elsevier100",
   count_repeats = FALSE
 )
 }
