@@ -29,8 +29,9 @@ devtools::install_github("pwu97/SDGmapR")
 The table below lists publicly available SDG keywords that have been
 published online. Some of the lists have weights associated with every
 keyword, while some do not. For the purposes of the `SDGmapR` package,
-we will assign an equal weight of 1.0 to every word if weights are not
-given. Note that some datasets cover SDG 17, while some do not.
+we will assign an equal weight of one to every word if weights are not
+given. Note that the column for `SDG17` will represent whether the
+dataset has keywords related to SDG17.
 
 | Source                                                                                                                             | Dataset                | CSV                                                                                      | SDG17 |
 |:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------------------------------------------------------|:------|
@@ -55,7 +56,7 @@ result.
 library(tidyverse)
 library(SDGmapR)
 
-# Load first 100 #tidytuesday tweets
+# Load first 10000 #tidytuesday tweets
 tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
   head(10000)
 
@@ -151,6 +152,12 @@ tweets %>%
 #> 10 "Bonus #TidyTuesday chart showing changes in total wind output an…       227.
 #> # … with 1,555 more rows
 ```
+
+## Acknowledgements
+
+Thank you to Jingwen Mu and Kevin Kang from the University of Auckland
+for discussions about regular expression matchings with the SDG
+keywords.
 
 <!-- What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so: -->
 <!-- ```{r cars} -->
