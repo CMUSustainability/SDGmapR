@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{map_sdgs_weights}
 \alias{map_sdgs_weights}
-\title{Map text to SDGs 1 to 16}
+\title{Map text to all SDGs}
 \usage{
 map_sdgs_weights(df, keywords = "elsevier100", count_repeats = FALSE)
 }

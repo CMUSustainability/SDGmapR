@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{map_sdgs_keywords}
 \alias{map_sdgs_keywords}
-\title{Map text to keywords for SDGs 1 to 16}
+\title{Map text to SDGs keywords}
 \usage{
 map_sdgs_keywords(df, keywords = "elsevier100", count_repeats = FALSE)
 }

@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{tabulate_sdg_keywords}
 \alias{tabulate_sdg_keywords}
-\title{Tabulate SDG keywords in a given text}
+\title{Tabulate SDG keywords}
 \usage{
 tabulate_sdg_keywords(
   text,
