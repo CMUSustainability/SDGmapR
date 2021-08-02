@@ -19,8 +19,8 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 The goal of `SDGmapR` is to provide an open-source foundation for the systematic mapping
-to the United Nations Sustainable Development Goals (SDGs). In this R package one can find publicly available SDG keyword datasets in the `tidy` data format,
-the [2019 UN Official SDG color scheme](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf), and several functions related to the
+to the United Nations Sustainable Development Goals (SDGs). In this R package one can find publicly available [SDG keyword datasets](https://github.com/pwu97/SDGmapR/tree/main/datasets) in the `tidy` data format,
+the [UN Official SDG color scheme](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf) and [SDG Descriptions](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdg_desc_cleaned.csv), and several functions related to the
 mapping of text to particular sets of keywords.
 
 ## Installation
@@ -58,7 +58,7 @@ sdg_table <- data.frame(
              "`cmu1000_keywords`",
              "`auckland_keywords`",
              "`toronto_keywords`"),
-  "CSV" = c("[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier100_keywords.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords.csv)", 
+  "CSV" = c("[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier_keywords_cleaned.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/elsevier100_keywords_cleaned.csv)", "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/sdsn_keywords_cleaned.csv)", 
 "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/cmu250_keywords_cleaned.csv)",
 "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/cmu500_keywords_cleaned.csv)",
 "[Link](https://github.com/pwu97/SDGmapR/blob/main/datasets/cmu1000_keywords_cleaned.csv)", "", ""),
@@ -84,7 +84,7 @@ tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/mast
 
 # Map to SDG 1 using Improved Elsevier Top 100 Keywords
 tweets_sdg1 <- tweets %>%
-  mutate(sdg_1_weight = count_sdg_keywords(text, 1),
+  mutate(sdg_1_weight = count_sdg_weights(text, 1),
          sdg_1_words = tabulate_sdg_keywords(text, 1)) %>%
   arrange(desc(sdg_1_weight)) %>%
   select(text, sdg_1_weight, sdg_1_words)
@@ -100,19 +100,19 @@ our function, using the `cmu250` (CMU Top 250 Keywords) dataset of SDG keywords 
 ```{r}
 # Map to SDG 3 using Elsevier Core keywords
 tweets %>%
-  mutate(sdg_weight = count_sdg_keywords(text, 3, "cmu250")) %>%
+  mutate(sdg_weight = count_sdg_weights(text, 3, "cmu250")) %>%
   select(text, sdg_weight) %>%
   arrange(desc(sdg_weight))
 
 # Map to SDG 5 using Elsevier Core keywords
 tweets %>%
-  mutate(sdg_weight = count_sdg_keywords(text, 5, "cmu250")) %>%
+  mutate(sdg_weight = count_sdg_weights(text, 5, "cmu250")) %>%
   select(text, sdg_weight) %>%
   arrange(desc(sdg_weight))
 
 # Map to SDG 7 using Elsevier Core keywords
 tweets %>%
-  mutate(sdg_weight = count_sdg_keywords(text, 7, "cmu250")) %>%
+  mutate(sdg_weight = count_sdg_weights(text, 7, "cmu250")) %>%
   select(text, sdg_weight) %>%
   arrange(desc(sdg_weight))
 ```
