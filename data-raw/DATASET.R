@@ -38,9 +38,9 @@ sdg_desc <- data.frame(
                 "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
                 "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
                 "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
-                "Strengthen the means of implementation and revitalize the global partnership for sustainable development")
-)
-# write.csv(sdg_desc, "datasets/sdg_desc_cleaned.csv", row.names = FALSE)
+                "Strengthen the means of implementation and revitalize the global partnership for sustainable development")) %>%
+  mutate(long_desc = paste0(long_desc, "."))
+write.csv(sdg_desc, "datasets/sdg_desc_cleaned.csv", row.names = FALSE)
 
 # Load CMU Keywords
 cmu1000_keywords_raw <- data.frame()

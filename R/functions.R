@@ -136,12 +136,67 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
   words <- c()
   # Get keywords in a vector
   for (idx in 1:nrow(goal_df)) {
-    if (str_detect(str_to_lower(text), goal_patterns[idx])) {
+    if ((str_detect(str_to_lower(text), goal_patterns[idx]))) {
       words <- c(words, goal_keywords[idx])
     }
   }
 
-  return (as.vector(words))
+  return(words)
+})
+
+#' @title Tabulate SDG keyword weights
+#'
+#' @description Tabulate all SDG keyword weights that exist in a given text
+#' for a given goal.
+#'
+#' @param text The target text to check SDG keywords
+#' @param goal_num The SDG goal we intend to check keywords for
+#' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
+#' @param count_repeats Whether or not to count repeats for the keywords
+#'
+#' @return A vector of weights for keywords representing a particular SDG
+#'
+#' @examples
+#' tabulate_sdg_weights("Poverty entails more than the lack of income and productive resources
+#' to ensure sustainable livelihoods.", 1)
+tabulate_sdg_weights <- Vectorize(function(text, goal_num, keywords="elsevier100",
+                                            count_repeats=FALSE) {
+
+  # Select the right keyword set
+  if (keywords == "elsevier100") {
+    goal_df <- elsevier100_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "sdsn") {
+    goal_df <- sdsn_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "elsevier") {
+    goal_df <- elsevier_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "cmu250") {
+    goal_df <- cmu250_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "cmu500") {
+    goal_df <- cmu500_keywords %>%
+      filter(goal == goal_num)
+  } else if (keywords == "cmu1000") {
+    goal_df <- cmu1000_keywords %>%
+      filter(goal == goal_num)
+  }
+
+  # Get the keywords and weights
+  goal_patterns <- goal_df$pattern
+  goal_keywords <- goal_df$keyword
+  goal_weights <- goal_df$weight
+
+  weights <- c()
+  # Get keywords in a vector
+  for (idx in 1:nrow(goal_df)) {
+    if (str_detect(str_to_lower(text), goal_patterns[idx])) {
+      weights <- c(weights, goal_weights[idx])
+    }
+  }
+
+  return (weights)
 })
 
 ################ Mapping functions ################
@@ -213,4 +268,5 @@ map_sdgs_keywords <- function(df, keywords="elsevier100", count_repeats=FALSE) {
            `SDG16_keywords` = tabulate_sdg_keywords(text, 16, keywords, count_repeats))
   return (new_df)
 }
+
 
