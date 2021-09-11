@@ -8,7 +8,7 @@ sdg_colors <- data.frame(
             '#FCC30B', '#A21942', '#FD6925', '#DD1367', '#FD9D24', '#BF8B2E',
             '#3F7E44', '#0A97D9', '#56C02B', '#00689D', '#19486A')) %>%
   mutate(color = str_to_upper(color))
-# write.csv(sdg_colors, "datasets/sdg_colors_cleaned.csv", row.names = FALSE)
+write.csv(sdg_colors, "datasets/sdg_colors_cleaned.csv", row.names = FALSE)
 
 # Create data frame for SDG descriptions
 sdg_desc <- data.frame(
@@ -67,7 +67,7 @@ for (goal in 1:16) {
   cur_keywords <- read_csv(paste0("datasets/cmu_sdg", goal, "_keywords.csv")) %>%
     arrange(elsevier_word, desc(frequency), desc(relevance_score)) %>%
     head(1000) %>%
-    mutate(weight = relevance_score * (100 / max(relevance_score))) %>%
+    mutate(weight = round(relevance_score / 50, 2)) %>%
     arrange(desc(weight)) %>%
     rename(goal = SDG) %>%
     left_join(sdg_colors, by = "goal")
@@ -79,7 +79,7 @@ for (goal in 1:16) {
 cmu1000_keywords <- cmu1000_keywords_raw %>%
   mutate(pattern = paste0("\\b(\\d*)", keyword, "(\\d*)\\b")) %>%
   select(goal, keyword, pattern, weight, color)
-# write.csv(cmu1000_keywords, "datasets/cmu1000_keywords_cleaned.csv", row.names = FALSE)
+write.csv(cmu1000_keywords, "datasets/cmu1000_keywords_cleaned.csv", row.names = FALSE)
 
 cmu500_keywords <- cmu1000_keywords_raw %>%
   mutate(pattern = paste0("\\b(\\d*)", keyword, "(\\d*)\\b")) %>%
@@ -135,4 +135,5 @@ usethis::use_data(cmu500_keywords, overwrite = TRUE)
 usethis::use_data(cmu250_keywords, overwrite = TRUE)
 usethis::use_data(sdg_colors, overwrite = TRUE)
 usethis::use_data(sdsn_keywords, overwrite = TRUE)
+
 
