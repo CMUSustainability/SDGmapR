@@ -42,6 +42,24 @@ sdg_desc <- data.frame(
   mutate(long_desc = paste0(long_desc, "."))
 write.csv(sdg_desc, "datasets/sdg_desc_cleaned.csv", row.names = FALSE)
 
+# Load UN Targets
+sdg_targets <- read_csv("datasets/cmu_sdg_keywords_v1.csv") %>%
+  rename(target = Target,
+         target_desc = `Target Description`,
+         keywords = Keywords) %>%
+  mutate(goal = parse_number(sub("\\..*", "", target))) %>%
+  select(goal, target, target_desc) %>%
+  arrange(goal)
+
+# Load CMU Selected Keywords
+cmu_keywords_selected <- read_csv("datasets/cmu_sdg_keywords_v1.csv") %>%
+  rename(target = Target,
+         target_desc = `Target Description`,
+         keywords = Keywords) %>%
+  mutate(goal = parse_number(sub("\\..*", "", target))) %>%
+  separate_rows(keywords, 1, sep = ", ") %>%
+  mutate(weight = 1)
+
 # Load CMU Keywords
 cmu1000_keywords_raw <- data.frame()
 for (goal in 1:16) {
@@ -49,7 +67,8 @@ for (goal in 1:16) {
   cur_keywords <- read_csv(paste0("datasets/cmu_sdg", goal, "_keywords.csv")) %>%
     arrange(elsevier_word, desc(frequency), desc(relevance_score)) %>%
     head(1000) %>%
-    mutate(weight = relevance_score) %>%
+    mutate(weight = relevance_score * (100 / max(relevance_score))) %>%
+    arrange(desc(weight)) %>%
     rename(goal = SDG) %>%
     left_join(sdg_colors, by = "goal")
 
@@ -107,6 +126,8 @@ sdsn_keywords <- read_csv("datasets/sdsn_keywords.csv") %>%
 # write.csv(elsevier_keywords, "datasets/sdsn_keywords_cleaned.csv", row.names = FALSE)
 
 # Use datasets
+usethis::use_data(sdg_desc, overwrite = TRUE)
+usethis::use_data(sdg_targets, overwrite = TRUE)
 usethis::use_data(elsevier_keywords, overwrite = TRUE)
 usethis::use_data(elsevier100_keywords, overwrite = TRUE)
 usethis::use_data(cmu1000_keywords, overwrite = TRUE)
