@@ -43,22 +43,14 @@ sdg_desc <- data.frame(
 write.csv(sdg_desc, "datasets/sdg_desc_cleaned.csv", row.names = FALSE)
 
 # Load UN Targets
-sdg_targets <- read_csv("datasets/cmu_sdg_keywords_v1.csv") %>%
+sdg_targets <- read_csv("datasets/sdg_targets_cleaned.csv") %>%
   rename(target = Target,
          target_desc = `Target Description`,
          keywords = Keywords) %>%
-  mutate(goal = parse_number(sub("\\..*", "", target))) %>%
-  select(goal, target, target_desc) %>%
+  mutate(goal = parse_number(sub("\\..*", "", target)),
+         number = c(1:n())) %>%
+  select(goal, number, target, target_desc) %>%
   arrange(goal)
-
-# Load CMU Selected Keywords
-cmu_keywords_selected <- read_csv("datasets/cmu_sdg_keywords_v1.csv") %>%
-  rename(target = Target,
-         target_desc = `Target Description`,
-         keywords = Keywords) %>%
-  mutate(goal = parse_number(sub("\\..*", "", target))) %>%
-  separate_rows(keywords, 1, sep = ", ") %>%
-  mutate(weight = 1)
 
 # Load CMU Keywords
 cmu1000_keywords_raw <- data.frame()
