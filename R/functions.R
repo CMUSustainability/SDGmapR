@@ -42,11 +42,12 @@ count_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
       goal_df <- cmu1000_keywords %>%
         filter(goal == sdg)
     } else {
-      goal_df <- keywords
+      goal_df <- keywords %>%
+        filter(goal == sdg)
     }
 
     if (nrow(goal_df) == 0) {
-      next
+      return(c())
     }
 
     # Get the keywords and weights
@@ -133,7 +134,12 @@ tabulate_sdg_keywords <- Vectorize(function(text, sdg, keywords="elsevier100",
     goal_df <- cmu1000_keywords %>%
       filter(goal == sdg)
   } else {
-    goal_df <- keywords
+    goal_df <- keywords %>%
+      filter(goal == sdg)
+  }
+
+  if (nrow(goal_df) == 0) {
+    return(c())
   }
 
   # Get the keywords and weights
@@ -190,7 +196,12 @@ tabulate_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
     goal_df <- cmu1000_keywords %>%
       filter(goal == sdg)
   } else {
-    goal_df <- keywords
+    goal_df <- keywords %>%
+      filter(goal == sdg)
+  }
+
+  if (nrow(goal_df) == 0) {
+    return(c())
   }
 
   # Get the keywords and weights
