@@ -87,18 +87,18 @@ cmu1000_keywords <- cmu1000_keywords_raw %>%
   select(goal, keyword, pattern, weight, color)
 write.csv(cmu1000_keywords, "datasets/cmu1000_keywords_cleaned.csv", row.names = FALSE)
 
-cmu500_keywords <- cmu1000_keywords_raw %>%
+cmu500_keywords <- cmu1000_keywords %>%
   mutate(pattern = paste0("\\b(\\d*)", keyword, "(\\d*)\\b")) %>%
   group_by(goal) %>%
-  slice_max(order_by = relevance_score, n = 500) %>%
+  slice_max(order_by = weight, n = 500) %>%
   ungroup() %>%
   select(goal, keyword, pattern, weight, color)
 write.csv(cmu500_keywords, "datasets/cmu500_keywords_cleaned.csv", row.names = FALSE)
 
-cmu250_keywords <- cmu1000_keywords_raw %>%
+cmu250_keywords <- cmu1000_keywords %>%
   mutate(pattern = paste0("\\b(\\d*)", keyword, "(\\d*)\\b")) %>%
   group_by(goal) %>%
-  slice_max(order_by = relevance_score, n = 250) %>%
+  slice_max(order_by = weight, n = 250) %>%
   ungroup() %>%
   select(goal, keyword, pattern, weight, color)
 write.csv(cmu250_keywords, "datasets/cmu250_keywords_cleaned.csv", row.names = FALSE)
