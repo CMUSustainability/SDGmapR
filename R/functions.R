@@ -136,10 +136,6 @@ tabulate_sdg_keywords <- Vectorize(function(text, sdg, keywords="elsevier100",
     goal_df <- keywords
   }
 
-  if (nrow(goal_df) == 0) {
-    next
-  }
-
   # Get the keywords and weights
   goal_patterns <- goal_df$pattern
   goal_keywords <- goal_df$keyword
@@ -195,10 +191,6 @@ tabulate_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
       filter(goal == sdg)
   } else {
     goal_df <- keywords
-  }
-
-  if (nrow(goal_df) == 0) {
-    next
   }
 
   # Get the keywords and weights
