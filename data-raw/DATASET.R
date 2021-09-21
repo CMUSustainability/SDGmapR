@@ -68,7 +68,21 @@ for (goal in 1:16) {
   cmu1000_keywords_raw <- rbind(cmu1000_keywords_raw, cur_keywords)
 }
 
+# Hard-code SDG17 keywords for now
+cmu_sdg17_keywords <- data.frame(
+  goal = 17,
+  keyword = c("seminar", "independent", "research", "capacity", "development",
+              "cooperation", "engagement", "thesis", "internship", "writing",
+              "practicum", "entrepreneurship", "project", "innovation", "dissertation",
+              "study", "client", "capstone", "experiential", "capacity development",
+              "academic writing"),
+  weight = 1,
+  color = "19486A"
+)
+
 cmu1000_keywords <- cmu1000_keywords_raw %>%
+  select(goal, keyword, weight, color) %>%
+  rbind(cmu_sdg17_keywords) %>%
   mutate(pattern = paste0("\\b(\\d*)", keyword, "(\\d*)\\b")) %>%
   select(goal, keyword, pattern, weight, color)
 write.csv(cmu1000_keywords, "datasets/cmu1000_keywords_cleaned.csv", row.names = FALSE)

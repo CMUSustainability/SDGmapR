@@ -1,4 +1,5 @@
 library(tidyverse)
+library(assertthat)
 
 ################ Count functions ################
 
@@ -23,24 +24,28 @@ count_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
     tot_weight <- 0
 
     # Select the right keyword set
-    if (keywords == "elsevier100") {
-      goal_df <- elsevier100_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "sdsn") {
-      goal_df <- sdsn_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "elsevier") {
-      goal_df <- elsevier_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu250") {
-      goal_df <- cmu250_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu500") {
-      goal_df <- cmu500_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu1000") {
-      goal_df <- cmu1000_keywords %>%
-        filter(goal == sdg)
+    if (is.string(keywords)) {
+      if (keywords == "elsevier100") {
+        goal_df <- elsevier100_keywords %>%
+          filter(goal == sdg)
+      } else if (keywords == "sdsn") {
+        goal_df <- sdsn_keywords %>%
+          filter(goal == sdg)
+      } else if (keywords == "elsevier") {
+        goal_df <- elsevier_keywords %>%
+          filter(goal == sdg)
+      } else if (keywords == "cmu250") {
+        goal_df <- cmu250_keywords %>%
+          filter(goal == sdg)
+      } else if (keywords == "cmu500") {
+        goal_df <- cmu500_keywords %>%
+          filter(goal == sdg)
+      } else if (keywords == "cmu1000") {
+        goal_df <- cmu1000_keywords %>%
+          filter(goal == sdg)
+      }
+    } else {
+      goal_df <- keywords
     }
 
     # Get the keywords and weights
@@ -108,24 +113,28 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
                                          count_repeats=FALSE) {
 
   # Select the right keyword set
-  if (keywords == "elsevier100") {
-    goal_df <- elsevier100_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "sdsn") {
-    goal_df <- sdsn_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "elsevier") {
-    goal_df <- elsevier_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "cmu250") {
-    goal_df <- cmu250_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "cmu500") {
-    goal_df <- cmu500_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "cmu1000") {
-    goal_df <- cmu1000_keywords %>%
-      filter(goal == goal_num)
+  if (is.string(keywords)) {
+    if (keywords == "elsevier100") {
+      goal_df <- elsevier100_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "sdsn") {
+      goal_df <- sdsn_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "elsevier") {
+      goal_df <- elsevier_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu250") {
+      goal_df <- cmu250_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu500") {
+      goal_df <- cmu500_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu1000") {
+      goal_df <- cmu1000_keywords %>%
+        filter(goal == sdg)
+    }
+  } else {
+    goal_df <- keywords
   }
 
   # Get the keywords and weights
@@ -163,24 +172,28 @@ tabulate_sdg_weights <- Vectorize(function(text, goal_num, keywords="elsevier100
                                             count_repeats=FALSE) {
 
   # Select the right keyword set
-  if (keywords == "elsevier100") {
-    goal_df <- elsevier100_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "sdsn") {
-    goal_df <- sdsn_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "elsevier") {
-    goal_df <- elsevier_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "cmu250") {
-    goal_df <- cmu250_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "cmu500") {
-    goal_df <- cmu500_keywords %>%
-      filter(goal == goal_num)
-  } else if (keywords == "cmu1000") {
-    goal_df <- cmu1000_keywords %>%
-      filter(goal == goal_num)
+  if (is.string(keywords)) {
+    if (keywords == "elsevier100") {
+      goal_df <- elsevier100_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "sdsn") {
+      goal_df <- sdsn_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "elsevier") {
+      goal_df <- elsevier_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu250") {
+      goal_df <- cmu250_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu500") {
+      goal_df <- cmu500_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu1000") {
+      goal_df <- cmu1000_keywords %>%
+        filter(goal == sdg)
+    }
+  } else {
+    goal_df <- keywords
   }
 
   # Get the keywords and weights
