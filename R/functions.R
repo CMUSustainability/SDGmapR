@@ -1,5 +1,4 @@
 library(tidyverse)
-library(assertthat)
 
 ################ Count functions ################
 
@@ -24,28 +23,30 @@ count_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
     tot_weight <- 0
 
     # Select the right keyword set
-    if (is.string(keywords)) {
-      if (keywords == "elsevier100") {
-        goal_df <- elsevier100_keywords %>%
-          filter(goal == sdg)
-      } else if (keywords == "sdsn") {
-        goal_df <- sdsn_keywords %>%
-          filter(goal == sdg)
-      } else if (keywords == "elsevier") {
-        goal_df <- elsevier_keywords %>%
-          filter(goal == sdg)
-      } else if (keywords == "cmu250") {
-        goal_df <- cmu250_keywords %>%
-          filter(goal == sdg)
-      } else if (keywords == "cmu500") {
-        goal_df <- cmu500_keywords %>%
-          filter(goal == sdg)
-      } else if (keywords == "cmu1000") {
-        goal_df <- cmu1000_keywords %>%
-          filter(goal == sdg)
-      }
+    if (keywords == "elsevier100") {
+      goal_df <- elsevier100_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "sdsn") {
+      goal_df <- sdsn_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "elsevier") {
+      goal_df <- elsevier_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu250") {
+      goal_df <- cmu250_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu500") {
+      goal_df <- cmu500_keywords %>%
+        filter(goal == sdg)
+    } else if (keywords == "cmu1000") {
+      goal_df <- cmu1000_keywords %>%
+        filter(goal == sdg)
     } else {
       goal_df <- keywords
+    }
+
+    if (nrow(goal_df) == 0) {
+      next
     }
 
     # Get the keywords and weights
@@ -84,7 +85,7 @@ count_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
 count_sdgs_weights <- function(text, keywords="elsevier2",
                        count_repeats=FALSE) {
   tot_weight <- 0
-  for (goal in 1:16) {
+  for (goal in 1:17) {
     tot_weight <- tot_weight + count_sdg_weights(str_to_lower(text),
                                                  goal,
                                                  keywords, count_repeats)
@@ -100,7 +101,7 @@ count_sdgs_weights <- function(text, keywords="elsevier2",
 #' for a given goal.
 #'
 #' @param text The target text to check SDG keywords
-#' @param goal_num The SDG goal we intend to check keywords for
+#' @param sdg The SDG goal we intend to check keywords for
 #' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
 #' @param count_repeats Whether or not to count repeats for the keywords
 #'
@@ -109,32 +110,34 @@ count_sdgs_weights <- function(text, keywords="elsevier2",
 #' @examples
 #' tabulate_sdg_keywords("Poverty entails more than the lack of income and productive resources
 #' to ensure sustainable livelihoods.", 1)
-tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier100",
+tabulate_sdg_keywords <- Vectorize(function(text, sdg, keywords="elsevier100",
                                          count_repeats=FALSE) {
 
   # Select the right keyword set
-  if (is.string(keywords)) {
-    if (keywords == "elsevier100") {
-      goal_df <- elsevier100_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "sdsn") {
-      goal_df <- sdsn_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "elsevier") {
-      goal_df <- elsevier_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu250") {
-      goal_df <- cmu250_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu500") {
-      goal_df <- cmu500_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu1000") {
-      goal_df <- cmu1000_keywords %>%
-        filter(goal == sdg)
-    }
+  if (keywords == "elsevier100") {
+    goal_df <- elsevier100_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "sdsn") {
+    goal_df <- sdsn_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "elsevier") {
+    goal_df <- elsevier_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "cmu250") {
+    goal_df <- cmu250_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "cmu500") {
+    goal_df <- cmu500_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "cmu1000") {
+    goal_df <- cmu1000_keywords %>%
+      filter(goal == sdg)
   } else {
     goal_df <- keywords
+  }
+
+  if (nrow(goal_df) == 0) {
+    next
   }
 
   # Get the keywords and weights
@@ -168,32 +171,34 @@ tabulate_sdg_keywords <- Vectorize(function(text, goal_num, keywords="elsevier10
 #' @examples
 #' tabulate_sdg_weights("Poverty entails more than the lack of income and productive resources
 #' to ensure sustainable livelihoods.", 1)
-tabulate_sdg_weights <- Vectorize(function(text, goal_num, keywords="elsevier100",
+tabulate_sdg_weights <- Vectorize(function(text, sdg, keywords="elsevier100",
                                             count_repeats=FALSE) {
 
   # Select the right keyword set
-  if (is.string(keywords)) {
-    if (keywords == "elsevier100") {
-      goal_df <- elsevier100_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "sdsn") {
-      goal_df <- sdsn_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "elsevier") {
-      goal_df <- elsevier_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu250") {
-      goal_df <- cmu250_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu500") {
-      goal_df <- cmu500_keywords %>%
-        filter(goal == sdg)
-    } else if (keywords == "cmu1000") {
-      goal_df <- cmu1000_keywords %>%
-        filter(goal == sdg)
-    }
+  if (keywords == "elsevier100") {
+    goal_df <- elsevier100_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "sdsn") {
+    goal_df <- sdsn_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "elsevier") {
+    goal_df <- elsevier_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "cmu250") {
+    goal_df <- cmu250_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "cmu500") {
+    goal_df <- cmu500_keywords %>%
+      filter(goal == sdg)
+  } else if (keywords == "cmu1000") {
+    goal_df <- cmu1000_keywords %>%
+      filter(goal == sdg)
   } else {
     goal_df <- keywords
+  }
+
+  if (nrow(goal_df) == 0) {
+    next
   }
 
   # Get the keywords and weights
@@ -216,14 +221,14 @@ tabulate_sdg_weights <- Vectorize(function(text, goal_num, keywords="elsevier100
 
 #' @title Map text to all SDGs
 #'
-#' @description Calculate the total weight for all SDGs from 1 to 16
+#' @description Calculate the total weight for all SDGs from 1 to 17
 #'
-#' @param df Dataframe with a column `text`
+#' @param df Data frame with a column `text`
 #' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
 #' @param count_repeats Whether or not to count repeats for the keywords
 #'
-#' @return Original dataframe plus 16 additional columns representing weights for
-#' SDGs 1 to 16.
+#' @return Original data frame plus 17 additional columns representing weights for
+#' SDGs 1 to 17.
 #'
 #' @examples
 #' map_sdgs_weights(df, keywords = "elsevier", count_repeats = TRUE)
@@ -244,20 +249,21 @@ map_sdgs_weights <- function(df, keywords="elsevier100", count_repeats=FALSE) {
            `SDG13` = count_sdg_weights(text, 13, keywords, count_repeats),
            `SDG14` = count_sdg_weights(text, 14, keywords, count_repeats),
            `SDG15` = count_sdg_weights(text, 15, keywords, count_repeats),
-           `SDG16` = count_sdg_weights(text, 16, keywords, count_repeats))
+           `SDG16` = count_sdg_weights(text, 16, keywords, count_repeats),
+           `SDG17` = count_sdg_weights(text, 17, keywords, count_repeats))
   return (new_df)
 }
 
 #' @title Map text to SDGs keywords
 #'
-#' @description Return vector of keywords for SDGs 1 to 16
+#' @description Return vector of keywords for SDGs 1 to 17
 #'
 #' @param df Dataframe with a column `text`
 #' @param keywords The specific data set from which to draw keywords (ex. "elsevier", "sdsn")
 #' @param count_repeats Whether or not to count repeats for the keywords
 #'
-#' @return Original Dataframe plus 16 additional columns representing vectors of
-#' keywords for SDGs 1 to 16.
+#' @return Original Dataframe plus 17 additional columns representing vectors of
+#' keywords for SDGs 1 to 17.
 #'
 #' @examples
 #' map_sdgs_keywords(df, keywords = "elsevier", count_repeats = TRUE)
@@ -278,7 +284,8 @@ map_sdgs_keywords <- function(df, keywords="elsevier100", count_repeats=FALSE) {
            `SDG13_keywords` = tabulate_sdg_keywords(text, 13, keywords, count_repeats),
            `SDG14_keywords` = tabulate_sdg_keywords(text, 14, keywords, count_repeats),
            `SDG15_keywords` = tabulate_sdg_keywords(text, 15, keywords, count_repeats),
-           `SDG16_keywords` = tabulate_sdg_keywords(text, 16, keywords, count_repeats))
+           `SDG16_keywords` = tabulate_sdg_keywords(text, 16, keywords, count_repeats),
+           `SDG17_keywords` = tabulate_sdg_keywords(text, 17, keywords, count_repeats))
   return (new_df)
 }
 
