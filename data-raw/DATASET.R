@@ -1,5 +1,6 @@
 # Load libraries
 library(tidyverse)
+library(stringr)
 
 # Load UN SDG color scheme data frame
 sdg_colors <- data.frame(
@@ -84,6 +85,7 @@ cmu1000_keywords <- cmu1000_keywords_raw %>%
   select(goal, keyword, weight, color) %>%
   rbind(cmu_sdg17_keywords) %>%
   mutate(pattern = paste0("\\b(\\d*)", keyword, "(\\d*)\\b")) %>%
+  mutate(pattern = str_replace_all(pattern, "#", ".")) %>%
   select(goal, keyword, pattern, weight, color)
 write.csv(cmu1000_keywords, "datasets/cmu1000_keywords_cleaned.csv", row.names = FALSE)
 
