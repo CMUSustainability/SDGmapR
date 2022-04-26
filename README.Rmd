@@ -78,9 +78,9 @@ in the `tidy` format by applying `unnest()` to our result.
 library(tidyverse)
 library(SDGmapR)
 
-# Load first 10000 #tidytuesday tweets
-tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
-  head(10000)
+# Load first 1000 #tidytuesday tweets
+tweets <- readRDS(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
+  head(1000)
 
 # Map to SDG 1 using Improved Elsevier Top 100 Keywords
 tweets_sdg1 <- tweets %>%
@@ -117,10 +117,23 @@ tweets %>%
   arrange(desc(sdg_weight))
 ```
 
+## Frequently Asked Questions (FAQs)
+
+Q: What are the `cmu1000`, `cmu500`, and `cmu250` datasets? Why $250$, $500$, and $1000$?
+
+A: These are SDG keyword datasets created by Carnegie Mellon University (CMU). The number stands for approximately how many words are in each SDG for that dataset. For instance, for the `cmu500` dataset, we would expect roughly $500$ words in SDG6.
+
+Q: Is there any easy way to customize the SDG keyword dataset and add in and my own assessment of their weights?
+
+A: Yes! Instead of passing in one of the known SDG keyword datasets, you can directly pass in your own SDG keyword dataset. All you have to do is ensure that the columns match up with `goal`, `keyword`, `pattern`, `weight`, and `color`.
+
+Q: How were the weights generated for each keyword?
+
+A: Very loosely, they were extrapolated from the  [Elsevier SDG Keyword weights](https://elsevier.digitalcommonsdata.com/datasets/9sxdykm8s4/2). Using Google's Word2Vec, we assigned the weight of each word to be a weighted proportion of defined Elsevier keywords, or keywords that were in Word2Vec's dataset, based on how often they were a 100 nearest neighbors in terms of semantic similarity.
+
 ## Acknowledgements
 
-Thank you to Jingwen Mu and Kevin Kang from the University of Auckland for discussions
-about regular expression matchings with the SDG keywords.
+Thank you to Jingwen Mu and Kevin Kang from the University of Auckland for discussions and insights about regular expression matchings with the SDG keywords.
 
 <!-- What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so: -->
 

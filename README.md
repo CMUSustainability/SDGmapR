@@ -59,9 +59,9 @@ result.
 library(tidyverse)
 library(SDGmapR)
 
-# Load first 10000 #tidytuesday tweets
-tweets <- read_rds(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
-  head(10000)
+# Load first 1000 #tidytuesday tweets
+tweets <- readRDS(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
+  head(1000)
 
 # Map to SDG 1 using Improved Elsevier Top 100 Keywords
 tweets_sdg1 <- tweets %>%
@@ -73,20 +73,20 @@ tweets_sdg1 <- tweets %>%
 # View SDG 1 matched keywords
 tweets_sdg1 %>%
   unnest(sdg_1_words)
-#> # A tibble: 160 x 3
+#> # A tibble: 100 × 3
 #>    text                                                 sdg_1_weight sdg_1_words
 #>    <chr>                                                       <dbl> <chr>      
-#>  1 My first #tidytuesday submission, week 5. Pretty ba…         35.3 poverty    
-#>  2 My first #tidytuesday submission, week 5. Pretty ba…         35.3 unemployme…
-#>  3 My first #tidytuesday submission, week 5. Pretty ba…         35.3 income     
-#>  4 #TidyTuesday #rstats my latest tidy tuesday submiss…         33.2 poverty    
-#>  5 #TidyTuesday #rstats my latest tidy tuesday submiss…         33.2 poor       
-#>  6 #TidyTuesday #rstats my latest tidy tuesday submiss…         33.2 income     
-#>  7 #TidyTuesday - average income by state &amp; percen…         29.5 poverty    
-#>  8 #TidyTuesday - average income by state &amp; percen…         29.5 income     
-#>  9 #TidyTuesday - average income by state &amp; percen…         29.5 people     
-#> 10 #TidyTuesday changed state selection method! avg co…         26.6 poverty    
-#> # … with 150 more rows
+#>  1 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 poverty    
+#>  2 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 poor       
+#>  3 "#TidyTuesday #rstats my latest tidy tuesday submis…         33.2 income     
+#>  4 "#TidyTuesday - average income by state &amp; perce…         29.5 poverty    
+#>  5 "#TidyTuesday - average income by state &amp; perce…         29.5 income     
+#>  6 "#TidyTuesday - average income by state &amp; perce…         29.5 people     
+#>  7 "#TidyTuesday changed state selection method! avg c…         26.6 poverty    
+#>  8 "#TidyTuesday changed state selection method! avg c…         26.6 income     
+#>  9 "#tidytuesday week 29\nBusiness major gives highest…         15.2 unemployme…
+#> 10 "#tidytuesday week 29\nBusiness major gives highest…         15.2 employment 
+#> # … with 90 more rows
 ```
 
 We can map to a different set of keywords by adding an additional input
@@ -100,67 +100,99 @@ tweets %>%
   mutate(sdg_weight = count_sdg_weights(text, 3, "cmu250")) %>%
   select(text, sdg_weight) %>%
   arrange(desc(sdg_weight))
-#> # A tibble: 1,565 x 2
+#> # A tibble: 1,000 × 2
 #>    text                                                               sdg_weight
 #>    <chr>                                                                   <dbl>
-#>  1 "Over time, the causes of death change -- but to all countries ch…      3678.
-#>  2 "Cancer-related and Diabetes-related mortality in India has follo…      3347.
-#>  3 "The differences if regions of UK were most interesting - notice …      2212.
-#>  4 "Deaths per 1k people over the past ~25 years, by cause of death …      2205.
-#>  5 "Working on cancer mortality rate in the European Union. #rstats,…      1904.
-#>  6 "Extremely late #TidyTuesday submission but better late than neve…      1904.
-#>  7 "It is #TidyTuesday! Plotted World, Poland (I live in) and Russia…      1886.
-#>  8 "I forgot to mention, I also used data from #TidyTuesday Week 4 i…       704.
-#>  9 "My #TidyTuesday submission. Looking at cause of death with the l…       565.
-#> 10 "#TidyTuesday @thomas_mock Geospatial data is an excuse to try ou…       565.
-#> # … with 1,555 more rows
+#>  1 "Deaths per 1k people over the past ~25 years, by cause of death …      44.1 
+#>  2 "Working on cancer mortality rate in the European Union. #rstats,…      38.1 
+#>  3 "my 📈 for #TidyTuesday ! Boxplots really highlight the outliers,…       5.22
+#>  4 "Top 5 countries with Malaria Mortality #TidyTuesday #rstats #gga…       4.63
+#>  5 "Happy #TidyTuesday! Looking at the change in malaria mortality r…       4.63
+#>  6 "For this week's #TidyTuesday, I looked at decrease in malaria mo…       4.63
+#>  7 "#TidyTuesday week 33: Malaria deaths. Decided to stay simple. Ba…       4.28
+#>  8 "D37 of #100DaysofCode. Another attempt at #TidyTuesday, playing …       4.28
+#>  9 "Malaria dataset for #TidyTuesday this week. Did a bunch of explo…       4.28
+#> 10 "1/2 The @R4DScommunity welcomes you to a somber week 33 of #Tidy…       4.28
+#> # … with 990 more rows
 
 # Map to SDG 5 using Elsevier Core keywords
 tweets %>%
   mutate(sdg_weight = count_sdg_weights(text, 5, "cmu250")) %>%
   select(text, sdg_weight) %>%
   arrange(desc(sdg_weight))
-#> # A tibble: 1,565 x 2
+#> # A tibble: 1,000 × 2
 #>    text                                                               sdg_weight
 #>    <chr>                                                                   <dbl>
-#>  1 "More #TidyTuesday. Gender pay gap vs. (1) total compensation by …       975.
-#>  2 "My first #TidyTuesday attempt to show the gender wage gap for th…       907.
-#>  3 "@R4DScommunity Inspired by a  visualisation from @GuardianData, …       907.
-#>  4 "#TidyTuesday showing the Top 10 Female occupations and their mal…       728.
-#>  5 "#TidyTuesday week 9 submission.  Gender disparity in DC &amp; Ma…       631.
-#>  6 "Gender representation in comics for this week's #TidyTuesday wit…       607.
-#>  7 "For this week's #TidyTuesday I decided to go to the point and ex…       602.
-#>  8 "My #TidyTuesday submission. Subsetted for gender balance to try …       525.
-#>  9 "New blog post: Wordclouds - Visualizing gender inequality in inc…       525.
-#> 10 "#TidyTuesday week 2. Took a look at the relationship between % o…       511.
-#> # … with 1,555 more rows
+#>  1 "#TidyTuesday week 9 submission.  Gender disparity in DC &amp; Ma…      12.6 
+#>  2 "For this week's #TidyTuesday I decided to go to the point and ex…      12.0 
+#>  3 "#TidyTuesday week 2. Took a look at the relationship between % o…      10.2 
+#>  4 "#TidyTuesday #r4ds @thomas_mock \nHow do genders compare as work…      10.1 
+#>  5 "#TidyTuesday submission for last week (oops) showing the Gender …       9.97
+#>  6 "Exploring college majors and the gender pay imbalance. Overview …       9.97
+#>  7 "#TidyTuesday\nNobody *had* to answer this survey did they?  Weir…       9.97
+#>  8 "#TidyTuesday Gender disparity in salary for science and engineer…       9.97
+#>  9 "First ever #TidyTuesday post :) Looking back at an old #week4 da…       9.97
+#> 10 "Quick #TidyTuesday before bed! Looking at college majors by gend…       9.97
+#> # … with 990 more rows
 
 # Map to SDG 7 using Elsevier Core keywords
 tweets %>%
   mutate(sdg_weight = count_sdg_weights(text, 7, "cmu250")) %>%
   select(text, sdg_weight) %>%
   arrange(desc(sdg_weight))
-#> # A tibble: 1,565 x 2
+#> # A tibble: 1,000 × 2
 #>    text                                                               sdg_weight
 #>    <chr>                                                                   <dbl>
-#>  1 "#TidyTuesday Week32\n\nUS Wind Turbine Data - Texas is the Wind …       677.
-#>  2 "After a brief hiatus, I am back!\n\nWeek 32 #TidyTuesday: Using …       426.
-#>  3 "D32 of #100DaysofCode More R for Data Sciecne #rstats and took s…       426.
-#>  4 "Inspired by @drob on a @DataCamp podcast, I created a Jekyll blo…       426.
-#>  5 "Finally finished up Tardy #TidyTuesday for the wind turbine data…       426.
-#>  6 "#TidyTuesday  week 32. Midwest dominance when it comes to wind t…       321.
-#>  7 "Wind Turbines in the US: Top  5 manufacturers. #TidyTuesday #rst…       321.
-#>  8 "1/2 The @R4DScommunity welcomes you to a very windy week 32 of #…       275.
-#>  9 "Loved the screencast 💻👨‍💻 by @drob last #tidytuesday, looking at…       275.
-#> 10 "Bonus #TidyTuesday chart showing changes in total wind output an…       227.
-#> # … with 1,555 more rows
+#>  1 "#TidyTuesday Week32\n\nUS Wind Turbine Data - Texas is the Wind …      13.5 
+#>  2 "After a brief hiatus, I am back!\n\nWeek 32 #TidyTuesday: Using …       8.53
+#>  3 "D32 of #100DaysofCode More R for Data Sciecne #rstats and took s…       8.53
+#>  4 "Inspired by @drob on a @DataCamp podcast, I created a Jekyll blo…       8.53
+#>  5 "Finally finished up Tardy #TidyTuesday for the wind turbine data…       8.53
+#>  6 "#TidyTuesday  week 32. Midwest dominance when it comes to wind t…       6.43
+#>  7 "Wind Turbines in the US: Top  5 manufacturers. #TidyTuesday #rst…       6.43
+#>  8 "1/2 The @R4DScommunity welcomes you to a very windy week 32 of #…       5.5 
+#>  9 "Loved the screencast 💻👨‍💻 by @drob last #tidytuesday, looking at…       5.5 
+#> 10 "Bonus #TidyTuesday chart showing changes in total wind output an…       4.54
+#> # … with 990 more rows
 ```
+
+## Frequently Asked Questions (FAQs)
+
+Q: What are the `cmu1000`, `cmu500`, and `cmu250` datasets? Why
+![250](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;250 "250"),
+![500](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;500 "500"),
+and
+![1000](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;1000 "1000")?
+
+A: These are SDG keyword datasets created by Carnegie Mellon University
+(CMU). The number stands for approximately how many words are in each
+SDG for that dataset. For instance, for the `cmu500` dataset, we would
+expect roughly
+![500](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;500 "500")
+words in SDG6.
+
+Q: Is there any easy way to customize the SDG keyword dataset and add in
+and my own assessment of their weights?
+
+A: Yes! Instead of passing in one of the known SDG keyword datasets, you
+can directly pass in your own SDG keyword dataset. All you have to do is
+ensure that the columns match up with `goal`, `keyword`, `pattern`,
+`weight`, and `color`.
+
+Q: How were the weights generated for each keyword?
+
+A: Very loosely, they were extrapolated from the [Elsevier SDG Keyword
+weights](https://elsevier.digitalcommonsdata.com/datasets/9sxdykm8s4/2).
+Using Google’s Word2Vec, we assigned the weight of each word to be a
+weighted proportion of defined Elsevier keywords, or keywords that were
+in Word2Vec’s dataset, based on how often they were a 100 nearest
+neighbors in terms of semantic similarity.
 
 ## Acknowledgements
 
 Thank you to Jingwen Mu and Kevin Kang from the University of Auckland
-for discussions about regular expression matchings with the SDG
-keywords.
+for discussions and insights about regular expression matchings with the
+SDG keywords.
 
 <!-- What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so: -->
 <!-- ```{r cars} -->
