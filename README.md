@@ -158,18 +158,13 @@ tweets %>%
 
 ## Frequently Asked Questions (FAQs)
 
-Q: What are the `cmu1000`, `cmu500`, and `cmu250` datasets? Why
-![250](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;250 "250"),
-![500](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;500 "500"),
-and
-![1000](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;1000 "1000")?
+Q: What are the `cmu1000`, `cmu500`, and `cmu250` datasets? Why 250,
+500, and 1000?
 
 A: These are SDG keyword datasets created by Carnegie Mellon University
 (CMU). The number stands for approximately how many words are in each
 SDG for that dataset. For instance, for the `cmu500` dataset, we would
-expect roughly
-![500](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;500 "500")
-words in SDG6.
+expect roughly 500 words in SDG6.
 
 Q: Is there any easy way to customize the SDG keyword dataset and add in
 and my own assessment of their weights?
