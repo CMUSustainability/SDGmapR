@@ -176,7 +176,7 @@ ensure that the columns match up with `goal`, `keyword`, `pattern`,
 
 Q: How were the weights generated for each keyword?
 
-A: Very loosely, they were extrapolated from the [Elsevier SDG Keyword
+A: Very loosely, they were interpolated from the [Elsevier SDG Keyword
 weights](https://elsevier.digitalcommonsdata.com/datasets/9sxdykm8s4/2).
 Using Google’s Word2Vec, we assigned the weight of each word to be a
 weighted proportion of defined Elsevier keywords, or keywords that were
