@@ -29,7 +29,7 @@ You can install the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("pwu97/SDGmapR")
+devtools::install_github("CMUSustainability/SDGmapR")
 ```
 
 ## Publicly Available SDG Keywords
@@ -80,7 +80,9 @@ library(SDGmapR)
 
 # Load first 1000 #tidytuesday tweets
 tweets <- readRDS(url("https://github.com/rfordatascience/tidytuesday/blob/master/data/2019/2019-01-01/tidytuesday_tweets.rds?raw=true")) %>%
-  head(1000)
+  select(text) %>%
+  head(1000) %>%
+  mutate(text = str_to_lower(text))
 
 # Map to SDG 1 using Improved Elsevier Top 100 Keywords
 tweets_sdg1 <- tweets %>%
@@ -117,11 +119,50 @@ tweets %>%
   arrange(desc(sdg_weight))
 ```
 
+We can map course descriptions as well. Below, we show the package being used to map the CMU course descriptions from Fall 2022 to the SDGs.
+
+```{r}
+# Create dataframe of CMU course descriptions from Fall 2022
+classes <- readxl::read_excel("datasets/cmu_f22_course_info.xlsx") %>%
+  rename(semester = `Semester`,
+         course_title = `Course Title`,
+         course_num = `Course Number`,
+         course_desc = `Course Description`) %>% 
+  mutate(course_dept = substr(course_num, 1, 2),
+         course_level = substr(course_num, 3, 5),
+         course_level_specific = substr(course_num, 3, 3)) %>%
+  mutate(text = paste(str_to_lower(course_title), str_to_lower(course_desc))) %>%
+  # Clean the punctuation
+  mutate(text = gsub("[^[:alnum:]['-]", " ", text)) %>%
+  arrange(desc(semester)) %>%
+  distinct(course_num, .keep_all = TRUE) %>%
+  # Only select 5% of courses for the purposes of this Markdown file
+  sample_frac(0.05)
+
+# Perform the mapping
+all_sdg_keywords <- data.frame()
+for (goal_num in 1:17) {
+  classes %>%
+    mutate(goal = goal_num,
+           keyword = tabulate_sdg_keywords(text, goal_num, keywords = "cmu250")) %>%
+    unnest(keyword) -> cur_sdg_keywords
+  
+  all_sdg_keywords <- rbind(all_sdg_keywords, cur_sdg_keywords) 
+}
+all_sdg_keywords %>%
+  left_join(cmu250_keywords, by = c("goal", "keyword")) %>%
+  select(keyword, weight, semester, course_num, goal, color) %>%
+  arrange(course_num) -> all_sdg_keywords
+
+# View mapped keywords dataset
+all_sdg_keywords
+```
+
 ## Frequently Asked Questions (FAQs)
 
 Q: What are the `cmu1000`, `cmu500`, and `cmu250` datasets? Why 250, 500, and 1000?
 
-A: These are SDG keyword datasets created by Carnegie Mellon University (CMU). The number stands for approximately how many words are in each SDG for that dataset. For instance, for the `cmu500` dataset, we would expect roughly 500 words in SDG6.
+A: These are SDG keyword datasets created by Carnegie Mellon University (CMU). The number indicates approximately how many words are in each SDG for that dataset. For instance, for the `cmu500` dataset, we would expect roughly 500 words in SDG6. We initially created the dataset `cmu1000` to represent the dataset with roughly 1000 words for each SDG, and then we took the top 250 and 500 words based on keyword weight to generate `cmu250` and `cmu500`.
 
 Q: Is there any easy way to customize the SDG keyword dataset and add in and my own assessment of their weights?
 
@@ -130,6 +171,14 @@ A: Yes! Instead of passing in one of the known SDG keyword datasets, you can dir
 Q: How were the weights generated for each keyword?
 
 A: Very loosely, they were interpolated from the  [Elsevier SDG Keyword weights](https://elsevier.digitalcommonsdata.com/datasets/9sxdykm8s4/2). Using Google's Word2Vec, we assigned the weight of each word to be a weighted proportion of defined Elsevier keywords, or keywords that were in Word2Vec's dataset, based on how often they were a 100 nearest neighbors in terms of semantic similarity.
+
+Q: Why didn't you use compound expressions like "poverty AND economic resources or "poverty AND (disaster OR disaster area)"?
+
+A: We have attempted to use compound expressions for SDG mapping, but found that in practice, the specific compound expressions for SDG mapping were few and far between. For instance, when we tried to use compound expressions for SDG mapping using [Elsevier's newly released dataset](https://figshare.com/articles/dataset/Keywords_and_search_strings_for_generating_SDG_training_sets/17294255), we found that very few course descriptions had specific compound expression matchings. Thus, we used keyword weights instead.
+
+Q: Words like "student", "semester", and "homework" seem like very general SDG4 keywords when mapping to SDG4. When mapping to course descriptions, wouldn't this tag almost every course with SDG4?
+
+A: Yes. Thus, we filtered out words that were too general among course descriptions. The specific list of words we excluded for SDG4 mapping in mapping to course descriptions are: "education", "educational", "school", "schools", "student", "students", "teaching", "learning", "apprenticeship", "skill", "skills", "curriculum", "teachers", "trainees", "trainee", "teacher", "classroom", "educators", "math", "classrooms", "educator", "graduates", "diploma", "undergraduates", "undergrad", "course", "mathematics", "achievement", "courses", "elementary", "academic", "training", "pupils", "undergraduate", "college", "colleges", "learners", "algebra", "reading", "comprehension", "achievements", "universities", "faculty", "internship", "principal", "internships", "career", "maths", "adult", "principals", "curricula", "grad", "biology", "university", "semester", "scholars", "literacy", "exam", "exams", "tutoring", "literacy", "syllabus", "instructor", "instructors", "degree", "classes", "language", "science", "instruction", "campus", "homework", "instructional", "curricular", "humanities", "mentoring", "teach", "employment", "qualifications", "coursework", "graduate".
 
 ## Acknowledgements
 
